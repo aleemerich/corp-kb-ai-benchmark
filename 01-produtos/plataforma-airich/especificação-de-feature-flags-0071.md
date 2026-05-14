@@ -1,3 +1,7 @@
-# Doc: Especificação de feature flags
+# Especificação de feature flags
 
-# Doc: Especificação de feature flags O especificação de feature flags foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do especificação de feature flags para atender às necessidades dos clientes. O especificação de feature flags do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O especificação de feature flags foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+O presente documento tem como objetivo apresentar Especificação de feature flags para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, Especificação de feature flags segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

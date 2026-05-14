@@ -1,129 +1,71 @@
 # SLO/SLI definitions
 
-**Produto:** AIRich DevOps Suite  
-**Departamento:** Produtos  
-**Data:** 2026-03-10  
-**Versão:** 2.5
+**Produto:** AIRich DevOps Suite | **Departamento:** Produtos | **Data:** 2026-03-10 | **Versão:** 1.5
 
 ---
 
-## Métricas e Monitoramento
+## Visão Geral
 
-O slo/sli definitions é monitorado 24/7 através de:
+O presente documento tem como objetivo apresentar SLO/SLI definitions para as equipes envolvidas.
 
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
+Como parte do programa de melhoria contínua da AIRich, SLO/SLI definitions foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
 
-
-
-## Detalhes de Implementação
-
-A implementação do slo/sli definitions utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
-
-## Fluxo de Operação
-
-O fluxo típico de operação do slo/sli definitions segue as seguintes etapas:
-
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do slo/sli definitions segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
+## Arquitetura
 
 ```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de SLO/SLI definitions]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
+graph LR
+    Cliente --> API[API Gateway]
+    API --> Auth[Serviço Auth]
+    API --> Core[Serviço Core]
+    Core --> DB[(PostgreSQL)]
+    Core --> Cache[(Redis)]
+    Core --> Queue[RabbitMQ]
 ```
 
+## Procedimento
 
+Para executar este processo corretamente:
 
-## Introdução
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
 
-O slo/sli definitions é um dos pilares fundamentais do AIRich DevOps Suite, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
+## Infraestrutura
 
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich DevOps Suite é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Segurança
-
-A segurança do slo/sli definitions é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
-- **Criptografia:** AES-256 para dados sensíveis em repouso
-
-
-
-## Introdução
-
-O slo/sli definitions é um dos pilares fundamentais do AIRich DevOps Suite, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich DevOps Suite é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Detalhes de Implementação
-
-A implementação do slo/sli definitions utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
 
 ## Troubleshooting
 
-### Problema: Timeout na requisição
+### Problema: Falha na execução
 
-**Sintoma:** Requisições retornam erro 504 após 30 segundos.
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
 
 **Causas possíveis:**
-- Sobrecarga no banco de dados
-- Cache expirado causando consultas pesadas
-- Conexão de rede instável
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
 
 **Solução:**
-1. Verificar métricas do banco de dados
-2. Limpar cache e forçar reindexação
-3. Verificar conectividade de rede
-4. Escalar horizontalmente se necessário
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
 
+## Segurança
+
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
+- **Criptografia:** AES-256 para dados sensíveis em repouso
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

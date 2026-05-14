@@ -1,7 +1,7 @@
 # Integração com adquirentes
 
-**Produto:** AIRich Pay  
-**Departamento:** Produtos  
-**Versão:** 1.3
+Este guia técnico aborda os aspectos fundamentais de Integração com adquirentes na AIRich.
 
-# Integração com adquirentes **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.3 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O integração com adquirentes passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o integração com adquirentes corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Integração com adquirentes O integração com adquirentes do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Sobre Integração com adquirentes O integração com adquirentes do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do integração com adquirentes, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+No cenário atual de transformação digital, Integração com adquirentes desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes. Este documento estabelece as diretrizes para garantir consistência e eficiência.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

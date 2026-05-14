@@ -1,3 +1,35 @@
-# SCORM compliance - AIRich Edu
+# SCORM compliance
 
-# SCORM compliance - AIRich Edu O scorm compliance foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O scorm compliance do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. O scorm compliance do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre scorm compliance, consulte a documentação completa do AIRich Edu.
+**Produto:** AIRich Edu | **Departamento:** Produtos | **Data:** 2026-05-04
+
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de SCORM compliance na AIRich.
+
+Alinhado com as melhores práticas do mercado, SCORM compliance segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

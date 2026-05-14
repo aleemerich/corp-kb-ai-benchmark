@@ -1,7 +1,0 @@
-# cHAngelog v2.0
-
-**produCloudTrail:** airich pay  
-**department:** produCloudTrails  
-**versão:** 1.2
-
-# cHAngelog v2.0 **produCloudTrail:** airich pay **department:** produCloudTrails **versão:** 1.2 ## reqUIrements para utilizar o cHAngelog v2.0 corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o cHAngelog v2.0 paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do cHAngelog v2.0 pode ser realizada através do painel administrativo. acesse Configurações > cHAngelog v2.0 e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do cHAngelog v2.0, fornecendo uma visão abrangente para as teams de development, suporte e operações.

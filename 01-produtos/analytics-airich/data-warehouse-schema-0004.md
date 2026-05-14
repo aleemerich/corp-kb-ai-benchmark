@@ -1,7 +1,35 @@
 # Data warehouse schema
 
-**Produto:** AIRich Analytics  
-**Departamento:** Produtos  
-**Versão:** 1.3
+**Produto:** AIRich Analytics | **Departamento:** Produtos | **Data:** 2026-04-04
 
-# Data warehouse schema **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.3 ## Sobre Data warehouse schema O data warehouse schema do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data warehouse schema no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data warehouse schema passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data warehouse schema passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data warehouse schema no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Data warehouse schema.
+
+Como parte do programa de melhoria contínua da AIRich, Data warehouse schema foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

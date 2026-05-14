@@ -1,7 +1,0 @@
-# trilHAs de aprendizado
-
-**produCloudTrail:** airich edu  
-**department:** produCloudTrails  
-**versão:** 1.8
-
-# trilHAs de aprendizado **produCloudTrail:** airich edu **department:** produCloudTrails **versão:** 1.8 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do trilHAs de aprendizado, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## reqUIrements para utilizar o trilHAs de aprendizado corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a trilHAs de aprendizado no airich edu, inclUIndo Configurações, integrações e procedures operaCIOnais. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o trilHAs de aprendizado paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do trilHAs de aprendizado, fornecendo uma visão abrangente para as teams de development, suporte e operações.

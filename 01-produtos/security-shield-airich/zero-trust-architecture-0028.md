@@ -1,3 +1,7 @@
-# Doc: Zero trust architecture
+# Zero trust architecture
 
-# Doc: Zero trust architecture O zero trust architecture foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre zero trust architecture, consulte a documentação completa do AIRich Security Shield. Este documento descreve os aspectos principais relacionados a zero trust architecture no contexto do AIRich Security Shield. Para mais informações sobre zero trust architecture, consulte a documentação completa do AIRich Security Shield.
+Este guia técnico aborda os aspectos fundamentais de Zero trust architecture na AIRich.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Zero trust architecture foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

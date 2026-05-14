@@ -1,3 +1,0 @@
-# doc: HAllucination prevention
-
-# doc: HAllucination prevention o HAllucination prevention do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre HAllucination prevention, consulte a documentação completa do airich ai assistant. para mais informações sobre HAllucination prevention, consulte a documentação completa do airich ai assistant. o HAllucination prevention foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

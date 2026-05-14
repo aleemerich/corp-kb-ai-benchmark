@@ -1,3 +1,0 @@
-# batch processing
-
-# batch processing este document descreve os aspeCTOs principais relaCIOnados a batch processing no context do airich analytics. a team de produCloudTrail trabalHA continuamente na evolução do batch processing para atender às necessidades dos CLIents. o batch processing do airich analytics é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do batch processing para atender às necessidades dos CLIents.

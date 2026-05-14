@@ -1,7 +1,34 @@
 # Function calling
 
-**Produto:** AIRich AI Assistant  
-**Departamento:** Produtos  
-**Versão:** 1.9
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-03-08
 
-# Function calling **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.9 ## Requisitos Para utilizar o function calling corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do function calling, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a function calling no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O function calling passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Function calling.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Function calling, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

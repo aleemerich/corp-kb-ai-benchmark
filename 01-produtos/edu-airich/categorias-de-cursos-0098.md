@@ -1,122 +1,74 @@
 # Categorias de cursos
 
-> Documento detalhado do AIRich Edu - AIRich Tecnologia
+**Produto:** AIRich Edu | **Departamento:** Produtos | **Data:** 2026-08-14 | **Versão:** 1.7
 
 ---
 
-## Introdução
+## Visão Geral
 
-O categorias de cursos é um dos pilares fundamentais do AIRich Edu, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
+Este documento fornece uma visão detalhada sobre Categorias de cursos no ecossistema AIRich.
 
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich Edu é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
+O investimento contínuo em Categorias de cursos reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
 
+## Arquitetura
 
+```mermaid
+flowchart TD
+    A[Início] --> B[Análise de Requisitos]
+    B --> C[Planejamento]
+    C --> D[Implementação]
+    D --> E[Testes]
+    E --> F{Aprovado?}
+    F -->|Sim| G[Deploy]
+    F -->|Não| D
+    G --> H[Fim]
+```
 
-## Segurança
+## Procedimento
 
-A segurança do categorias de cursos é tratada em múltiplas camadas:
+O fluxo de trabalho padrão inclui:
 
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
-- **Criptografia:** AES-256 para dados sensíveis em repouso
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
 
+## Infraestrutura
 
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
 
 ## Troubleshooting
 
-### Problema: Timeout na requisição
+### Problema: Falha na execução
 
-**Sintoma:** Requisições retornam erro 504 após 30 segundos.
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
 
 **Causas possíveis:**
-- Sobrecarga no banco de dados
-- Cache expirado causando consultas pesadas
-- Conexão de rede instável
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
 
 **Solução:**
-1. Verificar métricas do banco de dados
-2. Limpar cache e forçar reindexação
-3. Verificar conectividade de rede
-4. Escalar horizontalmente se necessário
-
-
-
-## Detalhes de Implementação
-
-A implementação do categorias de cursos utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
-
-## Métricas e Monitoramento
-
-O categorias de cursos é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
-
-## Fluxo de Operação
-
-O fluxo típico de operação do categorias de cursos segue as seguintes etapas:
-
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
-
-
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
 
-A segurança do categorias de cursos é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
 - **Criptografia:** AES-256 para dados sensíveis em repouso
 
+---
 
-
-## Detalhes de Implementação
-
-A implementação do categorias de cursos utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
-
-## Fluxo de Operação
-
-O fluxo típico de operação do categorias de cursos segue as seguintes etapas:
-
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
-
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

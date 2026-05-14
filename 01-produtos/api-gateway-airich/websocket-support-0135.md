@@ -1,7 +1,7 @@
 # WebSocket support
 
-**Produto:** AIRich API Gateway  
-**Departamento:** Produtos  
-**Versão:** 1.4
+A seguir, apresentamos as diretrizes e procedimentos relacionados a WebSocket support.
 
-# WebSocket support **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.4 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O websocket support passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o websocket support corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a websocket support no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o websocket support corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a websocket support no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. WebSocket support representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

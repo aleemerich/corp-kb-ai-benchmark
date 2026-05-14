@@ -1,5 +1,7 @@
 # Testes unitários
 
-> Documento técnico do AIRich Mobile
+O objetivo deste material é documentar as práticas recomendadas para Testes unitários.
 
-# Testes unitários > Documento técnico do AIRich Mobile ## Configuração A configuração do testes unitários pode ser realizada através do painel administrativo. Acesse Configurações > Testes unitários e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O testes unitários passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Testes unitários O testes unitários do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O testes unitários passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+A equipe de produto da AIRich trabalha continuamente na evolução de Testes unitários, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

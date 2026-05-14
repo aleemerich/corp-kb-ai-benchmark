@@ -1,7 +1,7 @@
 # Prompt engineering guidelines
 
-**Produto:** AIRich AI Assistant  
-**Departamento:** Produtos  
-**Versão:** 1.9
+Este documento fornece uma visão detalhada sobre Prompt engineering guidelines no ecossistema AIRich.
 
-# Prompt engineering guidelines **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.9 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O prompt engineering guidelines passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a prompt engineering guidelines no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Prompt engineering guidelines O prompt engineering guidelines do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do prompt engineering guidelines, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a prompt engineering guidelines no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o prompt engineering guidelines corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+Alinhado com as melhores práticas do mercado, Prompt engineering guidelines segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

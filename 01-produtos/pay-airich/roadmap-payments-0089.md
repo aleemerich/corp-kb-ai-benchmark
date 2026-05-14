@@ -1,7 +1,34 @@
 # Roadmap payments
 
-**Produto:** AIRich Pay  
-**Departamento:** Produtos  
-**Versão:** 1.8
+**Produto:** AIRich Pay | **Departamento:** Produtos | **Data:** 2026-08-05
 
-# Roadmap payments **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.8 ## Sobre Roadmap payments O roadmap payments do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do roadmap payments pode ser realizada através do painel administrativo. Acesse Configurações > Roadmap payments e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a roadmap payments no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do roadmap payments, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Roadmap payments O roadmap payments do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O roadmap payments passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+---
+
+## Visão Geral
+
+Este documento fornece uma visão detalhada sobre Roadmap payments no ecossistema AIRich.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Roadmap payments, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

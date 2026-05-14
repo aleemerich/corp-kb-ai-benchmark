@@ -1,3 +1,7 @@
 # API deprecation policy
 
-# API deprecation policy Este documento descreve os aspectos principais relacionados a api deprecation policy no contexto do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do api deprecation policy para atender às necessidades dos clientes. O api deprecation policy foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre api deprecation policy, consulte a documentação completa do AIRich API Gateway.
+Esta especificação técnica define os requisitos e procedimentos para API deprecation policy.
+
+Como parte do programa de melhoria contínua da AIRich, API deprecation policy foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

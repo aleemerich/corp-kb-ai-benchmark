@@ -1,3 +1,0 @@
-# phishing awareness - airich security shield
-
-# phishing awareness - airich security shield a team de produCloudTrail trabalHA continuamente na evolução do phishing awareness para atender às necessidades dos CLIents. o phishing awareness foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o phishing awareness foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre phishing awareness, consulte a documentação completa do airich security shield.

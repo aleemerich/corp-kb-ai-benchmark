@@ -1,125 +1,111 @@
 # SCORM compliance
 
-> Documento detalhado do AIRich Edu - AIRich Tecnologia
+**Produto:** AIRich Edu | **Departamento:** Produtos | **Data:** 2026-08-04 | **Versão:** 2.5
 
 ---
 
-## Fluxo de Operação
+## Índice
 
-O fluxo típico de operação do scorm compliance segue as seguintes etapas:
+1. Visão Geral
+2. Arquitetura
+3. Procedimentos
+4. Infraestrutura
+5. Troubleshooting
+6. Segurança
+7. Métricas
+8. Referências
 
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
+---
 
+## Visão Geral
 
+Este documento fornece uma visão detalhada sobre SCORM compliance no ecossistema AIRich.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. SCORM compliance foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Arquitetura
+
+```mermaid
+flowchart TD
+    A[Início] --> B[Análise de Requisitos]
+    B --> C[Planejamento]
+    C --> D[Implementação]
+    D --> E[Testes]
+    E --> F{Aprovado?}
+    F -->|Sim| G[Deploy]
+    F -->|Não| D
+    G --> H[Fim]
+```
+
+## Procedimentos
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+## Troubleshooting
+
+### Problema: Falha na execução
+
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
+
+**Causas possíveis:**
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
+
+**Solução:**
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
 
-A segurança do scorm compliance é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
 - **Criptografia:** AES-256 para dados sensíveis em repouso
 
+## Métricas de Qualidade
 
+| Indicador | Meta | Atual | Status |
+|-----------|------|-------|--------|
+| Cobertura de testes | > 80% | 85% | ✅ |
+| Densidade de bugs | < 0.1% | 0.05% | ✅ |
+| Tempo de resposta | < 200ms | 156ms | ✅ |
+| Satisfação do cliente | > 90% | 92.3% | ✅ |
 
-## Visão Geral da Arquitetura
+## Histórico de Versões
 
-A arquitetura do scorm compliance segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
+| Versão | Data | Autor | Descrição |
+|--------|------|-------|-----------|
+| 1.0 | 2026-01-15 | Equipe Produtos | Versão inicial |
+| 1.1 | 2026-03-22 | Equipe Produtos | Correções e melhorias |
+| 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
+## Referências
 
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de SCORM compliance]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
+1. Documentação interna AIRich — Confluence
+2. Guia de arquitetura AIRich v3.0
+3. Manual de operações — Runbook Master
+4. Políticas de desenvolvimento AIRich
+5. ISO 27001:2022 — Segurança da Informação
 
+---
 
-
-## Métricas e Monitoramento
-
-O scorm compliance é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
-
-## Detalhes de Implementação
-
-A implementação do scorm compliance utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
-
-## Introdução
-
-O scorm compliance é um dos pilares fundamentais do AIRich Edu, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich Edu é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Introdução
-
-O scorm compliance é um dos pilares fundamentais do AIRich Edu, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich Edu é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do scorm compliance segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de SCORM compliance]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
-
-
-## Segurança
-
-A segurança do scorm compliance é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
-- **Criptografia:** AES-256 para dados sensíveis em repouso
-
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

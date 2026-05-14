@@ -1,5 +1,7 @@
 # Bias detection
 
-## Resumo
+Este documento descreve Bias detection no contexto da AIRich Tecnologia.
 
-# Bias detection ## Resumo ## Configuração A configuração do bias detection pode ser realizada através do painel administrativo. Acesse Configurações > Bias detection e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O bias detection passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o bias detection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do bias detection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a bias detection no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.
+O investimento contínuo em Bias detection reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

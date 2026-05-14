@@ -1,5 +1,37 @@
 # Embedding models
 
-## Resumo
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-02-28
 
-# Embedding models ## Resumo ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O embedding models passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do embedding models pode ser realizada através do painel administrativo. Acesse Configurações > Embedding models e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do embedding models, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a embedding models no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Embedding models.
+
+O investimento contínuo em Embedding models reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

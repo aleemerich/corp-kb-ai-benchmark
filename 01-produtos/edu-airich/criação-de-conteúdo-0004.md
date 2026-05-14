@@ -1,5 +1,7 @@
 # Criação de conteúdo
 
-> Documento técnico do AIRich Edu
+Esta especificação técnica define os requisitos e procedimentos para Criação de conteúdo.
 
-# Criação de conteúdo > Documento técnico do AIRich Edu ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do criação de conteúdo, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do criação de conteúdo pode ser realizada através do painel administrativo. Acesse Configurações > Criação de conteúdo e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a criação de conteúdo no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Criação de conteúdo O criação de conteúdo do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do criação de conteúdo pode ser realizada através do painel administrativo. Acesse Configurações > Criação de conteúdo e siga as instruções apresentadas na interface.
+A equipe de produto da AIRich trabalha continuamente na evolução de Criação de conteúdo, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

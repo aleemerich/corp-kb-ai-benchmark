@@ -1,3 +1,7 @@
 # Performance monitoring
 
-# Performance monitoring Este documento descreve os aspectos principais relacionados a performance monitoring no contexto do AIRich Mobile. A equipe de produto trabalha continuamente na evolução do performance monitoring para atender às necessidades dos clientes. Para mais informações sobre performance monitoring, consulte a documentação completa do AIRich Mobile. Este documento descreve os aspectos principais relacionados a performance monitoring no contexto do AIRich Mobile.
+Esta especificação técnica define os requisitos e procedimentos para Performance monitoring.
+
+Como parte da estratégia de inovação da AIRich, Performance monitoring foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

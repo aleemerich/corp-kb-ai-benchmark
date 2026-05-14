@@ -1,7 +1,34 @@
 # Tarefas e follow-ups
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Versão:** 1.6
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-08-23
 
-# Tarefas e follow-ups **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.6 ## Sobre Tarefas e follow-ups O tarefas e follow-ups do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do tarefas e follow-ups, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a tarefas e follow-ups no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Tarefas e follow-ups O tarefas e follow-ups do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do tarefas e follow-ups pode ser realizada através do painel administrativo. Acesse Configurações > Tarefas e follow-ups e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+Este manual operacional descreve os processos e responsabilidades de Tarefas e follow-ups.
+
+Como parte do programa de melhoria contínua da AIRich, Tarefas e follow-ups foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

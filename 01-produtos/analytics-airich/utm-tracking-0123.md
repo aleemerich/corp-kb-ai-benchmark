@@ -1,5 +1,7 @@
 # UTM tracking
 
-> Documento técnico do AIRich Analytics
+Este manual operacional descreve os processos e responsabilidades de UTM tracking.
 
-# UTM tracking > Documento técnico do AIRich Analytics ## Requisitos Para utilizar o utm tracking corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a utm tracking no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do utm tracking pode ser realizada através do painel administrativo. Acesse Configurações > UTM tracking e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do utm tracking pode ser realizada através do painel administrativo. Acesse Configurações > UTM tracking e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o utm tracking corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+Como parte da estratégia de inovação da AIRich, UTM tracking foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

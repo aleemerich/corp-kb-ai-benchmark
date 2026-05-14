@@ -1,3 +1,34 @@
 # Transformação de requests
 
-# Transformação de requests Para mais informações sobre transformação de requests, consulte a documentação completa do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do transformação de requests para atender às necessidades dos clientes. O transformação de requests do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. O transformação de requests foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-08-26
+
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Transformação de requests.
+
+Como parte do programa de melhoria contínua da AIRich, Transformação de requests foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

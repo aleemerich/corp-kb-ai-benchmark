@@ -1,7 +1,34 @@
 # Email tracking
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Versão:** 1.3
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-05-14
 
-# Email tracking **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.3 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do email tracking, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do email tracking pode ser realizada através do painel administrativo. Acesse Configurações > Email tracking e siga as instruções apresentadas na interface. ## Sobre Email tracking O email tracking do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O email tracking passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Email tracking.
+
+Alinhado com as melhores práticas do mercado, Email tracking segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

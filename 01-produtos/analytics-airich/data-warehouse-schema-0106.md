@@ -1,7 +1,34 @@
 # Data warehouse schema
 
-**Produto:** AIRich Analytics  
-**Departamento:** Produtos  
-**Versão:** 1.5
+**Produto:** AIRich Analytics | **Departamento:** Produtos | **Data:** 2026-07-22
 
-# Data warehouse schema **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.5 ## Configuração A configuração do data warehouse schema pode ser realizada através do painel administrativo. Acesse Configurações > Data warehouse schema e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o data warehouse schema corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data warehouse schema passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Data warehouse schema O data warehouse schema do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do data warehouse schema, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Data warehouse schema para as equipes envolvidas.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Data warehouse schema, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

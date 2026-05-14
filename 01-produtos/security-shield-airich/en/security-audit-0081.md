@@ -1,3 +1,0 @@
-# security audit - airich security shield
-
-# security audit - airich security shield o security audit foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a security audit no context do airich security shield. a team de produCloudTrail trabalHA continuamente na evolução do security audit para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a security audit no context do airich security shield.

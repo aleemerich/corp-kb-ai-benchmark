@@ -1,5 +1,7 @@
 # Roadmap edu
 
-## Resumo
+Este documento descreve Roadmap edu no contexto da AIRich Tecnologia.
 
-# Roadmap edu ## Resumo ## Sobre Roadmap edu O roadmap edu do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do roadmap edu pode ser realizada através do painel administrativo. Acesse Configurações > Roadmap edu e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o roadmap edu corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do roadmap edu, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o roadmap edu corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do roadmap edu, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+Como parte da estratégia de inovação da AIRich, Roadmap edu foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

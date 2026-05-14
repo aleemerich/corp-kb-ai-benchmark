@@ -1,133 +1,71 @@
 # Model versioning
 
-**Produto:** AIRich AI Assistant  
-**Departamento:** Produtos  
-**Data:** 2026-05-13  
-**Versão:** 2.0
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-05-13 | **Versão:** 1.0
 
 ---
 
-## Troubleshooting
+## Visão Geral
 
-### Problema: Timeout na requisição
+Este manual operacional descreve os processos e responsabilidades de Model versioning.
 
-**Sintoma:** Requisições retornam erro 504 após 30 segundos.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Model versioning representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
 
-**Causas possíveis:**
-- Sobrecarga no banco de dados
-- Cache expirado causando consultas pesadas
-- Conexão de rede instável
-
-**Solução:**
-1. Verificar métricas do banco de dados
-2. Limpar cache e forçar reindexação
-3. Verificar conectividade de rede
-4. Escalar horizontalmente se necessário
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do model versioning segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
+## Arquitetura
 
 ```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Model versioning]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
+graph LR
+    Cliente --> API[API Gateway]
+    API --> Auth[Serviço Auth]
+    API --> Core[Serviço Core]
+    Core --> DB[(PostgreSQL)]
+    Core --> Cache[(Redis)]
+    Core --> Queue[RabbitMQ]
 ```
 
+## Procedimento
 
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+## Troubleshooting
+
+### Problema: Falha na execução
+
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
+
+**Causas possíveis:**
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
+
+**Solução:**
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
 
-A segurança do model versioning é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
 - **Criptografia:** AES-256 para dados sensíveis em repouso
 
+---
 
-
-## Introdução
-
-O model versioning é um dos pilares fundamentais do AIRich AI Assistant, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich AI Assistant é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Detalhes de Implementação
-
-A implementação do model versioning utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
-
-## Métricas e Monitoramento
-
-O model versioning é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
-
-## Métricas e Monitoramento
-
-O model versioning é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do model versioning segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Model versioning]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
-
-
-## Introdução
-
-O model versioning é um dos pilares fundamentais do AIRich AI Assistant, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich AI Assistant é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

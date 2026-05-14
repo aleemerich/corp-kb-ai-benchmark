@@ -1,5 +1,35 @@
 # Avaliações e reviews
 
-> Documento técnico do AIRich Edu
+**Produto:** AIRich Edu | **Departamento:** Produtos | **Data:** 2026-05-03
 
-# Avaliações e reviews > Documento técnico do AIRich Edu ## Requisitos Para utilizar o avaliações e reviews corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do avaliações e reviews pode ser realizada através do painel administrativo. Acesse Configurações > Avaliações e reviews e siga as instruções apresentadas na interface. ## Sobre Avaliações e reviews O avaliações e reviews do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do avaliações e reviews pode ser realizada através do painel administrativo. Acesse Configurações > Avaliações e reviews e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o avaliações e reviews corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Avaliações e reviews.
+
+No cenário atual de transformação digital, Avaliações e reviews desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes. Este documento estabelece as diretrizes para garantir consistência e eficiência.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,3 +1,34 @@
 # Mobile CRM
 
-# Mobile CRM O mobile crm foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do mobile crm para atender às necessidades dos clientes. O mobile crm do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre mobile crm, consulte a documentação completa do AIRich CRM.
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-01-09
+
+---
+
+## Visão Geral
+
+Este documento descreve Mobile CRM no contexto da AIRich Tecnologia.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Mobile CRM, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

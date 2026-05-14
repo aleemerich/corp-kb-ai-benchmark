@@ -1,3 +1,0 @@
-# doc: gitlab ci integration
-
-# doc: gitlab ci integration para mais informações sobre gitlab ci integration, consulte a documentação completa do airich DevOps sUIte. o gitlab ci integration do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a gitlab ci integration no context do airich DevOps sUIte. o gitlab ci integration foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

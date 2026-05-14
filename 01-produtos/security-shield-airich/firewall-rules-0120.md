@@ -1,3 +1,71 @@
-# Firewall rules - AIRich Security Shield
+# Firewall rules
 
-# Firewall rules - AIRich Security Shield O firewall rules do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. O firewall rules foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do firewall rules para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a firewall rules no contexto do AIRich Security Shield.
+**Produto:** AIRich Security Shield | **Departamento:** Produtos | **Data:** 2026-03-08 | **Versão:** 1.9
+
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Firewall rules na AIRich.
+
+Alinhado com as melhores práticas do mercado, Firewall rules segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Arquitetura
+
+```mermaid
+graph LR
+    Cliente --> API[API Gateway]
+    API --> Auth[Serviço Auth]
+    API --> Core[Serviço Core]
+    Core --> DB[(PostgreSQL)]
+    Core --> Cache[(Redis)]
+    Core --> Queue[RabbitMQ]
+```
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+## Troubleshooting
+
+### Problema: Falha na execução
+
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
+
+**Causas possíveis:**
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
+
+**Solução:**
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
+
+## Segurança
+
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
+- **Criptografia:** AES-256 para dados sensíveis em repouso
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

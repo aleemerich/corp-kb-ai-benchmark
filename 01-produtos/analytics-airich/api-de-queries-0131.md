@@ -1,3 +1,7 @@
-# Doc: API de queries
+# API de queries
 
-# Doc: API de queries O api de queries do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do api de queries para atender às necessidades dos clientes. Para mais informações sobre api de queries, consulte a documentação completa do AIRich Analytics. O api de queries foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+Este documento descreve API de queries no contexto da AIRich Tecnologia.
+
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. API de queries representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,7 +1,36 @@
 # In-app updates
 
-**Produto:** AIRich Mobile  
-**Departamento:** Produtos  
-**Versão:** 1.1
+**Produto:** AIRich Mobile | **Departamento:** Produtos | **Data:** 2026-06-14
 
-# In-app updates **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.1 ## Sobre In-app updates O in-app updates do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o in-app updates corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O in-app updates passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a in-app updates no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a in-app updates no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar In-app updates para as equipes envolvidas.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de In-app updates, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

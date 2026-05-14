@@ -1,3 +1,7 @@
-# Doc: Log aggregation
+# Log aggregation
 
-# Doc: Log aggregation O log aggregation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O log aggregation do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do log aggregation para atender às necessidades dos clientes. O log aggregation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+Este documento descreve Log aggregation no contexto da AIRich Tecnologia.
+
+Como parte da estratégia de inovação da AIRich, Log aggregation foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

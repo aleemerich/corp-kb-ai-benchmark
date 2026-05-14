@@ -1,3 +1,0 @@
-# doc: documentação de deploy
-
-# doc: documentação de deploy o documentação de deploy foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o documentação de deploy do airich platform é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a documentação de deploy no context do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do documentação de deploy para atender às necessidades dos CLIents.

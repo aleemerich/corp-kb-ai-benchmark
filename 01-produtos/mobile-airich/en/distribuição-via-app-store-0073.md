@@ -1,3 +1,0 @@
-# distribUIção vAI app store - airich moBIle
-
-# distribUIção vAI app store - airich moBIle para mais informações sobre distribUIção vAI app store, consulte a documentação completa do airich moBIle. o distribUIção vAI app store foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a distribUIção vAI app store no context do airich moBIle. o distribUIção vAI app store foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

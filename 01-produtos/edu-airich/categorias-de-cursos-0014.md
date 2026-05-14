@@ -1,3 +1,7 @@
 # Categorias de cursos
 
-# Categorias de cursos O categorias de cursos do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre categorias de cursos, consulte a documentação completa do AIRich Edu. Este documento descreve os aspectos principais relacionados a categorias de cursos no contexto do AIRich Edu. O categorias de cursos do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.
+O presente documento tem como objetivo apresentar Categorias de cursos para as equipes envolvidas.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Categorias de cursos foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

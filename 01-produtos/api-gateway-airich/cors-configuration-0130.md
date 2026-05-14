@@ -1,5 +1,7 @@
 # CORS configuration
 
-> Documento técnico do AIRich API Gateway
+Este guia técnico aborda os aspectos fundamentais de CORS configuration na AIRich.
 
-# CORS configuration > Documento técnico do AIRich API Gateway ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do cors configuration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do cors configuration pode ser realizada através do painel administrativo. Acesse Configurações > CORS configuration e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O cors configuration passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o cors configuration corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do cors configuration pode ser realizada através do painel administrativo. Acesse Configurações > CORS configuration e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do cors configuration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+No cenário atual de transformação digital, CORS configuration desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes. Este documento estabelece as diretrizes para garantir consistência e eficiência.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

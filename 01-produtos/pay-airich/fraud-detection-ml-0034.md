@@ -1,5 +1,7 @@
 # Fraud detection ML
 
-> Documento técnico do AIRich Pay
+Este documento fornece uma visão detalhada sobre Fraud detection ML no ecossistema AIRich.
 
-# Fraud detection ML > Documento técnico do AIRich Pay ## Configuração A configuração do fraud detection ml pode ser realizada através do painel administrativo. Acesse Configurações > Fraud detection ML e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do fraud detection ml, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O fraud detection ml passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Fraud detection ML O fraud detection ml do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a fraud detection ml no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o fraud detection ml corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Fraud detection ML representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

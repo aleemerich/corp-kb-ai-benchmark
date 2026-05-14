@@ -1,5 +1,0 @@
-# 3d secure
-
-## summary
-
-# 3d secure ## summary ## Configuração a Configuração do 3d secure pode ser realizada através do painel administrativo. acesse Configurações > 3d secure e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a 3d secure no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do 3d secure, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do 3d secure pode ser realizada através do painel administrativo. acesse Configurações > 3d secure e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a 3d secure no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais.

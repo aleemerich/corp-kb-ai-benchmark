@@ -1,7 +1,7 @@
 # Mobile learning
 
-**Produto:** AIRich Edu  
-**Departamento:** Produtos  
-**Versão:** 1.8
+Esta especificação técnica define os requisitos e procedimentos para Mobile learning.
 
-# Mobile learning **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.8 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O mobile learning passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o mobile learning corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do mobile learning pode ser realizada através do painel administrativo. Acesse Configurações > Mobile learning e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a mobile learning no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o mobile learning corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do mobile learning pode ser realizada através do painel administrativo. Acesse Configurações > Mobile learning e siga as instruções apresentadas na interface.
+Alinhado com as melhores práticas do mercado, Mobile learning segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

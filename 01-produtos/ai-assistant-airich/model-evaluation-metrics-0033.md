@@ -1,5 +1,37 @@
 # Model evaluation metrics
 
-## Resumo
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-06-05
 
-# Model evaluation metrics ## Resumo ## Configuração A configuração do model evaluation metrics pode ser realizada através do painel administrativo. Acesse Configurações > Model evaluation metrics e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a model evaluation metrics no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O model evaluation metrics passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do model evaluation metrics, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O model evaluation metrics passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a model evaluation metrics no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Model evaluation metrics para as equipes envolvidas.
+
+Como parte do programa de melhoria contínua da AIRich, Model evaluation metrics foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

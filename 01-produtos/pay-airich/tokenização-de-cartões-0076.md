@@ -1,3 +1,7 @@
-# Tokenização de cartões - AIRich Pay
+# Tokenização de cartões
 
-# Tokenização de cartões - AIRich Pay Para mais informações sobre tokenização de cartões, consulte a documentação completa do AIRich Pay. Este documento descreve os aspectos principais relacionados a tokenização de cartões no contexto do AIRich Pay. O tokenização de cartões do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a tokenização de cartões no contexto do AIRich Pay.
+O presente documento tem como objetivo apresentar Tokenização de cartões para as equipes envolvidas.
+
+Como parte do programa de melhoria contínua da AIRich, Tokenização de cartões foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

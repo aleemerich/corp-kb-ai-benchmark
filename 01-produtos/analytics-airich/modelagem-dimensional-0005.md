@@ -1,3 +1,7 @@
-# Doc: Modelagem dimensional
+# Modelagem dimensional
 
-# Doc: Modelagem dimensional A equipe de produto trabalha continuamente na evolução do modelagem dimensional para atender às necessidades dos clientes. Para mais informações sobre modelagem dimensional, consulte a documentação completa do AIRich Analytics. O modelagem dimensional do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. O modelagem dimensional foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+O presente documento tem como objetivo apresentar Modelagem dimensional para as equipes envolvidas.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Modelagem dimensional, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

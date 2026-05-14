@@ -1,7 +1,7 @@
 # Hallucination prevention
 
-**Produto:** AIRich AI Assistant  
-**Departamento:** Produtos  
-**Versão:** 1.8
+Este documento descreve Hallucination prevention no contexto da AIRich Tecnologia.
 
-# Hallucination prevention **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.8 ## Sobre Hallucination prevention O hallucination prevention do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a hallucination prevention no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O hallucination prevention passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do hallucination prevention pode ser realizada através do painel administrativo. Acesse Configurações > Hallucination prevention e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a hallucination prevention no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do hallucination prevention, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+Alinhado com as melhores práticas do mercado, Hallucination prevention segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

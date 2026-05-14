@@ -1,3 +1,0 @@
-# doc: backup automation
-
-# doc: backup automation este document descreve os aspeCTOs principais relaCIOnados a backup automation no context do airich DevOps sUIte. para mais informações sobre backup automation, consulte a documentação completa do airich DevOps sUIte. para mais informações sobre backup automation, consulte a documentação completa do airich DevOps sUIte. a team de produCloudTrail trabalHA continuamente na evolução do backup automation para atender às necessidades dos CLIents.

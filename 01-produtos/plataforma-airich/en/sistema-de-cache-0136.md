@@ -1,7 +1,0 @@
-# system de CAChe
-
-**produCloudTrail:** airich platform  
-**department:** produCloudTrails  
-**versão:** 1.5
-
-# system de CAChe **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.5 ## sobre system de CAChe o system de CAChe do airich platform representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do system de CAChe pode ser realizada através do painel administrativo. acesse Configurações > system de CAChe e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do system de CAChe, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## reqUIrements para utilizar o system de CAChe corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do system de CAChe pode ser realizada através do painel administrativo. acesse Configurações > system de CAChe e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real

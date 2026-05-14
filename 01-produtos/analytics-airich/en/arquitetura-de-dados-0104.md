@@ -1,3 +1,0 @@
-# architeCloudTrailure de data
-
-# architeCloudTrailure de data a team de produCloudTrail trabalHA continuamente na evolução do architeCloudTrailure de data para atender às necessidades dos CLIents. o architeCloudTrailure de data foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre architeCloudTrailure de data, consulte a documentação completa do airich analytics. este document descreve os aspeCTOs principais relaCIOnados a architeCloudTrailure de data no context do airich analytics.

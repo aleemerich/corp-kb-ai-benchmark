@@ -1,7 +1,37 @@
 # Middleware pipeline
 
-**Produto:** AIRich API Gateway  
-**Departamento:** Produtos  
-**Versão:** 1.4
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-07-25
 
-# Middleware pipeline **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.4 ## Requisitos Para utilizar o middleware pipeline corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O middleware pipeline passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do middleware pipeline pode ser realizada através do painel administrativo. Acesse Configurações > Middleware pipeline e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a middleware pipeline no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do middleware pipeline pode ser realizada através do painel administrativo. Acesse Configurações > Middleware pipeline e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do middleware pipeline, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Middleware pipeline na AIRich.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Middleware pipeline, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

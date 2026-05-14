@@ -1,3 +1,0 @@
-# integração com adqUIrentes - airich pay
-
-# integração com adqUIrentes - airich pay o integração com adqUIrentes foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do integração com adqUIrentes para atender às necessidades dos CLIents. o integração com adqUIrentes foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre integração com adqUIrentes, consulte a documentação completa do airich pay.

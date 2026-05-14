@@ -1,3 +1,0 @@
-# doc: pricing table
-
-# doc: pricing table este document descreve os aspeCTOs principais relaCIOnados a pricing table no context do airich pay. o pricing table do airich pay é um componente essencAIl da plataforma airich tecnologAI. o pricing table do airich pay é um componente essencAIl da plataforma airich tecnologAI. o pricing table foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

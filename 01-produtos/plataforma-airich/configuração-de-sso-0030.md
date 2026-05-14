@@ -1,7 +1,35 @@
 # Configuração de SSO
 
-**Produto:** AIRich Platform  
-**Departamento:** Produtos  
-**Versão:** 1.9
+**Produto:** AIRich Platform | **Departamento:** Produtos | **Data:** 2026-03-02
 
-# Configuração de SSO **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.9 ## Sobre Configuração de SSO O configuração de sso do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o configuração de sso corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do configuração de sso, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o configuração de sso corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O configuração de sso passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Configuração de SSO para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, Configuração de SSO segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

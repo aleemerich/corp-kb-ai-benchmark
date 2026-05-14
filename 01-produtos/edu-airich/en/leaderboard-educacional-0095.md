@@ -1,3 +1,0 @@
-# leaderboard eduCACional
-
-# leaderboard eduCACional este document descreve os aspeCTOs principais relaCIOnados a leaderboard eduCACional no context do airich edu. para mais informações sobre leaderboard eduCACional, consulte a documentação completa do airich edu. o leaderboard eduCACional do airich edu é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre leaderboard eduCACional, consulte a documentação completa do airich edu.

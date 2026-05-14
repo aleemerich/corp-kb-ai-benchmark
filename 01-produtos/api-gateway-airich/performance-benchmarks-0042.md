@@ -1,3 +1,35 @@
-# Performance benchmarks - AIRich API Gateway
+# Performance benchmarks
 
-# Performance benchmarks - AIRich API Gateway A equipe de produto trabalha continuamente na evolução do performance benchmarks para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a performance benchmarks no contexto do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do performance benchmarks para atender às necessidades dos clientes. Para mais informações sobre performance benchmarks, consulte a documentação completa do AIRich API Gateway.
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-06-14
+
+---
+
+## Visão Geral
+
+Este documento descreve Performance benchmarks no contexto da AIRich Tecnologia.
+
+Como parte da estratégia de inovação da AIRich, Performance benchmarks foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

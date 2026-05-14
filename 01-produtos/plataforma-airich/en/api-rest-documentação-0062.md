@@ -1,3 +1,0 @@
-# doc: api REST documentação
-
-# doc: api REST documentação o api REST documentação do airich platform é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do api REST documentação para atender às necessidades dos CLIents. a team de produCloudTrail trabalHA continuamente na evolução do api REST documentação para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a api REST documentação no context do airich platform.

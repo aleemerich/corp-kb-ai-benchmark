@@ -1,3 +1,0 @@
-# cHArgeback management - airich pay
-
-# cHArgeback management - airich pay este document descreve os aspeCTOs principais relaCIOnados a cHArgeback management no context do airich pay. o cHArgeback management foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre cHArgeback management, consulte a documentação completa do airich pay. o cHArgeback management foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

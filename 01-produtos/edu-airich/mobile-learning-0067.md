@@ -1,7 +1,7 @@
 # Mobile learning
 
-**Produto:** AIRich Edu  
-**Departamento:** Produtos  
-**Versão:** 1.6
+Este documento fornece uma visão detalhada sobre Mobile learning no ecossistema AIRich.
 
-# Mobile learning **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.6 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a mobile learning no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O mobile learning passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Mobile learning O mobile learning do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do mobile learning pode ser realizada através do painel administrativo. Acesse Configurações > Mobile learning e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Mobile learning representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

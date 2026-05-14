@@ -1,129 +1,111 @@
 # Estado global com Redux
 
-**Produto:** AIRich Mobile  
-**Departamento:** Produtos  
-**Data:** 2026-05-05  
-**Versão:** 2.4
+**Produto:** AIRich Mobile | **Departamento:** Produtos | **Data:** 2026-05-05 | **Versão:** 2.4
 
 ---
 
-## Métricas e Monitoramento
+## Índice
 
-O estado global com redux é monitorado 24/7 através de:
+1. Visão Geral
+2. Arquitetura
+3. Procedimentos
+4. Infraestrutura
+5. Troubleshooting
+6. Segurança
+7. Métricas
+8. Referências
 
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
+---
 
+## Visão Geral
 
+Este documento fornece uma visão detalhada sobre Estado global com Redux no ecossistema AIRich.
+
+Como parte da estratégia de inovação da AIRich, Estado global com Redux foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Arquitetura
+
+```mermaid
+graph LR
+    Cliente --> API[API Gateway]
+    API --> Auth[Serviço Auth]
+    API --> Core[Serviço Core]
+    Core --> DB[(PostgreSQL)]
+    Core --> Cache[(Redis)]
+    Core --> Queue[RabbitMQ]
+```
+
+## Procedimentos
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
 
 ## Troubleshooting
 
-### Problema: Timeout na requisição
+### Problema: Falha na execução
 
-**Sintoma:** Requisições retornam erro 504 após 30 segundos.
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
 
 **Causas possíveis:**
-- Sobrecarga no banco de dados
-- Cache expirado causando consultas pesadas
-- Conexão de rede instável
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
 
 **Solução:**
-1. Verificar métricas do banco de dados
-2. Limpar cache e forçar reindexação
-3. Verificar conectividade de rede
-4. Escalar horizontalmente se necessário
-
-
-
-## Introdução
-
-O estado global com redux é um dos pilares fundamentais do AIRich Mobile, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich Mobile é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
 
-A segurança do estado global com redux é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
 - **Criptografia:** AES-256 para dados sensíveis em repouso
 
+## Métricas de Qualidade
 
+| Indicador | Meta | Atual | Status |
+|-----------|------|-------|--------|
+| Cobertura de testes | > 80% | 85% | ✅ |
+| Densidade de bugs | < 0.1% | 0.05% | ✅ |
+| Tempo de resposta | < 200ms | 156ms | ✅ |
+| Satisfação do cliente | > 90% | 92.3% | ✅ |
 
-## Detalhes de Implementação
+## Histórico de Versões
 
-A implementação do estado global com redux utiliza tecnologias modernas e consolidadas no mercado:
+| Versão | Data | Autor | Descrição |
+|--------|------|-------|-----------|
+| 1.0 | 2026-01-15 | Equipe Produtos | Versão inicial |
+| 1.1 | 2026-03-22 | Equipe Produtos | Correções e melhorias |
+| 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
+## Referências
 
+1. Documentação interna AIRich — Confluence
+2. Guia de arquitetura AIRich v3.0
+3. Manual de operações — Runbook Master
+4. Políticas de desenvolvimento AIRich
+5. ISO 27001:2022 — Segurança da Informação
 
+---
 
-## Fluxo de Operação
-
-O fluxo típico de operação do estado global com redux segue as seguintes etapas:
-
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do estado global com redux segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Estado global com Redux]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
-
-
-## Introdução
-
-O estado global com redux é um dos pilares fundamentais do AIRich Mobile, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich Mobile é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Detalhes de Implementação
-
-A implementação do estado global com redux utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,7 +1,0 @@
-# roadmap moBIle
-
-**produCloudTrail:** airich moBIle  
-**department:** produCloudTrails  
-**versão:** 1.6
-
-# roadmap moBIle **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.6 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a roadmap moBIle no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do roadmap moBIle, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## reqUIrements para utilizar o roadmap moBIle corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do roadmap moBIle, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a roadmap moBIle no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais.

@@ -1,3 +1,0 @@
-# doc: scorm complAInce
-
-# doc: scorm complAInce o scorm complAInce do airich edu é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a scorm complAInce no context do airich edu. para mais informações sobre scorm complAInce, consulte a documentação completa do airich edu. o scorm complAInce do airich edu é um componente essencAIl da plataforma airich tecnologAI.

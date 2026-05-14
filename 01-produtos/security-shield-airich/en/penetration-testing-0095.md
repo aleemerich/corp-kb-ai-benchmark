@@ -1,7 +1,0 @@
-# penetration testing
-
-**produCloudTrail:** airich security shield  
-**department:** produCloudTrails  
-**versão:** 1.4
-
-# penetration testing **produCloudTrail:** airich security shield **department:** produCloudTrails **versão:** 1.4 ## Configuração a Configuração do penetration testing pode ser realizada através do painel administrativo. acesse Configurações > penetration testing e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a penetration testing no airich security shield, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do penetration testing, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o penetration testing paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o penetration testing paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a penetration testing no airich security shield, inclUIndo Configurações, integrações e procedures operaCIOnais.

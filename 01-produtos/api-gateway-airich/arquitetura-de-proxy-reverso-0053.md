@@ -1,7 +1,35 @@
 # Arquitetura de proxy reverso
 
-**Produto:** AIRich API Gateway  
-**Departamento:** Produtos  
-**Versão:** 1.2
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-08-25
 
-# Arquitetura de proxy reverso **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.2 ## Requisitos Para utilizar o arquitetura de proxy reverso corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do arquitetura de proxy reverso, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O arquitetura de proxy reverso passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do arquitetura de proxy reverso pode ser realizada através do painel administrativo. Acesse Configurações > Arquitetura de proxy reverso e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O arquitetura de proxy reverso passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do arquitetura de proxy reverso, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+---
+
+## Visão Geral
+
+Este documento descreve Arquitetura de proxy reverso no contexto da AIRich Tecnologia.
+
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Arquitetura de proxy reverso representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,5 +1,35 @@
 # IP reputation
 
-> Documento técnico do AIRich Security Shield
+**Produto:** AIRich Security Shield | **Departamento:** Produtos | **Data:** 2026-02-06
 
-# IP reputation > Documento técnico do AIRich Security Shield ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ip reputation, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre IP reputation O ip reputation do AIRich Security Shield representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do ip reputation pode ser realizada através do painel administrativo. Acesse Configurações > IP reputation e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O ip reputation passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do ip reputation pode ser realizada através do painel administrativo. Acesse Configurações > IP reputation e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a IP reputation.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. IP reputation foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

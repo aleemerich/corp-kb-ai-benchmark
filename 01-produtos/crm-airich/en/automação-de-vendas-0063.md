@@ -1,3 +1,0 @@
-# automação de sales - airich crm
-
-# automação de sales - airich crm este document descreve os aspeCTOs principais relaCIOnados a automação de sales no context do airich crm. o automação de sales do airich crm é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a automação de sales no context do airich crm. a team de produCloudTrail trabalHA continuamente na evolução do automação de sales para atender às necessidades dos CLIents.

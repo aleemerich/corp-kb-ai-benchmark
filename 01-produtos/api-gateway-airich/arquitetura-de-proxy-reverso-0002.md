@@ -1,5 +1,35 @@
 # Arquitetura de proxy reverso
 
-## Resumo
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-02-02
 
-# Arquitetura de proxy reverso ## Resumo ## Configuração A configuração do arquitetura de proxy reverso pode ser realizada através do painel administrativo. Acesse Configurações > Arquitetura de proxy reverso e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a arquitetura de proxy reverso no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Arquitetura de proxy reverso O arquitetura de proxy reverso do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do arquitetura de proxy reverso pode ser realizada através do painel administrativo. Acesse Configurações > Arquitetura de proxy reverso e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a arquitetura de proxy reverso no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+Este documento fornece uma visão detalhada sobre Arquitetura de proxy reverso no ecossistema AIRich.
+
+No cenário atual de transformação digital, Arquitetura de proxy reverso desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes. Este documento estabelece as diretrizes para garantir consistência e eficiência.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

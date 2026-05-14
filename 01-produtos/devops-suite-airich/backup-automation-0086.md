@@ -1,3 +1,7 @@
-# Doc: Backup automation
+# Backup automation
 
-# Doc: Backup automation Este documento descreve os aspectos principais relacionados a backup automation no contexto do AIRich DevOps Suite. Para mais informações sobre backup automation, consulte a documentação completa do AIRich DevOps Suite. Para mais informações sobre backup automation, consulte a documentação completa do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do backup automation para atender às necessidades dos clientes.
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Backup automation.
+
+O investimento contínuo em Backup automation reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

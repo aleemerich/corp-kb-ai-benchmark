@@ -1,3 +1,0 @@
-# especificação de plugins - airich api gateway
-
-# especificação de plugins - airich api gateway para mais informações sobre especificação de plugins, consulte a documentação completa do airich api gateway. o especificação de plugins do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do especificação de plugins para atender às necessidades dos CLIents. o especificação de plugins do airich api gateway é um componente essencAIl da plataforma airich tecnologAI.

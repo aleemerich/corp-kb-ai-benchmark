@@ -1,7 +1,34 @@
 # Certificate rotation
 
-**Produto:** AIRich Security Shield  
-**Departamento:** Produtos  
-**Versão:** 1.3
+**Produto:** AIRich Security Shield | **Departamento:** Produtos | **Data:** 2026-05-20
 
-# Certificate rotation **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.3 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O certificate rotation passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o certificate rotation corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Certificate rotation O certificate rotation do AIRich Security Shield representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do certificate rotation, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Certificate rotation O certificate rotation do AIRich Security Shield representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+---
+
+## Visão Geral
+
+Este documento descreve Certificate rotation no contexto da AIRich Tecnologia.
+
+Alinhado com as melhores práticas do mercado, Certificate rotation segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

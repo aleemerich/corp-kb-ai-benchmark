@@ -1,3 +1,0 @@
-# webhook events
-
-# webhook events o webhook events foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre webhook events, consulte a documentação completa do airich analytics. este document descreve os aspeCTOs principais relaCIOnados a webhook events no context do airich analytics. o webhook events foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

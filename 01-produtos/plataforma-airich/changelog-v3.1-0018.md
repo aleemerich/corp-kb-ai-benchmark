@@ -1,3 +1,7 @@
-# Doc: Changelog v3.1
+# Changelog v3.1
 
-# Doc: Changelog v3.1 Este documento descreve os aspectos principais relacionados a changelog v3.1 no contexto do AIRich Platform. O changelog v3.1 do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O changelog v3.1 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a changelog v3.1 no contexto do AIRich Platform.
+Esta especificação técnica define os requisitos e procedimentos para Changelog v3.1.
+
+Alinhado com as melhores práticas do mercado, Changelog v3.1 segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

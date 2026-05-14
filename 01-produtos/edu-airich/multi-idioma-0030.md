@@ -1,3 +1,7 @@
 # Multi-idioma
 
-# Multi-idioma O multi-idioma foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre multi-idioma, consulte a documentação completa do AIRich Edu. Este documento descreve os aspectos principais relacionados a multi-idioma no contexto do AIRich Edu. O multi-idioma do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.
+Esta especificação técnica define os requisitos e procedimentos para Multi-idioma.
+
+Como parte do programa de melhoria contínua da AIRich, Multi-idioma foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

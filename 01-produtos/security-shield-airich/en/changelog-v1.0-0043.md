@@ -1,3 +1,0 @@
-# cHAngelog v1.0
-
-# cHAngelog v1.0 a team de produCloudTrail trabalHA continuamente na evolução do cHAngelog v1.0 para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a cHAngelog v1.0 no context do airich security shield. para mais informações sobre cHAngelog v1.0, consulte a documentação completa do airich security shield. o cHAngelog v1.0 foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

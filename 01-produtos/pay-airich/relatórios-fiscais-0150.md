@@ -1,7 +1,7 @@
 # Relatórios fiscais
 
-**Produto:** AIRich Pay  
-**Departamento:** Produtos  
-**Versão:** 1.9
+Este manual operacional descreve os processos e responsabilidades de Relatórios fiscais.
 
-# Relatórios fiscais **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.9 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do relatórios fiscais, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O relatórios fiscais passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a relatórios fiscais no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o relatórios fiscais corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a relatórios fiscais no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais.
+O investimento contínuo em Relatórios fiscais reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

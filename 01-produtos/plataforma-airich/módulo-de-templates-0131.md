@@ -1,5 +1,37 @@
 # Módulo de templates
 
-> Documento técnico do AIRich Platform
+**Produto:** AIRich Platform | **Departamento:** Produtos | **Data:** 2026-05-19
 
-# Módulo de templates > Documento técnico do AIRich Platform ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O módulo de templates passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Módulo de templates O módulo de templates do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o módulo de templates corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do módulo de templates, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do módulo de templates, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do módulo de templates pode ser realizada através do painel administrativo. Acesse Configurações > Módulo de templates e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+Este documento descreve Módulo de templates no contexto da AIRich Tecnologia.
+
+O investimento contínuo em Módulo de templates reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

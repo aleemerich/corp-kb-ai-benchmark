@@ -1,5 +1,7 @@
 # Postman collection
 
-> Documento técnico do AIRich API Gateway
+O presente documento tem como objetivo apresentar Postman collection para as equipes envolvidas.
 
-# Postman collection > Documento técnico do AIRich API Gateway ## Requisitos Para utilizar o postman collection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do postman collection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a postman collection no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do postman collection pode ser realizada através do painel administrativo. Acesse Configurações > Postman collection e siga as instruções apresentadas na interface. ## Configuração A configuração do postman collection pode ser realizada através do painel administrativo. Acesse Configurações > Postman collection e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o postman collection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+Como parte da estratégia de inovação da AIRich, Postman collection foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

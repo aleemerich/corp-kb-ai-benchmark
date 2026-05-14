@@ -1,3 +1,7 @@
-# Doc: Alertas automáticos
+# Alertas automáticos
 
-# Doc: Alertas automáticos O alertas automáticos foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre alertas automáticos, consulte a documentação completa do AIRich Analytics. O alertas automáticos do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre alertas automáticos, consulte a documentação completa do AIRich Analytics.
+Este documento fornece uma visão detalhada sobre Alertas automáticos no ecossistema AIRich.
+
+O investimento contínuo em Alertas automáticos reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,3 +1,37 @@
-# Doc: Scaling analytics
+# Scaling analytics
 
-# Doc: Scaling analytics O scaling analytics foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre scaling analytics, consulte a documentação completa do AIRich Analytics. O scaling analytics do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do scaling analytics para atender às necessidades dos clientes.
+**Produto:** AIRich Analytics | **Departamento:** Produtos | **Data:** 2026-06-12
+
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Scaling analytics.
+
+Alinhado com as melhores práticas do mercado, Scaling analytics segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

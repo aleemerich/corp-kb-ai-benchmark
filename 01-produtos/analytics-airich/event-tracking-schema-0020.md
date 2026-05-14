@@ -1,5 +1,7 @@
 # Event tracking schema
 
-## Resumo
+Este documento descreve Event tracking schema no contexto da AIRich Tecnologia.
 
-# Event tracking schema ## Resumo ## Requisitos Para utilizar o event tracking schema corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do event tracking schema, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do event tracking schema pode ser realizada através do painel administrativo. Acesse Configurações > Event tracking schema e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a event tracking schema no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a event tracking schema no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real
+Alinhado com as melhores práticas do mercado, Event tracking schema segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

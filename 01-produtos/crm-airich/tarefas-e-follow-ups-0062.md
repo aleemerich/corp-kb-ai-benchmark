@@ -1,129 +1,34 @@
 # Tarefas e follow-ups
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Data:** 2026-08-06  
-**Versão:** 2.1
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-08-06
 
 ---
 
-## Segurança
+## Visão Geral
 
-A segurança do tarefas e follow-ups é tratada em múltiplas camadas:
+Este manual operacional descreve os processos e responsabilidades de Tarefas e follow-ups.
 
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
-- **Criptografia:** AES-256 para dados sensíveis em repouso
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Tarefas e follow-ups representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
 
+## Procedimento
 
+O procedimento padrão para esta atividade segue as seguintes etapas:
 
-## Detalhes de Implementação
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
 
-A implementação do tarefas e follow-ups utiliza tecnologias modernas e consolidadas no mercado:
+## Infraestrutura
 
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
 
+---
 
-
-## Métricas e Monitoramento
-
-O tarefas e follow-ups é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do tarefas e follow-ups segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Tarefas e follow-ups]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
-
-
-## Fluxo de Operação
-
-O fluxo típico de operação do tarefas e follow-ups segue as seguintes etapas:
-
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
-
-
-
-## Introdução
-
-O tarefas e follow-ups é um dos pilares fundamentais do AIRich CRM, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich CRM é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do tarefas e follow-ups segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Tarefas e follow-ups]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
-
-
-## Introdução
-
-O tarefas e follow-ups é um dos pilares fundamentais do AIRich CRM, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
-
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich CRM é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
-
-
-
-## Fluxo de Operação
-
-O fluxo típico de operação do tarefas e follow-ups segue as seguintes etapas:
-
-1. **Recepção:** A requisição é recebida via API Gateway e validada
-2. **Autenticação:** Token JWT é verificado e permissões são checadas
-3. **Processamento:** Regras de negócio são aplicadas
-4. **Persistência:** Dados são armazenados no banco de dados
-5. **Notificação:** Eventos são publicados na fila de mensagens
-6. **Resposta:** Resultado é retornado ao cliente
-
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

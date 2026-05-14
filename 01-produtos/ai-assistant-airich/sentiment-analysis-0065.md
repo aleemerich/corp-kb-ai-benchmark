@@ -1,5 +1,34 @@
 # Sentiment analysis
 
-> Documento técnico do AIRich AI Assistant
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-02-09
 
-# Sentiment analysis > Documento técnico do AIRich AI Assistant ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O sentiment analysis passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Sentiment analysis O sentiment analysis do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do sentiment analysis pode ser realizada através do painel administrativo. Acesse Configurações > Sentiment analysis e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a sentiment analysis no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do sentiment analysis pode ser realizada através do painel administrativo. Acesse Configurações > Sentiment analysis e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a sentiment analysis no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Sentiment analysis para as equipes envolvidas.
+
+O investimento contínuo em Sentiment analysis reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

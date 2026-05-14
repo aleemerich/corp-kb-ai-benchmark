@@ -1,5 +1,7 @@
 # Busca de conteúdo
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de Busca de conteúdo.
 
-# Busca de conteúdo ## Resumo ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do busca de conteúdo, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Busca de conteúdo O busca de conteúdo do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o busca de conteúdo corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a busca de conteúdo no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Busca de conteúdo O busca de conteúdo do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do busca de conteúdo pode ser realizada através do painel administrativo. Acesse Configurações > Busca de conteúdo e siga as instruções apresentadas na interface.
+Alinhado com as melhores práticas do mercado, Busca de conteúdo segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

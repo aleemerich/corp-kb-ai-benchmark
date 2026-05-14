@@ -1,3 +1,0 @@
-# versionamento de apis - airich api gateway
-
-# versionamento de apis - airich api gateway o versionamento de apis do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre versionamento de apis, consulte a documentação completa do airich api gateway. o versionamento de apis foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre versionamento de apis, consulte a documentação completa do airich api gateway.

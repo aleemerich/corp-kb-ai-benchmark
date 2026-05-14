@@ -1,3 +1,7 @@
-# Doc: Player de vídeo
+# Player de vídeo
 
-# Doc: Player de vídeo Este documento descreve os aspectos principais relacionados a player de vídeo no contexto do AIRich Edu. O player de vídeo foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O player de vídeo foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O player de vídeo do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.
+Esta especificação técnica define os requisitos e procedimentos para Player de vídeo.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Player de vídeo, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

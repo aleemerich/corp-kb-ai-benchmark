@@ -1,3 +1,0 @@
-# doc: terraform modules
-
-# doc: terraform modules a team de produCloudTrail trabalHA continuamente na evolução do terraform modules para atender às necessidades dos CLIents. para mais informações sobre terraform modules, consulte a documentação completa do airich DevOps sUIte. o terraform modules foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do terraform modules para atender às necessidades dos CLIents.

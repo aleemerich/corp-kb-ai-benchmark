@@ -1,5 +1,7 @@
 # Entity extraction
 
-> Documento técnico do AIRich AI Assistant
+O presente documento tem como objetivo apresentar Entity extraction para as equipes envolvidas.
 
-# Entity extraction > Documento técnico do AIRich AI Assistant ## Requisitos Para utilizar o entity extraction corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do entity extraction, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do entity extraction pode ser realizada através do painel administrativo. Acesse Configurações > Entity extraction e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O entity extraction passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O entity extraction passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o entity extraction corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Entity extraction representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

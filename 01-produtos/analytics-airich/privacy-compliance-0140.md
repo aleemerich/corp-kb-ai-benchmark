@@ -1,3 +1,7 @@
-# Doc: Privacy compliance
+# Privacy compliance
 
-# Doc: Privacy compliance O privacy compliance do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre privacy compliance, consulte a documentação completa do AIRich Analytics. O privacy compliance foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O privacy compliance do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia.
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Privacy compliance.
+
+Como parte do programa de melhoria contínua da AIRich, Privacy compliance foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

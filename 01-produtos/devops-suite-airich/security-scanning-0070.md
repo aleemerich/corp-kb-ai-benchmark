@@ -1,137 +1,74 @@
 # Security scanning
 
-**Produto:** AIRich DevOps Suite  
-**Departamento:** Produtos  
-**Data:** 2026-07-14  
-**Versão:** 2.9
+**Produto:** AIRich DevOps Suite | **Departamento:** Produtos | **Data:** 2026-07-14 | **Versão:** 1.9
 
 ---
 
-## Introdução
+## Visão Geral
 
-O security scanning é um dos pilares fundamentais do AIRich DevOps Suite, parte integrante do ecossistema de produtos da AIRich Tecnologia. Desde sua concepção, este componente foi projetado para atender empresas de diversos portes, desde startups até grandes corporações com operações em múltiplos países.
+Esta especificação técnica define os requisitos e procedimentos para Security scanning.
 
-A AIRich Tecnologia, fundada em 2019, tem como missão democratizar o acesso a ferramentas de tecnologia de ponta para o mercado brasileiro e latino-americano. O AIRich DevOps Suite é resultado direto dessa visão, combinando inovação tecnológica com profundo entendimento das necessidades do mercado local.
+No cenário atual de transformação digital, Security scanning desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes. Este documento estabelece as diretrizes para garantir consistência e eficiência.
 
+## Arquitetura
 
+```mermaid
+flowchart TD
+    A[Início] --> B[Análise de Requisitos]
+    B --> C[Planejamento]
+    C --> D[Implementação]
+    D --> E[Testes]
+    E --> F{Aprovado?}
+    F -->|Sim| G[Deploy]
+    F -->|Não| D
+    G --> H[Fim]
+```
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
 
 ## Troubleshooting
 
-### Problema: Timeout na requisição
+### Problema: Falha na execução
 
-**Sintoma:** Requisições retornam erro 504 após 30 segundos.
+**Sintoma:** O processo apresenta erro inesperado durante a execução.
 
 **Causas possíveis:**
-- Sobrecarga no banco de dados
-- Cache expirado causando consultas pesadas
-- Conexão de rede instável
+- Configuração incorreta do ambiente
+- Dependência externa indisponível
+- Limite de recursos atingido
 
 **Solução:**
-1. Verificar métricas do banco de dados
-2. Limpar cache e forçar reindexação
-3. Verificar conectividade de rede
-4. Escalar horizontalmente se necessário
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do security scanning segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Security scanning]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
-
-
-## Detalhes de Implementação
-
-A implementação do security scanning utiliza tecnologias modernas e consolidadas no mercado:
-
-| Tecnologia | Versão | Propósito |
-|-----------|--------|-----------|
-| Python | 3.12 | Backend principal |
-| PostgreSQL | 16 | Banco de dados relacional |
-| Redis | 7.x | Cache e sessões |
-| RabbitMQ | 3.13 | Mensageria assíncrona |
-| Docker | 25.x | Containerização |
-| Kubernetes | 1.29 | Orquestração |
-
-
-
-## Métricas e Monitoramento
-
-O security scanning é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
+1. Verificar logs do sistema
+2. Confirmar conectividade com serviços dependentes
+3. Reiniciar o serviço se necessário
+4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
 
-A segurança do security scanning é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
+- **Transporte:** TLS 1.3 obrigatório para todas as comunicações
+- **Autenticação:** JWT com rotação automática de chaves
+- **Autorização:** RBAC com granularidade por recurso
+- **Auditoria:** Log imutável de todas as operações sensíveis
 - **Criptografia:** AES-256 para dados sensíveis em repouso
 
+---
 
-
-## Segurança
-
-A segurança do security scanning é tratada em múltiplas camadas:
-
-- **Transporte:** TLS 1.3 obrigatório
-- **Autenticação:** JWT com rotação de chaves
-- **Autorização:** RBAC com granularidade fina
-- **Auditoria:** Log imutável de todas as operações
-- **Criptografia:** AES-256 para dados sensíveis em repouso
-
-
-
-## Métricas e Monitoramento
-
-O security scanning é monitorado 24/7 através de:
-
-- **Latência:** P50 < 50ms, P95 < 200ms, P99 < 500ms
-- **Disponibilidade:** SLA de 99.95% mensal
-- **Taxa de Erro:** Meta < 0.1% das requisições
-- **Throughput:** Suporta até 10.000 req/s por instância
-
-
-
-## Visão Geral da Arquitetura
-
-A arquitetura do security scanning segue o padrão de microsserviços, permitindo escalabilidade independente e facilitando a manutenção. O sistema é composto por:
-
-- **Camada de API:** Responsável por receber e validar todas as requisições
-- **Camada de Negócio:** Contém as regras de negócio e orquestração de processos
-- **Camada de Dados:** Gerencia persistência e cache distribuído
-- **Camada de Integração:** Comunicação com serviços externos e mensageria
-
-```mermaid
-graph TD
-    A[Cliente] --> B[API Gateway]
-    B --> C[Serviço de Security scanning]
-    C --> D[Cache Redis]
-    C --> E[Banco de Dados]
-    C --> F[Fila de Mensagens]
-    F --> G[Serviço de Notificação]
-```
-
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

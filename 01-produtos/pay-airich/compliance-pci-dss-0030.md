@@ -1,3 +1,7 @@
-# Compliance PCI-DSS - AIRich Pay
+# Compliance PCI-DSS
 
-# Compliance PCI-DSS - AIRich Pay Para mais informações sobre compliance pci-dss, consulte a documentação completa do AIRich Pay. Este documento descreve os aspectos principais relacionados a compliance pci-dss no contexto do AIRich Pay. Este documento descreve os aspectos principais relacionados a compliance pci-dss no contexto do AIRich Pay. O compliance pci-dss do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.
+Este manual operacional descreve os processos e responsabilidades de Compliance PCI-DSS.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Compliance PCI-DSS, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

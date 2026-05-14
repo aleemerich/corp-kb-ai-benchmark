@@ -1,5 +1,7 @@
 # Compliance docs
 
-> Documento técnico do AIRich API Gateway
+Este documento fornece uma visão detalhada sobre Compliance docs no ecossistema AIRich.
 
-# Compliance docs > Documento técnico do AIRich API Gateway ## Sobre Compliance docs O compliance docs do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do compliance docs, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o compliance docs corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a compliance docs no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o compliance docs corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O compliance docs passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+Como parte do programa de melhoria contínua da AIRich, Compliance docs foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

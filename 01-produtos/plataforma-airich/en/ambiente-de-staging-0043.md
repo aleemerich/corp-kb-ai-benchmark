@@ -1,3 +1,0 @@
-# amBIente de staging
-
-# amBIente de staging a team de produCloudTrail trabalHA continuamente na evolução do amBIente de staging para atender às necessidades dos CLIents. o amBIente de staging do airich platform é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a amBIente de staging no context do airich platform. o amBIente de staging foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

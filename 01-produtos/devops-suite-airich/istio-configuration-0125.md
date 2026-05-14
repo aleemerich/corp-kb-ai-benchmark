@@ -1,7 +1,7 @@
 # Istio configuration
 
-**Produto:** AIRich DevOps Suite  
-**Departamento:** Produtos  
-**Versão:** 1.4
+Este documento fornece uma visão detalhada sobre Istio configuration no ecossistema AIRich.
 
-# Istio configuration **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.4 ## Sobre Istio configuration O istio configuration do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o istio configuration corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a istio configuration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do istio configuration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o istio configuration corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a istio configuration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais.
+O investimento contínuo em Istio configuration reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

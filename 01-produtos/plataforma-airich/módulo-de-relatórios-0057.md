@@ -1,7 +1,7 @@
 # Módulo de relatórios
 
-**Produto:** AIRich Platform  
-**Departamento:** Produtos  
-**Versão:** 1.6
+Este documento descreve Módulo de relatórios no contexto da AIRich Tecnologia.
 
-# Módulo de relatórios **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.6 ## Requisitos Para utilizar o módulo de relatórios corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Módulo de relatórios O módulo de relatórios do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do módulo de relatórios, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O módulo de relatórios passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a módulo de relatórios no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Módulo de relatórios O módulo de relatórios do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+Alinhado com as melhores práticas do mercado, Módulo de relatórios segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,5 +1,35 @@
 # Split de pagamentos
 
-> Documento técnico do AIRich Pay
+**Produto:** AIRich Pay | **Departamento:** Produtos | **Data:** 2026-09-26
 
-# Split de pagamentos > Documento técnico do AIRich Pay ## Sobre Split de pagamentos O split de pagamentos do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o split de pagamentos corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do split de pagamentos pode ser realizada através do painel administrativo. Acesse Configurações > Split de pagamentos e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do split de pagamentos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do split de pagamentos pode ser realizada através do painel administrativo. Acesse Configurações > Split de pagamentos e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o split de pagamentos corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Split de pagamentos para as equipes envolvidas.
+
+Como parte do programa de melhoria contínua da AIRich, Split de pagamentos foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

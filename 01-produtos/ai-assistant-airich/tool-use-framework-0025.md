@@ -1,5 +1,7 @@
 # Tool use framework
 
-> Documento técnico do AIRich AI Assistant
+Este manual operacional descreve os processos e responsabilidades de Tool use framework.
 
-# Tool use framework > Documento técnico do AIRich AI Assistant ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do tool use framework, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O tool use framework passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do tool use framework pode ser realizada através do painel administrativo. Acesse Configurações > Tool use framework e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o tool use framework corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Tool use framework O tool use framework do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a tool use framework no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Tool use framework representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

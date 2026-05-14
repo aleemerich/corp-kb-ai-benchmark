@@ -1,5 +1,7 @@
 # Geo-blocking
 
-> Documento técnico do AIRich API Gateway
+O objetivo deste material é documentar as práticas recomendadas para Geo-blocking.
 
-# Geo-blocking > Documento técnico do AIRich API Gateway ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O geo-blocking passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Geo-blocking O geo-blocking do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do geo-blocking pode ser realizada através do painel administrativo. Acesse Configurações > Geo-blocking e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o geo-blocking corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do geo-blocking, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do geo-blocking pode ser realizada através do painel administrativo. Acesse Configurações > Geo-blocking e siga as instruções apresentadas na interface.
+A equipe de produto da AIRich trabalha continuamente na evolução de Geo-blocking, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

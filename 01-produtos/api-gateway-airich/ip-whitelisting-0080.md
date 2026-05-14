@@ -1,3 +1,35 @@
-# Doc: IP whitelisting
+# IP whitelisting
 
-# Doc: IP whitelisting O ip whitelisting do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a ip whitelisting no contexto do AIRich API Gateway. Para mais informações sobre ip whitelisting, consulte a documentação completa do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do ip whitelisting para atender às necessidades dos clientes.
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-08-24
+
+---
+
+## Visão Geral
+
+Este documento fornece uma visão detalhada sobre IP whitelisting no ecossistema AIRich.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. IP whitelisting foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

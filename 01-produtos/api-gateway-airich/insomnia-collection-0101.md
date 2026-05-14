@@ -1,3 +1,7 @@
-# Doc: Insomnia collection
+# Insomnia collection
 
-# Doc: Insomnia collection A equipe de produto trabalha continuamente na evolução do insomnia collection para atender às necessidades dos clientes. Para mais informações sobre insomnia collection, consulte a documentação completa do AIRich API Gateway. Para mais informações sobre insomnia collection, consulte a documentação completa do AIRich API Gateway. O insomnia collection do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia.
+Este manual operacional descreve os processos e responsabilidades de Insomnia collection.
+
+Como parte do programa de melhoria contínua da AIRich, Insomnia collection foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

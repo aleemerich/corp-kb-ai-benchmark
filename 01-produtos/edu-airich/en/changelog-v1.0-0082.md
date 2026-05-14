@@ -1,3 +1,0 @@
-# doc: cHAngelog v1.0
-
-# doc: cHAngelog v1.0 o cHAngelog v1.0 foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o cHAngelog v1.0 do airich edu é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre cHAngelog v1.0, consulte a documentação completa do airich edu. o cHAngelog v1.0 foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

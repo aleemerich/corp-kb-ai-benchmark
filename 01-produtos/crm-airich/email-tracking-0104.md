@@ -1,5 +1,34 @@
 # Email tracking
 
-> Documento técnico do AIRich CRM
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-05-20
 
-# Email tracking > Documento técnico do AIRich CRM ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O email tracking passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do email tracking pode ser realizada através do painel administrativo. Acesse Configurações > Email tracking e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a email tracking no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O email tracking passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do email tracking, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Email tracking na AIRich.
+
+Alinhado com as melhores práticas do mercado, Email tracking segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

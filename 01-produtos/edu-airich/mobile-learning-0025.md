@@ -1,5 +1,7 @@
 # Mobile learning
 
-## Resumo
+O presente documento tem como objetivo apresentar Mobile learning para as equipes envolvidas.
 
-# Mobile learning ## Resumo ## Configuração A configuração do mobile learning pode ser realizada através do painel administrativo. Acesse Configurações > Mobile learning e siga as instruções apresentadas na interface. ## Sobre Mobile learning O mobile learning do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O mobile learning passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a mobile learning no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do mobile learning pode ser realizada através do painel administrativo. Acesse Configurações > Mobile learning e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do mobile learning, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+Como parte do programa de melhoria contínua da AIRich, Mobile learning foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,3 +1,0 @@
-# memory system - airich ai assistant
-
-# memory system - airich ai assistant a team de produCloudTrail trabalHA continuamente na evolução do memory system para atender às necessidades dos CLIents. o memory system do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a memory system no context do airich ai assistant. o memory system do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI.

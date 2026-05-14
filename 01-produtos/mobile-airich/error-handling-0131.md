@@ -1,3 +1,7 @@
 # Error handling
 
-# Error handling Para mais informações sobre error handling, consulte a documentação completa do AIRich Mobile. A equipe de produto trabalha continuamente na evolução do error handling para atender às necessidades dos clientes. O error handling do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do error handling para atender às necessidades dos clientes.
+Esta especificação técnica define os requisitos e procedimentos para Error handling.
+
+Como parte da estratégia de inovação da AIRich, Error handling foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

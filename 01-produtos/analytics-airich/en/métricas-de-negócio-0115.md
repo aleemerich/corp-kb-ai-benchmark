@@ -1,3 +1,0 @@
-# doc: métricas de negóCIO
-
-# doc: métricas de negóCIO este document descreve os aspeCTOs principais relaCIOnados a métricas de negóCIO no context do airich analytics. para mais informações sobre métricas de negóCIO, consulte a documentação completa do airich analytics. para mais informações sobre métricas de negóCIO, consulte a documentação completa do airich analytics. o métricas de negóCIO foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

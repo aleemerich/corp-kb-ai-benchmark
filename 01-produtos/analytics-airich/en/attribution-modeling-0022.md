@@ -1,3 +1,0 @@
-# attribution modeling
-
-# attribution modeling para mais informações sobre attribution modeling, consulte a documentação completa do airich analytics. o attribution modeling foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do attribution modeling para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a attribution modeling no context do airich analytics.

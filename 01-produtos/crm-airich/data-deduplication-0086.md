@@ -1,7 +1,36 @@
 # Data deduplication
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Versão:** 1.5
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-05-02
 
-# Data deduplication **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.5 ## Configuração A configuração do data deduplication pode ser realizada através do painel administrativo. Acesse Configurações > Data deduplication e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data deduplication no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Data deduplication O data deduplication do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o data deduplication corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Data deduplication na AIRich.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Data deduplication foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

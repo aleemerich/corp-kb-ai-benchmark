@@ -1,7 +1,0 @@
-# event streaming
-
-**produCloudTrail:** airich api gateway  
-**department:** produCloudTrails  
-**versão:** 1.1
-
-# event streaming **produCloudTrail:** airich api gateway **department:** produCloudTrails **versão:** 1.1 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do event streaming, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do event streaming pode ser realizada através do painel administrativo. acesse Configurações > event streaming e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a event streaming no airich api gateway, inclUIndo Configurações, integrações e procedures operaCIOnais. ## sobre event streaming o event streaming do airich api gateway representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do event streaming pode ser realizada através do painel administrativo. acesse Configurações > event streaming e siga as instruções apresentadas na interface. ## reqUIrements para utilizar o event streaming corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge)

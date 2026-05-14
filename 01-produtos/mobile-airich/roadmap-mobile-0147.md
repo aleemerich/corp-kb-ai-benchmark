@@ -1,5 +1,37 @@
 # Roadmap mobile
 
-> Documento técnico do AIRich Mobile
+**Produto:** AIRich Mobile | **Departamento:** Produtos | **Data:** 2026-03-07
 
-# Roadmap mobile > Documento técnico do AIRich Mobile ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O roadmap mobile passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do roadmap mobile pode ser realizada através do painel administrativo. Acesse Configurações > Roadmap mobile e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do roadmap mobile, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o roadmap mobile corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do roadmap mobile, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Roadmap mobile O roadmap mobile do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Roadmap mobile na AIRich.
+
+Como parte da estratégia de inovação da AIRich, Roadmap mobile foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

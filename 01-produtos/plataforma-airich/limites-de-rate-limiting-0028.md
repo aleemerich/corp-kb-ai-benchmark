@@ -1,5 +1,7 @@
 # Limites de rate limiting
 
-> Documento técnico do AIRich Platform
+Este documento descreve Limites de rate limiting no contexto da AIRich Tecnologia.
 
-# Limites de rate limiting > Documento técnico do AIRich Platform ## Sobre Limites de rate limiting O limites de rate limiting do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do limites de rate limiting pode ser realizada através do painel administrativo. Acesse Configurações > Limites de rate limiting e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o limites de rate limiting corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do limites de rate limiting pode ser realizada através do painel administrativo. Acesse Configurações > Limites de rate limiting e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O limites de rate limiting passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+A equipe de produto da AIRich trabalha continuamente na evolução de Limites de rate limiting, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

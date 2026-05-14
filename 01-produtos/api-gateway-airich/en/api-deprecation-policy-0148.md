@@ -1,3 +1,0 @@
-# api deprecation policy
-
-# api deprecation policy este document descreve os aspeCTOs principais relaCIOnados a api deprecation policy no context do airich api gateway. a team de produCloudTrail trabalHA continuamente na evolução do api deprecation policy para atender às necessidades dos CLIents. o api deprecation policy foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre api deprecation policy, consulte a documentação completa do airich api gateway.

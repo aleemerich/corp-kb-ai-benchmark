@@ -1,3 +1,0 @@
-# doc: kubernetes orchestration
-
-# doc: kubernetes orchestration para mais informações sobre kubernetes orchestration, consulte a documentação completa do airich DevOps sUIte. o kubernetes orchestration do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a kubernetes orchestration no context do airich DevOps sUIte. para mais informações sobre kubernetes orchestration, consulte a documentação completa do airich DevOps sUIte.

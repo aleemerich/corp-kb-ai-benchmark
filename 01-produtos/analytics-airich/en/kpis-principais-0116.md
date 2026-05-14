@@ -1,7 +1,0 @@
-# KPIs principais
-
-**produCloudTrail:** airich analytics  
-**department:** produCloudTrails  
-**versão:** 1.5
-
-# KPIs principais **produCloudTrail:** airich analytics **department:** produCloudTrails **versão:** 1.5 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o KPIs principais paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do KPIs principais pode ser realizada através do painel administrativo. acesse Configurações > KPIs principais e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a KPIs principais no airich analytics, inclUIndo Configurações, integrações e procedures operaCIOnais. ## sobre KPIs principais o KPIs principais do airich analytics representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do KPIs principais pode ser realizada através do painel administrativo. acesse Configurações > KPIs principais e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a KPIs principais no airich analytics, inclUIndo Configurações, integrações e procedures operaCIOnais.

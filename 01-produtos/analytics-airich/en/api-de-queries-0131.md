@@ -1,3 +1,0 @@
-# doc: api de queries
-
-# doc: api de queries o api de queries do airich analytics é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do api de queries para atender às necessidades dos CLIents. para mais informações sobre api de queries, consulte a documentação completa do airich analytics. o api de queries foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

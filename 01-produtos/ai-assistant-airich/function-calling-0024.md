@@ -1,5 +1,7 @@
 # Function calling
 
-## Resumo
+O presente documento tem como objetivo apresentar Function calling para as equipes envolvidas.
 
-# Function calling ## Resumo ## Configuração A configuração do function calling pode ser realizada através do painel administrativo. Acesse Configurações > Function calling e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o function calling corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Function calling O function calling do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O function calling passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O function calling passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do function calling, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Function calling representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

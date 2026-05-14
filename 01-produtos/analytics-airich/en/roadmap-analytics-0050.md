@@ -1,3 +1,0 @@
-# roadmap analytics
-
-# roadmap analytics este document descreve os aspeCTOs principais relaCIOnados a roadmap analytics no context do airich analytics. a team de produCloudTrail trabalHA continuamente na evolução do roadmap analytics para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a roadmap analytics no context do airich analytics. para mais informações sobre roadmap analytics, consulte a documentação completa do airich analytics.

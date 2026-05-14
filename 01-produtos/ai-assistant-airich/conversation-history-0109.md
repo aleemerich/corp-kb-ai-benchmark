@@ -1,5 +1,7 @@
 # Conversation history
 
-## Resumo
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Conversation history.
 
-# Conversation history ## Resumo ## Requisitos Para utilizar o conversation history corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a conversation history no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do conversation history, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Conversation history O conversation history do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o conversation history corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Conversation history O conversation history do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Conversation history foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

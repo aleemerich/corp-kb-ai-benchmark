@@ -1,7 +1,37 @@
 # DAST integration
 
-**Produto:** AIRich DevOps Suite  
-**Departamento:** Produtos  
-**Versão:** 1.6
+**Produto:** AIRich DevOps Suite | **Departamento:** Produtos | **Data:** 2026-09-27
 
-# DAST integration **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.6 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dast integration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Sobre DAST integration O dast integration do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do dast integration pode ser realizada através do painel administrativo. Acesse Configurações > DAST integration e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o dast integration corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do dast integration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dast integration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+Este manual operacional descreve os processos e responsabilidades de DAST integration.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. DAST integration foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

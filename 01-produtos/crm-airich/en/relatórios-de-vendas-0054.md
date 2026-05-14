@@ -1,7 +1,0 @@
-# relatórios de sales
-
-**produCloudTrail:** airich crm  
-**department:** produCloudTrails  
-**versão:** 1.3
-
-# relatórios de sales **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.3 ## sobre relatórios de sales o relatórios de sales do airich crm representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a relatórios de sales no airich crm, inclUIndo Configurações, integrações e procedures operaCIOnais. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do relatórios de sales pode ser realizada através do painel administrativo. acesse Configurações > relatórios de sales e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do relatórios de sales pode ser realizada através do painel administrativo. acesse Configurações > relatórios de sales e siga as instruções apresentadas na interface.

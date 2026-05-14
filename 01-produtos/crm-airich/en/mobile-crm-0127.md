@@ -1,3 +1,0 @@
-# moBIle crm
-
-# moBIle crm este document descreve os aspeCTOs principais relaCIOnados a moBIle crm no context do airich crm. o moBIle crm do airich crm é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a moBIle crm no context do airich crm. a team de produCloudTrail trabalHA continuamente na evolução do moBIle crm para atender às necessidades dos CLIents.

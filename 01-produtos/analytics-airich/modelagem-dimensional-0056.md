@@ -1,7 +1,35 @@
 # Modelagem dimensional
 
-**Produto:** AIRich Analytics  
-**Departamento:** Produtos  
-**Versão:** 1.5
+**Produto:** AIRich Analytics | **Departamento:** Produtos | **Data:** 2026-02-28
 
-# Modelagem dimensional **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.5 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do modelagem dimensional, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Modelagem dimensional O modelagem dimensional do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do modelagem dimensional pode ser realizada através do painel administrativo. Acesse Configurações > Modelagem dimensional e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do modelagem dimensional pode ser realizada através do painel administrativo. Acesse Configurações > Modelagem dimensional e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Modelagem dimensional.
+
+Alinhado com as melhores práticas do mercado, Modelagem dimensional segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

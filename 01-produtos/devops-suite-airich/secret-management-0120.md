@@ -1,7 +1,37 @@
 # Secret management
 
-**Produto:** AIRich DevOps Suite  
-**Departamento:** Produtos  
-**Versão:** 1.9
+**Produto:** AIRich DevOps Suite | **Departamento:** Produtos | **Data:** 2026-03-08
 
-# Secret management **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.9 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do secret management, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a secret management no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do secret management pode ser realizada através do painel administrativo. Acesse Configurações > Secret management e siga as instruções apresentadas na interface. ## Sobre Secret management O secret management do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o secret management corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do secret management pode ser realizada através do painel administrativo. Acesse Configurações > Secret management e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Secret management para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, Secret management segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,3 +1,0 @@
-# architeCloudTrailure de segurança - airich security shield
-
-# architeCloudTrailure de segurança - airich security shield a team de produCloudTrail trabalHA continuamente na evolução do architeCloudTrailure de segurança para atender às necessidades dos CLIents. para mais informações sobre architeCloudTrailure de segurança, consulte a documentação completa do airich security shield. o architeCloudTrailure de segurança do airich security shield é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a architeCloudTrailure de segurança no context do airich security shield.

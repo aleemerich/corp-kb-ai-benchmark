@@ -1,3 +1,36 @@
-# Offline mode - AIRich CRM
+# Offline mode
 
-# Offline mode - AIRich CRM A equipe de produto trabalha continuamente na evolução do offline mode para atender às necessidades dos clientes. Para mais informações sobre offline mode, consulte a documentação completa do AIRich CRM. A equipe de produto trabalha continuamente na evolução do offline mode para atender às necessidades dos clientes. O offline mode foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-02-27
+
+---
+
+## Visão Geral
+
+Este documento descreve Offline mode no contexto da AIRich Tecnologia.
+
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Offline mode representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

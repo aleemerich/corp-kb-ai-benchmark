@@ -1,3 +1,0 @@
-# doc: Configuração de SSO
-
-# doc: Configuração de SSO a team de produCloudTrail trabalHA continuamente na evolução do Configuração de SSO para atender às necessidades dos CLIents. o Configuração de SSO do airich platform é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a Configuração de SSO no context do airich platform. o Configuração de SSO foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

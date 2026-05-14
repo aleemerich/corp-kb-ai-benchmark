@@ -1,7 +1,7 @@
 # Changelog v5.0
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Versão:** 1.2
+Este documento descreve Changelog v5.0 no contexto da AIRich Tecnologia.
 
-# Changelog v5.0 **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.2 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O changelog v5.0 passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Changelog v5.0 O changelog v5.0 do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do changelog v5.0 pode ser realizada através do painel administrativo. Acesse Configurações > Changelog v5.0 e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do changelog v5.0, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do changelog v5.0, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do changelog v5.0 pode ser realizada através do painel administrativo. Acesse Configurações > Changelog v5.0 e siga as instruções apresentadas na interface.
+Como parte da estratégia de inovação da AIRich, Changelog v5.0 foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

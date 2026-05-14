@@ -1,3 +1,7 @@
-# xAPI integration - AIRich Edu
+# xAPI integration
 
-# xAPI integration - AIRich Edu Este documento descreve os aspectos principais relacionados a xapi integration no contexto do AIRich Edu. Para mais informações sobre xapi integration, consulte a documentação completa do AIRich Edu. O xapi integration do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre xapi integration, consulte a documentação completa do AIRich Edu.
+Esta especificação técnica define os requisitos e procedimentos para xAPI integration.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. xAPI integration foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

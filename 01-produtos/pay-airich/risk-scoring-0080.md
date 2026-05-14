@@ -1,5 +1,7 @@
 # Risk scoring
 
-## Resumo
+O presente documento tem como objetivo apresentar Risk scoring para as equipes envolvidas.
 
-# Risk scoring ## Resumo ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O risk scoring passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Risk scoring O risk scoring do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do risk scoring pode ser realizada através do painel administrativo. Acesse Configurações > Risk scoring e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o risk scoring corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Requisitos Para utilizar o risk scoring corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do risk scoring, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+A equipe de produto da AIRich trabalha continuamente na evolução de Risk scoring, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

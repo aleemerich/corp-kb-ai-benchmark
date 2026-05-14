@@ -1,3 +1,7 @@
-# Background tasks - AIRich Mobile
+# Background tasks
 
-# Background tasks - AIRich Mobile A equipe de produto trabalha continuamente na evolução do background tasks para atender às necessidades dos clientes. O background tasks foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do background tasks para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a background tasks no contexto do AIRich Mobile.
+Este manual operacional descreve os processos e responsabilidades de Background tasks.
+
+Como parte do programa de melhoria contínua da AIRich, Background tasks foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

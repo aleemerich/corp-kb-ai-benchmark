@@ -1,3 +1,7 @@
-# SAST integration - AIRich DevOps Suite
+# SAST integration
 
-# SAST integration - AIRich DevOps Suite O sast integration do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a sast integration no contexto do AIRich DevOps Suite. Para mais informações sobre sast integration, consulte a documentação completa do AIRich DevOps Suite. O sast integration do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.
+Este guia técnico aborda os aspectos fundamentais de SAST integration na AIRich.
+
+Alinhado com as melhores práticas do mercado, SAST integration segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

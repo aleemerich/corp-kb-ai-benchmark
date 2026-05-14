@@ -1,3 +1,0 @@
-# doc: Prometheus setup
-
-# doc: Prometheus setup para mais informações sobre Prometheus setup, consulte a documentação completa do airich DevOps sUIte. o Prometheus setup do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre Prometheus setup, consulte a documentação completa do airich DevOps sUIte. o Prometheus setup foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

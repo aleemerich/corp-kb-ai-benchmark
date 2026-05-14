@@ -1,3 +1,0 @@
-# doc: amBIente de produção
-
-# doc: amBIente de produção este document descreve os aspeCTOs principais relaCIOnados a amBIente de produção no context do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do amBIente de produção para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a amBIente de produção no context do airich platform. o amBIente de produção do airich platform é um componente essencAIl da plataforma airich tecnologAI.

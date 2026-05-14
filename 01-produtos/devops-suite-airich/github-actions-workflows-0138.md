@@ -1,3 +1,35 @@
 # GitHub Actions workflows
 
-# GitHub Actions workflows Para mais informações sobre github actions workflows, consulte a documentação completa do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do github actions workflows para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do github actions workflows para atender às necessidades dos clientes. O github actions workflows do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.
+**Produto:** AIRich DevOps Suite | **Departamento:** Produtos | **Data:** 2026-03-26
+
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a GitHub Actions workflows.
+
+Como parte da estratégia de inovação da AIRich, GitHub Actions workflows foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

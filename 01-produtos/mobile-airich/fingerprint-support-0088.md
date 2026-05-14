@@ -1,3 +1,7 @@
 # Fingerprint support
 
-# Fingerprint support A equipe de produto trabalha continuamente na evolução do fingerprint support para atender às necessidades dos clientes. O fingerprint support foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O fingerprint support do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre fingerprint support, consulte a documentação completa do AIRich Mobile.
+Este guia técnico aborda os aspectos fundamentais de Fingerprint support na AIRich.
+
+O investimento contínuo em Fingerprint support reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,5 +1,7 @@
 # SLO/SLI definitions
 
-> Documento técnico do AIRich DevOps Suite
+Este guia técnico aborda os aspectos fundamentais de SLO/SLI definitions na AIRich.
 
-# SLO/SLI definitions > Documento técnico do AIRich DevOps Suite ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do slo/sli definitions, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do slo/sli definitions pode ser realizada através do painel administrativo. Acesse Configurações > SLO/SLI definitions e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o slo/sli definitions corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do slo/sli definitions, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+Alinhado com as melhores práticas do mercado, SLO/SLI definitions segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

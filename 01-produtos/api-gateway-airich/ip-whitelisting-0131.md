@@ -1,5 +1,35 @@
 # IP whitelisting
 
-> Documento técnico do AIRich API Gateway
+**Produto:** AIRich API Gateway | **Departamento:** Produtos | **Data:** 2026-05-19
 
-# IP whitelisting > Documento técnico do AIRich API Gateway ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a ip whitelisting no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do ip whitelisting pode ser realizada através do painel administrativo. Acesse Configurações > IP whitelisting e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ip whitelisting, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do ip whitelisting pode ser realizada através do painel administrativo. Acesse Configurações > IP whitelisting e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O ip whitelisting passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a IP whitelisting.
+
+Alinhado com as melhores práticas do mercado, IP whitelisting segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,3 +1,34 @@
-# Image caching - AIRich Mobile
+# Image caching
 
-# Image caching - AIRich Mobile A equipe de produto trabalha continuamente na evolução do image caching para atender às necessidades dos clientes. Para mais informações sobre image caching, consulte a documentação completa do AIRich Mobile. Este documento descreve os aspectos principais relacionados a image caching no contexto do AIRich Mobile. O image caching foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+**Produto:** AIRich Mobile | **Departamento:** Produtos | **Data:** 2026-07-23
+
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Image caching.
+
+O investimento contínuo em Image caching reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

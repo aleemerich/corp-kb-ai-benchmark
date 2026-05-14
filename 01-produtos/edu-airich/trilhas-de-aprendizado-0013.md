@@ -1,5 +1,7 @@
 # Trilhas de aprendizado
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de Trilhas de aprendizado.
 
-# Trilhas de aprendizado ## Resumo ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O trilhas de aprendizado passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a trilhas de aprendizado no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o trilhas de aprendizado corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O trilhas de aprendizado passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a trilhas de aprendizado no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais.
+Alinhado com as melhores práticas do mercado, Trilhas de aprendizado segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,3 +1,0 @@
-# incident management - airich DevOps sUIte
-
-# incident management - airich DevOps sUIte para mais informações sobre incident management, consulte a documentação completa do airich DevOps sUIte. este document descreve os aspeCTOs principais relaCIOnados a incident management no context do airich DevOps sUIte. a team de produCloudTrail trabalHA continuamente na evolução do incident management para atender às necessidades dos CLIents. o incident management foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

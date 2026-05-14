@@ -1,3 +1,0 @@
-# integração com email
-
-# integração com email o integração com email foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o integração com email do airich crm é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a integração com email no context do airich crm. o integração com email foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

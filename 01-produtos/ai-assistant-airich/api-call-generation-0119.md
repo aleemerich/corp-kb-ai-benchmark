@@ -1,3 +1,35 @@
-# API call generation - AIRich AI Assistant
+# API call generation
 
-# API call generation - AIRich AI Assistant O api call generation do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. O api call generation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O api call generation do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre api call generation, consulte a documentação completa do AIRich AI Assistant.
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-02-07
+
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar API call generation para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, API call generation segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

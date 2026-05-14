@@ -1,5 +1,36 @@
 # Portuguese NLP models
 
-> Documento técnico do AIRich AI Assistant
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-07-03
 
-# Portuguese NLP models > Documento técnico do AIRich AI Assistant ## Requisitos Para utilizar o portuguese nlp models corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do portuguese nlp models pode ser realizada através do painel administrativo. Acesse Configurações > Portuguese NLP models e siga as instruções apresentadas na interface. ## Sobre Portuguese NLP models O portuguese nlp models do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do portuguese nlp models, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do portuguese nlp models pode ser realizada através do painel administrativo. Acesse Configurações > Portuguese NLP models e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Portuguese NLP models para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, Portuguese NLP models segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+O procedimento padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requisitos necessários
+2. **Planejamento** — Definir recursos, cronograma e responsabilidades
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

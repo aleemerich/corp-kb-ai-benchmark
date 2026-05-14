@@ -1,7 +1,0 @@
-# background tasks
-
-**produCloudTrail:** airich moBIle  
-**department:** produCloudTrails  
-**versão:** 1.9
-
-# background tasks **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.9 ## sobre background tasks o background tasks do airich moBIle representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do background tasks pode ser realizada através do painel administrativo. acesse Configurações > background tasks e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do background tasks, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a background tasks no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## sobre background tasks o background tasks do airich moBIle representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do background tasks pode ser realizada através do painel administrativo. acesse Configurações > background tasks e siga as instruções apresentadas na interface.

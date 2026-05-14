@@ -1,7 +1,7 @@
 # Analytics educacional
 
-**Produto:** AIRich Edu  
-**Departamento:** Produtos  
-**Versão:** 1.3
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Analytics educacional.
 
-# Analytics educacional **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.3 ## Configuração A configuração do analytics educacional pode ser realizada através do painel administrativo. Acesse Configurações > Analytics educacional e siga as instruções apresentadas na interface. ## Sobre Analytics educacional O analytics educacional do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o analytics educacional corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do analytics educacional, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o analytics educacional corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Analytics educacional O analytics educacional do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Analytics educacional representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

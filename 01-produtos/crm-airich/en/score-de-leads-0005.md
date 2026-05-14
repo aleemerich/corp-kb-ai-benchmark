@@ -1,7 +1,0 @@
-# score de leads
-
-**produCloudTrail:** airich crm  
-**department:** produCloudTrails  
-**versão:** 1.4
-
-# score de leads **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.4 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## reqUIrements para utilizar o score de leads corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o score de leads paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do score de leads pode ser realizada através do painel administrativo. acesse Configurações > score de leads e siga as instruções apresentadas na interface. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o score de leads paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a score de leads no airich crm, inclUIndo Configurações, integrações e procedures operaCIOnais.

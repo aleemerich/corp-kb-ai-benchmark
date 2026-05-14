@@ -1,5 +1,35 @@
 # Campaign management
 
-## Resumo
+**Produto:** AIRich CRM | **Departamento:** Produtos | **Data:** 2026-02-18
 
-# Campaign management ## Resumo ## Configuração A configuração do campaign management pode ser realizada através do painel administrativo. Acesse Configurações > Campaign management e siga as instruções apresentadas na interface. ## Sobre Campaign management O campaign management do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o campaign management corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a campaign management no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a campaign management no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do campaign management pode ser realizada através do painel administrativo. Acesse Configurações > Campaign management e siga as instruções apresentadas na interface.
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Campaign management.
+
+Como parte da estratégia de inovação da AIRich, Campaign management foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

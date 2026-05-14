@@ -1,3 +1,0 @@
-# code generation - airich ai assistant
-
-# code generation - airich ai assistant o code generation foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o code generation do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre code generation, consulte a documentação completa do airich ai assistant. este document descreve os aspeCTOs principais relaCIOnados a code generation no context do airich ai assistant.

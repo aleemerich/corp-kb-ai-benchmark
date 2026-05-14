@@ -1,3 +1,34 @@
-# Bug bounty program - AIRich Security Shield
+# Bug bounty program
 
-# Bug bounty program - AIRich Security Shield A equipe de produto trabalha continuamente na evolução do bug bounty program para atender às necessidades dos clientes. Para mais informações sobre bug bounty program, consulte a documentação completa do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do bug bounty program para atender às necessidades dos clientes. Para mais informações sobre bug bounty program, consulte a documentação completa do AIRich Security Shield.
+**Produto:** AIRich Security Shield | **Departamento:** Produtos | **Data:** 2026-06-23
+
+---
+
+## Visão Geral
+
+Este manual operacional descreve os processos e responsabilidades de Bug bounty program.
+
+Como parte da estratégia de inovação da AIRich, Bug bounty program foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

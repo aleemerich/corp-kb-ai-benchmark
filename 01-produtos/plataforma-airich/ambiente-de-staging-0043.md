@@ -1,3 +1,36 @@
 # Ambiente de staging
 
-# Ambiente de staging A equipe de produto trabalha continuamente na evolução do ambiente de staging para atender às necessidades dos clientes. O ambiente de staging do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a ambiente de staging no contexto do AIRich Platform. O ambiente de staging foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+**Produto:** AIRich Platform | **Departamento:** Produtos | **Data:** 2026-07-15
+
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Ambiente de staging.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Ambiente de staging foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco de Dados | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Mensageria | RabbitMQ | 3.13 | Comunicação async |
+| Container | Docker | 25.x | Isolamento |
+| Orquestração | Kubernetes | 1.29 | Escalabilidade |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

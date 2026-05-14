@@ -1,5 +1,7 @@
 # Data lake architecture
 
-## Resumo
+O objetivo deste material é documentar as práticas recomendadas para Data lake architecture.
 
-# Data lake architecture ## Resumo ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data lake architecture no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o data lake architecture corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do data lake architecture, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do data lake architecture pode ser realizada através do painel administrativo. Acesse Configurações > Data lake architecture e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data lake architecture no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Data lake architecture O data lake architecture do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+A equipe de produto da AIRich trabalha continuamente na evolução de Data lake architecture, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

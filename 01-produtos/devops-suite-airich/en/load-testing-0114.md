@@ -1,3 +1,0 @@
-# load testing
-
-# load testing este document descreve os aspeCTOs principais relaCIOnados a load testing no context do airich DevOps sUIte. a team de produCloudTrail trabalHA continuamente na evolução do load testing para atender às necessidades dos CLIents. o load testing do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre load testing, consulte a documentação completa do airich DevOps sUIte.

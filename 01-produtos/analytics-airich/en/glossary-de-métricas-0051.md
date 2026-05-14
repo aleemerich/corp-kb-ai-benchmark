@@ -1,3 +1,0 @@
-# doc: glossary de métricas
-
-# doc: glossary de métricas para mais informações sobre glossary de métricas, consulte a documentação completa do airich analytics. a team de produCloudTrail trabalHA continuamente na evolução do glossary de métricas para atender às necessidades dos CLIents. o glossary de métricas foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o glossary de métricas do airich analytics é um componente essencAIl da plataforma airich tecnologAI.

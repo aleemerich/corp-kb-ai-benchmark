@@ -1,7 +1,35 @@
 # A/B testing de modelos
 
-**Produto:** AIRich AI Assistant  
-**Departamento:** Produtos  
-**Versão:** 1.9
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-04-18
 
-# A/B testing de modelos **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.9 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do a/b testing de modelos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre A/B testing de modelos O a/b testing de modelos do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do a/b testing de modelos pode ser realizada através do painel administrativo. Acesse Configurações > A/B testing de modelos e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do a/b testing de modelos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a a/b testing de modelos no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para A/B testing de modelos.
+
+Como parte da estratégia de inovação da AIRich, A/B testing de modelos foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

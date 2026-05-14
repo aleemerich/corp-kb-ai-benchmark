@@ -1,7 +1,0 @@
-# relatórios de engajamento
-
-**produCloudTrail:** airich edu  
-**department:** produCloudTrails  
-**versão:** 1.4
-
-# relatórios de engajamento **produCloudTrail:** airich edu **department:** produCloudTrails **versão:** 1.4 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a relatórios de engajamento no airich edu, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do relatórios de engajamento pode ser realizada através do painel administrativo. acesse Configurações > relatórios de engajamento e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do relatórios de engajamento, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o relatórios de engajamento paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do relatórios de engajamento, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do relatórios de engajamento pode ser realizada através do painel administrativo. acesse Configurações > relatórios de engajamento e siga as instruções apresentadas na interface.

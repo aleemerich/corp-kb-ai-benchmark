@@ -1,7 +1,0 @@
-# integração OAuth2
-
-**produCloudTrail:** airich platform  
-**department:** produCloudTrails  
-**versão:** 1.9
-
-# integração OAuth2 **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.9 ## Configuração a Configuração do integração OAuth2 pode ser realizada através do painel administrativo. acesse Configurações > integração OAuth2 e siga as instruções apresentadas na interface. ## sobre integração OAuth2 o integração OAuth2 do airich platform representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a integração OAuth2 no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do integração OAuth2, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do integração OAuth2 pode ser realizada através do painel administrativo. acesse Configurações > integração OAuth2 e siga as instruções apresentadas na interface.

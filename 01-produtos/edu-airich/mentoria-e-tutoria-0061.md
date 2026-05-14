@@ -1,7 +1,34 @@
 # Mentoria e tutoria
 
-**Produto:** AIRich Edu  
-**Departamento:** Produtos  
-**Versão:** 1.0
+**Produto:** AIRich Edu | **Departamento:** Produtos | **Data:** 2026-07-05
 
-# Mentoria e tutoria **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.0 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O mentoria e tutoria passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a mentoria e tutoria no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o mentoria e tutoria corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Mentoria e tutoria O mentoria e tutoria do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Sobre Mentoria e tutoria O mentoria e tutoria do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a mentoria e tutoria no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Mentoria e tutoria.
+
+O investimento contínuo em Mentoria e tutoria reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

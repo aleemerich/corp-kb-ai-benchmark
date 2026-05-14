@@ -1,5 +1,34 @@
 # A/B testing de modelos
 
-> Documento técnico do AIRich AI Assistant
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-01-26
 
-# A/B testing de modelos > Documento técnico do AIRich AI Assistant ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do a/b testing de modelos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do a/b testing de modelos pode ser realizada através do painel administrativo. Acesse Configurações > A/B testing de modelos e siga as instruções apresentadas na interface. ## Sobre A/B testing de modelos O a/b testing de modelos do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Sobre A/B testing de modelos O a/b testing de modelos do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do a/b testing de modelos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar A/B testing de modelos para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, A/B testing de modelos segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

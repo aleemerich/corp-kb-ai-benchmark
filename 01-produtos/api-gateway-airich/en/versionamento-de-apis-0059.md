@@ -1,3 +1,0 @@
-# versionamento de apis - airich api gateway
-
-# versionamento de apis - airich api gateway o versionamento de apis foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a versionamento de apis no context do airich api gateway. a team de produCloudTrail trabalHA continuamente na evolução do versionamento de apis para atender às necessidades dos CLIents. o versionamento de apis do airich api gateway é um componente essencAIl da plataforma airich tecnologAI.

@@ -1,3 +1,7 @@
 # Importação em massa
 
-# Importação em massa O importação em massa do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a importação em massa no contexto do AIRich Platform. A equipe de produto trabalha continuamente na evolução do importação em massa para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a importação em massa no contexto do AIRich Platform.
+Este documento descreve Importação em massa no contexto da AIRich Tecnologia.
+
+O investimento contínuo em Importação em massa reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

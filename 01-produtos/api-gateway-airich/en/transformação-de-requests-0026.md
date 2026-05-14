@@ -1,3 +1,0 @@
-# transformação de requests
-
-# transformação de requests para mais informações sobre transformação de requests, consulte a documentação completa do airich api gateway. a team de produCloudTrail trabalHA continuamente na evolução do transformação de requests para atender às necessidades dos CLIents. o transformação de requests do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. o transformação de requests foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

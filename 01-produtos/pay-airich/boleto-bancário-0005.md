@@ -1,3 +1,7 @@
 # Boleto bancário
 
-# Boleto bancário O boleto bancário foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do boleto bancário para atender às necessidades dos clientes. O boleto bancário foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O boleto bancário do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.
+Este guia técnico aborda os aspectos fundamentais de Boleto bancário na AIRich.
+
+No cenário atual de transformação digital, Boleto bancário desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes. Este documento estabelece as diretrizes para garantir consistência e eficiência.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

@@ -1,3 +1,0 @@
-# CI/CD moBIle
-
-# CI/CD moBIle a team de produCloudTrail trabalHA continuamente na evolução do CI/CD moBIle para atender às necessidades dos CLIents. o CI/CD moBIle do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre CI/CD moBIle, consulte a documentação completa do airich moBIle. o CI/CD moBIle foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

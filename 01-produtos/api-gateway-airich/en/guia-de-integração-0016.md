@@ -1,3 +1,0 @@
-# doc: GUIa de integração
-
-# doc: GUIa de integração a team de produCloudTrail trabalHA continuamente na evolução do GUIa de integração para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a GUIa de integração no context do airich api gateway. para mais informações sobre GUIa de integração, consulte a documentação completa do airich api gateway. este document descreve os aspeCTOs principais relaCIOnados a GUIa de integração no context do airich api gateway.

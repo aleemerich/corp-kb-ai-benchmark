@@ -1,3 +1,34 @@
-# Doc: Hallucination prevention
+# Hallucination prevention
 
-# Doc: Hallucination prevention O hallucination prevention do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre hallucination prevention, consulte a documentação completa do AIRich AI Assistant. Para mais informações sobre hallucination prevention, consulte a documentação completa do AIRich AI Assistant. O hallucination prevention foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+**Produto:** AIRich AI Assistant | **Departamento:** Produtos | **Data:** 2026-08-13
+
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Hallucination prevention para as equipes envolvidas.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Hallucination prevention foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,5 +1,7 @@
 # Phishing awareness
 
-> Documento técnico do AIRich Security Shield
+Esta especificação técnica define os requisitos e procedimentos para Phishing awareness.
 
-# Phishing awareness > Documento técnico do AIRich Security Shield ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a phishing awareness no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do phishing awareness, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O phishing awareness passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o phishing awareness corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do phishing awareness pode ser realizada através do painel administrativo. Acesse Configurações > Phishing awareness e siga as instruções apresentadas na interface.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Phishing awareness representa um componente essencial dessa estratégia, garantindo que nossos produtos atendam aos mais altos padrões de qualidade e confiabilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

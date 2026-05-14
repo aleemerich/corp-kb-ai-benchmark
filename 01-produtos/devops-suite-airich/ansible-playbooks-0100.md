@@ -1,3 +1,7 @@
-# Ansible playbooks - AIRich DevOps Suite
+# Ansible playbooks
 
-# Ansible playbooks - AIRich DevOps Suite Este documento descreve os aspectos principais relacionados a ansible playbooks no contexto do AIRich DevOps Suite. O ansible playbooks do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. O ansible playbooks do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do ansible playbooks para atender às necessidades dos clientes.
+O objetivo deste material é documentar as práticas recomendadas para Ansible playbooks.
+
+Alinhado com as melhores práticas do mercado, Ansible playbooks segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

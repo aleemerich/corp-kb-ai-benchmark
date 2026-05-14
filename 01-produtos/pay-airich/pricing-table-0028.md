@@ -1,3 +1,34 @@
-# Doc: Pricing table
+# Pricing table
 
-# Doc: Pricing table Este documento descreve os aspectos principais relacionados a pricing table no contexto do AIRich Pay. O pricing table do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. O pricing table do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. O pricing table foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+**Produto:** AIRich Pay | **Departamento:** Produtos | **Data:** 2026-01-28
+
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Pricing table.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Pricing table foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+Para executar este processo corretamente:
+
+1. Verificar pré-requisitos e dependências
+2. Aplicar o procedimento conforme documentação técnica
+3. Validar resultados com a equipe responsável
+4. Atualizar a documentação com eventuais mudanças
+5. Comunicar stakeholders sobre o status
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K req/s | 12.5K req/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

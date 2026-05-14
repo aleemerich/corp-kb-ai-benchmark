@@ -1,3 +1,7 @@
 # Attribution modeling
 
-# Attribution modeling Para mais informações sobre attribution modeling, consulte a documentação completa do AIRich Analytics. O attribution modeling foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do attribution modeling para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a attribution modeling no contexto do AIRich Analytics.
+Este documento descreve Attribution modeling no contexto da AIRich Tecnologia.
+
+Como parte do programa de melhoria contínua da AIRich, Attribution modeling foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

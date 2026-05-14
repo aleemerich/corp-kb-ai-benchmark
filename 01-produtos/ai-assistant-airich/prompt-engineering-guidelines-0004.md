@@ -1,3 +1,7 @@
 # Prompt engineering guidelines
 
-# Prompt engineering guidelines Este documento descreve os aspectos principais relacionados a prompt engineering guidelines no contexto do AIRich AI Assistant. O prompt engineering guidelines do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre prompt engineering guidelines, consulte a documentação completa do AIRich AI Assistant. O prompt engineering guidelines foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+Este documento descreve Prompt engineering guidelines no contexto da AIRich Tecnologia.
+
+Alinhado com as melhores práticas do mercado, Prompt engineering guidelines segue padrões estabelecidos pelas equipes de engenharia e operações da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

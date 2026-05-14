@@ -1,5 +1,7 @@
 # Qualificação de leads
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de Qualificação de leads.
 
-# Qualificação de leads ## Resumo ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do qualificação de leads pode ser realizada através do painel administrativo. Acesse Configurações > Qualificação de leads e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do qualificação de leads, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a qualificação de leads no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do qualificação de leads pode ser realizada através do painel administrativo. Acesse Configurações > Qualificação de leads e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o qualificação de leads corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)
+Como parte do programa de melhoria contínua da AIRich, Qualificação de leads foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

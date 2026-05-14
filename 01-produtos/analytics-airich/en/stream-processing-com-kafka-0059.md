@@ -1,3 +1,0 @@
-# doc: stream processing com kafka
-
-# doc: stream processing com kafka este document descreve os aspeCTOs principais relaCIOnados a stream processing com kafka no context do airich analytics. o stream processing com kafka foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a stream processing com kafka no context do airich analytics. a team de produCloudTrail trabalHA continuamente na evolução do stream processing com kafka para atender às necessidades dos CLIents.

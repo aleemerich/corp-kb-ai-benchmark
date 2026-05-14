@@ -1,5 +1,7 @@
 # Navegação e roteamento
 
-## Resumo
+Este documento descreve Navegação e roteamento no contexto da AIRich Tecnologia.
 
-# Navegação e roteamento ## Resumo ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O navegação e roteamento passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Navegação e roteamento O navegação e roteamento do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a navegação e roteamento no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a navegação e roteamento no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do navegação e roteamento pode ser realizada através do painel administrativo. Acesse Configurações > Navegação e roteamento e siga as instruções apresentadas na interface.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Navegação e roteamento foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

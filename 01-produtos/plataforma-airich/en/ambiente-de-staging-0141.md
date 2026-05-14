@@ -1,7 +1,0 @@
-# amBIente de staging
-
-**produCloudTrail:** airich platform  
-**department:** produCloudTrails  
-**versão:** 1.0
-
-# amBIente de staging **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.0 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a amBIente de staging no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do amBIente de staging, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do amBIente de staging pode ser realizada através do painel administrativo. acesse Configurações > amBIente de staging e siga as instruções apresentadas na interface. ## Configuração a Configuração do amBIente de staging pode ser realizada através do painel administrativo. acesse Configurações > amBIente de staging e siga as instruções apresentadas na interface. ## reqUIrements para utilizar o amBIente de staging corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge)

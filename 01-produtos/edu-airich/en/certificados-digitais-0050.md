@@ -1,3 +1,0 @@
-# certificates digitais - airich edu
-
-# certificates digitais - airich edu o certificates digitais foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a certificates digitais no context do airich edu. este document descreve os aspeCTOs principais relaCIOnados a certificates digitais no context do airich edu. o certificates digitais foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

@@ -1,7 +1,0 @@
-# retry logic
-
-**produCloudTrail:** airich moBIle  
-**department:** produCloudTrails  
-**versão:** 1.1
-
-# retry logic **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.1 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a retry logic no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do retry logic pode ser realizada através do painel administrativo. acesse Configurações > retry logic e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do retry logic, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do retry logic, fornecendo uma visão abrangente para as teams de development, suporte e operações.

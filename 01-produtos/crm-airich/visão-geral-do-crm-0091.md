@@ -1,7 +1,7 @@
 # Visão geral do CRM
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Versão:** 1.0
+Este documento descreve Visão geral do CRM no contexto da AIRich Tecnologia.
 
-# Visão geral do CRM **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.0 ## Configuração A configuração do visão geral do crm pode ser realizada através do painel administrativo. Acesse Configurações > Visão geral do CRM e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do visão geral do crm, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Visão geral do CRM O visão geral do crm do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O visão geral do crm passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do visão geral do crm pode ser realizada através do painel administrativo. Acesse Configurações > Visão geral do CRM e siga as instruções apresentadas na interface.
+O investimento contínuo em Visão geral do CRM reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

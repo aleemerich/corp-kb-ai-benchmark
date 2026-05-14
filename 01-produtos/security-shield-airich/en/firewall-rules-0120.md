@@ -1,3 +1,0 @@
-# firewall rules - airich security shield
-
-# firewall rules - airich security shield o firewall rules do airich security shield é um componente essencAIl da plataforma airich tecnologAI. o firewall rules foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do firewall rules para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a firewall rules no context do airich security shield.

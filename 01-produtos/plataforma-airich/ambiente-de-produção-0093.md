@@ -1,5 +1,7 @@
 # Ambiente de produção
 
-> Documento técnico do AIRich Platform
+O objetivo deste material é documentar as práticas recomendadas para Ambiente de produção.
 
-# Ambiente de produção > Documento técnico do AIRich Platform ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a ambiente de produção no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ambiente de produção, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O ambiente de produção passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O ambiente de produção passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Ambiente de produção O ambiente de produção do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Ambiente de produção foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

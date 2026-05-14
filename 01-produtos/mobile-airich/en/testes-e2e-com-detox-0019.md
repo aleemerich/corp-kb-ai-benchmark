@@ -1,3 +1,0 @@
-# tests e2e com detox
-
-# tests e2e com detox para mais informações sobre tests e2e com detox, consulte a documentação completa do airich moBIle. o tests e2e com detox do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do tests e2e com detox para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a tests e2e com detox no context do airich moBIle.

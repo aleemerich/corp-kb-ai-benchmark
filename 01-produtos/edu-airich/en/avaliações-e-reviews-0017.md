@@ -1,3 +1,0 @@
-# doc: avalAIções e reviews
-
-# doc: avalAIções e reviews o avalAIções e reviews foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre avalAIções e reviews, consulte a documentação completa do airich edu. este document descreve os aspeCTOs principais relaCIOnados a avalAIções e reviews no context do airich edu. para mais informações sobre avalAIções e reviews, consulte a documentação completa do airich edu.

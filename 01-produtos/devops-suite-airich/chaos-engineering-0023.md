@@ -1,3 +1,7 @@
-# Doc: Chaos engineering
+# Chaos engineering
 
-# Doc: Chaos engineering Este documento descreve os aspectos principais relacionados a chaos engineering no contexto do AIRich DevOps Suite. O chaos engineering foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a chaos engineering no contexto do AIRich DevOps Suite. O chaos engineering foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.
+Esta especificação técnica define os requisitos e procedimentos para Chaos engineering.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Chaos engineering foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

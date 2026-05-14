@@ -1,3 +1,0 @@
-# index strategies
-
-# index strategies para mais informações sobre index strategies, consulte a documentação completa do airich analytics. o index strategies do airich analytics é um componente essencAIl da plataforma airich tecnologAI. o index strategies do airich analytics é um componente essencAIl da plataforma airich tecnologAI. o index strategies foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

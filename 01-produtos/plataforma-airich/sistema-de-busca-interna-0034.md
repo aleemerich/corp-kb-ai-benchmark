@@ -1,5 +1,7 @@
 # Sistema de busca interna
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de Sistema de busca interna.
 
-# Sistema de busca interna ## Resumo ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do sistema de busca interna, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a sistema de busca interna no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do sistema de busca interna pode ser realizada através do painel administrativo. Acesse Configurações > Sistema de busca interna e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a sistema de busca interna no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do sistema de busca interna, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+O investimento contínuo em Sistema de busca interna reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

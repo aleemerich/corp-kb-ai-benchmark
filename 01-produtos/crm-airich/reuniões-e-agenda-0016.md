@@ -1,7 +1,7 @@
 # Reuniões e agenda
 
-**Produto:** AIRich CRM  
-**Departamento:** Produtos  
-**Versão:** 1.5
+Este guia técnico aborda os aspectos fundamentais de Reuniões e agenda na AIRich.
 
-# Reuniões e agenda **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.5 ## Sobre Reuniões e agenda O reuniões e agenda do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o reuniões e agenda corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do reuniões e agenda, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O reuniões e agenda passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do reuniões e agenda, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a reuniões e agenda no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais.
+Como parte da estratégia de inovação da AIRich, Reuniões e agenda foi projetado para suportar o crescimento escalável da plataforma, garantindo robustez e flexibilidade.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

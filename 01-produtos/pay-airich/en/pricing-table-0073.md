@@ -1,7 +1,0 @@
-# pricing table
-
-**produCloudTrail:** airich pay  
-**department:** produCloudTrails  
-**versão:** 1.2
-
-# pricing table **produCloudTrail:** airich pay **department:** produCloudTrails **versão:** 1.2 ## Configuração a Configuração do pricing table pode ser realizada através do painel administrativo. acesse Configurações > pricing table e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a pricing table no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais. ## reqUIrements para utilizar o pricing table corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o pricing table paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## sobre pricing table o pricing table do airich pay representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a pricing table no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais.

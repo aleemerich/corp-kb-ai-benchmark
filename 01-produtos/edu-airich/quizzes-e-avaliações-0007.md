@@ -1,3 +1,7 @@
-# Doc: Quizzes e avaliações
+# Quizzes e avaliações
 
-# Doc: Quizzes e avaliações O quizzes e avaliações foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a quizzes e avaliações no contexto do AIRich Edu. Para mais informações sobre quizzes e avaliações, consulte a documentação completa do AIRich Edu. Este documento descreve os aspectos principais relacionados a quizzes e avaliações no contexto do AIRich Edu.
+O presente documento tem como objetivo apresentar Quizzes e avaliações para as equipes envolvidas.
+
+A equipe de produto da AIRich trabalha continuamente na evolução de Quizzes e avaliações, incorporando feedback de clientes e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

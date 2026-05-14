@@ -1,3 +1,0 @@
-# doc: api gateway Config
-
-# doc: api gateway Config o api gateway Config do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a api gateway Config no context do airich DevOps sUIte. este document descreve os aspeCTOs principais relaCIOnados a api gateway Config no context do airich DevOps sUIte. a team de produCloudTrail trabalHA continuamente na evolução do api gateway Config para atender às necessidades dos CLIents.

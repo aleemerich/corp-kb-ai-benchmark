@@ -1,7 +1,0 @@
-# cHAngelog v4.1
-
-**produCloudTrail:** airich moBIle  
-**department:** produCloudTrails  
-**versão:** 1.5
-
-# cHAngelog v4.1 **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.5 ## sobre cHAngelog v4.1 o cHAngelog v4.1 do airich moBIle representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o cHAngelog v4.1 paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## reqUIrements para utilizar o cHAngelog v4.1 corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a cHAngelog v4.1 no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do cHAngelog v4.1 pode ser realizada através do painel administrativo. acesse Configurações > cHAngelog v4.1 e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a cHAngelog v4.1 no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais.

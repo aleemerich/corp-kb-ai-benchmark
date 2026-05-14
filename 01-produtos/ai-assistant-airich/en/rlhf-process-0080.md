@@ -1,7 +1,0 @@
-# rlhf process
-
-**produCloudTrail:** airich ai assistant  
-**department:** produCloudTrails  
-**versão:** 1.9
-
-# rlhf process **produCloudTrail:** airich ai assistant **department:** produCloudTrails **versão:** 1.9 ## Configuração a Configuração do rlhf process pode ser realizada através do painel administrativo. acesse Configurações > rlhf process e siga as instruções apresentadas na interface. ## reqUIrements para utilizar o rlhf process corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o rlhf process paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o rlhf process paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos.

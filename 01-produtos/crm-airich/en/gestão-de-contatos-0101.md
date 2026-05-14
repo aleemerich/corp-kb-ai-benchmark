@@ -1,7 +1,0 @@
-# gestão de accounttos
-
-**produCloudTrail:** airich crm  
-**department:** produCloudTrails  
-**versão:** 1.0
-
-# gestão de accounttos **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.0 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a gestão de accounttos no airich crm, inclUIndo Configurações, integrações e procedures operaCIOnais. ## sobre gestão de accounttos o gestão de accounttos do airich crm representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do gestão de accounttos pode ser realizada através do painel administrativo. acesse Configurações > gestão de accounttos e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do gestão de accounttos pode ser realizada através do painel administrativo. acesse Configurações > gestão de accounttos e siga as instruções apresentadas na interface.

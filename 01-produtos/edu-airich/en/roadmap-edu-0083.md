@@ -1,3 +1,0 @@
-# roadmap edu
-
-# roadmap edu o roadmap edu do airich edu é um componente essencAIl da plataforma airich tecnologAI. o roadmap edu foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a roadmap edu no context do airich edu. o roadmap edu foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

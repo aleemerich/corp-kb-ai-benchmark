@@ -1,3 +1,0 @@
-# doc: deep linking
-
-# doc: deep linking a team de produCloudTrail trabalHA continuamente na evolução do deep linking para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a deep linking no context do airich moBIle. para mais informações sobre deep linking, consulte a documentação completa do airich moBIle. este document descreve os aspeCTOs principais relaCIOnados a deep linking no context do airich moBIle.

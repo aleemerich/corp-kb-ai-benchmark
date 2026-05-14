@@ -1,3 +1,0 @@
-# doc: elk stack
-
-# doc: elk stack o elk stack foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o elk stack do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do elk stack para atender às necessidades dos CLIents. o elk stack foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

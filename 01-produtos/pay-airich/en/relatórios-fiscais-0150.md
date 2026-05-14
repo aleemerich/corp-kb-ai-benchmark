@@ -1,7 +1,0 @@
-# relatórios fiscais
-
-**produCloudTrail:** airich pay  
-**department:** produCloudTrails  
-**versão:** 1.9
-
-# relatórios fiscais **produCloudTrail:** airich pay **department:** produCloudTrails **versão:** 1.9 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do relatórios fiscais, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o relatórios fiscais paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a relatórios fiscais no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais. ## reqUIrements para utilizar o relatórios fiscais corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a relatórios fiscais no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais.

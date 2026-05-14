@@ -1,3 +1,0 @@
-# doc: cHAngelog v2.0
-
-# doc: cHAngelog v2.0 o cHAngelog v2.0 do airich pay é um componente essencAIl da plataforma airich tecnologAI. o cHAngelog v2.0 foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre cHAngelog v2.0, consulte a documentação completa do airich pay. o cHAngelog v2.0 do airich pay é um componente essencAIl da plataforma airich tecnologAI.

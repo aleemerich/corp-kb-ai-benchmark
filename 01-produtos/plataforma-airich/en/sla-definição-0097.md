@@ -1,7 +1,0 @@
-# SLA definição
-
-**produCloudTrail:** airich platform  
-**department:** produCloudTrails  
-**versão:** 1.6
-
-# SLA definição **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.6 ## sobre SLA definição o SLA definição do airich platform representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a SLA definição no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do SLA definição, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a SLA definição no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do SLA definição, fornecendo uma visão abrangente para as teams de development, suporte e operações.

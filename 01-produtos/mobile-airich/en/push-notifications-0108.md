@@ -1,3 +1,0 @@
-# doc: push notifications
-
-# doc: push notifications a team de produCloudTrail trabalHA continuamente na evolução do push notifications para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a push notifications no context do airich moBIle. o push notifications do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a push notifications no context do airich moBIle.

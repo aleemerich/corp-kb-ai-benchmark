@@ -1,7 +1,0 @@
-# crAIção de conteúdo
-
-**produCloudTrail:** airich edu  
-**department:** produCloudTrails  
-**versão:** 1.7
-
-# crAIção de conteúdo **produCloudTrail:** airich edu **department:** produCloudTrails **versão:** 1.7 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## sobre crAIção de conteúdo o crAIção de conteúdo do airich edu representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a crAIção de conteúdo no airich edu, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do crAIção de conteúdo pode ser realizada através do painel administrativo. acesse Configurações > crAIção de conteúdo e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do crAIção de conteúdo, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a crAIção de conteúdo no airich edu, inclUIndo Configurações, integrações e procedures operaCIOnais.

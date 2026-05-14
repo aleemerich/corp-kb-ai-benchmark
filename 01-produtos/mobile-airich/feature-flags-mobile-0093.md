@@ -1,7 +1,7 @@
 # Feature flags mobile
 
-**Produto:** AIRich Mobile  
-**Departamento:** Produtos  
-**Versão:** 1.2
+Este documento descreve Feature flags mobile no contexto da AIRich Tecnologia.
 
-# Feature flags mobile **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.2 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O feature flags mobile passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Feature flags mobile O feature flags mobile do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o feature flags mobile corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do feature flags mobile, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o feature flags mobile corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do feature flags mobile, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+O investimento contínuo em Feature flags mobile reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

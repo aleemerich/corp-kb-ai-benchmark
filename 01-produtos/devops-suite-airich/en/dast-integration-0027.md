@@ -1,7 +1,0 @@
-# dast integration
-
-**produCloudTrail:** airich DevOps sUIte  
-**department:** produCloudTrails  
-**versão:** 1.6
-
-# dast integration **produCloudTrail:** airich DevOps sUIte **department:** produCloudTrails **versão:** 1.6 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a dast integration no airich DevOps sUIte, inclUIndo Configurações, integrações e procedures operaCIOnais. ## sobre dast integration o dast integration do airich DevOps sUIte representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do dast integration pode ser realizada através do painel administrativo. acesse Configurações > dast integration e siga as instruções apresentadas na interface. ## reqUIrements para utilizar o dast integration corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do dast integration, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a dast integration no airich DevOps sUIte, inclUIndo Configurações, integrações e procedures operaCIOnais.

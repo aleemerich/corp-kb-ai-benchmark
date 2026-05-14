@@ -1,3 +1,0 @@
-# GUIa de contribUIção - airich moBIle
-
-# GUIa de contribUIção - airich moBIle para mais informações sobre GUIa de contribUIção, consulte a documentação completa do airich moBIle. a team de produCloudTrail trabalHA continuamente na evolução do GUIa de contribUIção para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a GUIa de contribUIção no context do airich moBIle. o GUIa de contribUIção do airich moBIle é um componente essencAIl da plataforma airich tecnologAI.

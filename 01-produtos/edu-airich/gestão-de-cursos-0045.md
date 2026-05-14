@@ -1,5 +1,35 @@
 # Gestão de cursos
 
-> Documento técnico do AIRich Edu
+**Produto:** AIRich Edu | **Departamento:** Produtos | **Data:** 2026-09-17
 
-# Gestão de cursos > Documento técnico do AIRich Edu ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a gestão de cursos no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O gestão de cursos passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do gestão de cursos pode ser realizada através do painel administrativo. Acesse Configurações > Gestão de cursos e siga as instruções apresentadas na interface. ## Sobre Gestão de cursos O gestão de cursos do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do gestão de cursos pode ser realizada através do painel administrativo. Acesse Configurações > Gestão de cursos e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do gestão de cursos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Gestão de cursos.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Gestão de cursos foi documentado para orientar as equipes técnicas e operacionais na execução de suas atividades.
+
+## Procedimento
+
+As etapas recomendadas são:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

@@ -1,3 +1,7 @@
-# Doc: Guia de integração
+# Guia de integração
 
-# Doc: Guia de integração A equipe de produto trabalha continuamente na evolução do guia de integração para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a guia de integração no contexto do AIRich API Gateway. Para mais informações sobre guia de integração, consulte a documentação completa do AIRich API Gateway. Este documento descreve os aspectos principais relacionados a guia de integração no contexto do AIRich API Gateway.
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Guia de integração.
+
+O investimento contínuo em Guia de integração reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

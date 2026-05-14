@@ -1,3 +1,7 @@
-# Relatórios de engajamento - AIRich Edu
+# Relatórios de engajamento
 
-# Relatórios de engajamento - AIRich Edu Este documento descreve os aspectos principais relacionados a relatórios de engajamento no contexto do AIRich Edu. A equipe de produto trabalha continuamente na evolução do relatórios de engajamento para atender às necessidades dos clientes. O relatórios de engajamento foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do relatórios de engajamento para atender às necessidades dos clientes.
+O presente documento tem como objetivo apresentar Relatórios de engajamento para as equipes envolvidas.
+
+O investimento contínuo em Relatórios de engajamento reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+Para mais informações, consulte a documentação completa da AIRich Tecnologia.

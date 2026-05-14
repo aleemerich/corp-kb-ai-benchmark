@@ -1,7 +1,35 @@
 # Pricing table
 
-**Produto:** AIRich Pay  
-**Departamento:** Produtos  
-**Versão:** 1.2
+**Produto:** AIRich Pay | **Departamento:** Produtos | **Data:** 2026-01-17
 
-# Pricing table **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.2 ## Configuração A configuração do pricing table pode ser realizada através do painel administrativo. Acesse Configurações > Pricing table e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a pricing table no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o pricing table corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O pricing table passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Pricing table O pricing table do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a pricing table no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais.
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Pricing table.
+
+O investimento contínuo em Pricing table reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedimento
+
+O fluxo de trabalho padrão inclui:
+
+1. **Kickoff** — Alinhamento de escopo com stakeholders
+2. **Desenvolvimento** — Implementação seguindo padrões de código
+3. **Code Review** — Revisão por pares antes do merge
+4. **Testes** — Validação automatizada e manual
+5. **Deploy** — Publicação em ambiente controlado
+6. **Monitoramento** — Acompanhamento pós-deploy
+
+## Infraestrutura
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | Engenharia |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Documento mantido pela equipe de Produtos — AIRich Tecnologia*

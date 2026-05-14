@@ -1,3 +1,0 @@
-# doc: lazy loading
-
-# doc: lazy loading o lazy loading foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o lazy loading do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a lazy loading no context do airich moBIle. o lazy loading do airich moBIle é um componente essencAIl da plataforma airich tecnologAI.
