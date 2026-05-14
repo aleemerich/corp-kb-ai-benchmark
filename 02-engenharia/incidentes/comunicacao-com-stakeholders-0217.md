@@ -1,0 +1,5 @@
+# Comunicacao com stakeholders
+
+> Incidentes - AIRich
+
+# Comunicacao com stakeholders > Incidentes - AIRich Proc padrao comunicacao com stakeholders. Doc comunicacao com stakeholders - engenharia AIRich. Doc comunicacao com stakeholders - engenharia AIRich.

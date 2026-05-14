@@ -1,0 +1,5 @@
+# Scribe role
+
+## Resumo
+
+# Scribe role ## Resumo ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Contexto Scribe role no depto Incidentes da AIRich. Info para engenheiros. ## Procedimento 1. Identificar scribe role 2. Documentar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado

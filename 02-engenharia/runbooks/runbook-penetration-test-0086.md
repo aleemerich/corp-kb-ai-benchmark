@@ -1,0 +1,5 @@
+# Runbook: Penetration test
+
+**Depto:** Runbooks
+
+# Runbook: Penetration test **Depto:** Runbooks ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Contexto Runbook: Penetration test no depto Runbooks da AIRich. Info para engenheiros. ## Contexto Runbook: Penetration test no depto Runbooks da AIRich. Info para engenheiros.
