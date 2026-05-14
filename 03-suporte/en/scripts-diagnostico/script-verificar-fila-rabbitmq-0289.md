@@ -1,0 +1,7 @@
+# Script: Verificar fila RabbitMQ
+
+This operational manual describes the processes and responsibilities of Script: Verificar fila RabbitMQ.
+
+O investimento contínuo em Script: Verificar fila RabbitMQ reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

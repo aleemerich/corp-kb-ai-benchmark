@@ -1,0 +1,34 @@
+# Testes de carga
+
+**Product:** AIRich Platform | **Department:** Products | **Date:** 2026-04-27
+
+---
+
+## Visão Geral
+
+Este document fornece uma visão detalhada sobre Testes de carga in the AIRich ecosystem.
+
+O investimento contínuo em Testes de carga reflete o compromisso da AIRich com a entrega de soluções de alta qualidade que atendam às demandas do mercado brasileiro e internacional.
+
+## Procedure
+
+O procedure padrão para esta atividade segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e os requirements necessários
+2. **Planejamento** — Definir recursos, cronograma e responsibilitys
+3. **Execução** — Implementar conforme as especificações técnicas
+4. **Validação** — Verificar se os resultados atendem aos critérios de aceite
+5. **Documentação** — Registrar todas as ações e decisões tomadas
+
+## Infrastructure
+
+| Ambiente | URL | Status | Responsável |
+|---------|-----|--------|-----------|
+| Produção | app.airich.com | Ativo | SRE |
+| Staging | staging.airich.com | Ativo | DevOps |
+| Dev | dev.airich.com | Ativo | EngenharAI |
+| QA | qa.airich.com | Ativo | QA Lead |
+
+---
+
+*Document maintained by the team of Products — AIRich Technology*

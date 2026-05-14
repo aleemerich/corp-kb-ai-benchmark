@@ -1,0 +1,7 @@
+# Orcamento: 2026
+
+This operational manual describes the processes and responsibilities of Orcamento: 2026.
+
+No cenário atual de transformação digital, Orcamento: 2026 plays a fundamental role in AIRich's ability to deliver value to its clients.
+
+Para mais informações, consulte a documentação da AIRich.

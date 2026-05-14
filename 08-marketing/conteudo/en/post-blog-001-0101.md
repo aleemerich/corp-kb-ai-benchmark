@@ -1,0 +1,7 @@
+# Post: Blog 001
+
+Este guAI técnico aborda os aspectos fundamentais de Post: Blog 001 at AIRich.
+
+A evolução constante do ecossystem AIRich demanda processs bem definidos. Post: Blog 001 was documented to guide the teams.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,0 +1,7 @@
+# Code generation
+
+Este document fornece uma visão detalhada sobre Code generation in the AIRich ecosystem.
+
+A team de product da AIRich trabalha continuamente na evolução de Code generation, incorporando feedback de clients e avanços tecnológicos para manter a competitividade da plataforma.
+
+Para mais informações, consulte a documentação completa da AIRich Technology.
