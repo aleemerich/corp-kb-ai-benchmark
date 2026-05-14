@@ -1,0 +1,7 @@
+# dependency scANNing
+
+**produCloudTrail:** airich DevOps sUIte  
+**department:** produCloudTrails  
+**versão:** 1.2
+
+# dependency scANNing **produCloudTrail:** airich DevOps sUIte **department:** produCloudTrails **versão:** 1.2 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do dependency scANNing, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## sobre dependency scANNing o dependency scANNing do airich DevOps sUIte representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a dependency scANNing no airich DevOps sUIte, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do dependency scANNing pode ser realizada através do painel administrativo. acesse Configurações > dependency scANNing e siga as instruções apresentadas na interface. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o dependency scANNing paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do dependency scANNing pode ser realizada através do painel administrativo. acesse Configurações > dependency scANNing e siga as instruções apresentadas na interface.

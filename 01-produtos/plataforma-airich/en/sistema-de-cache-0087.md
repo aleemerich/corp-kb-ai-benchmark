@@ -1,0 +1,3 @@
+# system de CAChe
+
+# system de CAChe o system de CAChe foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a system de CAChe no context do airich platform. este document descreve os aspeCTOs principais relaCIOnados a system de CAChe no context do airich platform. para mais informações sobre system de CAChe, consulte a documentação completa do airich platform.

@@ -1,0 +1,3 @@
+# circUIt breaker pattern
+
+# circUIt breaker pattern a team de produCloudTrail trabalHA continuamente na evolução do circUIt breaker pattern para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a circUIt breaker pattern no context do airich api gateway. o circUIt breaker pattern do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a circUIt breaker pattern no context do airich api gateway.

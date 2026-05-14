@@ -1,0 +1,7 @@
+# a/b testing
+
+**produCloudTrail:** airich moBIle  
+**department:** produCloudTrails  
+**versão:** 1.3
+
+# a/b testing **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.3 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## reqUIrements para utilizar o a/b testing corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do a/b testing pode ser realizada através do painel administrativo. acesse Configurações > a/b testing e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a a/b testing no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do a/b testing pode ser realizada através do painel administrativo. acesse Configurações > a/b testing e siga as instruções apresentadas na interface. ## sobre a/b testing o a/b testing do airich moBIle representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente.

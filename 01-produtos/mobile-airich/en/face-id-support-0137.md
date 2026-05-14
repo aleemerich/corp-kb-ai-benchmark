@@ -1,0 +1,3 @@
+# face id Support - airich moBIle
+
+# face id Support - airich moBIle o face id Support do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. o face id Support foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre face id Support, consulte a documentação completa do airich moBIle. este document descreve os aspeCTOs principais relaCIOnados a face id Support no context do airich moBIle.

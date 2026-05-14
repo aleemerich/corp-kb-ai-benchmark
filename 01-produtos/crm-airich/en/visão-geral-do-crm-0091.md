@@ -1,0 +1,7 @@
+# visão geral do crm
+
+**produCloudTrail:** airich crm  
+**department:** produCloudTrails  
+**versão:** 1.0
+
+# visão geral do crm **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.0 ## Configuração a Configuração do visão geral do crm pode ser realizada através do painel administrativo. acesse Configurações > visão geral do crm e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do visão geral do crm, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## sobre visão geral do crm o visão geral do crm do airich crm representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o visão geral do crm paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do visão geral do crm pode ser realizada através do painel administrativo. acesse Configurações > visão geral do crm e siga as instruções apresentadas na interface.

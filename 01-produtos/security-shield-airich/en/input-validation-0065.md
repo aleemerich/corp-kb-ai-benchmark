@@ -1,0 +1,3 @@
+# INPut validation - airich security shield
+
+# INPut validation - airich security shield o INPut validation foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do INPut validation para atender às necessidades dos CLIents. o INPut validation foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o INPut validation do airich security shield é um componente essencAIl da plataforma airich tecnologAI.

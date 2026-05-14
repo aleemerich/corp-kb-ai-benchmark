@@ -1,0 +1,7 @@
+# onboarding de novos CLIents
+
+**produCloudTrail:** airich platform  
+**department:** produCloudTrails  
+**versão:** 1.8
+
+# onboarding de novos CLIents **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.8 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## reqUIrements para utilizar o onboarding de novos CLIents corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a onboarding de novos CLIents no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do onboarding de novos CLIents pode ser realizada através do painel administrativo. acesse Configurações > onboarding de novos CLIents e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a onboarding de novos CLIents no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o onboarding de novos CLIents paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos.

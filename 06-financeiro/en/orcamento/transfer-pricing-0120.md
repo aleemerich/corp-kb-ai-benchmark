@@ -1,0 +1,5 @@
+# transfer pricing
+
+**depto:** orcamento
+
+# transfer pricing **depto:** orcamento ## context transfer pricing - orcamento airich. ## reqUIrements 1. aceSSO ao system 2. permissions ## procedure 1. identificar 2. planejar 3. executar 4. validar ## responsiBIlities - gestor: aprovar - team: executar

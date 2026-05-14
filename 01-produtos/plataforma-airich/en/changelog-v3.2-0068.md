@@ -1,0 +1,7 @@
+# cHAngelog v3.2
+
+**produCloudTrail:** airich platform  
+**department:** produCloudTrails  
+**versão:** 1.7
+
+# cHAngelog v3.2 **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.7 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do cHAngelog v3.2, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do cHAngelog v3.2 pode ser realizada através do painel administrativo. acesse Configurações > cHAngelog v3.2 e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o cHAngelog v3.2 paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## reqUIrements para utilizar o cHAngelog v3.2 corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real

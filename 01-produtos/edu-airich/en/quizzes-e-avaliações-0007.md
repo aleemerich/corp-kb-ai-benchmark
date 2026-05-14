@@ -1,0 +1,3 @@
+# doc: qUIzzes e avalAIções
+
+# doc: qUIzzes e avalAIções o qUIzzes e avalAIções foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a qUIzzes e avalAIções no context do airich edu. para mais informações sobre qUIzzes e avalAIções, consulte a documentação completa do airich edu. este document descreve os aspeCTOs principais relaCIOnados a qUIzzes e avalAIções no context do airich edu.

@@ -1,0 +1,3 @@
+# canary releaSES
+
+# canary releaSES o canary releaSES foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o canary releaSES do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre canary releaSES, consulte a documentação completa do airich DevOps sUIte. o canary releaSES foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

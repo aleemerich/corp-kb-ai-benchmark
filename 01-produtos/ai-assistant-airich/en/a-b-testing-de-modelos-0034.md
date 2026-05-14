@@ -1,0 +1,3 @@
+# a/b testing de modelos
+
+# a/b testing de modelos o a/b testing de modelos do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. o a/b testing de modelos foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do a/b testing de modelos para atender às necessidades dos CLIents. o a/b testing de modelos do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI.

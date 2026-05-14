@@ -1,0 +1,7 @@
+# cHAngelog v4.0
+
+**produCloudTrail:** airich moBIle  
+**department:** produCloudTrails  
+**versão:** 1.4
+
+# cHAngelog v4.0 **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.4 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do cHAngelog v4.0, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o cHAngelog v4.0 paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## reqUIrements para utilizar o cHAngelog v4.0 corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a cHAngelog v4.0 no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do cHAngelog v4.0, fornecendo uma visão abrangente para as teams de development, suporte e operações.

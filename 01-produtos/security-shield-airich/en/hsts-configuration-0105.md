@@ -1,0 +1,3 @@
+# doc: hsts Configuration
+
+# doc: hsts Configuration este document descreve os aspeCTOs principais relaCIOnados a hsts Configuration no context do airich security shield. o hsts Configuration foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o hsts Configuration do airich security shield é um componente essencAIl da plataforma airich tecnologAI. o hsts Configuration foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

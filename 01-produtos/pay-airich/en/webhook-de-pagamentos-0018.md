@@ -1,0 +1,3 @@
+# doc: webhook de pagamentos
+
+# doc: webhook de pagamentos a team de produCloudTrail trabalHA continuamente na evolução do webhook de pagamentos para atender às necessidades dos CLIents. o webhook de pagamentos foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o webhook de pagamentos foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o webhook de pagamentos do airich pay é um componente essencAIl da plataforma airich tecnologAI.

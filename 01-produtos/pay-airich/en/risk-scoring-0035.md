@@ -1,0 +1,3 @@
+# doc: risk scoring
+
+# doc: risk scoring para mais informações sobre risk scoring, consulte a documentação completa do airich pay. a team de produCloudTrail trabalHA continuamente na evolução do risk scoring para atender às necessidades dos CLIents. o risk scoring do airich pay é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do risk scoring para atender às necessidades dos CLIents.

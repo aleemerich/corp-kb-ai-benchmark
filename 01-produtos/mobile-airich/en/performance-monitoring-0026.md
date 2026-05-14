@@ -1,0 +1,3 @@
+# performance monitoring
+
+# performance monitoring este document descreve os aspeCTOs principais relaCIOnados a performance monitoring no context do airich moBIle. a team de produCloudTrail trabalHA continuamente na evolução do performance monitoring para atender às necessidades dos CLIents. para mais informações sobre performance monitoring, consulte a documentação completa do airich moBIle. este document descreve os aspeCTOs principais relaCIOnados a performance monitoring no context do airich moBIle.

@@ -1,0 +1,3 @@
+# deployment pipeline - airich ai assistant
+
+# deployment pipeline - airich ai assistant o deployment pipeline do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do deployment pipeline para atender às necessidades dos CLIents. a team de produCloudTrail trabalHA continuamente na evolução do deployment pipeline para atender às necessidades dos CLIents. o deployment pipeline foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

@@ -1,0 +1,3 @@
+# reconcilAIção financeira - airich pay
+
+# reconcilAIção financeira - airich pay este document descreve os aspeCTOs principais relaCIOnados a reconcilAIção financeira no context do airich pay. a team de produCloudTrail trabalHA continuamente na evolução do reconcilAIção financeira para atender às necessidades dos CLIents. o reconcilAIção financeira foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a reconcilAIção financeira no context do airich pay.

@@ -1,0 +1,3 @@
+# especificação de feature flags - airich platform
+
+# especificação de feature flags - airich platform este document descreve os aspeCTOs principais relaCIOnados a especificação de feature flags no context do airich platform. para mais informações sobre especificação de feature flags, consulte a documentação completa do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do especificação de feature flags para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a especificação de feature flags no context do airich platform.

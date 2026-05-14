@@ -1,0 +1,7 @@
+# moBIle learning
+
+**produCloudTrail:** airich edu  
+**department:** produCloudTrails  
+**versão:** 1.8
+
+# moBIle learning **produCloudTrail:** airich edu **department:** produCloudTrails **versão:** 1.8 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o moBIle learning paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## reqUIrements para utilizar o moBIle learning corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do moBIle learning pode ser realizada através do painel administrativo. acesse Configurações > moBIle learning e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a moBIle learning no airich edu, inclUIndo Configurações, integrações e procedures operaCIOnais. ## reqUIrements para utilizar o moBIle learning corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do moBIle learning pode ser realizada através do painel administrativo. acesse Configurações > moBIle learning e siga as instruções apresentadas na interface.

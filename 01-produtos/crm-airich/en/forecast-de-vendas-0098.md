@@ -1,0 +1,7 @@
+# forecast de sales
+
+**produCloudTrail:** airich crm  
+**department:** produCloudTrails  
+**versão:** 1.7
+
+# forecast de sales **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.7 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do forecast de sales, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## sobre forecast de sales o forecast de sales do airich crm representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a forecast de sales no airich crm, inclUIndo Configurações, integrações e procedures operaCIOnais. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o forecast de sales paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do forecast de sales pode ser realizada através do painel administrativo. acesse Configurações > forecast de sales e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a forecast de sales no airich crm, inclUIndo Configurações, integrações e procedures operaCIOnais.

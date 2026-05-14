@@ -1,0 +1,3 @@
+# cHAngelog v4.0 - airich moBIle
+
+# cHAngelog v4.0 - airich moBIle este document descreve os aspeCTOs principais relaCIOnados a cHAngelog v4.0 no context do airich moBIle. o cHAngelog v4.0 do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. o cHAngelog v4.0 do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do cHAngelog v4.0 para atender às necessidades dos CLIents.

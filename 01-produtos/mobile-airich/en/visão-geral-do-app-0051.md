@@ -1,0 +1,7 @@
+# visão geral do app
+
+**produCloudTrail:** airich moBIle  
+**department:** produCloudTrails  
+**versão:** 1.0
+
+# visão geral do app **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.0 ## reqUIrements para utilizar o visão geral do app corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do visão geral do app, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do visão geral do app pode ser realizada através do painel administrativo. acesse Configurações > visão geral do app e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a visão geral do app no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do visão geral do app, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a visão geral do app no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais.

@@ -1,0 +1,7 @@
+# assinaturas e planos
+
+**produCloudTrail:** airich pay  
+**department:** produCloudTrails  
+**versão:** 1.2
+
+# assinaturas e planos **produCloudTrail:** airich pay **department:** produCloudTrails **versão:** 1.2 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do assinaturas e planos, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a assinaturas e planos no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais. ## reqUIrements para utilizar o assinaturas e planos corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do assinaturas e planos pode ser realizada através do painel administrativo. acesse Configurações > assinaturas e planos e siga as instruções apresentadas na interface. ## reqUIrements para utilizar o assinaturas e planos corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge)

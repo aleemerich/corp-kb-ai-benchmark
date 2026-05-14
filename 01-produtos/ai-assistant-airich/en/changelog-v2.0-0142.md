@@ -1,0 +1,3 @@
+# cHAngelog v2.0 - airich ai assistant
+
+# cHAngelog v2.0 - airich ai assistant o cHAngelog v2.0 foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do cHAngelog v2.0 para atender às necessidades dos CLIents. a team de produCloudTrail trabalHA continuamente na evolução do cHAngelog v2.0 para atender às necessidades dos CLIents. o cHAngelog v2.0 do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI.

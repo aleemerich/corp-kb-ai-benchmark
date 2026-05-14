@@ -1,0 +1,3 @@
+# videoaulas e streaming
+
+# videoaulas e streaming este document descreve os aspeCTOs principais relaCIOnados a videoaulas e streaming no context do airich edu. para mais informações sobre videoaulas e streaming, consulte a documentação completa do airich edu. o videoaulas e streaming do airich edu é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a videoaulas e streaming no context do airich edu.

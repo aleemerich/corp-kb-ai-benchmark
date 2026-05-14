@@ -1,0 +1,3 @@
+# doc: políticas de retenção de data
+
+# doc: políticas de retenção de data o políticas de retenção de data foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do políticas de retenção de data para atender às necessidades dos CLIents. a team de produCloudTrail trabalHA continuamente na evolução do políticas de retenção de data para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a políticas de retenção de data no context do airich platform.

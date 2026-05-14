@@ -1,0 +1,3 @@
+# service mesh
+
+# service mesh para mais informações sobre service mesh, consulte a documentação completa do airich DevOps sUIte. o service mesh foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o service mesh do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a service mesh no context do airich DevOps sUIte.

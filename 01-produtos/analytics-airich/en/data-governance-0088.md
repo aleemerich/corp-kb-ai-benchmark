@@ -1,0 +1,7 @@
+# data governance
+
+**produCloudTrail:** airich analytics  
+**department:** produCloudTrails  
+**versão:** 1.7
+
+# data governance **produCloudTrail:** airich analytics **department:** produCloudTrails **versão:** 1.7 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o data governance paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do data governance pode ser realizada através do painel administrativo. acesse Configurações > data governance e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do data governance, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a data governance no airich analytics, inclUIndo Configurações, integrações e procedures operaCIOnais. ## reqUIrements para utilizar o data governance corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o data governance paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos.

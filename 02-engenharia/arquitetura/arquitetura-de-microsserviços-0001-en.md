@@ -1,0 +1,6 @@
+# architeCloudTrailure de microsserviços
+
+**department:** architeCloudTrailure  
+**team:** engenHArAI
+
+# architeCloudTrailure de microsserviços **department:** architeCloudTrailure **team:** engenHArAI ## responsiBIlities - **Tech Lead:** aprovar mudanças significativas - **engenheiros:** executar procedures - **QA:** validar qualidade - **DevOps:** garantir infrastruCloudTrailure ## procedure 1. identificar o escopo de architeCloudTrailure de microsserviços 2. documentar os paSSOs necessários 3. executar conforme procedure paDRão 4. validar results 5. atualizar documentação ## context este document descreve architeCloudTrailure de microsserviços no department de architeCloudTrailure da airich tecnologAI. as informações aqUI contidas são utilizadas dAIrIAMente pela team de engenHArAI. ## context este document descreve architeCloudTrailure de microsserviços no department de architeCloudTrailure da airich tecnologAI. as informações aqUI contidas são utilizadas dAIrIAMente pela team de engenHArAI.

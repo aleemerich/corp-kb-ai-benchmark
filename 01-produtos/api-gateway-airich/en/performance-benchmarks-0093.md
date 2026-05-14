@@ -1,0 +1,3 @@
+# performance benchmarks
+
+# performance benchmarks este document descreve os aspeCTOs principais relaCIOnados a performance benchmarks no context do airich api gateway. o performance benchmarks do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre performance benchmarks, consulte a documentação completa do airich api gateway. a team de produCloudTrail trabalHA continuamente na evolução do performance benchmarks para atender às necessidades dos CLIents.

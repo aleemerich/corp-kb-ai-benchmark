@@ -1,0 +1,3 @@
+# doc: histórico de interações
+
+# doc: histórico de interações o histórico de interações foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a histórico de interações no context do airich crm. a team de produCloudTrail trabalHA continuamente na evolução do histórico de interações para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a histórico de interações no context do airich crm.

@@ -1,0 +1,7 @@
+# deep linking
+
+**produCloudTrail:** airich moBIle  
+**department:** produCloudTrails  
+**versão:** 1.8
+
+# deep linking **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.8 ## sobre deep linking o deep linking do airich moBIle representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a deep linking no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## reqUIrements para utilizar o deep linking corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do deep linking pode ser realizada através do painel administrativo. acesse Configurações > deep linking e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do deep linking, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do deep linking pode ser realizada através do painel administrativo. acesse Configurações > deep linking e siga as instruções apresentadas na interface.

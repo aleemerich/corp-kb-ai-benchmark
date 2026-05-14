@@ -1,0 +1,3 @@
+# doc: query optimization
+
+# doc: query optimization a team de produCloudTrail trabalHA continuamente na evolução do query optimization para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a query optimization no context do airich analytics. para mais informações sobre query optimization, consulte a documentação completa do airich analytics. a team de produCloudTrail trabalHA continuamente na evolução do query optimization para atender às necessidades dos CLIents.

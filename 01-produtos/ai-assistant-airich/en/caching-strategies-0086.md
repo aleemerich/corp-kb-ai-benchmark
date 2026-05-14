@@ -1,0 +1,7 @@
+# CAChing strategies
+
+**produCloudTrail:** airich ai assistant  
+**department:** produCloudTrails  
+**versão:** 1.5
+
+# CAChing strategies **produCloudTrail:** airich ai assistant **department:** produCloudTrails **versão:** 1.5 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a CAChing strategies no airich ai assistant, inclUIndo Configurações, integrações e procedures operaCIOnais. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## Configuração a Configuração do CAChing strategies pode ser realizada através do painel administrativo. acesse Configurações > CAChing strategies e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do CAChing strategies, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## reqUIrements para utilizar o CAChing strategies corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a CAChing strategies no airich ai assistant, inclUIndo Configurações, integrações e procedures operaCIOnais.

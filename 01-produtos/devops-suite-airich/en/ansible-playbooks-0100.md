@@ -1,0 +1,3 @@
+# ansible playbooks - airich DevOps sUIte
+
+# ansible playbooks - airich DevOps sUIte este document descreve os aspeCTOs principais relaCIOnados a ansible playbooks no context do airich DevOps sUIte. o ansible playbooks do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. o ansible playbooks do airich DevOps sUIte é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do ansible playbooks para atender às necessidades dos CLIents.

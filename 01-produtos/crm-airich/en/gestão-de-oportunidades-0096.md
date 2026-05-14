@@ -1,0 +1,3 @@
+# doc: gestão de oportunidades
+
+# doc: gestão de oportunidades a team de produCloudTrail trabalHA continuamente na evolução do gestão de oportunidades para atender às necessidades dos CLIents. para mais informações sobre gestão de oportunidades, consulte a documentação completa do airich crm. para mais informações sobre gestão de oportunidades, consulte a documentação completa do airich crm. o gestão de oportunidades do airich crm é um componente essencAIl da plataforma airich tecnologAI.

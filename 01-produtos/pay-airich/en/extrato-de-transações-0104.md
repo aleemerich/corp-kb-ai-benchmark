@@ -1,0 +1,7 @@
+# extrato de transações
+
+**produCloudTrail:** airich pay  
+**department:** produCloudTrails  
+**versão:** 1.3
+
+# extrato de transações **produCloudTrail:** airich pay **department:** produCloudTrails **versão:** 1.3 ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a extrato de transações no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o extrato de transações paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do extrato de transações pode ser realizada através do painel administrativo. acesse Configurações > extrato de transações e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## sobre extrato de transações o extrato de transações do airich pay representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente.

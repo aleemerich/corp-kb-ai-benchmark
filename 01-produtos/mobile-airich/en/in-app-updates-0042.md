@@ -1,0 +1,7 @@
+# in-app updates
+
+**produCloudTrail:** airich moBIle  
+**department:** produCloudTrails  
+**versão:** 1.1
+
+# in-app updates **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.1 ## sobre in-app updates o in-app updates do airich moBIle representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## reqUIrements para utilizar o in-app updates corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o in-app updates paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a in-app updates no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a in-app updates no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real

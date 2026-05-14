@@ -1,0 +1,7 @@
+# email tracking
+
+**produCloudTrail:** airich crm  
+**department:** produCloudTrails  
+**versão:** 1.3
+
+# email tracking **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.3 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do email tracking, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do email tracking pode ser realizada através do painel administrativo. acesse Configurações > email tracking e siga as instruções apresentadas na interface. ## sobre email tracking o email tracking do airich crm representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o email tracking paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos.

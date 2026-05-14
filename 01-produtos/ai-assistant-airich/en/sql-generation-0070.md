@@ -1,0 +1,3 @@
+# doc: SQL generation
+
+# doc: SQL generation o SQL generation do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. o SQL generation foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o SQL generation do airich ai assistant é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do SQL generation para atender às necessidades dos CLIents.

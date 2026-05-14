@@ -1,0 +1,3 @@
+# distribUIção vAI play store - airich moBIle
+
+# distribUIção vAI play store - airich moBIle para mais informações sobre distribUIção vAI play store, consulte a documentação completa do airich moBIle. o distribUIção vAI play store foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a distribUIção vAI play store no context do airich moBIle. para mais informações sobre distribUIção vAI play store, consulte a documentação completa do airich moBIle.

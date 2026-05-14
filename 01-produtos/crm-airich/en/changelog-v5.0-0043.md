@@ -1,0 +1,7 @@
+# cHAngelog v5.0
+
+**produCloudTrail:** airich crm  
+**department:** produCloudTrails  
+**versão:** 1.2
+
+# cHAngelog v5.0 **produCloudTrail:** airich crm **department:** produCloudTrails **versão:** 1.2 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o cHAngelog v5.0 paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## sobre cHAngelog v5.0 o cHAngelog v5.0 do airich crm representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## Configuração a Configuração do cHAngelog v5.0 pode ser realizada através do painel administrativo. acesse Configurações > cHAngelog v5.0 e siga as instruções apresentadas na interface. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do cHAngelog v5.0, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do cHAngelog v5.0, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do cHAngelog v5.0 pode ser realizada através do painel administrativo. acesse Configurações > cHAngelog v5.0 e siga as instruções apresentadas na interface.

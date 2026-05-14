@@ -1,0 +1,3 @@
+# intent classification - airich ai assistant
+
+# intent classification - airich ai assistant o intent classification foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do intent classification para atender às necessidades dos CLIents. para mais informações sobre intent classification, consulte a documentação completa do airich ai assistant. este document descreve os aspeCTOs principais relaCIOnados a intent classification no context do airich ai assistant.

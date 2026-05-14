@@ -1,0 +1,3 @@
+# doc: ip whitelisting
+
+# doc: ip whitelisting o ip whitelisting do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a ip whitelisting no context do airich api gateway. para mais informações sobre ip whitelisting, consulte a documentação completa do airich api gateway. a team de produCloudTrail trabalHA continuamente na evolução do ip whitelisting para atender às necessidades dos CLIents.

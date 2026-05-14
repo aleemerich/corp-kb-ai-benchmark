@@ -1,0 +1,7 @@
+# xapi integration
+
+**produCloudTrail:** airich edu  
+**department:** produCloudTrails  
+**versão:** 1.2
+
+# xapi integration **produCloudTrail:** airich edu **department:** produCloudTrails **versão:** 1.2 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o xapi integration paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do xapi integration pode ser realizada através do painel administrativo. acesse Configurações > xapi integration e siga as instruções apresentadas na interface. ## reqUIrements para utilizar o xapi integration corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o xapi integration paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do xapi integration, fornecendo uma visão abrangente para as teams de development, suporte e operações.

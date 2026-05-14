@@ -1,0 +1,3 @@
+# doc: integração com api gateway
+
+# doc: integração com api gateway para mais informações sobre integração com api gateway, consulte a documentação completa do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do integração com api gateway para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a integração com api gateway no context do airich platform. o integração com api gateway foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

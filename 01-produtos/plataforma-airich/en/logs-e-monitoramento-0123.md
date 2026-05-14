@@ -1,0 +1,7 @@
+# logs e monitoring
+
+**produCloudTrail:** airich platform  
+**department:** produCloudTrails  
+**versão:** 1.2
+
+# logs e monitoring **produCloudTrail:** airich platform **department:** produCloudTrails **versão:** 1.2 ## Configuração a Configuração do logs e monitoring pode ser realizada através do painel administrativo. acesse Configurações > logs e monitoring e siga as instruções apresentadas na interface. ## sobre logs e monitoring o logs e monitoring do airich platform representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do logs e monitoring, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o logs e monitoring paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a logs e monitoring no airich platform, inclUIndo Configurações, integrações e procedures operaCIOnais. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real

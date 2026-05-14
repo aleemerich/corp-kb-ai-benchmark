@@ -1,0 +1,3 @@
+# release process
+
+# release process o release process do airich moBIle é um componente essencAIl da plataforma airich tecnologAI. o release process foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o release process foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do release process para atender às necessidades dos CLIents.

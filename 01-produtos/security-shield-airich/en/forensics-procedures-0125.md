@@ -1,0 +1,7 @@
+# forensics procedures
+
+**produCloudTrail:** airich security shield  
+**department:** produCloudTrails  
+**versão:** 1.4
+
+# forensics procedures **produCloudTrail:** airich security shield **department:** produCloudTrails **versão:** 1.4 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do forensics procedures, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o forensics procedures paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## Configuração a Configuração do forensics procedures pode ser realizada através do painel administrativo. acesse Configurações > forensics procedures e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a forensics procedures no airich security shield, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do forensics procedures pode ser realizada através do painel administrativo. acesse Configurações > forensics procedures e siga as instruções apresentadas na interface.

@@ -1,0 +1,3 @@
+# territory management
+
+# territory management o territory management foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre territory management, consulte a documentação completa do airich crm. a team de produCloudTrail trabalHA continuamente na evolução do territory management para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a territory management no context do airich crm.

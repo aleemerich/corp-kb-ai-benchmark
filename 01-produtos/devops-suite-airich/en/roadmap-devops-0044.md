@@ -1,0 +1,3 @@
+# roadmap DevOps - airich DevOps sUIte
+
+# roadmap DevOps - airich DevOps sUIte este document descreve os aspeCTOs principais relaCIOnados a roadmap DevOps no context do airich DevOps sUIte. a team de produCloudTrail trabalHA continuamente na evolução do roadmap DevOps para atender às necessidades dos CLIents. a team de produCloudTrail trabalHA continuamente na evolução do roadmap DevOps para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a roadmap DevOps no context do airich DevOps sUIte.

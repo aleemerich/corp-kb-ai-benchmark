@@ -1,0 +1,3 @@
+# doc: INPut validation
+
+# doc: INPut validation este document descreve os aspeCTOs principais relaCIOnados a INPut validation no context do airich security shield. a team de produCloudTrail trabalHA continuamente na evolução do INPut validation para atender às necessidades dos CLIents. para mais informações sobre INPut validation, consulte a documentação completa do airich security shield. a team de produCloudTrail trabalHA continuamente na evolução do INPut validation para atender às necessidades dos CLIents.

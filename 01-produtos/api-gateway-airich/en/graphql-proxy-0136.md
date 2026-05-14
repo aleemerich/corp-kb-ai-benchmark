@@ -1,0 +1,3 @@
+# doc: GraphQL proxy
+
+# doc: GraphQL proxy este document descreve os aspeCTOs principais relaCIOnados a GraphQL proxy no context do airich api gateway. o GraphQL proxy do airich api gateway é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a GraphQL proxy no context do airich api gateway. a team de produCloudTrail trabalHA continuamente na evolução do GraphQL proxy para atender às necessidades dos CLIents.

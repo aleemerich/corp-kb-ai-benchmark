@@ -1,0 +1,3 @@
+# importação em massa
+
+# importação em massa o importação em massa do airich platform é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a importação em massa no context do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do importação em massa para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a importação em massa no context do airich platform.

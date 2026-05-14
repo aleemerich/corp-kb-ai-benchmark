@@ -1,0 +1,3 @@
+# doc: tests de carga
+
+# doc: tests de carga o tests de carga foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre tests de carga, consulte a documentação completa do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do tests de carga para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a tests de carga no context do airich platform.

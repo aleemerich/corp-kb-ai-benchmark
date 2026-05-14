@@ -1,0 +1,3 @@
+# videoaulas e streaming
+
+# videoaulas e streaming para mais informações sobre videoaulas e streaming, consulte a documentação completa do airich edu. este document descreve os aspeCTOs principais relaCIOnados a videoaulas e streaming no context do airich edu. a team de produCloudTrail trabalHA continuamente na evolução do videoaulas e streaming para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a videoaulas e streaming no context do airich edu.

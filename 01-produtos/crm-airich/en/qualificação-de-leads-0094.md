@@ -1,0 +1,3 @@
+# qualificação de leads
+
+# qualificação de leads este document descreve os aspeCTOs principais relaCIOnados a qualificação de leads no context do airich crm. o qualificação de leads foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre qualificação de leads, consulte a documentação completa do airich crm. o qualificação de leads foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

@@ -1,0 +1,3 @@
+# doc: visão geral do gateway
+
+# doc: visão geral do gateway para mais informações sobre visão geral do gateway, consulte a documentação completa do airich api gateway. este document descreve os aspeCTOs principais relaCIOnados a visão geral do gateway no context do airich api gateway. para mais informações sobre visão geral do gateway, consulte a documentação completa do airich api gateway. o visão geral do gateway foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

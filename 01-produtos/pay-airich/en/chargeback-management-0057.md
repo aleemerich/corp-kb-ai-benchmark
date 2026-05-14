@@ -1,0 +1,3 @@
+# doc: cHArgeback management
+
+# doc: cHArgeback management a team de produCloudTrail trabalHA continuamente na evolução do cHArgeback management para atender às necessidades dos CLIents. para mais informações sobre cHArgeback management, consulte a documentação completa do airich pay. o cHArgeback management foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o cHArgeback management do airich pay é um componente essencAIl da plataforma airich tecnologAI.

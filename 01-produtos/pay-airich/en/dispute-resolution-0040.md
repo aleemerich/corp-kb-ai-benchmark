@@ -1,0 +1,3 @@
+# dispute resolution
+
+# dispute resolution para mais informações sobre dispute resolution, consulte a documentação completa do airich pay. o dispute resolution do airich pay é um componente essencAIl da plataforma airich tecnologAI. para mais informações sobre dispute resolution, consulte a documentação completa do airich pay. este document descreve os aspeCTOs principais relaCIOnados a dispute resolution no context do airich pay.

@@ -1,0 +1,3 @@
+# docker accountinerization
+
+# docker accountinerization a team de produCloudTrail trabalHA continuamente na evolução do docker accountinerization para atender às necessidades dos CLIents. o docker accountinerization foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o docker accountinerization foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre docker accountinerization, consulte a documentação completa do airich DevOps sUIte.

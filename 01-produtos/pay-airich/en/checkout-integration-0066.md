@@ -1,0 +1,3 @@
+# checkout integration
+
+# checkout integration o checkout integration foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a checkout integration no context do airich pay. a team de produCloudTrail trabalHA continuamente na evolução do checkout integration para atender às necessidades dos CLIents. para mais informações sobre checkout integration, consulte a documentação completa do airich pay.

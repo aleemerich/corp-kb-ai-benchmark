@@ -1,0 +1,3 @@
+# doc: player de vídeo
+
+# doc: player de vídeo este document descreve os aspeCTOs principais relaCIOnados a player de vídeo no context do airich edu. o player de vídeo foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o player de vídeo foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. o player de vídeo do airich edu é um componente essencAIl da plataforma airich tecnologAI.

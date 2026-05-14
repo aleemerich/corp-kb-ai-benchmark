@@ -1,0 +1,3 @@
+# background tasks - airich moBIle
+
+# background tasks - airich moBIle a team de produCloudTrail trabalHA continuamente na evolução do background tasks para atender às necessidades dos CLIents. o background tasks foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do background tasks para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a background tasks no context do airich moBIle.

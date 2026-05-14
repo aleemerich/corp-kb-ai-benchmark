@@ -1,0 +1,3 @@
+# tokenização de cartões - airich pay
+
+# tokenização de cartões - airich pay para mais informações sobre tokenização de cartões, consulte a documentação completa do airich pay. este document descreve os aspeCTOs principais relaCIOnados a tokenização de cartões no context do airich pay. o tokenização de cartões do airich pay é um componente essencAIl da plataforma airich tecnologAI. este document descreve os aspeCTOs principais relaCIOnados a tokenização de cartões no context do airich pay.

@@ -1,0 +1,3 @@
+# GUIa de troubleshooting - airich platform
+
+# GUIa de troubleshooting - airich platform o GUIa de troubleshooting foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. este document descreve os aspeCTOs principais relaCIOnados a GUIa de troubleshooting no context do airich platform. a team de produCloudTrail trabalHA continuamente na evolução do GUIa de troubleshooting para atender às necessidades dos CLIents. o GUIa de troubleshooting foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich.

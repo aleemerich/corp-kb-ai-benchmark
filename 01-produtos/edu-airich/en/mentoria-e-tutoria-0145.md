@@ -1,0 +1,3 @@
+# mentorAI e tutorAI - airich edu
+
+# mentorAI e tutorAI - airich edu a team de produCloudTrail trabalHA continuamente na evolução do mentorAI e tutorAI para atender às necessidades dos CLIents. o mentorAI e tutorAI do airich edu é um componente essencAIl da plataforma airich tecnologAI. o mentorAI e tutorAI do airich edu é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do mentorAI e tutorAI para atender às necessidades dos CLIents.

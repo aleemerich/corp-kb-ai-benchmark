@@ -1,0 +1,3 @@
+# api security
+
+# api security o api security foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. a team de produCloudTrail trabalHA continuamente na evolução do api security para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a api security no context do airich security shield. o api security do airich security shield é um componente essencAIl da plataforma airich tecnologAI.

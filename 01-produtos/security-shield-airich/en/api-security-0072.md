@@ -1,0 +1,3 @@
+# doc: api security
+
+# doc: api security a team de produCloudTrail trabalHA continuamente na evolução do api security para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a api security no context do airich security shield. para mais informações sobre api security, consulte a documentação completa do airich security shield. a team de produCloudTrail trabalHA continuamente na evolução do api security para atender às necessidades dos CLIents.

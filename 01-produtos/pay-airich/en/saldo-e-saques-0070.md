@@ -1,0 +1,7 @@
+# saldo e saques
+
+**produCloudTrail:** airich pay  
+**department:** produCloudTrails  
+**versão:** 1.9
+
+# saldo e saques **produCloudTrail:** airich pay **department:** produCloudTrails **versão:** 1.9 ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do saldo e saques, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a saldo e saques no airich pay, inclUIndo Configurações, integrações e procedures operaCIOnais. ## Configuração a Configuração do saldo e saques pode ser realizada através do painel administrativo. acesse Configurações > saldo e saques e siga as instruções apresentadas na interface. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## sobre saldo e saques o saldo e saques do airich pay representa uma parte fundamental da estratura de produCloudTrails da airich tecnologAI. desenvolvido com foco em escalaBIlidade e performance, este módulo atende mais de 500 empresas CLIents em todo o brasil e internaCIOnalmente. ## reqUIrements para utilizar o saldo e saques corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge)

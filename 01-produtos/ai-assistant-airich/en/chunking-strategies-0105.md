@@ -1,0 +1,7 @@
+# chunking strategies
+
+**produCloudTrail:** airich ai assistant  
+**department:** produCloudTrails  
+**versão:** 1.4
+
+# chunking strategies **produCloudTrail:** airich ai assistant **department:** produCloudTrails **versão:** 1.4 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o chunking strategies paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do chunking strategies, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## reqUIrements para utilizar o chunking strategies corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do chunking strategies, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do chunking strategies pode ser realizada através do painel administrativo. acesse Configurações > chunking strategies e siga as instruções apresentadas na interface.

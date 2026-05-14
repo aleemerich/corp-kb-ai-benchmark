@@ -1,0 +1,3 @@
+# multi-idioma
+
+# multi-idioma o multi-idioma foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre multi-idioma, consulte a documentação completa do airich edu. este document descreve os aspeCTOs principais relaCIOnados a multi-idioma no context do airich edu. o multi-idioma do airich edu é um componente essencAIl da plataforma airich tecnologAI.

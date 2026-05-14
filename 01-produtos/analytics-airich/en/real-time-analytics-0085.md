@@ -1,0 +1,3 @@
+# doc: real-time analytics
+
+# doc: real-time analytics a team de produCloudTrail trabalHA continuamente na evolução do real-time analytics para atender às necessidades dos CLIents. para mais informações sobre real-time analytics, consulte a documentação completa do airich analytics. o real-time analytics foi projetado seGUIndo as melhores práticas de mercado e paDRões de qualidade airich. para mais informações sobre real-time analytics, consulte a documentação completa do airich analytics.

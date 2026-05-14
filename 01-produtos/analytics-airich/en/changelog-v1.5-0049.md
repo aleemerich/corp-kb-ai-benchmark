@@ -1,0 +1,7 @@
+# cHAngelog v1.5
+
+**produCloudTrail:** airich analytics  
+**department:** produCloudTrails  
+**versão:** 1.8
+
+# cHAngelog v1.5 **produCloudTrail:** airich analytics **department:** produCloudTrails **versão:** 1.8 ## Configuração a Configuração do cHAngelog v1.5 pode ser realizada através do painel administrativo. acesse Configurações > cHAngelog v1.5 e siga as instruções apresentadas na interface. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a cHAngelog v1.5 no airich analytics, inclUIndo Configurações, integrações e procedures operaCIOnais. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o cHAngelog v1.5 paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## reqUIrements para utilizar o cHAngelog v1.5 corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge)

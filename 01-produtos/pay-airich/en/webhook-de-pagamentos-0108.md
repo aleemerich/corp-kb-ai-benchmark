@@ -1,0 +1,3 @@
+# webhook de pagamentos - airich pay
+
+# webhook de pagamentos - airich pay a team de produCloudTrail trabalHA continuamente na evolução do webhook de pagamentos para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a webhook de pagamentos no context do airich pay. a team de produCloudTrail trabalHA continuamente na evolução do webhook de pagamentos para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a webhook de pagamentos no context do airich pay.

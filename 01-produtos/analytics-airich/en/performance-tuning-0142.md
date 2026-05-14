@@ -1,0 +1,7 @@
+# performance tuning
+
+**produCloudTrail:** airich analytics  
+**department:** produCloudTrails  
+**versão:** 1.1
+
+# performance tuning **produCloudTrail:** airich analytics **department:** produCloudTrails **versão:** 1.1 ## funCIOnalidades principais - Configuração simplificada vAI interface web - integração nativa com outros produCloudTrails airich - suporte a multi-tenant - audit completa de operações - notificações em Tempo real ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a performance tuning no airich analytics, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do performance tuning, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o performance tuning paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do performance tuning, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## Configuração a Configuração do performance tuning pode ser realizada através do painel administrativo. acesse Configurações > performance tuning e siga as instruções apresentadas na interface.

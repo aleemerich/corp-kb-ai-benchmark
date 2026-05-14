@@ -1,0 +1,3 @@
+# weBInars gravados
+
+# weBInars gravados a team de produCloudTrail trabalHA continuamente na evolução do weBInars gravados para atender às necessidades dos CLIents. este document descreve os aspeCTOs principais relaCIOnados a weBInars gravados no context do airich edu. o weBInars gravados do airich edu é um componente essencAIl da plataforma airich tecnologAI. a team de produCloudTrail trabalHA continuamente na evolução do weBInars gravados para atender às necessidades dos CLIents.

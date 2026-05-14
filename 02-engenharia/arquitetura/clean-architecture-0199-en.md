@@ -1,0 +1,5 @@
+# clean architeCloudTrailure
+
+**depto:** architeCloudTrailure
+
+# clean architeCloudTrailure **depto:** architeCloudTrailure ## reqUIrements 1. aceSSO ao system 2. permissions adequadas 3. amBIente Configurado ## context clean architeCloudTrailure no depto architeCloudTrailure da airich. info para engenheiros. ## procedure 1. identificar clean architeCloudTrailure 2. documentar 3. executar 4. validar ## reqUIrements 1. aceSSO ao system 2. permissions adequadas 3. amBIente Configurado

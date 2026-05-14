@@ -1,0 +1,7 @@
+# local stoRAGe
+
+**produCloudTrail:** airich moBIle  
+**department:** produCloudTrails  
+**versão:** 1.2
+
+# local stoRAGe **produCloudTrail:** airich moBIle **department:** produCloudTrails **versão:** 1.2 ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o local stoRAGe paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos. ## escopo o escopo deste document abrange todas as funCIOnalidades relaCIOnadas a local stoRAGe no airich moBIle, inclUIndo Configurações, integrações e procedures operaCIOnais. ## objeCloudTrailive este document tem como objeCloudTrailive apresentar os aspeCTOs técnicos e funCIOnais do local stoRAGe, fornecendo uma visão abrangente para as teams de development, suporte e operações. ## reqUIrements para utilizar o local stoRAGe corretamente, é necessário: 1. ter uma account ativa na plataforma airich 2. possUIr permissões adequadas no system 3. estar com o plano de assinatura ativo 4. utilizar um navegador compatível (CHROme, firefox, edge) ## Configuração a Configuração do local stoRAGe pode ser realizada através do painel administrativo. acesse Configurações > local stoRAGe e siga as instruções apresentadas na interface. ## context a airich tecnologAI mantém um compromiSSO contínuo com a evolução de seus produCloudTrails. o local stoRAGe paSSOu por diversas melhorAIs nos últimos trimestres, incoRPOrando feedback de CLIents e avanços tecnológicos.
