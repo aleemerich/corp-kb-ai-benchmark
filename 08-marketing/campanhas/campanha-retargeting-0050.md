@@ -1,5 +1,7 @@
 # Campanha: Retargeting
 
-**Depto:** Campanhas
+O presente documento tem como objetivo apresentar Campanha: Retargeting para as equipes envolvidas.
 
-# Campanha: Retargeting **Depto:** Campanhas ## Contexto Campanha: Retargeting - Campanhas AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Campanha: Retargeting foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

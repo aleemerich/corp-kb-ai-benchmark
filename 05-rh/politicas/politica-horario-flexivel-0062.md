@@ -1,5 +1,7 @@
 # Politica: Horario flexivel
 
-## Resumo
+Este guia técnico aborda os aspectos fundamentais de Politica: Horario flexivel na AIRich.
 
-# Politica: Horario flexivel ## Resumo ## Contexto Politica: Horario flexivel no departamento Politicas RH da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar
+Como parte do programa de melhoria contínua da AIRich, Politica: Horario flexivel foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

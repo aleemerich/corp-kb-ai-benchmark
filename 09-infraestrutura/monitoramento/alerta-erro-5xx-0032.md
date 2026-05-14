@@ -1,5 +1,7 @@
 # Alerta: Erro 5xx
 
-**Depto:** Monitoramento
+O presente documento tem como objetivo apresentar Alerta: Erro 5xx para as equipes envolvidas.
 
-# Alerta: Erro 5xx **Depto:** Monitoramento ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Contexto Alerta: Erro 5xx - Monitoramento AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes
+No cenário atual de transformação digital, Alerta: Erro 5xx desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

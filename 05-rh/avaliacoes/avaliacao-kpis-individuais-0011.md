@@ -1,5 +1,7 @@
 # Avaliacao: KPIs individuais
 
-> Avaliacoes AIRich
+O objetivo deste material é documentar as práticas recomendadas para Avaliacao: KPIs individuais.
 
-# Avaliacao: KPIs individuais > Avaliacoes AIRich Ref avaliacao: kpis individuais. Proc avaliacao: kpis individuais. Ref avaliacao: kpis individuais.
+Como parte do programa de melhoria contínua da AIRich, Avaliacao: KPIs individuais foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

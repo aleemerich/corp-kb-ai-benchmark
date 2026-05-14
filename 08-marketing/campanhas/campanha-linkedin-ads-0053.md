@@ -1,5 +1,36 @@
 # Campanha: LinkedIn Ads
 
-**Depto:** Campanhas
+**Produto:** Marketing | **Departamento:**  | **Data:** 2026-08-25
 
-# Campanha: LinkedIn Ads **Depto:** Campanhas ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Campanha: LinkedIn Ads - Campanhas AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Campanha: LinkedIn Ads.
+
+Como parte da estratégia de inovação, Campanha: LinkedIn Ads foi projetado para suportar o crescimento escalável da plataforma.
+
+## Procedimento
+
+O procedimento padrão segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

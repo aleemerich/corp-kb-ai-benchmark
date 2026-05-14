@@ -1,5 +1,7 @@
 # Onboarding: Mes 2
 
-**Depto:** Onboarding
+O presente documento tem como objetivo apresentar Onboarding: Mes 2 para as equipes envolvidas.
 
-# Onboarding: Mes 2 **Depto:** Onboarding ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Contexto Onboarding: Mes 2 no departamento Onboarding da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Alinhado com as melhores práticas do mercado, Onboarding: Mes 2 segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

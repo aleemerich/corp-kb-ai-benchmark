@@ -1,5 +1,7 @@
 # Script: provision-db.sh
 
-**Depto:** Scripts Automacao
+Este manual operacional descreve os processos e responsabilidades de Script: provision-db.sh.
 
-# Script: provision-db.sh **Depto:** Scripts Automacao ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Script: provision-db.sh - Scripts Automacao AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+O investimento contínuo em Script: provision-db.sh reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

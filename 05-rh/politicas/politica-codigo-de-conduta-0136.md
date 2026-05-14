@@ -1,5 +1,36 @@
 # Politica: Codigo de conduta
 
-## Resumo
+**Produto:** RH | **Departamento:**  | **Data:** 2026-01-24
 
-# Politica: Codigo de conduta ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Contexto Politica: Codigo de conduta no departamento Politicas RH da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+---
+
+## Visão Geral
+
+Este documento fornece uma visão detalhada sobre Politica: Codigo de conduta no ecossistema AIRich.
+
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Politica: Codigo de conduta representa um componente essencial dessa estratégia.
+
+## Procedimento
+
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

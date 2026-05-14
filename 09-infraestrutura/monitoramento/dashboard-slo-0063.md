@@ -1,5 +1,7 @@
 # Dashboard: SLO
 
-**Depto:** Monitoramento
+O objetivo deste material é documentar as práticas recomendadas para Dashboard: SLO.
 
-# Dashboard: SLO **Depto:** Monitoramento ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Dashboard: SLO - Monitoramento AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+Como parte da estratégia de inovação, Dashboard: SLO foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

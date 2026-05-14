@@ -1,5 +1,35 @@
 # Script: transform-data.py
 
-**Depto:** Scripts Automacao
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-02-20
 
-# Script: transform-data.py **Depto:** Scripts Automacao ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Script: transform-data.py - Scripts Automacao AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+---
+
+## Visão Geral
+
+Este manual operacional descreve os processos e responsabilidades de Script: transform-data.py.
+
+Como parte da estratégia de inovação, Script: transform-data.py foi projetado para suportar o crescimento escalável da plataforma.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

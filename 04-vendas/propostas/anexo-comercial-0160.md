@@ -1,5 +1,7 @@
 # Anexo comercial
 
-**Depto:** Propostas
+Este documento fornece uma visão detalhada sobre Anexo comercial no ecossistema AIRich.
 
-# Anexo comercial **Depto:** Propostas ## Contexto Anexo comercial no departamento Propostas da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+No cenário atual de transformação digital, Anexo comercial desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

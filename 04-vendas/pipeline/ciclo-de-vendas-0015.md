@@ -1,5 +1,7 @@
 # Ciclo de vendas
 
-**Depto:** Pipeline
+O objetivo deste material é documentar as práticas recomendadas para Ciclo de vendas.
 
-# Ciclo de vendas **Depto:** Pipeline ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Como parte do programa de melhoria contínua da AIRich, Ciclo de vendas foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,76 +1,37 @@
 # Servidor: api-01
 
-**Depto:** Servidores  
-**Data:** 2026-04-04
+**Produto:** Infraestrutura | **Departamento:**  | **Data:** 2026-04-04
 
 ---
 
-## Introducao
+## Visão Geral
 
-Servidor: api-01 - Servidores AIRich.
+Este manual operacional descreve os processos e responsabilidades de Servidor: api-01.
 
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Servidor: api-01 representa um componente essencial dessa estratégia.
 
+## Procedimento
 
-## Detalhes
+Etapas recomendadas:
 
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

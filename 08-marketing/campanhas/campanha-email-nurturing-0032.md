@@ -1,5 +1,7 @@
 # Campanha: Email nurturing
 
-**Depto:** Campanhas
+Este guia técnico aborda os aspectos fundamentais de Campanha: Email nurturing na AIRich.
 
-# Campanha: Email nurturing **Depto:** Campanhas ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes
+O investimento contínuo em Campanha: Email nurturing reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

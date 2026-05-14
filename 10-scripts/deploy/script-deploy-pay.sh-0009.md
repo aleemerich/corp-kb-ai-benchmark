@@ -1,5 +1,7 @@
 # Script: deploy-pay.sh
 
-## Resumo
+Este documento fornece uma visão detalhada sobre Script: deploy-pay.sh no ecossistema AIRich.
 
-# Script: deploy-pay.sh ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Script: deploy-pay.sh - Scripts Deploy AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Script: deploy-pay.sh foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

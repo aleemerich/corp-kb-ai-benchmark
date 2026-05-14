@@ -1,5 +1,7 @@
 # Politica: Equipamentos
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de Politica: Equipamentos.
 
-# Politica: Equipamentos ## Resumo ## Contexto Politica: Equipamentos no departamento Politicas RH da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+O investimento contínuo em Politica: Equipamentos reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

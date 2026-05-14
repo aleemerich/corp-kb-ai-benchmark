@@ -1,5 +1,7 @@
 # Compliance: ISO27001
 
-## Resumo
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Compliance: ISO27001.
 
-# Compliance: ISO27001 ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Compliance: ISO27001 - Compliance AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+O investimento contínuo em Compliance: ISO27001 reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,37 @@
 # Onboarding: Treinamento ferramentas
 
-## Resumo
+**Produto:** RH | **Departamento:**  | **Data:** 2026-02-23
 
-# Onboarding: Treinamento ferramentas ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Contexto Onboarding: Treinamento ferramentas no departamento Onboarding da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Onboarding: Treinamento ferramentas para as equipes envolvidas.
+
+A equipe da AIRich trabalha continuamente na evolução de Onboarding: Treinamento ferramentas, incorporando feedback e avanços tecnológicos.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

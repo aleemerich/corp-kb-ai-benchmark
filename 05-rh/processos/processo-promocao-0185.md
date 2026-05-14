@@ -1,5 +1,7 @@
 # Processo: Promocao
 
-> Processos RH AIRich
+Esta especificação técnica define os requisitos e procedimentos para Processo: Promocao.
 
-# Processo: Promocao > Processos RH AIRich Ref processo: promocao. Doc processo: promocao - Processos RH AIRich. Doc processo: promocao - Processos RH AIRich.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Processo: Promocao representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

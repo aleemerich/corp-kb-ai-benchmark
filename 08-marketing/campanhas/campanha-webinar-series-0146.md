@@ -1,5 +1,7 @@
 # Campanha: Webinar Series
 
-**Depto:** Campanhas
+Este guia técnico aborda os aspectos fundamentais de Campanha: Webinar Series na AIRich.
 
-# Campanha: Webinar Series **Depto:** Campanhas ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+Como parte da estratégia de inovação, Campanha: Webinar Series foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

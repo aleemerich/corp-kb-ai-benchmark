@@ -1,5 +1,7 @@
 # Script: generate-invoice.py
 
-## Resumo
+O objetivo deste material é documentar as práticas recomendadas para Script: generate-invoice.py.
 
-# Script: generate-invoice.py ## Resumo ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Script: generate-invoice.py - Scripts Automacao AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes
+O investimento contínuo em Script: generate-invoice.py reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

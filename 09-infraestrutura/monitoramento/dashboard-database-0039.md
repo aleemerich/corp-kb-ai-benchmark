@@ -1,5 +1,7 @@
 # Dashboard: Database
 
-## Resumo
+O presente documento tem como objetivo apresentar Dashboard: Database para as equipes envolvidas.
 
-# Dashboard: Database ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Dashboard: Database - Monitoramento AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+Alinhado com as melhores práticas do mercado, Dashboard: Database segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,71 +1,36 @@
 # Onboarding: Avaliacao
 
-**Depto:** Onboarding  
-**Data:** 2026-08-24
+**Produto:** RH | **Departamento:**  | **Data:** 2026-08-24
 
 ---
 
-## Introducao
+## Visão Geral
 
-Onboarding: Avaliacao e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+Este documento fornece uma visão detalhada sobre Onboarding: Avaliacao no ecossistema AIRich.
 
+No cenário atual de transformação digital, Onboarding: Avaliacao desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
+## Procedimento
 
-## Detalhes
+Para executar corretamente:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Introducao
-
-Onboarding: Avaliacao e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

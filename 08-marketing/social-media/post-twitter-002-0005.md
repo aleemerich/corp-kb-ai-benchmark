@@ -1,3 +1,7 @@
 # Post: Twitter 002
 
-# Post: Twitter 002 Proc post: twitter 002. Doc post: twitter 002 - Social Media AIRich. Ref post: twitter 002.
+Este manual operacional descreve os processos e responsabilidades de Post: Twitter 002.
+
+A equipe da AIRich trabalha continuamente na evolução de Post: Twitter 002, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

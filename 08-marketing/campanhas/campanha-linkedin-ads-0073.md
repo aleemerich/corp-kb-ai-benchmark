@@ -1,5 +1,36 @@
 # Campanha: LinkedIn Ads
 
-> Campanhas
+**Produto:** Marketing | **Departamento:**  | **Data:** 2026-01-17
 
-# Campanha: LinkedIn Ads > Campanhas Proc campanha: linkedin ads. Doc campanha: linkedin ads - Campanhas AIRich. Doc campanha: linkedin ads - Campanhas AIRich.
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Campanha: LinkedIn Ads.
+
+No cenário atual de transformação digital, Campanha: LinkedIn Ads desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+## Procedimento
+
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

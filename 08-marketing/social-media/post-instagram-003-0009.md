@@ -1,5 +1,7 @@
 # Post: Instagram 003
 
-## Resumo
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Post: Instagram 003.
 
-# Post: Instagram 003 ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+A equipe da AIRich trabalha continuamente na evolução de Post: Instagram 003, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,7 @@
 # Servidor: db-master
 
-**Depto:** Servidores
+O presente documento tem como objetivo apresentar Servidor: db-master para as equipes envolvidas.
 
-# Servidor: db-master **Depto:** Servidores ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Servidor: db-master - Servidores AIRich. ## Contexto Servidor: db-master - Servidores AIRich.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Servidor: db-master representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

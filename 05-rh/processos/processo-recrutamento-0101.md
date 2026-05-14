@@ -1,5 +1,7 @@
 # Processo: Recrutamento
 
-**Depto:** Processos RH
+Este guia técnico aborda os aspectos fundamentais de Processo: Recrutamento na AIRich.
 
-# Processo: Recrutamento **Depto:** Processos RH ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Contexto Processo: Recrutamento no departamento Processos RH da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar
+Alinhado com as melhores práticas do mercado, Processo: Recrutamento segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

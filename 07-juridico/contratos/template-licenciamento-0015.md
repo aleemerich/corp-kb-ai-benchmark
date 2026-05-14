@@ -1,72 +1,7 @@
 # Template: Licenciamento
 
-**Depto:** Contratos Juridico  
-**Data:** 2026-06-15
+Este documento fornece uma visão detalhada sobre Template: Licenciamento no ecossistema AIRich.
 
----
+No cenário atual de transformação digital, Template: Licenciamento desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
-## Introducao
-
-Template: Licenciamento - Contratos Juridico AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Introducao
-
-Template: Licenciamento - Contratos Juridico AIRich.
-
+Para mais informações, consulte a documentação da AIRich.

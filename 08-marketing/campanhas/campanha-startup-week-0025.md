@@ -1,5 +1,7 @@
 # Campanha: Startup Week
 
-**Depto:** Campanhas
+Esta especificação técnica define os requisitos e procedimentos para Campanha: Startup Week.
 
-# Campanha: Startup Week **Depto:** Campanhas ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Campanha: Startup Week - Campanhas AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Campanha: Startup Week foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

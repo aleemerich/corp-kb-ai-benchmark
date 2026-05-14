@@ -1,5 +1,7 @@
 # Script: provision-server.sh
 
-**Depto:** Scripts Automacao
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Script: provision-server.sh.
 
-# Script: provision-server.sh **Depto:** Scripts Automacao ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Requisitos 1. Acesso ao sistema 2. Permissoes
+No cenário atual de transformação digital, Script: provision-server.sh desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

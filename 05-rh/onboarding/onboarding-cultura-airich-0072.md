@@ -1,5 +1,7 @@
 # Onboarding: Cultura AIRich
 
-**Depto:** Onboarding
+Esta especificação técnica define os requisitos e procedimentos para Onboarding: Cultura AIRich.
 
-# Onboarding: Cultura AIRich **Depto:** Onboarding ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Como parte da estratégia de inovação, Onboarding: Cultura AIRich foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,72 +1,7 @@
 # Script: check-k8s-pods.sh
 
-**Depto:** Scripts Diagnostico  
-**Data:** 2026-01-10
+Este documento fornece uma visão detalhada sobre Script: check-k8s-pods.sh no ecossistema AIRich.
 
----
+Alinhado com as melhores práticas do mercado, Script: check-k8s-pods.sh segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-## Introducao
-
-Script: check-k8s-pods.sh - Scripts Diagnostico AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Script: check-k8s-pods.sh - Scripts Diagnostico AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
+Para mais informações, consulte a documentação da AIRich.

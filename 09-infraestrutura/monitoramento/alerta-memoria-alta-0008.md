@@ -1,5 +1,7 @@
 # Alerta: Memoria alta
 
-**Depto:** Monitoramento
+Este guia técnico aborda os aspectos fundamentais de Alerta: Memoria alta na AIRich.
 
-# Alerta: Memoria alta **Depto:** Monitoramento ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Contexto Alerta: Memoria alta - Monitoramento AIRich.
+Como parte da estratégia de inovação, Alerta: Memoria alta foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

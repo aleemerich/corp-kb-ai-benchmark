@@ -1,5 +1,7 @@
 # Politica: Seguranca
 
-**Depto:** Politicas RH
+Este documento descreve Politica: Seguranca no contexto da AIRich Tecnologia.
 
-# Politica: Seguranca **Depto:** Politicas RH ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Contexto Politica: Seguranca no departamento Politicas RH da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Contexto Politica: Seguranca no departamento Politicas RH da AIRich Tecnologia.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Politica: Seguranca representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

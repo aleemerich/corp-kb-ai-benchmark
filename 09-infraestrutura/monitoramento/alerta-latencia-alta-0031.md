@@ -1,5 +1,7 @@
 # Alerta: Latencia alta
 
-## Resumo
+O objetivo deste material é documentar as práticas recomendadas para Alerta: Latencia alta.
 
-# Alerta: Latencia alta ## Resumo ## Contexto Alerta: Latencia alta - Monitoramento AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+Alinhado com as melhores práticas do mercado, Alerta: Latencia alta segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

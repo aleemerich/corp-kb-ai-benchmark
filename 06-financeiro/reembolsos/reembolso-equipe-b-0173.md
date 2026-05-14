@@ -1,0 +1,7 @@
+# Reembolso: Equipe B
+
+O presente documento tem como objetivo apresentar Reembolso: Equipe B para as equipes envolvidas.
+
+O investimento contínuo em Reembolso: Equipe B reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

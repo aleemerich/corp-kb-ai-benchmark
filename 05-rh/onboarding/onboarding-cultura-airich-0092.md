@@ -1,5 +1,7 @@
 # Onboarding: Cultura AIRich
 
-**Depto:** Onboarding
+Este documento descreve Onboarding: Cultura AIRich no contexto da AIRich Tecnologia.
 
-# Onboarding: Cultura AIRich **Depto:** Onboarding ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Contexto Onboarding: Cultura AIRich no departamento Onboarding da AIRich Tecnologia. ## Contexto Onboarding: Cultura AIRich no departamento Onboarding da AIRich Tecnologia.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Onboarding: Cultura AIRich foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

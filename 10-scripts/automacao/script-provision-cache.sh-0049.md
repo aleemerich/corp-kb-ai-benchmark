@@ -1,60 +1,36 @@
 # Script: provision-cache.sh
 
-**Depto:** Scripts Automacao  
-**Data:** 2026-04-21
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-04-21
 
 ---
 
-## Introducao
+## Visão Geral
 
-Script: provision-cache.sh - Scripts Automacao AIRich.
+Este manual operacional descreve os processos e responsabilidades de Script: provision-cache.sh.
 
+Alinhado com as melhores práticas do mercado, Script: provision-cache.sh segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
+## Procedimento
 
-## Detalhes
+Para executar corretamente:
 
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Script: provision-cache.sh - Scripts Automacao AIRich.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

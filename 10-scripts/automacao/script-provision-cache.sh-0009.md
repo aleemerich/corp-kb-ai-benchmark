@@ -1,64 +1,7 @@
 # Script: provision-cache.sh
 
-**Depto:** Scripts Automacao  
-**Data:** 2026-09-09
+Este manual operacional descreve os processos e responsabilidades de Script: provision-cache.sh.
 
----
+Como parte da estratégia de inovação, Script: provision-cache.sh foi projetado para suportar o crescimento escalável da plataforma.
 
-## Introducao
-
-Script: provision-cache.sh - Scripts Automacao AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
+Para mais informações, consulte a documentação da AIRich.

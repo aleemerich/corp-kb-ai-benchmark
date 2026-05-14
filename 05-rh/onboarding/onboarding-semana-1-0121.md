@@ -1,5 +1,37 @@
 # Onboarding: Semana 1
 
-**Depto:** Onboarding
+**Produto:** RH | **Departamento:**  | **Data:** 2026-04-09
 
-# Onboarding: Semana 1 **Depto:** Onboarding ## Contexto Onboarding: Semana 1 no departamento Onboarding da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Onboarding: Semana 1 para as equipes envolvidas.
+
+O investimento contínuo em Onboarding: Semana 1 reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

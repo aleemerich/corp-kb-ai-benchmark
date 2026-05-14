@@ -1,66 +1,35 @@
 # Politica: EPI
 
-**Depto:** Politicas RH  
-**Data:** 2026-08-01
+**Produto:** RH | **Departamento:**  | **Data:** 2026-08-01
 
 ---
 
-## Introducao
+## Visão Geral
 
-Politica: EPI e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+Este documento descreve Politica: EPI no contexto da AIRich Tecnologia.
 
+Como parte do programa de melhoria contínua da AIRich, Politica: EPI foi estruturado para atender às necessidades de escalabilidade e segurança.
 
+## Procedimento
 
-## Detalhes
+Etapas recomendadas:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Introducao
-
-Politica: EPI e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

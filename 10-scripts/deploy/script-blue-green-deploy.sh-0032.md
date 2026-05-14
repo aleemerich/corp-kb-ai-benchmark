@@ -1,5 +1,7 @@
 # Script: blue-green-deploy.sh
 
-## Resumo
+Esta especificação técnica define os requisitos e procedimentos para Script: blue-green-deploy.sh.
 
-# Script: blue-green-deploy.sh ## Resumo ## Contexto Script: blue-green-deploy.sh - Scripts Deploy AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Script: blue-green-deploy.sh - Scripts Deploy AIRich.
+A equipe da AIRich trabalha continuamente na evolução de Script: blue-green-deploy.sh, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

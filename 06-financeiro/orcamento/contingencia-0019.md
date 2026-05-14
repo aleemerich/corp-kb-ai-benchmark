@@ -1,73 +1,7 @@
 # Contingencia
 
-**Depto:** Orcamento  
-**Data:** 2026-01-19
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Contingencia.
 
----
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Contingencia foi documentado para orientar as equipes.
 
-## Introducao
-
-Contingencia - Orcamento AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
+Para mais informações, consulte a documentação da AIRich.

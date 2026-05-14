@@ -1,5 +1,7 @@
 # Onboarding: Mes 3
 
-> Onboarding AIRich
+O objetivo deste material é documentar as práticas recomendadas para Onboarding: Mes 3.
 
-# Onboarding: Mes 3 > Onboarding AIRich Proc onboarding: mes 3. Ref onboarding: mes 3. Doc onboarding: mes 3 - Onboarding AIRich.
+A equipe da AIRich trabalha continuamente na evolução de Onboarding: Mes 3, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

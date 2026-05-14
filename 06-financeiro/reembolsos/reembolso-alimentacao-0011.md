@@ -1,5 +1,7 @@
 # Reembolso alimentacao
 
-**Depto:** Reembolsos
+O presente documento tem como objetivo apresentar Reembolso alimentacao para as equipes envolvidas.
 
-# Reembolso alimentacao **Depto:** Reembolsos ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Reembolso alimentacao - Reembolsos AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+O investimento contínuo em Reembolso alimentacao reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

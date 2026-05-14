@@ -1,73 +1,7 @@
 # Politica: Home office
 
-**Depto:** Politicas RH  
-**Data:** 2026-05-13
+O objetivo deste material é documentar as práticas recomendadas para Politica: Home office.
 
----
+Como parte do programa de melhoria contínua da AIRich, Politica: Home office foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-## Introducao
-
-Politica: Home office e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
-
-
-## Detalhes
-
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
+Para mais informações, consulte a documentação da AIRich.

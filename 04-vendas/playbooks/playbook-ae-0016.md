@@ -1,5 +1,7 @@
 # Playbook: AE
 
-**Depto:** Playbooks
+O objetivo deste material é documentar as práticas recomendadas para Playbook: AE.
 
-# Playbook: AE **Depto:** Playbooks ## Contexto Playbook: AE no departamento Playbooks da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+O investimento contínuo em Playbook: AE reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,7 @@
 # Onboarding: Mes 2
 
-**Depto:** Onboarding
+O presente documento tem como objetivo apresentar Onboarding: Mes 2 para as equipes envolvidas.
 
-# Onboarding: Mes 2 **Depto:** Onboarding ## Contexto Onboarding: Mes 2 no departamento Onboarding da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+No cenário atual de transformação digital, Onboarding: Mes 2 desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

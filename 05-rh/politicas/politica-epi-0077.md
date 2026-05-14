@@ -1,85 +1,70 @@
 # Politica: EPI
 
-**Depto:** Politicas RH  
-**Data:** 2026-05-21
+**Produto:** RH | **Departamento:**  | **Data:** 2026-05-21 | **Versão:** 1.6
 
 ---
 
-## Introducao
+## Visão Geral
 
-Politica: EPI e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+Esta especificação técnica define os requisitos e procedimentos para Politica: EPI.
 
+Como parte do programa de melhoria contínua da AIRich, Politica: EPI foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-
-## Detalhes
-
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+## Arquitetura
 
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
+    A[Início] --> B[Análise]
+    B --> C[Planejamento]
+    C --> D[Execução]
+    D --> E[Testes]
+    E --> F{Aprovado?}
+    F -->|Sim| G[Deploy]
+    F -->|Não| D
+    G --> H[Fim]
 ```
 
+## Procedimento
 
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
 ## Troubleshooting
 
-### Problema
+### Problema: Falha na execução
 
-**Sintoma:** Falha durante processo
+**Sintoma:** Erro inesperado durante o processo.
 
-**Solucao:**
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
+
+**Solução:**
 1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
 
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
 
-## Seguranca
+---
 
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Detalhes
-
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

@@ -1,64 +1,7 @@
 # Script: secret-rotate.sh
 
-**Depto:** Scripts Deploy  
-**Data:** 2026-01-19
+Este documento fornece uma visão detalhada sobre Script: secret-rotate.sh no ecossistema AIRich.
 
----
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Script: secret-rotate.sh representa um componente essencial dessa estratégia.
 
-## Introducao
-
-Script: secret-rotate.sh - Scripts Deploy AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
+Para mais informações, consulte a documentação da AIRich.

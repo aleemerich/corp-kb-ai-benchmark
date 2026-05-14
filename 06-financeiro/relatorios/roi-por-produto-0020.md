@@ -1,5 +1,37 @@
 # ROI por produto
 
-## Resumo
+**Produto:** Financeiro | **Departamento:**  | **Data:** 2026-02-20
 
-# ROI por produto ## Resumo ## Contexto ROI por produto - Relatorios Financeiros AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para ROI por produto.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. ROI por produto foi documentado para orientar as equipes.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

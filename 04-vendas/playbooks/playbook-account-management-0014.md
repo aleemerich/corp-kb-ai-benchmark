@@ -1,5 +1,68 @@
 # Playbook: Account management
 
-## Resumo
+**Produto:** Vendas | **Departamento:**  | **Data:** 2026-05-14 | **Versão:** 1.3
 
-# Playbook: Account management ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Contexto Playbook: Account management no departamento Playbooks da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Playbook: Account management.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Playbook: Account management foi documentado para orientar as equipes.
+
+## Arquitetura
+
+```mermaid
+graph LR
+    Input --> Process[Processamento]
+    Process --> Output
+    Process --> Cache[(Cache)]
+    Process --> DB[(Banco)]
+```
+
+## Procedimento
+
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+## Troubleshooting
+
+### Problema: Falha na execução
+
+**Sintoma:** Erro inesperado durante o processo.
+
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
+
+**Solução:**
+1. Verificar logs
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
+
+## Segurança
+
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

@@ -1,5 +1,7 @@
 # Rede: VPC principal
 
-**Depto:** Redes
+Este manual operacional descreve os processos e responsabilidades de Rede: VPC principal.
 
-# Rede: VPC principal **Depto:** Redes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Rede: VPC principal - Redes AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Contexto Rede: VPC principal - Redes AIRich.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Rede: VPC principal foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,3 +1,7 @@
 # Video: Tutorial
 
-# Video: Tutorial Doc video: tutorial - Conteudo AIRich. Ref video: tutorial. Proc video: tutorial.
+Este manual operacional descreve os processos e responsabilidades de Video: Tutorial.
+
+Alinhado com as melhores práticas do mercado, Video: Tutorial segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

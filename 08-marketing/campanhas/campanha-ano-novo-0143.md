@@ -1,72 +1,7 @@
 # Campanha: Ano Novo
 
-**Depto:** Campanhas  
-**Data:** 2026-08-03
+Esta especificação técnica define os requisitos e procedimentos para Campanha: Ano Novo.
 
----
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Campanha: Ano Novo foi documentado para orientar as equipes.
 
-## Introducao
-
-Campanha: Ano Novo - Campanhas AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Introducao
-
-Campanha: Ano Novo - Campanhas AIRich.
-
+Para mais informações, consulte a documentação da AIRich.

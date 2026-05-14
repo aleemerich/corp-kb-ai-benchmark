@@ -1,72 +1,71 @@
 # Fluxo de aprovacao
 
-**Depto:** Reembolsos  
-**Data:** 2026-07-16
+**Produto:** Financeiro | **Departamento:**  | **Data:** 2026-07-16 | **Versão:** 1.5
 
 ---
 
-## Introducao
+## Visão Geral
 
-Fluxo de aprovacao - Reembolsos AIRich.
+O objetivo deste material é documentar as práticas recomendadas para Fluxo de aprovacao.
 
+Como parte do programa de melhoria contínua da AIRich, Fluxo de aprovacao foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+## Arquitetura
 
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
+    A[Início] --> B[Análise]
+    B --> C[Planejamento]
+    C --> D[Execução]
+    D --> E[Testes]
+    E --> F{Aprovado?}
+    F -->|Sim| G[Deploy]
+    F -->|Não| D
+    G --> H[Fim]
 ```
 
+## Procedimento
 
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
 ## Troubleshooting
 
-**Sintoma:** Falha
+### Problema: Falha na execução
 
-**Solucao:**
+**Sintoma:** Erro inesperado durante o processo.
+
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
+
+**Solução:**
 1. Verificar logs
-2. Reiniciar
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
 
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
 
-## Seguranca
+---
 
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Fluxo de aprovacao - Reembolsos AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

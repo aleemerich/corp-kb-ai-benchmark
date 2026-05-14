@@ -1,66 +1,37 @@
 # Onboarding: Feedback 30d
 
-**Depto:** Onboarding  
-**Data:** 2026-08-01
+**Produto:** RH | **Departamento:**  | **Data:** 2026-08-01
 
 ---
 
-## Introducao
+## Visão Geral
 
-Onboarding: Feedback 30d e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+O presente documento tem como objetivo apresentar Onboarding: Feedback 30d para as equipes envolvidas.
 
+O investimento contínuo em Onboarding: Feedback 30d reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
 
+## Procedimento
 
-## Detalhes
+Etapas recomendadas:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Introducao
-
-Onboarding: Feedback 30d e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

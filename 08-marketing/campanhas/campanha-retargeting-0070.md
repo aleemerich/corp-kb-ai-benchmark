@@ -1,72 +1,36 @@
 # Campanha: Retargeting
 
-**Depto:** Campanhas  
-**Data:** 2026-07-14
+**Produto:** Marketing | **Departamento:**  | **Data:** 2026-07-14
 
 ---
 
-## Introducao
+## Visão Geral
 
-Campanha: Retargeting - Campanhas AIRich.
+O objetivo deste material é documentar as práticas recomendadas para Campanha: Retargeting.
 
+Como parte da estratégia de inovação, Campanha: Retargeting foi projetado para suportar o crescimento escalável da plataforma.
 
+## Procedimento
 
-## Detalhes
+Para executar corretamente:
 
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Introducao
-
-Campanha: Retargeting - Campanhas AIRich.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

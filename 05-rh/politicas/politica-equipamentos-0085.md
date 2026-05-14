@@ -1,5 +1,7 @@
 # Politica: Equipamentos
 
-**Depto:** Politicas RH
+Este guia técnico aborda os aspectos fundamentais de Politica: Equipamentos na AIRich.
 
-# Politica: Equipamentos **Depto:** Politicas RH ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Politica: Equipamentos representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

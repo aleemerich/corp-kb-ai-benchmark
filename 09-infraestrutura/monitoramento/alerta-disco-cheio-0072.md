@@ -1,92 +1,37 @@
 # Alerta: Disco cheio
 
-**Depto:** Monitoramento  
-**Data:** 2026-09-16
+**Produto:** Infraestrutura | **Departamento:**  | **Data:** 2026-09-16
 
 ---
 
-## Indice
+## Visão Geral
 
-1. Intro
-2. Detalhes
-3. Procedimentos
-4. Metricas
-5. Ref
+Este documento fornece uma visão detalhada sobre Alerta: Disco cheio no ecossistema AIRich.
+
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Alerta: Disco cheio representa um componente essencial dessa estratégia.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ---
 
-## Introducao
-
-Alerta: Disco cheio - Monitoramento AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Metricas
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| Efic. | > 90% | 92% |
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Alerta: Disco cheio - Monitoramento AIRich.
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

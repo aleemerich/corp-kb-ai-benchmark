@@ -1,5 +1,7 @@
 # Politica: Conflito de interesse
 
-> Politicas RH AIRich
+Este documento descreve Politica: Conflito de interesse no contexto da AIRich Tecnologia.
 
-# Politica: Conflito de interesse > Politicas RH AIRich Ref politica: conflito de interesse. Proc politica: conflito de interesse. Doc politica: conflito de interesse - Politicas RH AIRich.
+No cenário atual de transformação digital, Politica: Conflito de interesse desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

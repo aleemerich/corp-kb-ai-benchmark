@@ -1,5 +1,7 @@
 # Script: check-db-latency.sh
 
-## Resumo
+Este documento descreve Script: check-db-latency.sh no contexto da AIRich Tecnologia.
 
-# Script: check-db-latency.sh ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Contexto Script: check-db-latency.sh - Scripts Diagnostico AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Script: check-db-latency.sh - Scripts Diagnostico AIRich.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Script: check-db-latency.sh representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,85 +1,34 @@
 # Playbook: Negociacao
 
-**Depto:** Playbooks  
-**Data:** 2026-05-05
+**Produto:** Vendas | **Departamento:**  | **Data:** 2026-05-05
 
 ---
 
-## Introducao
+## Visão Geral
 
-Playbook: Negociacao e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+Este guia técnico aborda os aspectos fundamentais de Playbook: Negociacao na AIRich.
 
+A equipe da AIRich trabalha continuamente na evolução de Playbook: Negociacao, incorporando feedback e avanços tecnológicos.
 
+## Procedimento
 
-## Detalhes
+O procedimento padrão segue as seguintes etapas:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Detalhes
-
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

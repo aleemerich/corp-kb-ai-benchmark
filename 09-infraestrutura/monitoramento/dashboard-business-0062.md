@@ -1,64 +1,7 @@
 # Dashboard: Business
 
-**Depto:** Monitoramento  
-**Data:** 2026-08-06
+Este documento descreve Dashboard: Business no contexto da AIRich Tecnologia.
 
----
+Alinhado com as melhores práticas do mercado, Dashboard: Business segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-## Introducao
-
-Dashboard: Business - Monitoramento AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
+Para mais informações, consulte a documentação da AIRich.

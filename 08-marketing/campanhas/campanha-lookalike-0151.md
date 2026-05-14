@@ -1,5 +1,7 @@
 # Campanha: Lookalike
 
-**Depto:** Campanhas
+Este guia técnico aborda os aspectos fundamentais de Campanha: Lookalike na AIRich.
 
-# Campanha: Lookalike **Depto:** Campanhas ## Contexto Campanha: Lookalike - Campanhas AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+O investimento contínuo em Campanha: Lookalike reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

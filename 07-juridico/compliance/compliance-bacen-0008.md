@@ -1,5 +1,7 @@
 # Compliance: BACEN
 
-**Depto:** Compliance
+Esta especificação técnica define os requisitos e procedimentos para Compliance: BACEN.
 
-# Compliance: BACEN **Depto:** Compliance ## Contexto Compliance: BACEN - Compliance AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+Como parte da estratégia de inovação, Compliance: BACEN foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

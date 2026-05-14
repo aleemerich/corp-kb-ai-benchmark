@@ -1,66 +1,36 @@
 # Politica: Horario flexivel
 
-**Depto:** Politicas RH  
-**Data:** 2026-07-02
+**Produto:** RH | **Departamento:**  | **Data:** 2026-07-02
 
 ---
 
-## Introducao
+## Visão Geral
 
-Politica: Horario flexivel e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+O objetivo deste material é documentar as práticas recomendadas para Politica: Horario flexivel.
 
+Alinhado com as melhores práticas do mercado, Politica: Horario flexivel segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
+## Procedimento
 
-## Detalhes
+Para executar corretamente:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Introducao
-
-Politica: Horario flexivel e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

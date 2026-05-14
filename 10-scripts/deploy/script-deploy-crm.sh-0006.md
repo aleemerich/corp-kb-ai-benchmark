@@ -1,76 +1,7 @@
 # Script: deploy-crm.sh
 
-**Depto:** Scripts Deploy  
-**Data:** 2026-06-06
+Este guia técnico aborda os aspectos fundamentais de Script: deploy-crm.sh na AIRich.
 
----
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Script: deploy-crm.sh foi documentado para orientar as equipes.
 
-## Introducao
-
-Script: deploy-crm.sh - Scripts Deploy AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
+Para mais informações, consulte a documentação da AIRich.

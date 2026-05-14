@@ -1,63 +1,69 @@
 # Script: check-api-health.sh
 
-**Depto:** Scripts Diagnostico  
-**Data:** 2026-01-01
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-01-01 | **Versão:** 1.0
 
 ---
 
-## Introducao
+## Visão Geral
 
-Script: check-api-health.sh - Scripts Diagnostico AIRich.
+Esta especificação técnica define os requisitos e procedimentos para Script: check-api-health.sh.
 
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Script: check-api-health.sh foi documentado para orientar as equipes.
 
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+## Arquitetura
 
 ```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
+graph LR
+    Input --> Process[Processamento]
+    Process --> Output
+    Process --> Cache[(Cache)]
+    Process --> DB[(Banco)]
 ```
 
+## Procedimento
 
+Etapas recomendadas:
 
-## Troubleshooting
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-**Sintoma:** Falha
+## Infraestrutura
 
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Script: check-api-health.sh - Scripts Diagnostico AIRich.
-
-
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ## Troubleshooting
 
-**Sintoma:** Falha
+### Problema: Falha na execução
 
-**Solucao:**
+**Sintoma:** Erro inesperado durante o processo.
+
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
+
+**Solução:**
 1. Verificar logs
-2. Reiniciar
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
+
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

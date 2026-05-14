@@ -1,5 +1,7 @@
 # Campanha: Referencia Beta
 
-> Campanhas
+Este documento fornece uma visão detalhada sobre Campanha: Referencia Beta no ecossistema AIRich.
 
-# Campanha: Referencia Beta > Campanhas Doc campanha: referencia beta - Campanhas AIRich. Ref campanha: referencia beta. Doc campanha: referencia beta - Campanhas AIRich.
+Alinhado com as melhores práticas do mercado, Campanha: Referencia Beta segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

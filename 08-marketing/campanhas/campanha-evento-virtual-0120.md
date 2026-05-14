@@ -1,5 +1,7 @@
 # Campanha: Evento virtual
 
-**Depto:** Campanhas
+Este documento fornece uma visão detalhada sobre Campanha: Evento virtual no ecossistema AIRich.
 
-# Campanha: Evento virtual **Depto:** Campanhas ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes
+Como parte da estratégia de inovação, Campanha: Evento virtual foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

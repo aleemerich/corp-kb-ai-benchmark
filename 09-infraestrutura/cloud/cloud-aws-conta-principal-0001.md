@@ -1,5 +1,7 @@
 # Cloud: AWS conta principal
 
-> Cloud
+O presente documento tem como objetivo apresentar Cloud: AWS conta principal para as equipes envolvidas.
 
-# Cloud: AWS conta principal > Cloud Ref cloud: aws conta principal. Doc cloud: aws conta principal - Cloud AIRich. Proc cloud: aws conta principal.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Cloud: AWS conta principal foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,7 @@
 # Script: auto-scale.sh
 
-**Depto:** Scripts Automacao
+Este documento descreve Script: auto-scale.sh no contexto da AIRich Tecnologia.
 
-# Script: auto-scale.sh **Depto:** Scripts Automacao ## Contexto Script: auto-scale.sh - Scripts Automacao AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+No cenário atual de transformação digital, Script: auto-scale.sh desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

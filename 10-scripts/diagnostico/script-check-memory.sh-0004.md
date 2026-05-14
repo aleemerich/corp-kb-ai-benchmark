@@ -1,5 +1,7 @@
 # Script: check-memory.sh
 
-> Scripts Diagnostico
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Script: check-memory.sh.
 
-# Script: check-memory.sh > Scripts Diagnostico Ref script: check-memory.sh. Doc script: check-memory.sh - Scripts Diagnostico AIRich. Ref script: check-memory.sh.
+O investimento contínuo em Script: check-memory.sh reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

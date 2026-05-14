@@ -1,5 +1,7 @@
 # Playbook: SDR
 
-**Depto:** Playbooks
+Este documento fornece uma visão detalhada sobre Playbook: SDR no ecossistema AIRich.
 
-# Playbook: SDR **Depto:** Playbooks ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Contexto Playbook: SDR no departamento Playbooks da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Alinhado com as melhores práticas do mercado, Playbook: SDR segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

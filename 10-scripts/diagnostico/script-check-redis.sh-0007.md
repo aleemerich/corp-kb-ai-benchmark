@@ -1,5 +1,7 @@
 # Script: check-redis.sh
 
-> Scripts Diagnostico
+Este documento descreve Script: check-redis.sh no contexto da AIRich Tecnologia.
 
-# Script: check-redis.sh > Scripts Diagnostico Ref script: check-redis.sh. Doc script: check-redis.sh - Scripts Diagnostico AIRich. Proc script: check-redis.sh.
+O investimento contínuo em Script: check-redis.sh reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

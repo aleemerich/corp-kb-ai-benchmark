@@ -1,5 +1,7 @@
 # Onboarding: Feedback 60d
 
-**Depto:** Onboarding
+O objetivo deste material é documentar as práticas recomendadas para Onboarding: Feedback 60d.
 
-# Onboarding: Feedback 60d **Depto:** Onboarding ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Contexto Onboarding: Feedback 60d no departamento Onboarding da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Onboarding: Feedback 60d foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

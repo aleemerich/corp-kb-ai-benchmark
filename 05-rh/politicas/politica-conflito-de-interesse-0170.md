@@ -1,66 +1,7 @@
 # Politica: Conflito de interesse
 
-**Depto:** Politicas RH  
-**Data:** 2026-08-02
+Este documento fornece uma visão detalhada sobre Politica: Conflito de interesse no ecossistema AIRich.
 
----
+Como parte da estratégia de inovação, Politica: Conflito de interesse foi projetado para suportar o crescimento escalável da plataforma.
 
-## Introducao
-
-Politica: Conflito de interesse e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
-
-
-## Detalhes
-
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Introducao
-
-Politica: Conflito de interesse e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
+Para mais informações, consulte a documentação da AIRich.

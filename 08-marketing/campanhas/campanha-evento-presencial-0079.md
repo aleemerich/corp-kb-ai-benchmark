@@ -1,96 +1,36 @@
 # Campanha: Evento presencial
 
-**Depto:** Campanhas  
-**Data:** 2026-07-23
+**Produto:** Marketing | **Departamento:**  | **Data:** 2026-07-23
 
 ---
 
-## Indice
+## Visão Geral
 
-1. Intro
-2. Detalhes
-3. Procedimentos
-4. Metricas
-5. Ref
+Esta especificação técnica define os requisitos e procedimentos para Campanha: Evento presencial.
+
+Alinhado com as melhores práticas do mercado, Campanha: Evento presencial segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+## Procedimento
+
+O procedimento padrão segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ---
 
-## Introducao
-
-Campanha: Evento presencial - Campanhas AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Metricas
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| Efic. | > 90% | 92% |
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

@@ -1,5 +1,7 @@
 # Consulting
 
-## Resumo
+Este documento descreve Consulting no contexto da AIRich Tecnologia.
 
-# Consulting ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Consulting - Orcamento AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Consulting foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

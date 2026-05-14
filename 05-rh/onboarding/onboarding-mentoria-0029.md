@@ -1,71 +1,34 @@
 # Onboarding: Mentoria
 
-**Depto:** Onboarding  
-**Data:** 2026-02-01
+**Produto:** RH | **Departamento:**  | **Data:** 2026-02-01
 
 ---
 
-## Introducao
+## Visão Geral
 
-Onboarding: Mentoria e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+O objetivo deste material é documentar as práticas recomendadas para Onboarding: Mentoria.
 
+Alinhado com as melhores práticas do mercado, Onboarding: Mentoria segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
+## Procedimento
 
-## Detalhes
+Para executar corretamente:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Introducao
-
-Onboarding: Mentoria e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

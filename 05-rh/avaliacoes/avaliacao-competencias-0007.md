@@ -1,5 +1,7 @@
 # Avaliacao: Competencias
 
-**Depto:** Avaliacoes
+O presente documento tem como objetivo apresentar Avaliacao: Competencias para as equipes envolvidas.
 
-# Avaliacao: Competencias **Depto:** Avaliacoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Contexto Avaliacao: Competencias no departamento Avaliacoes da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Alinhado com as melhores práticas do mercado, Avaliacao: Competencias segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

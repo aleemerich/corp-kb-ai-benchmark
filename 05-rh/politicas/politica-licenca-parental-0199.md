@@ -1,5 +1,7 @@
 # Politica: Licenca parental
 
-**Depto:** Politicas RH
+Esta especificação técnica define os requisitos e procedimentos para Politica: Licenca parental.
 
-# Politica: Licenca parental **Depto:** Politicas RH ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Politica: Licenca parental foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

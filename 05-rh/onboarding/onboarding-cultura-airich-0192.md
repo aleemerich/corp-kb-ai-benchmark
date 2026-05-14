@@ -1,5 +1,7 @@
 # Onboarding: Cultura AIRich
 
-## Resumo
+Este documento descreve Onboarding: Cultura AIRich no contexto da AIRich Tecnologia.
 
-# Onboarding: Cultura AIRich ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Contexto Onboarding: Cultura AIRich no departamento Onboarding da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+Alinhado com as melhores práticas do mercado, Onboarding: Cultura AIRich segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

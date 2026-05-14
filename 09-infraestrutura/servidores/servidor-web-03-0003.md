@@ -1,3 +1,7 @@
 # Servidor: web-03
 
-# Servidor: web-03 Proc servidor: web-03. Doc servidor: web-03 - Servidores AIRich. Ref servidor: web-03.
+Este documento descreve Servidor: web-03 no contexto da AIRich Tecnologia.
+
+Como parte do programa de melhoria contínua da AIRich, Servidor: web-03 foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

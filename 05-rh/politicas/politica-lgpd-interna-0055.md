@@ -1,5 +1,7 @@
 # Politica: LGPD interna
 
-> Politicas RH AIRich
+Este documento fornece uma visão detalhada sobre Politica: LGPD interna no ecossistema AIRich.
 
-# Politica: LGPD interna > Politicas RH AIRich Proc politica: lgpd interna. Doc politica: lgpd interna - Politicas RH AIRich. Ref politica: lgpd interna.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Politica: LGPD interna representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

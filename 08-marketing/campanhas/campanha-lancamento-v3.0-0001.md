@@ -1,5 +1,7 @@
 # Campanha: Lancamento v3.0
 
-## Resumo
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Campanha: Lancamento v3.0.
 
-# Campanha: Lancamento v3.0 ## Resumo ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Campanha: Lancamento v3.0 - Campanhas AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+Alinhado com as melhores práticas do mercado, Campanha: Lancamento v3.0 segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

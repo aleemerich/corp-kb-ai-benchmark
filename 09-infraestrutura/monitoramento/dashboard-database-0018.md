@@ -1,5 +1,7 @@
 # Dashboard: Database
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de Dashboard: Database.
 
-# Dashboard: Database ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Dashboard: Database - Monitoramento AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Dashboard: Database - Monitoramento AIRich.
+No cenário atual de transformação digital, Dashboard: Database desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

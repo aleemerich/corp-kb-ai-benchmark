@@ -1,5 +1,7 @@
 # Campanha: Meta Ads
 
-**Depto:** Campanhas
+Este manual operacional descreve os processos e responsabilidades de Campanha: Meta Ads.
 
-# Campanha: Meta Ads **Depto:** Campanhas ## Contexto Campanha: Meta Ads - Campanhas AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+No cenário atual de transformação digital, Campanha: Meta Ads desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

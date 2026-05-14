@@ -1,0 +1,7 @@
+# Contrato: Beta Inc
+
+Este documento fornece uma visão detalhada sobre Contrato: Beta Inc no ecossistema AIRich.
+
+A equipe da AIRich trabalha continuamente na evolução de Contrato: Beta Inc, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

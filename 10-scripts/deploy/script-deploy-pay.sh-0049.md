@@ -1,60 +1,35 @@
 # Script: deploy-pay.sh
 
-**Depto:** Scripts Deploy  
-**Data:** 2026-04-21
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-04-21
 
 ---
 
-## Introducao
+## Visão Geral
 
-Script: deploy-pay.sh - Scripts Deploy AIRich.
+O presente documento tem como objetivo apresentar Script: deploy-pay.sh para as equipes envolvidas.
 
+A equipe da AIRich trabalha continuamente na evolução de Script: deploy-pay.sh, incorporando feedback e avanços tecnológicos.
 
+## Procedimento
 
-## Detalhes
+Etapas recomendadas:
 
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
+## Infraestrutura
 
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
+---
 
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Script: deploy-pay.sh - Scripts Deploy AIRich.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

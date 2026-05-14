@@ -1,5 +1,7 @@
 # Script: setup-logging.sh
 
-**Depto:** Scripts Automacao
+Este documento descreve Script: setup-logging.sh no contexto da AIRich Tecnologia.
 
-# Script: setup-logging.sh **Depto:** Scripts Automacao ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Requisitos 1. Acesso ao sistema 2. Permissoes
+Como parte do programa de melhoria contínua da AIRich, Script: setup-logging.sh foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

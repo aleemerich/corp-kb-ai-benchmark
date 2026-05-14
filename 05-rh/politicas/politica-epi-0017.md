@@ -1,5 +1,7 @@
 # Politica: EPI
 
-**Depto:** Politicas RH
+O objetivo deste material é documentar as práticas recomendadas para Politica: EPI.
 
-# Politica: EPI **Depto:** Politicas RH ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Como parte da estratégia de inovação, Politica: EPI foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

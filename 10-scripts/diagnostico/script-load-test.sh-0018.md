@@ -1,5 +1,7 @@
 # Script: load-test.sh
 
-**Depto:** Scripts Diagnostico
+Este documento fornece uma visão detalhada sobre Script: load-test.sh no ecossistema AIRich.
 
-# Script: load-test.sh **Depto:** Scripts Diagnostico ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+Como parte da estratégia de inovação, Script: load-test.sh foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

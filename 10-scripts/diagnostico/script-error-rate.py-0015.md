@@ -1,93 +1,68 @@
 # Script: error-rate.py
 
-**Depto:** Scripts Diagnostico  
-**Data:** 2026-06-15
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-06-15 | **Versão:** 1.4
 
 ---
 
-## Indice
+## Visão Geral
 
-1. Intro
-2. Detalhes
-3. Procedimentos
-4. Metricas
-5. Ref
+Este guia técnico aborda os aspectos fundamentais de Script: error-rate.py na AIRich.
 
----
+Alinhado com as melhores práticas do mercado, Script: error-rate.py segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-## Introducao
-
-Script: error-rate.py - Scripts Diagnostico AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+## Arquitetura
 
 ```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
+graph LR
+    Input --> Process[Processamento]
+    Process --> Output
+    Process --> Cache[(Cache)]
+    Process --> DB[(Banco)]
 ```
 
+## Procedimento
 
+O procedimento padrão segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ## Troubleshooting
 
-**Sintoma:** Falha
+### Problema: Falha na execução
 
-**Solucao:**
+**Sintoma:** Erro inesperado durante o processo.
+
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
+
+**Solução:**
 1. Verificar logs
-2. Reiniciar
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
 
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
 
-## Seguranca
+---
 
-- Acesso controlado
-- Auditoria
-
-
-
-## Metricas
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| Efic. | > 90% | 92% |
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
-
-
-## Introducao
-
-Script: error-rate.py - Scripts Diagnostico AIRich.
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Metricas
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| Efic. | > 90% | 92% |
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

@@ -1,5 +1,7 @@
 # Onboarding: Mentoria
 
-> Onboarding AIRich
+Este documento fornece uma visão detalhada sobre Onboarding: Mentoria no ecossistema AIRich.
 
-# Onboarding: Mentoria > Onboarding AIRich Ref onboarding: mentoria. Proc onboarding: mentoria. Proc onboarding: mentoria.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Onboarding: Mentoria representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,7 @@
 # Processo: Selecao
 
-**Depto:** Processos RH
+Esta especificação técnica define os requisitos e procedimentos para Processo: Selecao.
 
-# Processo: Selecao **Depto:** Processos RH ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+Alinhado com as melhores práticas do mercado, Processo: Selecao segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

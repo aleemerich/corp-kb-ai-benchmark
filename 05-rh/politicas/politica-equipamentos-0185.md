@@ -1,5 +1,37 @@
 # Politica: Equipamentos
 
-## Resumo
+**Produto:** RH | **Departamento:**  | **Data:** 2026-05-17
 
-# Politica: Equipamentos ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Contexto Politica: Equipamentos no departamento Politicas RH da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Politica: Equipamentos para as equipes envolvidas.
+
+O investimento contínuo em Politica: Equipamentos reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

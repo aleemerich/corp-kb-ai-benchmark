@@ -1,5 +1,0 @@
-# LGPD: compartilHAmento
-
-**depto:** LGPD
-
-# LGPD: compartilHAmento **depto:** LGPD ## context LGPD: compartilHAmento - LGPD airich. ## procedure 1. identificar 2. planejar 3. executar 4. validar ## responsiBIlities - gestor: aprovar - team: executar ## context LGPD: compartilHAmento - LGPD airich.

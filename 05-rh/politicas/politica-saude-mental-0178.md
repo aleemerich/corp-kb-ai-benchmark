@@ -1,5 +1,7 @@
 # Politica: Saude mental
 
-**Depto:** Politicas RH
+O objetivo deste material é documentar as práticas recomendadas para Politica: Saude mental.
 
-# Politica: Saude mental **Depto:** Politicas RH ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar
+No cenário atual de transformação digital, Politica: Saude mental desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

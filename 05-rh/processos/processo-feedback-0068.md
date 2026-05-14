@@ -1,5 +1,7 @@
 # Processo: Feedback
 
-## Resumo
+O presente documento tem como objetivo apresentar Processo: Feedback para as equipes envolvidas.
 
-# Processo: Feedback ## Resumo ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Contexto Processo: Feedback no departamento Processos RH da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+Alinhado com as melhores práticas do mercado, Processo: Feedback segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

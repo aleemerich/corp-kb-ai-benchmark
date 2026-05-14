@@ -1,63 +1,36 @@
 # Script: check-disk-usage.sh
 
-**Depto:** Scripts Diagnostico  
-**Data:** 2026-05-23
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-05-23
 
 ---
 
-## Introducao
+## Visão Geral
 
-Script: check-disk-usage.sh - Scripts Diagnostico AIRich.
+Esta especificação técnica define os requisitos e procedimentos para Script: check-disk-usage.sh.
 
+No cenário atual de transformação digital, Script: check-disk-usage.sh desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
+## Procedimento
 
-## Detalhes
+O procedimento padrão segue as seguintes etapas:
 
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Script: check-disk-usage.sh - Scripts Diagnostico AIRich.
-
-
-
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

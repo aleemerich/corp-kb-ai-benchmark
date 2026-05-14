@@ -1,5 +1,7 @@
 # Script: auto-remediate.sh
 
-## Resumo
+Esta especificação técnica define os requisitos e procedimentos para Script: auto-remediate.sh.
 
-# Script: auto-remediate.sh ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Script: auto-remediate.sh - Scripts Automacao AIRich. ## Requisitos 1. Acesso ao sistema 2. Permissoes
+Como parte do programa de melhoria contínua da AIRich, Script: auto-remediate.sh foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

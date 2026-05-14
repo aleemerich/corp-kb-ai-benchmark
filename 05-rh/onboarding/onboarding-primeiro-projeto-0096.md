@@ -1,5 +1,7 @@
 # Onboarding: Primeiro projeto
 
-**Depto:** Onboarding
+Este documento fornece uma visão detalhada sobre Onboarding: Primeiro projeto no ecossistema AIRich.
 
-# Onboarding: Primeiro projeto **Depto:** Onboarding ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+O investimento contínuo em Onboarding: Primeiro projeto reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

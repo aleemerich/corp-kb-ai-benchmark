@@ -1,5 +1,7 @@
 # Campanha: Dia do Programador
 
-## Resumo
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Campanha: Dia do Programador.
 
-# Campanha: Dia do Programador ## Resumo ## Contexto Campanha: Dia do Programador - Campanhas AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+O investimento contínuo em Campanha: Dia do Programador reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

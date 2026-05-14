@@ -1,3 +1,7 @@
 # Politica: Viagens
 
-# Politica: Viagens Ref politica: viagens. Proc politica: viagens. Doc politica: viagens - Politicas RH AIRich.
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Politica: Viagens.
+
+Como parte da estratégia de inovação, Politica: Viagens foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

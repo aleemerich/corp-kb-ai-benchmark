@@ -1,71 +1,37 @@
 # Politica: Home office
 
-**Depto:** Politicas RH  
-**Data:** 2026-01-13
+**Produto:** RH | **Departamento:**  | **Data:** 2026-01-13
 
 ---
 
-## Introducao
+## Visão Geral
 
-Politica: Home office e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
+O presente documento tem como objetivo apresentar Politica: Home office para as equipes envolvidas.
 
+Como parte da estratégia de inovação, Politica: Home office foi projetado para suportar o crescimento escalável da plataforma.
 
+## Procedimento
 
-## Detalhes
+Etapas recomendadas:
 
-| Item | Descricao | Status |
-|------|-----------|--------|
-| A | Item A | Ativo |
-| B | Item B | Ativo |
-| C | Item C | Pendente |
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Opcao 1| D[Acao A]
-    C -->|Opcao 2| E[Acao B]
-    D --> F[Fim]
-    E --> F
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria completa
-- Dados criptografados
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha durante processo
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar configuracao
-3. Reiniciar se necessario
-
-
-
-## Introducao
-
-Politica: Home office e parte das operacoes da AIRich. Este documento fornece orientacoes detalhadas.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

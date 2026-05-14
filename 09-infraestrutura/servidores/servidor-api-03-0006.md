@@ -1,5 +1,7 @@
 # Servidor: api-03
 
-**Depto:** Servidores
+Este manual operacional descreve os processos e responsabilidades de Servidor: api-03.
 
-# Servidor: api-03 **Depto:** Servidores ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Contexto Servidor: api-03 - Servidores AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+A equipe da AIRich trabalha continuamente na evolução de Servidor: api-03, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

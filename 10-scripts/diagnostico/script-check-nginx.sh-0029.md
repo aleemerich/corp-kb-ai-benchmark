@@ -1,5 +1,7 @@
 # Script: check-nginx.sh
 
-**Depto:** Scripts Diagnostico
+O objetivo deste material é documentar as práticas recomendadas para Script: check-nginx.sh.
 
-# Script: check-nginx.sh **Depto:** Scripts Diagnostico ## Contexto Script: check-nginx.sh - Scripts Diagnostico AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Requisitos 1. Acesso ao sistema 2. Permissoes
+A equipe da AIRich trabalha continuamente na evolução de Script: check-nginx.sh, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,36 @@
 # Campanha: Parceiros
 
-> Campanhas
+**Produto:** Marketing | **Departamento:**  | **Data:** 2026-03-17
 
-# Campanha: Parceiros > Campanhas Proc campanha: parceiros. Doc campanha: parceiros - Campanhas AIRich. Doc campanha: parceiros - Campanhas AIRich.
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para Campanha: Parceiros.
+
+A equipe da AIRich trabalha continuamente na evolução de Campanha: Parceiros, incorporando feedback e avanços tecnológicos.
+
+## Procedimento
+
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

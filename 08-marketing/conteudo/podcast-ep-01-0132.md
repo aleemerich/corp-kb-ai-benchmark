@@ -1,5 +1,0 @@
-# Podcast: Ep 01
-
-## Resumo
-
-# Podcast: Ep 01 ## Resumo ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Contexto Podcast: Ep 01 - Conteudo AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar

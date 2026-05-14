@@ -1,5 +1,7 @@
 # Marketing budget
 
-**Depto:** Orcamento
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Marketing budget.
 
-# Marketing budget **Depto:** Orcamento ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Requisitos 1. Acesso ao sistema 2. Permissoes ## Contexto Marketing budget - Orcamento AIRich. ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Marketing budget representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

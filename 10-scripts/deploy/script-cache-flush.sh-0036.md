@@ -1,5 +1,7 @@
 # Script: cache-flush.sh
 
-> Scripts Deploy
+Este documento fornece uma visão detalhada sobre Script: cache-flush.sh no ecossistema AIRich.
 
-# Script: cache-flush.sh > Scripts Deploy Proc script: cache-flush.sh. Ref script: cache-flush.sh. Doc script: cache-flush.sh - Scripts Deploy AIRich.
+No cenário atual de transformação digital, Script: cache-flush.sh desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

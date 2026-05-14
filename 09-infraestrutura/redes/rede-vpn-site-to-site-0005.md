@@ -1,92 +1,70 @@
 # Rede: VPN site-to-site
 
-**Depto:** Redes  
-**Data:** 2026-05-05
+**Produto:** Infraestrutura | **Departamento:**  | **Data:** 2026-05-05 | **Versão:** 1.4
 
 ---
 
-## Indice
+## Visão Geral
 
-1. Intro
-2. Detalhes
-3. Procedimentos
-4. Metricas
-5. Ref
+O objetivo deste material é documentar as práticas recomendadas para Rede: VPN site-to-site.
 
----
+Como parte do programa de melhoria contínua da AIRich, Rede: VPN site-to-site foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-## Introducao
-
-Rede: VPN site-to-site - Redes AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+## Arquitetura
 
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
+    A[Início] --> B[Análise]
+    B --> C[Planejamento]
+    C --> D[Execução]
+    D --> E[Testes]
+    E --> F{Aprovado?}
+    F -->|Sim| G[Deploy]
+    F -->|Não| D
+    G --> H[Fim]
 ```
 
+## Procedimento
 
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
 ## Troubleshooting
 
-**Sintoma:** Falha
+### Problema: Falha na execução
 
-**Solucao:**
+**Sintoma:** Erro inesperado durante o processo.
+
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
+
+**Solução:**
 1. Verificar logs
-2. Reiniciar
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
 
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
 
-## Seguranca
+---
 
-- Acesso controlado
-- Auditoria
-
-
-
-## Metricas
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| Efic. | > 90% | 92% |
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
-
-
-## Referencias
-
-1. Doc interna
-2. Guia
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Rede: VPN site-to-site - Redes AIRich.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

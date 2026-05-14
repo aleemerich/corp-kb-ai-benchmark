@@ -1,5 +1,7 @@
 # Onboarding: Checklist Gestor
 
-**Depto:** Onboarding
+Este documento fornece uma visão detalhada sobre Onboarding: Checklist Gestor no ecossistema AIRich.
 
-# Onboarding: Checklist Gestor **Depto:** Onboarding ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Contexto Onboarding: Checklist Gestor no departamento Onboarding da AIRich Tecnologia. ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar
+O investimento contínuo em Onboarding: Checklist Gestor reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

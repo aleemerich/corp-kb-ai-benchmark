@@ -1,5 +1,7 @@
 # Campanha: Parceiros
 
-## Resumo
+O objetivo deste material é documentar as práticas recomendadas para Campanha: Parceiros.
 
-# Campanha: Parceiros ## Resumo ## Procedimento 1. Identificar 2. Planejar 3. Executar 4. Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar ## Contexto Campanha: Parceiros - Campanhas AIRich. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar
+O investimento contínuo em Campanha: Parceiros reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

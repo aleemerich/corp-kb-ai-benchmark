@@ -1,72 +1,37 @@
 # Script: deploy-ai.sh
 
-**Depto:** Scripts Deploy  
-**Data:** 2026-09-17
+**Produto:** Scripts | **Departamento:**  | **Data:** 2026-09-17
 
 ---
 
-## Introducao
+## Visão Geral
 
-Script: deploy-ai.sh - Scripts Deploy AIRich.
+Este manual operacional descreve os processos e responsabilidades de Script: deploy-ai.sh.
 
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Script: deploy-ai.sh foi documentado para orientar as equipes.
 
+## Procedimento
 
-## Detalhes
+Etapas recomendadas:
 
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-**Sintoma:** Falha
-
-**Solucao:**
-1. Verificar logs
-2. Reiniciar
-
-
-
-## Seguranca
-
-- Acesso controlado
-- Auditoria
-
-
-
-## Introducao
-
-Script: deploy-ai.sh - Scripts Deploy AIRich.
-
-
-
-## Detalhes
-
-| Item | Desc | Status |
-|------|------|--------|
-| A | A | OK |
-| B | B | OK |
-
-```mermaid
-flowchart TD
-    A[Inicio] --> B[Analise]
-    B --> C{Decisao}
-    C -->|Sim| D[Acao]
-    C -->|Nao| E[Revisao]
-    D --> F[Fim]
-    E --> B
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

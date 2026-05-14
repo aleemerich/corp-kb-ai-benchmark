@@ -1,5 +1,7 @@
 # Politica: Licenca parental
 
-## Resumo
+Este documento descreve Politica: Licenca parental no contexto da AIRich Tecnologia.
 
-# Politica: Licenca parental ## Resumo ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar
+Alinhado com as melhores práticas do mercado, Politica: Licenca parental segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

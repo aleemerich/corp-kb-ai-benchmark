@@ -1,5 +1,7 @@
 # Politica: Uso de internet
 
-> Politicas RH AIRich
+Esta especificação técnica define os requisitos e procedimentos para Politica: Uso de internet.
 
-# Politica: Uso de internet > Politicas RH AIRich Doc politica: uso de internet - Politicas RH AIRich. Proc politica: uso de internet. Doc politica: uso de internet - Politicas RH AIRich.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Politica: Uso de internet foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.
