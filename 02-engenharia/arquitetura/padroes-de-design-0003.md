@@ -1,5 +1,7 @@
 # Padroes de design
 
-**Depto:** Arquitetura
+Este documento descreve Padroes de design no contexto da AIRich Tecnologia.
 
-# Padroes de design **Depto:** Arquitetura ## Procedimento 1. Identificar padroes de design 2. Documentar 3. Executar 4. Validar ## Contexto Padroes de design no depto Arquitetura da AIRich. Info para engenheiros. ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Alinhado com as melhores práticas do mercado, Padroes de design segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

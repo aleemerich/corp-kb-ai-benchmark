@@ -1,72 +1,36 @@
 # TKT-2026-0002: Lentidao dashboard
 
-**Depto:** Suporte  
-**Data:** 2026-05-22
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-05-22
 
 ---
 
-## Introducao
+## Visão Geral
 
-TKT-2026-0002: Lentidao dashboard e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+Este documento descreve TKT-2026-0002: Lentidao dashboard no contexto da AIRich Tecnologia.
 
+Alinhado com as melhores práticas do mercado, TKT-2026-0002: Lentidao dashboard segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
+## Procedimento
 
-## Detalhes do Processo
+Para executar corretamente:
 
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
-## Metricas de Atendimento
+---
 
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Introducao
-
-TKT-2026-0002: Lentidao dashboard e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

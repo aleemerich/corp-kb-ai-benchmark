@@ -1,79 +1,36 @@
 # KB: FAQ negocio
 
-**Depto:** Suporte  
-**Data:** 2026-09-18
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-09-18
 
 ---
 
-## Introducao
+## Visão Geral
 
-KB: FAQ negocio e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+Esta especificação técnica define os requisitos e procedimentos para KB: FAQ negocio.
 
+A evolução constante do ecossistema AIRich demanda processos bem definidos. KB: FAQ negocio foi documentado para orientar as equipes.
 
+## Procedimento
 
-## Detalhes do Processo
+Para executar corretamente:
 
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
-## Metricas de Atendimento
+---
 
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Detalhes do Processo
-
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

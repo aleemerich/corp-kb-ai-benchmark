@@ -1,69 +1,7 @@
 # Deploy v5.1.0 - CRM
 
-**Depto:** Deploys  
-**Data:** 2026-09-18
+Este manual operacional descreve os processos e responsabilidades de Deploy v5.1.0 - CRM.
 
----
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Deploy v5.1.0 - CRM foi documentado para orientar as equipes.
 
-## Introducao
-
-Deploy v5.1.0 - CRM e fundamental para a AIRich. Orientacoes detalhadas para engenharia.
-
-
-
-## Detalhes Tecnicos
-
-| Comp | Tech | Versao |
-|------|------|--------|
-| Backend | Python | 3.12 |
-| Banco | PostgreSQL | 16 |
-| Cache | Redis | 7.x |
-
-```mermaid
-flowchart LR
-    A[Inicio] --> B[Validacao]
-    B --> C[Processamento]
-    C --> D[Fim]
-```
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha em deploy v5.1.0 - crm
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar conectividade
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- TLS 1.3 obrigatorio
-- JWT com rotacao
-- RBAC granular
-- Auditoria completa
-
-
-
-## Introducao
-
-Deploy v5.1.0 - CRM e fundamental para a AIRich. Orientacoes detalhadas para engenharia.
-
-
-
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha em deploy v5.1.0 - crm
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar conectividade
-3. Reiniciar se necessario
-
+Para mais informações, consulte a documentação da AIRich.

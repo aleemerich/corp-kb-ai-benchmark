@@ -1,5 +1,7 @@
 # Deploy v3.2.0 - Plataforma
 
-## Resumo
+Esta especificação técnica define os requisitos e procedimentos para Deploy v3.2.0 - Plataforma.
 
-# Deploy v3.2.0 - Plataforma ## Resumo ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Contexto Deploy v3.2.0 - Plataforma no depto Deploys da AIRich. Info para engenheiros. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+A equipe da AIRich trabalha continuamente na evolução de Deploy v3.2.0 - Plataforma, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

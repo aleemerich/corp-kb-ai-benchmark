@@ -1,5 +1,7 @@
 # Deploy v2.0.1 - API Gateway
 
-> Deploys - AIRich
+Este documento descreve Deploy v2.0.1 - API Gateway no contexto da AIRich Tecnologia.
 
-# Deploy v2.0.1 - API Gateway > Deploys - AIRich Proc padrao deploy v2.0.1 - api gateway. Ref deploy v2.0.1 - api gateway para equipe. Doc deploy v2.0.1 - api gateway - engenharia AIRich.
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Deploy v2.0.1 - API Gateway foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

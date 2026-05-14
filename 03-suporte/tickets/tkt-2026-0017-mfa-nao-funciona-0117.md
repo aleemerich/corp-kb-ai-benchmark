@@ -1,5 +1,37 @@
 # TKT-2026-0017: MFA nao funciona
 
-**Depto:** Suporte
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-09-05
 
-# TKT-2026-0017: MFA nao funciona **Depto:** Suporte ## Contexto TKT-2026-0017: MFA nao funciona no suporte AIRich. Informacoes para equipe de atendimento. ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h |
+---
+
+## Visão Geral
+
+Esta especificação técnica define os requisitos e procedimentos para TKT-2026-0017: MFA nao funciona.
+
+A equipe da AIRich trabalha continuamente na evolução de TKT-2026-0017: MFA nao funciona, incorporando feedback e avanços tecnológicos.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

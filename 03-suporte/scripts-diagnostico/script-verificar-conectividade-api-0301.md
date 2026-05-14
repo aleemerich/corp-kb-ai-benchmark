@@ -1,5 +1,7 @@
 # Script: Verificar conectividade API
 
-> Suporte AIRich
+Este guia técnico aborda os aspectos fundamentais de Script: Verificar conectividade API na AIRich.
 
-# Script: Verificar conectividade API > Suporte AIRich Proc script: verificar conectividade api cliente. Ref script: verificar conectividade api atendimento. Ref script: verificar conectividade api atendimento.
+A equipe da AIRich trabalha continuamente na evolução de Script: Verificar conectividade API, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

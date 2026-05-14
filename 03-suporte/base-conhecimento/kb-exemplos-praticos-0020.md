@@ -1,5 +1,7 @@
 # KB: Exemplos praticos
 
-> Suporte AIRich
+Este documento fornece uma visão detalhada sobre KB: Exemplos praticos no ecossistema AIRich.
 
-# KB: Exemplos praticos > Suporte AIRich Doc kb: exemplos praticos - suporte AIRich. Proc kb: exemplos praticos cliente. Ref kb: exemplos praticos atendimento.
+Como parte do programa de melhoria contínua da AIRich, KB: Exemplos praticos foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,65 +1,36 @@
 # Arquitetura de microsservicos
 
-**Depto:** Arquitetura  
-**Data:** 2026-01-01
+**Produto:** Engenharia | **Departamento:**  | **Data:** 2026-01-01
 
 ---
 
-## Introducao
+## Visão Geral
 
-Arquitetura de microsservicos e fundamental para a AIRich. Orientacoes detalhadas para engenharia.
+Esta especificação técnica define os requisitos e procedimentos para Arquitetura de microsservicos.
 
+No cenário atual de transformação digital, Arquitetura de microsservicos desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
+## Procedimento
 
-## Detalhes Tecnicos
+Para executar corretamente:
 
-| Comp | Tech | Versao |
-|------|------|--------|
-| Backend | Python | 3.12 |
-| Banco | PostgreSQL | 16 |
-| Cache | Redis | 7.x |
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-```mermaid
-flowchart LR
-    A[Inicio] --> B[Validacao]
-    B --> C[Processamento]
-    C --> D[Fim]
-```
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
+---
 
-## Troubleshooting
-
-### Problema
-
-**Sintoma:** Falha em arquitetura de microsservicos
-
-**Solucao:**
-1. Verificar logs
-2. Confirmar conectividade
-3. Reiniciar se necessario
-
-
-
-## Seguranca
-
-- TLS 1.3 obrigatorio
-- JWT com rotacao
-- RBAC granular
-- Auditoria completa
-
-
-
-## Seguranca
-
-- TLS 1.3 obrigatorio
-- JWT com rotacao
-- RBAC granular
-- Auditoria completa
-
-
-
-## Introducao
-
-Arquitetura de microsservicos e fundamental para a AIRich. Orientacoes detalhadas para engenharia.
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

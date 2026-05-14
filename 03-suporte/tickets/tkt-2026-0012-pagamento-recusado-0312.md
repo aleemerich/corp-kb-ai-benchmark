@@ -1,3 +1,7 @@
 # TKT-2026-0012: Pagamento recusado
 
-# TKT-2026-0012: Pagamento recusado Doc tkt-2026-0012: pagamento recusado - suporte AIRich. Proc tkt-2026-0012: pagamento recusado cliente. Doc tkt-2026-0012: pagamento recusado - suporte AIRich.
+O presente documento tem como objetivo apresentar TKT-2026-0012: Pagamento recusado para as equipes envolvidas.
+
+A equipe da AIRich trabalha continuamente na evolução de TKT-2026-0012: Pagamento recusado, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

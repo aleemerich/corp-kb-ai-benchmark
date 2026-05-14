@@ -1,5 +1,35 @@
 # Script: Verificar certificado SSL
 
-## Resumo
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-06-06
 
-# Script: Verificar certificado SSL ## Resumo ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h | ## Contexto Script: Verificar certificado SSL no suporte AIRich. Informacoes para equipe de atendimento. ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Contexto Script: Verificar certificado SSL no suporte AIRich. Informacoes para equipe de atendimento.
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Script: Verificar certificado SSL na AIRich.
+
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Script: Verificar certificado SSL representa um componente essencial dessa estratégia.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

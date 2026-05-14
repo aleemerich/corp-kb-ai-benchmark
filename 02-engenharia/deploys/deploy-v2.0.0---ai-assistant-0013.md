@@ -1,5 +1,7 @@
 # Deploy v2.0.0 - AI Assistant
 
-> Deploys - AIRich
+Este guia técnico aborda os aspectos fundamentais de Deploy v2.0.0 - AI Assistant na AIRich.
 
-# Deploy v2.0.0 - AI Assistant > Deploys - AIRich Doc deploy v2.0.0 - ai assistant - engenharia AIRich. Proc padrao deploy v2.0.0 - ai assistant. Proc padrao deploy v2.0.0 - ai assistant.
+O investimento contínuo em Deploy v2.0.0 - AI Assistant reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

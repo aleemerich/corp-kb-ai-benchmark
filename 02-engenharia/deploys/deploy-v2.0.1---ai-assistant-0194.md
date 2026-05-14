@@ -1,5 +1,7 @@
 # Deploy v2.0.1 - AI Assistant
 
-> Deploys - AIRich
+Este documento descreve Deploy v2.0.1 - AI Assistant no contexto da AIRich Tecnologia.
 
-# Deploy v2.0.1 - AI Assistant > Deploys - AIRich Ref deploy v2.0.1 - ai assistant para equipe. Proc padrao deploy v2.0.1 - ai assistant. Proc padrao deploy v2.0.1 - ai assistant.
+O investimento contínuo em Deploy v2.0.1 - AI Assistant reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

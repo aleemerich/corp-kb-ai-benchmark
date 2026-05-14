@@ -1,5 +1,7 @@
 # Runbook: Escalacao nivel 2
 
-**Depto:** Suporte
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Runbook: Escalacao nivel 2.
 
-# Runbook: Escalacao nivel 2 **Depto:** Suporte ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Contexto Runbook: Escalacao nivel 2 no suporte AIRich. Informacoes para equipe de atendimento. ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario
+O investimento contínuo em Runbook: Escalacao nivel 2 reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,36 @@
 # Script: Checar portas abertas
 
-**Depto:** Suporte
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-01-12
 
-# Script: Checar portas abertas **Depto:** Suporte ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Contexto Script: Checar portas abertas no suporte AIRich. Informacoes para equipe de atendimento. ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Script: Checar portas abertas.
+
+Como parte da estratégia de inovação, Script: Checar portas abertas foi projetado para suportar o crescimento escalável da plataforma.
+
+## Procedimento
+
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

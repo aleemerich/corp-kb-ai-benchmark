@@ -1,5 +1,7 @@
 # Runbook: Debug de CPU alta
 
-## Resumo
+Este documento descreve Runbook: Debug de CPU alta no contexto da AIRich Tecnologia.
 
-# Runbook: Debug de CPU alta ## Resumo ## Procedimento 1. Identificar runbook: debug de cpu alta 2. Documentar 3. Executar 4. Validar ## Contexto Runbook: Debug de CPU alta no depto Runbooks da AIRich. Info para engenheiros. ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Procedimento 1. Identificar runbook: debug de cpu alta 2. Documentar 3. Executar 4. Validar
+Como parte do programa de melhoria contínua da AIRich, Runbook: Debug de CPU alta foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

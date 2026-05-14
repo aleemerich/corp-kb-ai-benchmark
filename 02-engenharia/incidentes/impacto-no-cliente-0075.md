@@ -1,5 +1,37 @@
 # Impacto no cliente
 
-**Depto:** Incidentes
+**Produto:** Engenharia | **Departamento:**  | **Data:** 2026-03-19
 
-# Impacto no cliente **Depto:** Incidentes ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar impacto no cliente 2. Documentar 3. Executar 4. Validar ## Contexto Impacto no cliente no depto Incidentes da AIRich. Info para engenheiros. ## Procedimento 1. Identificar impacto no cliente 2. Documentar 3. Executar 4. Validar
+---
+
+## Visão Geral
+
+O objetivo deste material é documentar as práticas recomendadas para Impacto no cliente.
+
+Como parte do programa de melhoria contínua da AIRich, Impacto no cliente foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

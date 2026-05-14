@@ -1,5 +1,36 @@
 # Deploy v2.1.0 - API Gateway
 
-**Depto:** Deploys
+**Produto:** Engenharia | **Departamento:**  | **Data:** 2026-06-06
 
-# Deploy v2.1.0 - API Gateway **Depto:** Deploys ## Contexto Deploy v2.1.0 - API Gateway no depto Deploys da AIRich. Info para engenheiros. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+---
+
+## Visão Geral
+
+Este guia técnico aborda os aspectos fundamentais de Deploy v2.1.0 - API Gateway na AIRich.
+
+Como parte da estratégia de inovação, Deploy v2.1.0 - API Gateway foi projetado para suportar o crescimento escalável da plataforma.
+
+## Procedimento
+
+O procedimento padrão segue as seguintes etapas:
+
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

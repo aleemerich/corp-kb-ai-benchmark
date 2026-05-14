@@ -1,5 +1,35 @@
 # Runbook: Limpeza de cache
 
-> Runbooks - AIRich
+**Produto:** Engenharia | **Departamento:**  | **Data:** 2026-05-05
 
-# Runbook: Limpeza de cache > Runbooks - AIRich Ref runbook: limpeza de cache para equipe. Doc runbook: limpeza de cache - engenharia AIRich. Doc runbook: limpeza de cache - engenharia AIRich.
+---
+
+## Visão Geral
+
+O presente documento tem como objetivo apresentar Runbook: Limpeza de cache para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, Runbook: Limpeza de cache segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

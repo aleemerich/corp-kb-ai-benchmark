@@ -1,3 +1,7 @@
 # Runbook: Onboarding novo cliente
 
-# Runbook: Onboarding novo cliente Proc runbook: onboarding novo cliente cliente. Doc runbook: onboarding novo cliente - suporte AIRich. Proc runbook: onboarding novo cliente cliente.
+Este documento descreve Runbook: Onboarding novo cliente no contexto da AIRich Tecnologia.
+
+O investimento contínuo em Runbook: Onboarding novo cliente reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

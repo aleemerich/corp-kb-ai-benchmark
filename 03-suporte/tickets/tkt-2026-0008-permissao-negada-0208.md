@@ -1,5 +1,7 @@
 # TKT-2026-0008: Permissao negada
 
-> Suporte AIRich
+Este guia técnico aborda os aspectos fundamentais de TKT-2026-0008: Permissao negada na AIRich.
 
-# TKT-2026-0008: Permissao negada > Suporte AIRich Doc tkt-2026-0008: permissao negada - suporte AIRich. Ref tkt-2026-0008: permissao negada atendimento. Proc tkt-2026-0008: permissao negada cliente.
+A equipe da AIRich trabalha continuamente na evolução de TKT-2026-0008: Permissao negada, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

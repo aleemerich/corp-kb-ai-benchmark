@@ -1,5 +1,36 @@
 # Incidente 2026-008: Ataque DDoS
 
-## Resumo
+**Produto:** Engenharia | **Departamento:**  | **Data:** 2026-08-08
 
-# Incidente 2026-008: Ataque DDoS ## Resumo ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Contexto Incidente 2026-008: Ataque DDoS no depto Incidentes da AIRich. Info para engenheiros. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Incidente 2026-008: Ataque DDoS.
+
+Alinhado com as melhores práticas do mercado, Incidente 2026-008: Ataque DDoS segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+## Procedimento
+
+Para executar corretamente:
+
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

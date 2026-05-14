@@ -1,5 +1,7 @@
 # Runbook: Bug confirmado
 
-**Depto:** Suporte
+Este guia técnico aborda os aspectos fundamentais de Runbook: Bug confirmado na AIRich.
 
-# Runbook: Bug confirmado **Depto:** Suporte ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Contexto Runbook: Bug confirmado no suporte AIRich. Informacoes para equipe de atendimento. ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h | ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket
+Alinhado com as melhores práticas do mercado, Runbook: Bug confirmado segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

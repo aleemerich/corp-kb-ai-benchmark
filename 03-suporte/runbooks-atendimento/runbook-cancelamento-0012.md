@@ -1,5 +1,7 @@
 # Runbook: Cancelamento
 
-## Resumo
+Este documento descreve Runbook: Cancelamento no contexto da AIRich Tecnologia.
 
-# Runbook: Cancelamento ## Resumo ## Contexto Runbook: Cancelamento no suporte AIRich. Informacoes para equipe de atendimento. ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h | ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario
+Como parte do programa de melhoria contínua da AIRich, Runbook: Cancelamento foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

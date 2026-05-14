@@ -1,5 +1,7 @@
 # TKT-2026-0003: API timeout
 
-> Suporte AIRich
+Esta especificação técnica define os requisitos e procedimentos para TKT-2026-0003: API timeout.
 
-# TKT-2026-0003: API timeout > Suporte AIRich Proc tkt-2026-0003: api timeout cliente. Ref tkt-2026-0003: api timeout atendimento. Ref tkt-2026-0003: api timeout atendimento.
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. TKT-2026-0003: API timeout representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

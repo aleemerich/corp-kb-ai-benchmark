@@ -1,5 +1,7 @@
 # Runbook: Integracao personalizada
 
-## Resumo
+Esta especificação técnica define os requisitos e procedimentos para Runbook: Integracao personalizada.
 
-# Runbook: Integracao personalizada ## Resumo ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h | ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Contexto Runbook: Integracao personalizada no suporte AIRich. Informacoes para equipe de atendimento.
+A equipe da AIRich trabalha continuamente na evolução de Runbook: Integracao personalizada, incorporando feedback e avanços tecnológicos.
+
+Para mais informações, consulte a documentação da AIRich.

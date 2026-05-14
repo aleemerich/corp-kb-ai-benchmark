@@ -1,5 +1,7 @@
 # Runbook: Escala horizontal
 
-**Depto:** Runbooks
+O objetivo deste material é documentar as práticas recomendadas para Runbook: Escala horizontal.
 
-# Runbook: Escala horizontal **Depto:** Runbooks ## Procedimento 1. Identificar runbook: escala horizontal 2. Documentar 3. Executar 4. Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Contexto Runbook: Escala horizontal no depto Runbooks da AIRich. Info para engenheiros.
+No cenário atual de transformação digital, Runbook: Escala horizontal desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

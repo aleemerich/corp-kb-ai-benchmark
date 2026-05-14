@@ -1,5 +1,0 @@
-# sprint 26.12 - review
-
-## summary
-
-# sprint 26.12 - review ## summary ## reqUIrements 1. aceSSO ao system 2. permissions adequadas 3. amBIente Configurado ## procedure 1. identificar sprint 26.12 - review 2. documentar 3. executar 4. validar ## context sprint 26.12 - review no depto sprints da airich. info para engenheiros. ## procedure 1. identificar sprint 26.12 - review 2. documentar 3. executar 4. validar

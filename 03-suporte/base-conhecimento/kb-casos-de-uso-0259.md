@@ -1,3 +1,7 @@
 # KB: Casos de uso
 
-# KB: Casos de uso Proc kb: casos de uso cliente. Ref kb: casos de uso atendimento. Doc kb: casos de uso - suporte AIRich.
+Este manual operacional descreve os processos e responsabilidades de KB: Casos de uso.
+
+A evolução constante do ecossistema AIRich demanda processos bem definidos. KB: Casos de uso foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

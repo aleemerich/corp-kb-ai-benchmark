@@ -1,5 +1,7 @@
 # Sprint 26.02 - Retrospectiva
 
-**Depto:** Sprints
+Este manual operacional descreve os processos e responsabilidades de Sprint 26.02 - Retrospectiva.
 
-# Sprint 26.02 - Retrospectiva **Depto:** Sprints ## Contexto Sprint 26.02 - Retrospectiva no depto Sprints da AIRich. Info para engenheiros. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+No cenário atual de transformação digital, Sprint 26.02 - Retrospectiva desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+Para mais informações, consulte a documentação da AIRich.

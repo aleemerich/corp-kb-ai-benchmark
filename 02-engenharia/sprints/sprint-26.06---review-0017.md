@@ -1,5 +1,7 @@
 # Sprint 26.06 - Review
 
-## Resumo
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Sprint 26.06 - Review.
 
-# Sprint 26.06 - Review ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar sprint 26.06 - review 2. Documentar 3. Executar 4. Validar ## Contexto Sprint 26.06 - Review no depto Sprints da AIRich. Info para engenheiros. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
+Como parte do programa de melhoria contínua da AIRich, Sprint 26.06 - Review foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

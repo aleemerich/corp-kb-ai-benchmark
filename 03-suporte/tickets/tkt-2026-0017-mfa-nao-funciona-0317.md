@@ -1,5 +1,7 @@
 # TKT-2026-0017: MFA nao funciona
 
-> Suporte AIRich
+Este documento fornece uma visão detalhada sobre TKT-2026-0017: MFA nao funciona no ecossistema AIRich.
 
-# TKT-2026-0017: MFA nao funciona > Suporte AIRich Proc tkt-2026-0017: mfa nao funciona cliente. Ref tkt-2026-0017: mfa nao funciona atendimento. Proc tkt-2026-0017: mfa nao funciona cliente.
+O investimento contínuo em TKT-2026-0017: MFA nao funciona reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

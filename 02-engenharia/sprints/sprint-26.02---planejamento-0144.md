@@ -1,0 +1,7 @@
+# Sprint 26.02 - Planejamento
+
+Este guia técnico aborda os aspectos fundamentais de Sprint 26.02 - Planejamento na AIRich.
+
+Alinhado com as melhores práticas do mercado, Sprint 26.02 - Planejamento segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

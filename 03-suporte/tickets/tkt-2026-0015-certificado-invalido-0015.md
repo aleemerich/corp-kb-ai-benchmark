@@ -1,5 +1,7 @@
 # TKT-2026-0015: Certificado invalido
 
-## Resumo
+Este manual operacional descreve os processos e responsabilidades de TKT-2026-0015: Certificado invalido.
 
-# TKT-2026-0015: Certificado invalido ## Resumo ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Contexto TKT-2026-0015: Certificado invalido no suporte AIRich. Informacoes para equipe de atendimento. ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Contexto TKT-2026-0015: Certificado invalido no suporte AIRich. Informacoes para equipe de atendimento.
+Como parte da estratégia de inovação, TKT-2026-0015: Certificado invalido foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,5 +1,7 @@
 # Runbook: Rollback de emergencia
 
-## Resumo
+Este documento descreve Runbook: Rollback de emergencia no contexto da AIRich Tecnologia.
 
-# Runbook: Rollback de emergencia ## Resumo ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Procedimento 1. Identificar runbook: rollback de emergencia 2. Documentar 3. Executar 4. Validar ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Procedimento 1. Identificar runbook: rollback de emergencia 2. Documentar 3. Executar 4. Validar
+O investimento contínuo em Runbook: Rollback de emergencia reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+Para mais informações, consulte a documentação da AIRich.

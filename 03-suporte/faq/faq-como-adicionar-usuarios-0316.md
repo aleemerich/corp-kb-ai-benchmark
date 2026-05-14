@@ -1,82 +1,69 @@
 # FAQ: Como adicionar usuarios
 
-**Depto:** Suporte  
-**Data:** 2026-01-08
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-01-08 | **Versão:** 1.5
 
 ---
 
-## Introducao
+## Visão Geral
 
-FAQ: Como adicionar usuarios e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+Esta especificação técnica define os requisitos e procedimentos para FAQ: Como adicionar usuarios.
 
+Alinhado com as melhores práticas do mercado, FAQ: Como adicionar usuarios segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-
-## Detalhes do Processo
+## Arquitetura
 
 ```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
+graph LR
+    Input --> Process[Processamento]
+    Process --> Output
+    Process --> Cache[(Cache)]
+    Process --> DB[(Banco)]
 ```
 
+## Procedimento
 
+Etapas recomendadas:
 
-## Metricas de Atendimento
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
+## Infraestrutura
 
-
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ## Troubleshooting
 
-### Problema: Cliente nao consegue acessar
+### Problema: Falha na execução
 
-**Sintoma:** Login retorna erro 401
+**Sintoma:** Erro inesperado durante o processo.
 
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
 
+**Solução:**
+1. Verificar logs
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
 
-## Troubleshooting
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
 
-### Problema: Cliente nao consegue acessar
+---
 
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Detalhes do Processo
-
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

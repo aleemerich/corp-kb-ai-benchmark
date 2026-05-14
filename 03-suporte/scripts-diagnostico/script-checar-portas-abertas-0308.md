@@ -1,115 +1,37 @@
 # Script: Checar portas abertas
 
-**Depto:** Suporte  
-**Data:** 2026-02-28
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-02-28
 
 ---
 
-## Indice
+## Visão Geral
 
-1. Introducao
-2. Processo
-3. Metricas
-4. Troubleshooting
-5. Referencias
+Este guia técnico aborda os aspectos fundamentais de Script: Checar portas abertas na AIRich.
+
+O investimento contínuo em Script: Checar portas abertas reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ---
 
-## Introducao
-
-Script: Checar portas abertas e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
-
-
-
-## Detalhes do Processo
-
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
-
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Base de Conhecimento Relacionada
-
-- KB-001: Visao geral do produto
-- KB-042: Erros de autenticacao
-- KB-103: Guia de troubleshooting
-- RUN-007: Runbook de login
-
-
-
-## Historico de Alteracoes
-
-| Versao | Data | Autor | Alteracao |
-|--------|------|-------|----------|
-| 1.0 | 2026-01-10 | Suporte | Versao inicial |
-| 1.1 | 2026-03-15 | Suporte | Novos cenarios |
-| 2.0 | 2026-05-01 | Suporte | Revisao completa |
-
-
-
-## Base de Conhecimento Relacionada
-
-- KB-001: Visao geral do produto
-- KB-042: Erros de autenticacao
-- KB-103: Guia de troubleshooting
-- RUN-007: Runbook de login
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

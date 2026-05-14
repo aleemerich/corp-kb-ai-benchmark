@@ -1,5 +1,35 @@
 # Script: Testar Redis
 
-## Resumo
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-02-26
 
-# Script: Testar Redis ## Resumo ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h | ## Contexto Script: Testar Redis no suporte AIRich. Informacoes para equipe de atendimento. ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h |
+---
+
+## Visão Geral
+
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Script: Testar Redis.
+
+No cenário atual de transformação digital, Script: Testar Redis desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
+
+## Procedimento
+
+Etapas recomendadas:
+
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
+
+## Infraestrutura
+
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
+
+---
+
+*Documento mantido pela equipe de  — AIRich Tecnologia*

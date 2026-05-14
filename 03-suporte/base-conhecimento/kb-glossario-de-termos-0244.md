@@ -1,5 +1,7 @@
 # KB: Glossario de termos
 
-**Depto:** Suporte
+Este documento descreve KB: Glossario de termos no contexto da AIRich Tecnologia.
 
-# KB: Glossario de termos **Depto:** Suporte ## Prioridade | Nivel | Tempo Resposta | Tempo Resolucao | |-------|---------------|-----------------| | Critico | 15min | 2h | | Alto | 1h | 8h | | Medio | 4h | 24h | | Baixo | 24h | 72h | ## Procedimento 1. Receber solicitacao 2. Identificar problema 3. Aplicar solucao 4. Confirmar resolucao 5. Fechar ticket ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario ## Escalacao Se nao resolver em nivel 1: 1. Escalar para nivel 2 2. Notificar team lead 3. Abrir bridge se necessario
+A evolução constante do ecossistema AIRich demanda processos bem definidos. KB: Glossario de termos foi documentado para orientar as equipes.
+
+Para mais informações, consulte a documentação da AIRich.

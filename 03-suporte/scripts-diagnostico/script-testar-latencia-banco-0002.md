@@ -1,3 +1,7 @@
 # Script: Testar latencia banco
 
-# Script: Testar latencia banco Proc script: testar latencia banco cliente. Ref script: testar latencia banco atendimento. Ref script: testar latencia banco atendimento.
+Este documento fornece uma visão detalhada sobre Script: Testar latencia banco no ecossistema AIRich.
+
+Como parte da estratégia de inovação, Script: Testar latencia banco foi projetado para suportar o crescimento escalável da plataforma.
+
+Para mais informações, consulte a documentação da AIRich.

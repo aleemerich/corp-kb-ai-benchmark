@@ -1,0 +1,7 @@
+# Script: Checar SMS gateway
+
+O presente documento tem como objetivo apresentar Script: Checar SMS gateway para as equipes envolvidas.
+
+Alinhado com as melhores práticas do mercado, Script: Checar SMS gateway segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
+
+Para mais informações, consulte a documentação da AIRich.

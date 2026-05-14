@@ -1,5 +1,7 @@
 # Sprint 26.01 - Planejamento
 
-## Resumo
+O presente documento tem como objetivo apresentar Sprint 26.01 - Planejamento para as equipes envolvidas.
 
-# Sprint 26.01 - Planejamento ## Resumo ## Contexto Sprint 26.01 - Planejamento no depto Sprints da AIRich. Info para engenheiros. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Procedimento 1. Identificar sprint 26.01 - planejamento 2. Documentar 3. Executar 4. Validar
+A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Sprint 26.01 - Planejamento representa um componente essencial dessa estratégia.
+
+Para mais informações, consulte a documentação da AIRich.

@@ -1,69 +1,68 @@
 # Runbook: Solicitacao de reembolso
 
-**Depto:** Suporte  
-**Data:** 2026-01-10
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-01-10 | **Versão:** 1.9
 
 ---
 
-## Introducao
+## Visão Geral
 
-Runbook: Solicitacao de reembolso e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+O presente documento tem como objetivo apresentar Runbook: Solicitacao de reembolso para as equipes envolvidas.
 
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Runbook: Solicitacao de reembolso foi documentado para orientar as equipes.
 
-
-## Detalhes do Processo
+## Arquitetura
 
 ```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
+graph LR
+    Input --> Process[Processamento]
+    Process --> Output
+    Process --> Cache[(Cache)]
+    Process --> DB[(Banco)]
 ```
 
+## Procedimento
 
+Para executar corretamente:
 
-## Metricas de Atendimento
+1. Verificar pré-requisitos
+2. Aplicar o procedimento
+3. Validar resultados
+4. Atualizar documentação
+5. Comunicar stakeholders
 
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
+## Infraestrutura
 
-
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
 ## Troubleshooting
 
-### Problema: Cliente nao consegue acessar
+### Problema: Falha na execução
 
-**Sintoma:** Login retorna erro 401
+**Sintoma:** Erro inesperado durante o processo.
 
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
+**Causas:** Configuração incorreta, dependência indisponível, limite de recursos.
 
+**Solução:**
+1. Verificar logs
+2. Confirmar conectividade
+3. Reiniciar se necessário
+4. Escalar para SRE
 
+## Segurança
 
-## Introducao
+- **Transporte:** TLS 1.3 obrigatório
+- **Autenticação:** JWT com rotação de chaves
+- **Autorização:** RBAC granular
+- **Auditoria:** Log imutável
+- **Criptografia:** AES-256
 
-Runbook: Solicitacao de reembolso e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+---
 
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

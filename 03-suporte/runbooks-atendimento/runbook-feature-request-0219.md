@@ -1,5 +1,7 @@
 # Runbook: Feature request
 
-> Suporte AIRich
+A seguir, apresentamos as diretrizes e procedimentos relacionados a Runbook: Feature request.
 
-# Runbook: Feature request > Suporte AIRich Ref runbook: feature request atendimento. Proc runbook: feature request cliente. Ref runbook: feature request atendimento.
+Como parte do programa de melhoria contínua da AIRich, Runbook: Feature request foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.

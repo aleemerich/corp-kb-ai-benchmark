@@ -1,74 +1,37 @@
 # Runbook: Duvida tecnica
 
-**Depto:** Suporte  
-**Data:** 2026-04-24
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-04-24
 
 ---
 
-## Introducao
+## Visão Geral
 
-Runbook: Duvida tecnica e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+O objetivo deste material é documentar as práticas recomendadas para Runbook: Duvida tecnica.
 
+A evolução constante do ecossistema AIRich demanda processos bem definidos. Runbook: Duvida tecnica foi documentado para orientar as equipes.
 
+## Procedimento
 
-## Detalhes do Processo
+Etapas recomendadas:
 
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
+| Etapa | Responsável | Prazo |
+|-------|------------|-------|
+| Análise | Equipe Técnica | 2 dias |
+| Implementação | Desenvolvedor | 5 dias |
+| Testes | QA | 3 dias |
+| Aprovação | Tech Lead | 1 dia |
 
+## Infraestrutura
 
+| Componente | Tecnologia | Versão | Propósito |
+|------------|------------|--------|----------|
+| Backend | Python | 3.12 | Lógica de negócio |
+| Banco | PostgreSQL | 16 | Persistência |
+| Cache | Redis | 7.x | Performance |
+| Fila | RabbitMQ | 3.13 | Mensageria |
+| Docker | Docker | 25.x | Container |
+| K8s | Kubernetes | 1.29 | Orquestração |
 
-## Metricas de Atendimento
+---
 
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Introducao
-
-Runbook: Duvida tecnica e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
-
-
-
-## Detalhes do Processo
-
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

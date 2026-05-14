@@ -1,69 +1,7 @@
 # TKT-2026-0014: PIX nao processado
 
-**Depto:** Suporte  
-**Data:** 2026-06-02
+O presente documento tem como objetivo apresentar TKT-2026-0014: PIX nao processado para as equipes envolvidas.
 
----
+Como parte da estratégia de inovação, TKT-2026-0014: PIX nao processado foi projetado para suportar o crescimento escalável da plataforma.
 
-## Introducao
-
-TKT-2026-0014: PIX nao processado e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
-
-
-
-## Detalhes do Processo
-
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
-
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Introducao
-
-TKT-2026-0014: PIX nao processado e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
-
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
+Para mais informações, consulte a documentação da AIRich.

@@ -1,69 +1,34 @@
 # Script: Verificar certificado SSL
 
-**Depto:** Suporte  
-**Data:** 2026-07-22
+**Produto:** Suporte | **Departamento:**  | **Data:** 2026-07-22
 
 ---
 
-## Introducao
+## Visão Geral
 
-Script: Verificar certificado SSL e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
+Este guia técnico aborda os aspectos fundamentais de Script: Verificar certificado SSL na AIRich.
 
+No cenário atual de transformação digital, Script: Verificar certificado SSL desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
+## Procedimento
 
-## Detalhes do Processo
+O procedimento padrão segue as seguintes etapas:
 
-```mermaid
-flowchart TD
-    A[Cliente abre ticket] --> B[Triagem]
-    B --> C{Nivel 1 resolve?}
-    C -->|Sim| D[Fechar ticket]
-    C -->|Nao| E[Escalacao Nivel 2]
-    E --> F{Nivel 2 resolve?}
-    F -->|Sim| D
-    F -->|Nao| G[Escalacao Nivel 3]
-    G --> D
-```
+1. **Identificação** — Reconhecer o escopo e requisitos
+2. **Planejamento** — Definir recursos e cronograma
+3. **Execução** — Implementar conforme especificações
+4. **Validação** — Verificar critérios de aceite
+5. **Documentação** — Registrar ações e decisões
 
+## Infraestrutura
 
+| Métrica | Meta | Atual | Tendência |
+|------|------|-------|----------|
+| Disponibilidade | 99.95% | 99.97% | ↑ |
+| Latência P95 | < 200ms | 156ms | ↓ |
+| Taxa de Erro | < 0.1% | 0.05% | ↓ |
+| Throughput | 10K/s | 12.5K/s | ↑ |
 
-## Metricas de Atendimento
+---
 
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
-
-
-## Troubleshooting
-
-### Problema: Cliente nao consegue acessar
-
-**Sintoma:** Login retorna erro 401
-
-**Solucao:**
-1. Verificar credenciais
-2. Checar status da conta
-3. Verificar se MFA esta ativo
-4. Resetar senha se necessario
-
-
-
-## Introducao
-
-Script: Verificar certificado SSL e parte do processo de suporte da AIRich Tecnologia. Este documento orienta a equipe de atendimento ao cliente.
-
-
-
-## Metricas de Atendimento
-
-| Metrica | Meta | Atual |
-|---------|------|-------|
-| CSAT | > 90% | 92.3% |
-| NPS | > 50 | 58 |
-| TMA | < 5min | 3.8min |
-| Resolucao 1o contato | > 70% | 73.1% |
-
+*Documento mantido pela equipe de  — AIRich Tecnologia*

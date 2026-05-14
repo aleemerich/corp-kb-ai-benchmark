@@ -1,5 +1,7 @@
 # CQRS pattern
 
-## Resumo
+Este documento fornece uma visão detalhada sobre CQRS pattern no ecossistema AIRich.
 
-# CQRS pattern ## Resumo ## Responsabilidades - Tech Lead: Aprovar - Engenheiros: Executar - QA: Validar ## Procedimento 1. Identificar cqrs pattern 2. Documentar 3. Executar 4. Validar ## Contexto CQRS pattern no depto Arquitetura da AIRich. Info para engenheiros. ## Procedimento 1. Identificar cqrs pattern 2. Documentar 3. Executar 4. Validar
+Como parte do programa de melhoria contínua da AIRich, CQRS pattern foi estruturado para atender às necessidades de escalabilidade e segurança.
+
+Para mais informações, consulte a documentação da AIRich.
