@@ -2,6 +2,8 @@
 
 > **AIRich Tecnologia** — Base de conhecimento corporativa sintética para benchmark de IA
 
+For English version, [click here](README.en.md).
+
 ## Sobre o Projeto
 
 O **corp-kb-ai-benchmark** é uma base de conhecimento sintética que simula o dia a dia de uma empresa de tecnologia brasileira com operações internacionais. Conta com mais de **10.000 documentos em PT-BR** e aproximadamente **6.750 documentos em EN**, totalizando cerca de **16.750 arquivos markdown**.
