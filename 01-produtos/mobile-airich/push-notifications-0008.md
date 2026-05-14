@@ -1,0 +1,7 @@
+# Push notifications
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Push notifications **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.7 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O push notifications passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o push notifications corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do push notifications pode ser realizada através do painel administrativo. Acesse Configurações > Push notifications e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O push notifications passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a push notifications no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais.

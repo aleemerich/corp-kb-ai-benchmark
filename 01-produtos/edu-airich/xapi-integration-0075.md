@@ -1,0 +1,3 @@
+# xAPI integration - AIRich Edu
+
+# xAPI integration - AIRich Edu Este documento descreve os aspectos principais relacionados a xapi integration no contexto do AIRich Edu. Para mais informações sobre xapi integration, consulte a documentação completa do AIRich Edu. O xapi integration do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre xapi integration, consulte a documentação completa do AIRich Edu.

@@ -1,0 +1,3 @@
+# Distribuição via App Store - AIRich Mobile
+
+# Distribuição via App Store - AIRich Mobile Para mais informações sobre distribuição via app store, consulte a documentação completa do AIRich Mobile. O distribuição via app store foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a distribuição via app store no contexto do AIRich Mobile. O distribuição via app store foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

@@ -1,0 +1,3 @@
+# Security monitoring - AIRich Security Shield
+
+# Security monitoring - AIRich Security Shield Este documento descreve os aspectos principais relacionados a security monitoring no contexto do AIRich Security Shield. O security monitoring do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a security monitoring no contexto do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do security monitoring para atender às necessidades dos clientes.

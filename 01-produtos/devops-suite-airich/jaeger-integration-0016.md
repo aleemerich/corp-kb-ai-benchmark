@@ -1,0 +1,3 @@
+# Jaeger integration - AIRich DevOps Suite
+
+# Jaeger integration - AIRich DevOps Suite O jaeger integration foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a jaeger integration no contexto do AIRich DevOps Suite. Para mais informações sobre jaeger integration, consulte a documentação completa do AIRich DevOps Suite. O jaeger integration do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.

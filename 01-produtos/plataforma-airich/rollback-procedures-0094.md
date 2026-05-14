@@ -1,0 +1,3 @@
+# Rollback procedures - AIRich Platform
+
+# Rollback procedures - AIRich Platform Para mais informações sobre rollback procedures, consulte a documentação completa do AIRich Platform. O rollback procedures foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre rollback procedures, consulte a documentação completa do AIRich Platform. A equipe de produto trabalha continuamente na evolução do rollback procedures para atender às necessidades dos clientes.

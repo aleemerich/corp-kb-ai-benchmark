@@ -1,0 +1,3 @@
+# Istio configuration - AIRich DevOps Suite
+
+# Istio configuration - AIRich DevOps Suite Este documento descreve os aspectos principais relacionados a istio configuration no contexto do AIRich DevOps Suite. Para mais informações sobre istio configuration, consulte a documentação completa do AIRich DevOps Suite. Para mais informações sobre istio configuration, consulte a documentação completa do AIRich DevOps Suite. O istio configuration do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.

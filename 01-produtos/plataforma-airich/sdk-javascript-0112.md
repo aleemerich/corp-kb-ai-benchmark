@@ -1,0 +1,3 @@
+# SDK JavaScript - AIRich Platform
+
+# SDK JavaScript - AIRich Platform Para mais informações sobre sdk javascript, consulte a documentação completa do AIRich Platform. Este documento descreve os aspectos principais relacionados a sdk javascript no contexto do AIRich Platform. O sdk javascript do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do sdk javascript para atender às necessidades dos clientes.

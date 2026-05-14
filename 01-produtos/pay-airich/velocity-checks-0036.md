@@ -1,0 +1,3 @@
+# Velocity checks
+
+# Velocity checks Para mais informações sobre velocity checks, consulte a documentação completa do AIRich Pay. Este documento descreve os aspectos principais relacionados a velocity checks no contexto do AIRich Pay. Para mais informações sobre velocity checks, consulte a documentação completa do AIRich Pay. Este documento descreve os aspectos principais relacionados a velocity checks no contexto do AIRich Pay.

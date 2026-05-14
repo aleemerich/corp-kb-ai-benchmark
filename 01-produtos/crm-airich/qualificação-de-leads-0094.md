@@ -1,0 +1,3 @@
+# Qualificação de leads
+
+# Qualificação de leads Este documento descreve os aspectos principais relacionados a qualificação de leads no contexto do AIRich CRM. O qualificação de leads foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre qualificação de leads, consulte a documentação completa do AIRich CRM. O qualificação de leads foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

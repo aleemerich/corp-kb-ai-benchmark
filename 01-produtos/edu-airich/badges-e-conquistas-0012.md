@@ -1,0 +1,3 @@
+# Badges e conquistas - AIRich Edu
+
+# Badges e conquistas - AIRich Edu Para mais informações sobre badges e conquistas, consulte a documentação completa do AIRich Edu. O badges e conquistas foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O badges e conquistas foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre badges e conquistas, consulte a documentação completa do AIRich Edu.

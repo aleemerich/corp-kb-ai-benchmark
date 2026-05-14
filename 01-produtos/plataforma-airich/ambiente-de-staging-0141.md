@@ -1,0 +1,7 @@
+# Ambiente de staging
+
+**Produto:** AIRich Platform  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Ambiente de staging **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.0 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a ambiente de staging no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ambiente de staging, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do ambiente de staging pode ser realizada através do painel administrativo. Acesse Configurações > Ambiente de staging e siga as instruções apresentadas na interface. ## Configuração A configuração do ambiente de staging pode ser realizada através do painel administrativo. Acesse Configurações > Ambiente de staging e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o ambiente de staging corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

@@ -1,0 +1,3 @@
+# Doc: RLHF process
+
+# Doc: RLHF process O rlhf process do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do rlhf process para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do rlhf process para atender às necessidades dos clientes. O rlhf process foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

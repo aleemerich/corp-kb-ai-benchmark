@@ -1,0 +1,3 @@
+# Phishing awareness - AIRich Security Shield
+
+# Phishing awareness - AIRich Security Shield A equipe de produto trabalha continuamente na evolução do phishing awareness para atender às necessidades dos clientes. O phishing awareness foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O phishing awareness foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre phishing awareness, consulte a documentação completa do AIRich Security Shield.

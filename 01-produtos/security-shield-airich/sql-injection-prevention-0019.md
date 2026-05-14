@@ -1,0 +1,3 @@
+# SQL injection prevention
+
+# SQL injection prevention O sql injection prevention foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O sql injection prevention do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. O sql injection prevention do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a sql injection prevention no contexto do AIRich Security Shield.

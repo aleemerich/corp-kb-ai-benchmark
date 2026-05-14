@@ -1,0 +1,3 @@
+# Guia de contribuição - AIRich Mobile
+
+# Guia de contribuição - AIRich Mobile Para mais informações sobre guia de contribuição, consulte a documentação completa do AIRich Mobile. A equipe de produto trabalha continuamente na evolução do guia de contribuição para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a guia de contribuição no contexto do AIRich Mobile. O guia de contribuição do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia.

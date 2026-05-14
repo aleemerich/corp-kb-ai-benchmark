@@ -1,0 +1,3 @@
+# Conversation history
+
+# Conversation history O conversation history do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. O conversation history foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre conversation history, consulte a documentação completa do AIRich AI Assistant. Este documento descreve os aspectos principais relacionados a conversation history no contexto do AIRich AI Assistant.

@@ -1,0 +1,7 @@
+# Marketplace payments
+
+**Produto:** AIRich Pay  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# Marketplace payments **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.9 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Marketplace payments O marketplace payments do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O marketplace payments passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do marketplace payments pode ser realizada através do painel administrativo. Acesse Configurações > Marketplace payments e siga as instruções apresentadas na interface. ## Configuração A configuração do marketplace payments pode ser realizada através do painel administrativo. Acesse Configurações > Marketplace payments e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

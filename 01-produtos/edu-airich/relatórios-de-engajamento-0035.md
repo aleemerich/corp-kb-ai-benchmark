@@ -1,0 +1,7 @@
+# Relatórios de engajamento
+
+**Produto:** AIRich Edu  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Relatórios de engajamento **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.4 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a relatórios de engajamento no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do relatórios de engajamento pode ser realizada através do painel administrativo. Acesse Configurações > Relatórios de engajamento e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do relatórios de engajamento, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O relatórios de engajamento passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do relatórios de engajamento, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do relatórios de engajamento pode ser realizada através do painel administrativo. Acesse Configurações > Relatórios de engajamento e siga as instruções apresentadas na interface.

@@ -1,0 +1,7 @@
+# Penetration testing
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Penetration testing **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.4 ## Configuração A configuração do penetration testing pode ser realizada através do painel administrativo. Acesse Configurações > Penetration testing e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a penetration testing no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do penetration testing, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O penetration testing passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O penetration testing passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a penetration testing no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais.

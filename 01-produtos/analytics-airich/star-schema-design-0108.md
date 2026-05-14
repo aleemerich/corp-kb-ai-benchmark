@@ -1,0 +1,7 @@
+# Star schema design
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Star schema design **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.7 ## Sobre Star schema design O star schema design do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do star schema design pode ser realizada através do painel administrativo. Acesse Configurações > Star schema design e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a star schema design no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do star schema design pode ser realizada através do painel administrativo. Acesse Configurações > Star schema design e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a star schema design no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais.

@@ -1,0 +1,3 @@
+# Doc: SCORM compliance
+
+# Doc: SCORM compliance O scorm compliance do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a scorm compliance no contexto do AIRich Edu. Para mais informações sobre scorm compliance, consulte a documentação completa do AIRich Edu. O scorm compliance do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.

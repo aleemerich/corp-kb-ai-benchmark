@@ -1,0 +1,3 @@
+# Visão geral do app - AIRich Mobile
+
+# Visão geral do app - AIRich Mobile O visão geral do app foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O visão geral do app do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do visão geral do app para atender às necessidades dos clientes. Para mais informações sobre visão geral do app, consulte a documentação completa do AIRich Mobile.

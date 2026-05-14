@@ -1,0 +1,3 @@
+# Tela principal do dashboard
+
+# Tela principal do dashboard O tela principal do dashboard foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a tela principal do dashboard no contexto do AIRich Mobile. A equipe de produto trabalha continuamente na evolução do tela principal do dashboard para atender às necessidades dos clientes. O tela principal do dashboard foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

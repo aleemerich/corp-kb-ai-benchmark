@@ -1,0 +1,3 @@
+# Roadmap analytics
+
+# Roadmap analytics Este documento descreve os aspectos principais relacionados a roadmap analytics no contexto do AIRich Analytics. A equipe de produto trabalha continuamente na evolução do roadmap analytics para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a roadmap analytics no contexto do AIRich Analytics. Para mais informações sobre roadmap analytics, consulte a documentação completa do AIRich Analytics.

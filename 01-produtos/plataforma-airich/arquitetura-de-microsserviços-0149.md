@@ -1,0 +1,3 @@
+# Arquitetura de microsserviços
+
+# Arquitetura de microsserviços O arquitetura de microsserviços do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O arquitetura de microsserviços foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O arquitetura de microsserviços do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do arquitetura de microsserviços para atender às necessidades dos clientes.

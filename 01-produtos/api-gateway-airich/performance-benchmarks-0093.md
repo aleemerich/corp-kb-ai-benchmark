@@ -1,0 +1,3 @@
+# Performance benchmarks
+
+# Performance benchmarks Este documento descreve os aspectos principais relacionados a performance benchmarks no contexto do AIRich API Gateway. O performance benchmarks do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre performance benchmarks, consulte a documentação completa do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do performance benchmarks para atender às necessidades dos clientes.

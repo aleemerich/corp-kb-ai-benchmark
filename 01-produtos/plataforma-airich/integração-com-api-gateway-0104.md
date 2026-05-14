@@ -1,0 +1,3 @@
+# Doc: Integração com API Gateway
+
+# Doc: Integração com API Gateway Para mais informações sobre integração com api gateway, consulte a documentação completa do AIRich Platform. A equipe de produto trabalha continuamente na evolução do integração com api gateway para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a integração com api gateway no contexto do AIRich Platform. O integração com api gateway foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

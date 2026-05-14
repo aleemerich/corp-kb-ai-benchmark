@@ -1,0 +1,3 @@
+# Nota fiscal eletrônica - AIRich Pay
+
+# Nota fiscal eletrônica - AIRich Pay O nota fiscal eletrônica foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre nota fiscal eletrônica, consulte a documentação completa do AIRich Pay. O nota fiscal eletrônica foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do nota fiscal eletrônica para atender às necessidades dos clientes.

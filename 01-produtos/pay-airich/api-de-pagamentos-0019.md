@@ -1,0 +1,7 @@
+# API de pagamentos
+
+**Produto:** AIRich Pay  
+**Departamento:** Produtos  
+**Versão:** 1.8
+
+# API de pagamentos **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.8 ## Sobre API de pagamentos O api de pagamentos do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o api de pagamentos corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a api de pagamentos no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O api de pagamentos passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

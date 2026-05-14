@@ -1,0 +1,3 @@
+# Sistema de cache
+
+# Sistema de cache O sistema de cache foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a sistema de cache no contexto do AIRich Platform. Este documento descreve os aspectos principais relacionados a sistema de cache no contexto do AIRich Platform. Para mais informações sobre sistema de cache, consulte a documentação completa do AIRich Platform.

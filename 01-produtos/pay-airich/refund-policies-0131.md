@@ -1,0 +1,7 @@
+# Refund policies
+
+**Produto:** AIRich Pay  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Refund policies **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.0 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do refund policies, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do refund policies pode ser realizada através do painel administrativo. Acesse Configurações > Refund policies e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o refund policies corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Refund policies O refund policies do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Sobre Refund policies O refund policies do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a refund policies no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais.

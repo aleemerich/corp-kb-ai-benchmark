@@ -1,0 +1,7 @@
+# A/B testing
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.3
+
+# A/B testing **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.3 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o a/b testing corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do a/b testing pode ser realizada através do painel administrativo. Acesse Configurações > A/B testing e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a a/b testing no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do a/b testing pode ser realizada através do painel administrativo. Acesse Configurações > A/B testing e siga as instruções apresentadas na interface. ## Sobre A/B testing O a/b testing do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.

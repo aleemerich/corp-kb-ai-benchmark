@@ -1,0 +1,7 @@
+# Progresso do aluno
+
+**Produto:** AIRich Edu  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# Progresso do aluno **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.2 ## Configuração A configuração do progresso do aluno pode ser realizada através do painel administrativo. Acesse Configurações > Progresso do aluno e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a progresso do aluno no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do progresso do aluno, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do progresso do aluno pode ser realizada através do painel administrativo. Acesse Configurações > Progresso do aluno e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a progresso do aluno no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais.

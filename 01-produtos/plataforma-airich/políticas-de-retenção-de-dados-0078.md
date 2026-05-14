@@ -1,0 +1,3 @@
+# Doc: Políticas de retenção de dados
+
+# Doc: Políticas de retenção de dados O políticas de retenção de dados foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do políticas de retenção de dados para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do políticas de retenção de dados para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a políticas de retenção de dados no contexto do AIRich Platform.

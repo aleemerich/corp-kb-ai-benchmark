@@ -1,0 +1,3 @@
+# Doc: Deep linking
+
+# Doc: Deep linking A equipe de produto trabalha continuamente na evolução do deep linking para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a deep linking no contexto do AIRich Mobile. Para mais informações sobre deep linking, consulte a documentação completa do AIRich Mobile. Este documento descreve os aspectos principais relacionados a deep linking no contexto do AIRich Mobile.

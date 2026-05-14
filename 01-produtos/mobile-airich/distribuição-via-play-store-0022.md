@@ -1,0 +1,3 @@
+# Distribuição via Play Store - AIRich Mobile
+
+# Distribuição via Play Store - AIRich Mobile Para mais informações sobre distribuição via play store, consulte a documentação completa do AIRich Mobile. O distribuição via play store foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a distribuição via play store no contexto do AIRich Mobile. Para mais informações sobre distribuição via play store, consulte a documentação completa do AIRich Mobile.

@@ -1,0 +1,3 @@
+# Doc: Avaliações e reviews
+
+# Doc: Avaliações e reviews O avaliações e reviews foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre avaliações e reviews, consulte a documentação completa do AIRich Edu. Este documento descreve os aspectos principais relacionados a avaliações e reviews no contexto do AIRich Edu. Para mais informações sobre avaliações e reviews, consulte a documentação completa do AIRich Edu.

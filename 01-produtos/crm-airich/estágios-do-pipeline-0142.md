@@ -1,0 +1,3 @@
+# Estágios do pipeline
+
+# Estágios do pipeline O estágios do pipeline do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do estágios do pipeline para atender às necessidades dos clientes. Para mais informações sobre estágios do pipeline, consulte a documentação completa do AIRich CRM. Este documento descreve os aspectos principais relacionados a estágios do pipeline no contexto do AIRich CRM.

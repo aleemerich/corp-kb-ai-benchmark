@@ -1,0 +1,3 @@
+# Compliance SOC2 - AIRich Security Shield
+
+# Compliance SOC2 - AIRich Security Shield O compliance soc2 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a compliance soc2 no contexto do AIRich Security Shield. Este documento descreve os aspectos principais relacionados a compliance soc2 no contexto do AIRich Security Shield. Para mais informações sobre compliance soc2, consulte a documentação completa do AIRich Security Shield.

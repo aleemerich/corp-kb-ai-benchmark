@@ -1,0 +1,3 @@
+# Doc: DDoS protection
+
+# Doc: DDoS protection Este documento descreve os aspectos principais relacionados a ddos protection no contexto do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do ddos protection para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a ddos protection no contexto do AIRich Security Shield. Para mais informações sobre ddos protection, consulte a documentação completa do AIRich Security Shield.

@@ -1,0 +1,3 @@
+# Doc: Configuração de CDN
+
+# Doc: Configuração de CDN O configuração de cdn foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre configuração de cdn, consulte a documentação completa do AIRich Platform. Para mais informações sobre configuração de cdn, consulte a documentação completa do AIRich Platform. O configuração de cdn do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia.

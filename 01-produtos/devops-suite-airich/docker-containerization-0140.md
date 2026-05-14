@@ -1,0 +1,3 @@
+# Docker containerization
+
+# Docker containerization A equipe de produto trabalha continuamente na evolução do docker containerization para atender às necessidades dos clientes. O docker containerization foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O docker containerization foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre docker containerization, consulte a documentação completa do AIRich DevOps Suite.

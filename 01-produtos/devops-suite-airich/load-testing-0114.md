@@ -1,0 +1,3 @@
+# Load testing
+
+# Load testing Este documento descreve os aspectos principais relacionados a load testing no contexto do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do load testing para atender às necessidades dos clientes. O load testing do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre load testing, consulte a documentação completa do AIRich DevOps Suite.

@@ -1,0 +1,3 @@
+# Changelog v2.0 - AIRich AI Assistant
+
+# Changelog v2.0 - AIRich AI Assistant O changelog v2.0 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do changelog v2.0 para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do changelog v2.0 para atender às necessidades dos clientes. O changelog v2.0 do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia.

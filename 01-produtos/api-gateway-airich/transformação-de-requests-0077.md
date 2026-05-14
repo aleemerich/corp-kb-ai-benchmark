@@ -1,0 +1,3 @@
+# Transformação de requests
+
+# Transformação de requests O transformação de requests foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do transformação de requests para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a transformação de requests no contexto do AIRich API Gateway. Para mais informações sobre transformação de requests, consulte a documentação completa do AIRich API Gateway.

@@ -1,0 +1,7 @@
+# Fingerprint support
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Fingerprint support **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.7 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a fingerprint support no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o fingerprint support corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O fingerprint support passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do fingerprint support pode ser realizada através do painel administrativo. Acesse Configurações > Fingerprint support e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o fingerprint support corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do fingerprint support, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

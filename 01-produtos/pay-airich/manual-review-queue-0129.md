@@ -1,0 +1,3 @@
+# Manual review queue
+
+# Manual review queue O manual review queue do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. O manual review queue foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre manual review queue, consulte a documentação completa do AIRich Pay. O manual review queue do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.

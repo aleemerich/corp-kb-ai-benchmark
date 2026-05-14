@@ -1,0 +1,3 @@
+# Input validation - AIRich Security Shield
+
+# Input validation - AIRich Security Shield O input validation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do input validation para atender às necessidades dos clientes. O input validation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O input validation do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia.

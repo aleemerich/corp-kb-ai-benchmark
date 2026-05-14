@@ -1,0 +1,3 @@
+# Offline mode - AIRich CRM
+
+# Offline mode - AIRich CRM A equipe de produto trabalha continuamente na evolução do offline mode para atender às necessidades dos clientes. Para mais informações sobre offline mode, consulte a documentação completa do AIRich CRM. A equipe de produto trabalha continuamente na evolução do offline mode para atender às necessidades dos clientes. O offline mode foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

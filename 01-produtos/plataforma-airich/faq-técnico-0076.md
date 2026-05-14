@@ -1,0 +1,3 @@
+# FAQ técnico - AIRich Platform
+
+# FAQ técnico - AIRich Platform A equipe de produto trabalha continuamente na evolução do faq técnico para atender às necessidades dos clientes. O faq técnico do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do faq técnico para atender às necessidades dos clientes. Para mais informações sobre faq técnico, consulte a documentação completa do AIRich Platform.

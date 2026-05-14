@@ -1,0 +1,3 @@
+# Doc: Risk scoring
+
+# Doc: Risk scoring Para mais informações sobre risk scoring, consulte a documentação completa do AIRich Pay. A equipe de produto trabalha continuamente na evolução do risk scoring para atender às necessidades dos clientes. O risk scoring do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do risk scoring para atender às necessidades dos clientes.

@@ -1,0 +1,3 @@
+# Especificação de feature flags - AIRich Platform
+
+# Especificação de feature flags - AIRich Platform Este documento descreve os aspectos principais relacionados a especificação de feature flags no contexto do AIRich Platform. Para mais informações sobre especificação de feature flags, consulte a documentação completa do AIRich Platform. A equipe de produto trabalha continuamente na evolução do especificação de feature flags para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a especificação de feature flags no contexto do AIRich Platform.

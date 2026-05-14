@@ -1,0 +1,3 @@
+# Secret management - AIRich DevOps Suite
+
+# Secret management - AIRich DevOps Suite O secret management foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O secret management do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. O secret management do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a secret management no contexto do AIRich DevOps Suite.

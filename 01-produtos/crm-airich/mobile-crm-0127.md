@@ -1,0 +1,3 @@
+# Mobile CRM
+
+# Mobile CRM Este documento descreve os aspectos principais relacionados a mobile crm no contexto do AIRich CRM. O mobile crm do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a mobile crm no contexto do AIRich CRM. A equipe de produto trabalha continuamente na evolução do mobile crm para atender às necessidades dos clientes.

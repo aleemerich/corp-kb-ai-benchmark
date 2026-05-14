@@ -1,0 +1,3 @@
+# Prometheus setup - AIRich DevOps Suite
+
+# Prometheus setup - AIRich DevOps Suite A equipe de produto trabalha continuamente na evolução do prometheus setup para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a prometheus setup no contexto do AIRich DevOps Suite. Este documento descreve os aspectos principais relacionados a prometheus setup no contexto do AIRich DevOps Suite. O prometheus setup do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.

@@ -1,0 +1,3 @@
+# Doc: Changelog v2.0
+
+# Doc: Changelog v2.0 O changelog v2.0 do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. O changelog v2.0 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre changelog v2.0, consulte a documentação completa do AIRich Pay. O changelog v2.0 do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.

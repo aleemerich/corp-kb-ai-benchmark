@@ -1,0 +1,3 @@
+# Doc: Antifraude
+
+# Doc: Antifraude Este documento descreve os aspectos principais relacionados a antifraude no contexto do AIRich Pay. Para mais informações sobre antifraude, consulte a documentação completa do AIRich Pay. A equipe de produto trabalha continuamente na evolução do antifraude para atender às necessidades dos clientes. O antifraude foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

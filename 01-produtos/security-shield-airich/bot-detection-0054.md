@@ -1,0 +1,3 @@
+# Doc: Bot detection
+
+# Doc: Bot detection O bot detection foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a bot detection no contexto do AIRich Security Shield. O bot detection do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre bot detection, consulte a documentação completa do AIRich Security Shield.

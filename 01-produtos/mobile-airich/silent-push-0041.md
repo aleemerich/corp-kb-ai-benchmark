@@ -1,0 +1,7 @@
+# Silent push
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Silent push **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.0 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a silent push no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O silent push passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do silent push, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o silent push corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do silent push, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o silent push corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

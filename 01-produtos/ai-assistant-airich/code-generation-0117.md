@@ -1,0 +1,7 @@
+# Code generation
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.6
+
+# Code generation **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.6 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a code generation no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Code generation O code generation do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do code generation, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do code generation pode ser realizada através do painel administrativo. Acesse Configurações > Code generation e siga as instruções apresentadas na interface. ## Sobre Code generation O code generation do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do code generation, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

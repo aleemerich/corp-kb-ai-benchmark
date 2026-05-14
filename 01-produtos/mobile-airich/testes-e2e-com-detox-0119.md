@@ -1,0 +1,3 @@
+# Testes E2E com Detox - AIRich Mobile
+
+# Testes E2E com Detox - AIRich Mobile O testes e2e com detox foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a testes e2e com detox no contexto do AIRich Mobile. O testes e2e com detox do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre testes e2e com detox, consulte a documentação completa do AIRich Mobile.

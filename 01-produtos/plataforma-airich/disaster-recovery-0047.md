@@ -1,0 +1,3 @@
+# Disaster recovery
+
+# Disaster recovery O disaster recovery do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre disaster recovery, consulte a documentação completa do AIRich Platform. Este documento descreve os aspectos principais relacionados a disaster recovery no contexto do AIRich Platform. A equipe de produto trabalha continuamente na evolução do disaster recovery para atender às necessidades dos clientes.

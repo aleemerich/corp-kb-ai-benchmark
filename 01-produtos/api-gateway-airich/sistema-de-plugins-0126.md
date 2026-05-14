@@ -1,0 +1,3 @@
+# Sistema de plugins
+
+# Sistema de plugins Este documento descreve os aspectos principais relacionados a sistema de plugins no contexto do AIRich API Gateway. Para mais informações sobre sistema de plugins, consulte a documentação completa do AIRich API Gateway. O sistema de plugins foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do sistema de plugins para atender às necessidades dos clientes.

@@ -1,0 +1,7 @@
+# Score de leads
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Score de leads **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.4 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o score de leads corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O score de leads passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do score de leads pode ser realizada através do painel administrativo. Acesse Configurações > Score de leads e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O score de leads passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a score de leads no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais.

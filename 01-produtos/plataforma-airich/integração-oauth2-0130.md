@@ -1,0 +1,7 @@
+# Integração OAuth2
+
+**Produto:** AIRich Platform  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# Integração OAuth2 **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.9 ## Configuração A configuração do integração oauth2 pode ser realizada através do painel administrativo. Acesse Configurações > Integração OAuth2 e siga as instruções apresentadas na interface. ## Sobre Integração OAuth2 O integração oauth2 do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a integração oauth2 no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do integração oauth2, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do integração oauth2 pode ser realizada através do painel administrativo. Acesse Configurações > Integração OAuth2 e siga as instruções apresentadas na interface.

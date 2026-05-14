@@ -1,0 +1,3 @@
+# Guia de troubleshooting
+
+# Guia de troubleshooting Este documento descreve os aspectos principais relacionados a guia de troubleshooting no contexto do AIRich Platform. A equipe de produto trabalha continuamente na evolução do guia de troubleshooting para atender às necessidades dos clientes. O guia de troubleshooting foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a guia de troubleshooting no contexto do AIRich Platform.

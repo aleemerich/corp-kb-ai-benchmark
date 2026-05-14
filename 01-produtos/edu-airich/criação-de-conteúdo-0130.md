@@ -1,0 +1,7 @@
+# Criação de conteúdo
+
+**Produto:** AIRich Edu  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# Criação de conteúdo **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.9 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a criação de conteúdo no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O criação de conteúdo passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o criação de conteúdo corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Sobre Criação de conteúdo O criação de conteúdo do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a criação de conteúdo no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais.

@@ -1,0 +1,3 @@
+# Doc: Real-time analytics
+
+# Doc: Real-time analytics A equipe de produto trabalha continuamente na evolução do real-time analytics para atender às necessidades dos clientes. Para mais informações sobre real-time analytics, consulte a documentação completa do AIRich Analytics. O real-time analytics foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre real-time analytics, consulte a documentação completa do AIRich Analytics.

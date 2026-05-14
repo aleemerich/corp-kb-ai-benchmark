@@ -1,0 +1,3 @@
+# Batch processing
+
+# Batch processing Este documento descreve os aspectos principais relacionados a batch processing no contexto do AIRich Analytics. A equipe de produto trabalha continuamente na evolução do batch processing para atender às necessidades dos clientes. O batch processing do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do batch processing para atender às necessidades dos clientes.

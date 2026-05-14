@@ -1,0 +1,7 @@
+# Embedding models
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.3
+
+# Embedding models **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.3 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do embedding models, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a embedding models no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o embedding models corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Requisitos Para utilizar o embedding models corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do embedding models pode ser realizada através do painel administrativo. Acesse Configurações > Embedding models e siga as instruções apresentadas na interface.

@@ -1,0 +1,3 @@
+# Webinars gravados
+
+# Webinars gravados O webinars gravados do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do webinars gravados para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do webinars gravados para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a webinars gravados no contexto do AIRich Edu.

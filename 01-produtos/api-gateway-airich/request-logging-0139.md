@@ -1,0 +1,7 @@
+# Request logging
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.8
+
+# Request logging **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.8 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O request logging passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Request logging O request logging do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do request logging, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o request logging corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do request logging pode ser realizada através do painel administrativo. Acesse Configurações > Request logging e siga as instruções apresentadas na interface.

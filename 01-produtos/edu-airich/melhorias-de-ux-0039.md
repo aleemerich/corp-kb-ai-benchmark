@@ -1,0 +1,7 @@
+# Melhorias de UX
+
+**Produto:** AIRich Edu  
+**Departamento:** Produtos  
+**Versão:** 1.8
+
+# Melhorias de UX **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.8 ## Sobre Melhorias de UX O melhorias de ux do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do melhorias de ux, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do melhorias de ux pode ser realizada através do painel administrativo. Acesse Configurações > Melhorias de UX e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O melhorias de ux passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a melhorias de ux no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O melhorias de ux passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

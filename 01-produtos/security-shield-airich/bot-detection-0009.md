@@ -1,0 +1,7 @@
+# Bot detection
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.8
+
+# Bot detection **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.8 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O bot detection passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o bot detection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do bot detection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a bot detection no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

@@ -1,0 +1,3 @@
+# Doc: GitHub Actions workflows
+
+# Doc: GitHub Actions workflows O github actions workflows do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. O github actions workflows foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O github actions workflows foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do github actions workflows para atender às necessidades dos clientes.

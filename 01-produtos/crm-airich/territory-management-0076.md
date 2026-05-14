@@ -1,0 +1,3 @@
+# Territory management
+
+# Territory management O territory management foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre territory management, consulte a documentação completa do AIRich CRM. A equipe de produto trabalha continuamente na evolução do territory management para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a territory management no contexto do AIRich CRM.

@@ -1,0 +1,7 @@
+# Dependency scanning
+
+**Produto:** AIRich DevOps Suite  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# Dependency scanning **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.2 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do dependency scanning, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Dependency scanning O dependency scanning do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dependency scanning no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do dependency scanning pode ser realizada através do painel administrativo. Acesse Configurações > Dependency scanning e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O dependency scanning passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do dependency scanning pode ser realizada através do painel administrativo. Acesse Configurações > Dependency scanning e siga as instruções apresentadas na interface.

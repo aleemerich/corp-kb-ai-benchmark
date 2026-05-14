@@ -1,0 +1,7 @@
+# Sequências de nurturing
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Sequências de nurturing **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.0 ## Configuração A configuração do sequências de nurturing pode ser realizada através do painel administrativo. Acesse Configurações > Sequências de nurturing e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O sequências de nurturing passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Sequências de nurturing O sequências de nurturing do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a sequências de nurturing no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O sequências de nurturing passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

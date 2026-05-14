@@ -1,0 +1,7 @@
+# Data warehouse schema
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.3
+
+# Data warehouse schema **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.3 ## Sobre Data warehouse schema O data warehouse schema do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data warehouse schema no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data warehouse schema passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data warehouse schema passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data warehouse schema no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais.

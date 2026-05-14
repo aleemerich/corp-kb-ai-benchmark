@@ -1,0 +1,7 @@
+# A/B testing de modelos
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# A/B testing de modelos **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.9 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do a/b testing de modelos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre A/B testing de modelos O a/b testing de modelos do AIRich AI Assistant representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do a/b testing de modelos pode ser realizada através do painel administrativo. Acesse Configurações > A/B testing de modelos e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do a/b testing de modelos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a a/b testing de modelos no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais.

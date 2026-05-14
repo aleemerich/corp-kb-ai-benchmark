@@ -1,0 +1,3 @@
+# A/B testing de modelos
+
+# A/B testing de modelos O a/b testing de modelos do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. O a/b testing de modelos foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do a/b testing de modelos para atender às necessidades dos clientes. O a/b testing de modelos do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia.

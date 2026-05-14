@@ -1,0 +1,3 @@
+# Data lake architecture
+
+# Data lake architecture O data lake architecture do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. O data lake architecture foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O data lake architecture foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O data lake architecture do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia.

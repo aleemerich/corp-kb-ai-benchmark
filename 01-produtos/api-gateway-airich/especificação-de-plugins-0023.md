@@ -1,0 +1,3 @@
+# Especificação de plugins - AIRich API Gateway
+
+# Especificação de plugins - AIRich API Gateway Para mais informações sobre especificação de plugins, consulte a documentação completa do AIRich API Gateway. O especificação de plugins do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do especificação de plugins para atender às necessidades dos clientes. O especificação de plugins do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia.

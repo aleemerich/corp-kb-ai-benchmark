@@ -1,0 +1,3 @@
+# Doc: Distributed tracing
+
+# Doc: Distributed tracing O distributed tracing do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre distributed tracing, consulte a documentação completa do AIRich DevOps Suite. Para mais informações sobre distributed tracing, consulte a documentação completa do AIRich DevOps Suite. O distributed tracing do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.

@@ -1,0 +1,3 @@
+# Visão geral da plataforma
+
+# Visão geral da plataforma Para mais informações sobre visão geral da plataforma, consulte a documentação completa do AIRich Platform. Este documento descreve os aspectos principais relacionados a visão geral da plataforma no contexto do AIRich Platform. Este documento descreve os aspectos principais relacionados a visão geral da plataforma no contexto do AIRich Platform. Para mais informações sobre visão geral da plataforma, consulte a documentação completa do AIRich Platform.

@@ -1,0 +1,7 @@
+# Métricas de uptime
+
+**Produto:** AIRich Platform  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Métricas de uptime **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.7 ## Configuração A configuração do métricas de uptime pode ser realizada através do painel administrativo. Acesse Configurações > Métricas de uptime e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a métricas de uptime no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o métricas de uptime corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Métricas de uptime O métricas de uptime do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente.

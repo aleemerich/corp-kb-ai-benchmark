@@ -1,0 +1,7 @@
+# DDoS protection
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# DDoS protection **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.7 ## Requisitos Para utilizar o ddos protection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O ddos protection passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ddos protection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ddos protection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a ddos protection no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais.

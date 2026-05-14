@@ -1,0 +1,7 @@
+# Visão geral do app
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Visão geral do app **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.0 ## Requisitos Para utilizar o visão geral do app corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do visão geral do app, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do visão geral do app pode ser realizada através do painel administrativo. Acesse Configurações > Visão geral do app e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a visão geral do app no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do visão geral do app, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a visão geral do app no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais.

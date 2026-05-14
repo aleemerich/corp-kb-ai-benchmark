@@ -1,0 +1,3 @@
+# Doc: API security
+
+# Doc: API security A equipe de produto trabalha continuamente na evolução do api security para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a api security no contexto do AIRich Security Shield. Para mais informações sobre api security, consulte a documentação completa do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do api security para atender às necessidades dos clientes.

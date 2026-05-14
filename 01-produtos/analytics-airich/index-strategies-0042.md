@@ -1,0 +1,7 @@
+# Index strategies
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# Index strategies **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.1 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O index strategies passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a index strategies no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do index strategies, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do index strategies pode ser realizada através do painel administrativo. Acesse Configurações > Index strategies e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O index strategies passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do index strategies pode ser realizada através do painel administrativo. Acesse Configurações > Index strategies e siga as instruções apresentadas na interface.

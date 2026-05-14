@@ -1,0 +1,3 @@
+# Módulo de exportação de dados
+
+# Módulo de exportação de dados O módulo de exportação de dados do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O módulo de exportação de dados foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre módulo de exportação de dados, consulte a documentação completa do AIRich Platform. O módulo de exportação de dados foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

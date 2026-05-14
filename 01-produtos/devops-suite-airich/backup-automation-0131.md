@@ -1,0 +1,7 @@
+# Backup automation
+
+**Produto:** AIRich DevOps Suite  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Backup automation **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.0 ## Requisitos Para utilizar o backup automation corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O backup automation passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a backup automation no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do backup automation, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O backup automation passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o backup automation corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

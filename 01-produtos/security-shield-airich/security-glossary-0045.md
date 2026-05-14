@@ -1,0 +1,7 @@
+# Security glossary
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Security glossary **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.4 ## Requisitos Para utilizar o security glossary corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do security glossary, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a security glossary no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Security glossary O security glossary do AIRich Security Shield representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do security glossary pode ser realizada através do painel administrativo. Acesse Configurações > Security glossary e siga as instruções apresentadas na interface.

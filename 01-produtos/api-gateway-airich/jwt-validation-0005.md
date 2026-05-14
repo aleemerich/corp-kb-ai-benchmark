@@ -1,0 +1,7 @@
+# JWT validation
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# JWT validation **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.4 ## Requisitos Para utilizar o jwt validation corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do jwt validation pode ser realizada através do painel administrativo. Acesse Configurações > JWT validation e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre JWT validation O jwt validation do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O jwt validation passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

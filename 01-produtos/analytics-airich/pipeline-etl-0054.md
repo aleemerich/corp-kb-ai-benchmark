@@ -1,0 +1,7 @@
+# Pipeline ETL
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.3
+
+# Pipeline ETL **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.3 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do pipeline etl, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O pipeline etl passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o pipeline etl corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Pipeline ETL O pipeline etl do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a pipeline etl no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais.

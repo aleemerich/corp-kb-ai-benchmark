@@ -1,0 +1,3 @@
+# Geo-blocking - AIRich API Gateway
+
+# Geo-blocking - AIRich API Gateway Este documento descreve os aspectos principais relacionados a geo-blocking no contexto do AIRich API Gateway. O geo-blocking do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. O geo-blocking foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O geo-blocking do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia.

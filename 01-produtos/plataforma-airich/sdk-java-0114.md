@@ -1,0 +1,3 @@
+# Doc: SDK Java
+
+# Doc: SDK Java O sdk java foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre sdk java, consulte a documentação completa do AIRich Platform. O sdk java foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a sdk java no contexto do AIRich Platform.

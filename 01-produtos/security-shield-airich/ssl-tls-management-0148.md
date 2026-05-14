@@ -1,0 +1,3 @@
+# Doc: SSL/TLS management
+
+# Doc: SSL/TLS management Este documento descreve os aspectos principais relacionados a ssl/tls management no contexto do AIRich Security Shield. O ssl/tls management do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a ssl/tls management no contexto do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do ssl/tls management para atender às necessidades dos clientes.

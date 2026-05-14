@@ -1,0 +1,5 @@
+# 3D Secure
+
+## Resumo
+
+# 3D Secure ## Resumo ## Configuração A configuração do 3d secure pode ser realizada através do painel administrativo. Acesse Configurações > 3D Secure e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a 3d secure no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do 3d secure, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do 3d secure pode ser realizada através do painel administrativo. Acesse Configurações > 3D Secure e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a 3d secure no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais.

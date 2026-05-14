@@ -1,0 +1,3 @@
+# Gestão de oportunidades
+
+# Gestão de oportunidades Para mais informações sobre gestão de oportunidades, consulte a documentação completa do AIRich CRM. Este documento descreve os aspectos principais relacionados a gestão de oportunidades no contexto do AIRich CRM. O gestão de oportunidades foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O gestão de oportunidades do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia.

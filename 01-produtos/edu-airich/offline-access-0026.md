@@ -1,0 +1,3 @@
+# Offline access
+
+# Offline access O offline access do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do offline access para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do offline access para atender às necessidades dos clientes. O offline access do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.

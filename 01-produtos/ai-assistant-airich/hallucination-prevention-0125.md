@@ -1,0 +1,3 @@
+# Doc: Hallucination prevention
+
+# Doc: Hallucination prevention O hallucination prevention do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre hallucination prevention, consulte a documentação completa do AIRich AI Assistant. Para mais informações sobre hallucination prevention, consulte a documentação completa do AIRich AI Assistant. O hallucination prevention foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

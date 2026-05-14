@@ -1,0 +1,3 @@
+# Pipeline ETL - AIRich Analytics
+
+# Pipeline ETL - AIRich Analytics O pipeline etl foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a pipeline etl no contexto do AIRich Analytics. O pipeline etl foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre pipeline etl, consulte a documentação completa do AIRich Analytics.

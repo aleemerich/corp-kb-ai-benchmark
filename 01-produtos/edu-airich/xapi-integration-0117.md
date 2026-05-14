@@ -1,0 +1,7 @@
+# xAPI integration
+
+**Produto:** AIRich Edu  
+**Departamento:** Produtos  
+**Versão:** 1.6
+
+# xAPI integration **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.6 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a xapi integration no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Sobre xAPI integration O xapi integration do AIRich Edu representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o xapi integration corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do xapi integration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a xapi integration no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais.

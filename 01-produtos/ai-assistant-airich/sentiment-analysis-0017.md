@@ -1,0 +1,3 @@
+# Doc: Sentiment analysis
+
+# Doc: Sentiment analysis A equipe de produto trabalha continuamente na evolução do sentiment analysis para atender às necessidades dos clientes. O sentiment analysis do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do sentiment analysis para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a sentiment analysis no contexto do AIRich AI Assistant.

@@ -1,0 +1,3 @@
+# Arquitetura de segurança - AIRich Security Shield
+
+# Arquitetura de segurança - AIRich Security Shield A equipe de produto trabalha continuamente na evolução do arquitetura de segurança para atender às necessidades dos clientes. Para mais informações sobre arquitetura de segurança, consulte a documentação completa do AIRich Security Shield. O arquitetura de segurança do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a arquitetura de segurança no contexto do AIRich Security Shield.

@@ -1,0 +1,3 @@
+# Intent classification - AIRich AI Assistant
+
+# Intent classification - AIRich AI Assistant O intent classification foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do intent classification para atender às necessidades dos clientes. Para mais informações sobre intent classification, consulte a documentação completa do AIRich AI Assistant. Este documento descreve os aspectos principais relacionados a intent classification no contexto do AIRich AI Assistant.

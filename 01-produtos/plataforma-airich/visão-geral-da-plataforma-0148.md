@@ -1,0 +1,3 @@
+# Doc: Visão geral da plataforma
+
+# Doc: Visão geral da plataforma Este documento descreve os aspectos principais relacionados a visão geral da plataforma no contexto do AIRich Platform. O visão geral da plataforma do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a visão geral da plataforma no contexto do AIRich Platform. O visão geral da plataforma foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

@@ -1,0 +1,7 @@
+# Recomendação de cursos
+
+**Produto:** AIRich Edu  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# Recomendação de cursos **Produto:** AIRich Edu **Departamento:** Produtos **Versão:** 1.1 ## Requisitos Para utilizar o recomendação de cursos corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do recomendação de cursos pode ser realizada através do painel administrativo. Acesse Configurações > Recomendação de cursos e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do recomendação de cursos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a recomendação de cursos no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a recomendação de cursos no AIRich Edu, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do recomendação de cursos, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

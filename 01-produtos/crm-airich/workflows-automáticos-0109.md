@@ -1,0 +1,3 @@
+# Doc: Workflows automáticos
+
+# Doc: Workflows automáticos Este documento descreve os aspectos principais relacionados a workflows automáticos no contexto do AIRich CRM. A equipe de produto trabalha continuamente na evolução do workflows automáticos para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a workflows automáticos no contexto do AIRich CRM. Para mais informações sobre workflows automáticos, consulte a documentação completa do AIRich CRM.

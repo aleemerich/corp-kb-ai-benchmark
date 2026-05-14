@@ -1,0 +1,3 @@
+# Doc: SQL generation
+
+# Doc: SQL generation O sql generation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a sql generation no contexto do AIRich AI Assistant. O sql generation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do sql generation para atender às necessidades dos clientes.

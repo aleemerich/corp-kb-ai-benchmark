@@ -1,0 +1,7 @@
+# Bug bounty program
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Bug bounty program **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.0 ## Sobre Bug bounty program O bug bounty program do AIRich Security Shield representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do bug bounty program pode ser realizada através do painel administrativo. Acesse Configurações > Bug bounty program e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a bug bounty program no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a bug bounty program no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do bug bounty program pode ser realizada através do painel administrativo. Acesse Configurações > Bug bounty program e siga as instruções apresentadas na interface.

@@ -1,0 +1,3 @@
+# Doc: Feedback loop
+
+# Doc: Feedback loop Para mais informações sobre feedback loop, consulte a documentação completa do AIRich AI Assistant. O feedback loop do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre feedback loop, consulte a documentação completa do AIRich AI Assistant. A equipe de produto trabalha continuamente na evolução do feedback loop para atender às necessidades dos clientes.

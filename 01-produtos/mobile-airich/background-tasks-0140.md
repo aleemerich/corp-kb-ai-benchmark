@@ -1,0 +1,7 @@
+# Background tasks
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# Background tasks **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.9 ## Sobre Background tasks O background tasks do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do background tasks pode ser realizada através do painel administrativo. Acesse Configurações > Background tasks e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do background tasks, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a background tasks no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Background tasks O background tasks do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do background tasks pode ser realizada através do painel administrativo. Acesse Configurações > Background tasks e siga as instruções apresentadas na interface.

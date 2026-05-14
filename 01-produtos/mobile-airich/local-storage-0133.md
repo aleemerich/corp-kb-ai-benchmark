@@ -1,0 +1,7 @@
+# Local storage
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# Local storage **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.2 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O local storage passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a local storage no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do local storage, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o local storage corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do local storage pode ser realizada através do painel administrativo. Acesse Configurações > Local storage e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O local storage passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

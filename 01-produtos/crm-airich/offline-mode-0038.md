@@ -1,0 +1,7 @@
+# Offline mode
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Offline mode **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.7 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a offline mode no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Offline mode O offline mode do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do offline mode, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O offline mode passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do offline mode, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do offline mode pode ser realizada através do painel administrativo. Acesse Configurações > Offline mode e siga as instruções apresentadas na interface.

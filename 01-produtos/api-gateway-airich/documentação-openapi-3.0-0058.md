@@ -1,0 +1,3 @@
+# Doc: Documentação OpenAPI 3.0
+
+# Doc: Documentação OpenAPI 3.0 A equipe de produto trabalha continuamente na evolução do documentação openapi 3.0 para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a documentação openapi 3.0 no contexto do AIRich API Gateway. O documentação openapi 3.0 do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre documentação openapi 3.0, consulte a documentação completa do AIRich API Gateway.

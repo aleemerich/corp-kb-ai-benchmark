@@ -1,0 +1,3 @@
+# Limites de rate limiting
+
+# Limites de rate limiting A equipe de produto trabalha continuamente na evolução do limites de rate limiting para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a limites de rate limiting no contexto do AIRich Platform. Este documento descreve os aspectos principais relacionados a limites de rate limiting no contexto do AIRich Platform. Para mais informações sobre limites de rate limiting, consulte a documentação completa do AIRich Platform.

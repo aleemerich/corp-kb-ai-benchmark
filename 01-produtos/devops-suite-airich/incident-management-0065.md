@@ -1,0 +1,3 @@
+# Incident management - AIRich DevOps Suite
+
+# Incident management - AIRich DevOps Suite Para mais informações sobre incident management, consulte a documentação completa do AIRich DevOps Suite. Este documento descreve os aspectos principais relacionados a incident management no contexto do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do incident management para atender às necessidades dos clientes. O incident management foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

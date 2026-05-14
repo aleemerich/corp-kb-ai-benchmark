@@ -1,0 +1,3 @@
+# CSP headers - AIRich Security Shield
+
+# CSP headers - AIRich Security Shield Este documento descreve os aspectos principais relacionados a csp headers no contexto do AIRich Security Shield. Para mais informações sobre csp headers, consulte a documentação completa do AIRich Security Shield. Para mais informações sobre csp headers, consulte a documentação completa do AIRich Security Shield. O csp headers foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

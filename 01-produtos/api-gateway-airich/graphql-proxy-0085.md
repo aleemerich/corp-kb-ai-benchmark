@@ -1,0 +1,3 @@
+# Doc: GraphQL proxy
+
+# Doc: GraphQL proxy O graphql proxy foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a graphql proxy no contexto do AIRich API Gateway. Este documento descreve os aspectos principais relacionados a graphql proxy no contexto do AIRich API Gateway. O graphql proxy foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

@@ -1,0 +1,7 @@
+# Chunking strategies
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.8
+
+# Chunking strategies **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.8 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a chunking strategies no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do chunking strategies, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do chunking strategies pode ser realizada através do painel administrativo. Acesse Configurações > Chunking strategies e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o chunking strategies corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o chunking strategies corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

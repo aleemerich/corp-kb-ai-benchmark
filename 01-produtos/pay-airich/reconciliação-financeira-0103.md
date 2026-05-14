@@ -1,0 +1,3 @@
+# Reconciliação financeira - AIRich Pay
+
+# Reconciliação financeira - AIRich Pay Este documento descreve os aspectos principais relacionados a reconciliação financeira no contexto do AIRich Pay. A equipe de produto trabalha continuamente na evolução do reconciliação financeira para atender às necessidades dos clientes. O reconciliação financeira foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a reconciliação financeira no contexto do AIRich Pay.

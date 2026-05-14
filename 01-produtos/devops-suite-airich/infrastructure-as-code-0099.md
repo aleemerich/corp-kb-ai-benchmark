@@ -1,0 +1,3 @@
+# Doc: Infrastructure as Code
+
+# Doc: Infrastructure as Code O infrastructure as code do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. O infrastructure as code foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a infrastructure as code no contexto do AIRich DevOps Suite. O infrastructure as code foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

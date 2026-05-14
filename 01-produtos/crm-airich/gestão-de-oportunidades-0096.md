@@ -1,0 +1,3 @@
+# Doc: Gestão de oportunidades
+
+# Doc: Gestão de oportunidades A equipe de produto trabalha continuamente na evolução do gestão de oportunidades para atender às necessidades dos clientes. Para mais informações sobre gestão de oportunidades, consulte a documentação completa do AIRich CRM. Para mais informações sobre gestão de oportunidades, consulte a documentação completa do AIRich CRM. O gestão de oportunidades do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia.

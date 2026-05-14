@@ -1,0 +1,3 @@
+# Background tasks - AIRich Mobile
+
+# Background tasks - AIRich Mobile O background tasks foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O background tasks do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. O background tasks do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre background tasks, consulte a documentação completa do AIRich Mobile.

@@ -1,0 +1,3 @@
+# Formulários web
+
+# Formulários web O formulários web do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a formulários web no contexto do AIRich CRM. Este documento descreve os aspectos principais relacionados a formulários web no contexto do AIRich CRM. Para mais informações sobre formulários web, consulte a documentação completa do AIRich CRM.

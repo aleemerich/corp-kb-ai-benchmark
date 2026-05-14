@@ -1,0 +1,7 @@
+# Changelog v1.5
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.8
+
+# Changelog v1.5 **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.8 ## Configuração A configuração do changelog v1.5 pode ser realizada através do painel administrativo. Acesse Configurações > Changelog v1.5 e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a changelog v1.5 no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O changelog v1.5 passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o changelog v1.5 corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

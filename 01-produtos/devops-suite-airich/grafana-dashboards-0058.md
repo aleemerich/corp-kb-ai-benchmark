@@ -1,0 +1,7 @@
+# Grafana dashboards
+
+**Produto:** AIRich DevOps Suite  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Grafana dashboards **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.7 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a grafana dashboards no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Grafana dashboards O grafana dashboards do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do grafana dashboards, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do grafana dashboards pode ser realizada através do painel administrativo. Acesse Configurações > Grafana dashboards e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a grafana dashboards no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais.

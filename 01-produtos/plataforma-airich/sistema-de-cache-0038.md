@@ -1,0 +1,7 @@
+# Sistema de cache
+
+**Produto:** AIRich Platform  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Sistema de cache **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.7 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O sistema de cache passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a sistema de cache no AIRich Platform, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do sistema de cache pode ser realizada através do painel administrativo. Acesse Configurações > Sistema de cache e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o sistema de cache corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Requisitos Para utilizar o sistema de cache corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O sistema de cache passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

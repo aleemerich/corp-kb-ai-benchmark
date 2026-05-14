@@ -1,0 +1,7 @@
+# Assinaturas e planos
+
+**Produto:** AIRich Pay  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# Assinaturas e planos **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.2 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a assinaturas e planos no AIRich Pay, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O assinaturas e planos passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Sobre Assinaturas e planos O assinaturas e planos do AIRich Pay representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do assinaturas e planos pode ser realizada através do painel administrativo. Acesse Configurações > Assinaturas e planos e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O assinaturas e planos passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

@@ -1,0 +1,7 @@
+# Gestão de empresas
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# Gestão de empresas **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.1 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do gestão de empresas pode ser realizada através do painel administrativo. Acesse Configurações > Gestão de empresas e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a gestão de empresas no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do gestão de empresas, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O gestão de empresas passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do gestão de empresas pode ser realizada através do painel administrativo. Acesse Configurações > Gestão de empresas e siga as instruções apresentadas na interface.

@@ -1,0 +1,3 @@
+# Geo-blocking security
+
+# Geo-blocking security O geo-blocking security foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre geo-blocking security, consulte a documentação completa do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do geo-blocking security para atender às necessidades dos clientes. O geo-blocking security foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

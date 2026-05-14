@@ -1,0 +1,3 @@
+# Quota management - AIRich CRM
+
+# Quota management - AIRich CRM Para mais informações sobre quota management, consulte a documentação completa do AIRich CRM. O quota management foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do quota management para atender às necessidades dos clientes. Para mais informações sobre quota management, consulte a documentação completa do AIRich CRM.

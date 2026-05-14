@@ -1,0 +1,7 @@
+# Schema validation
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Schema validation **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.7 ## Sobre Schema validation O schema validation do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do schema validation pode ser realizada através do painel administrativo. Acesse Configurações > Schema validation e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a schema validation no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o schema validation corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do schema validation, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

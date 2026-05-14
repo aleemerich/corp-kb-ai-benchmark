@@ -1,0 +1,7 @@
+# Reuniões e agenda
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Reuniões e agenda **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.0 ## Requisitos Para utilizar o reuniões e agenda corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a reuniões e agenda no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do reuniões e agenda pode ser realizada através do painel administrativo. Acesse Configurações > Reuniões e agenda e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O reuniões e agenda passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o reuniões e agenda corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O reuniões e agenda passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

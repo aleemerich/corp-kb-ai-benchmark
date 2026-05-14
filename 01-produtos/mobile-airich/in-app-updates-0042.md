@@ -1,0 +1,7 @@
+# In-app updates
+
+**Produto:** AIRich Mobile  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# In-app updates **Produto:** AIRich Mobile **Departamento:** Produtos **Versão:** 1.1 ## Sobre In-app updates O in-app updates do AIRich Mobile representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Requisitos Para utilizar o in-app updates corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O in-app updates passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a in-app updates no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a in-app updates no AIRich Mobile, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

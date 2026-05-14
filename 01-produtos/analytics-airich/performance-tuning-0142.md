@@ -1,0 +1,7 @@
+# Performance tuning
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# Performance tuning **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.1 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a performance tuning no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do performance tuning, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O performance tuning passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do performance tuning, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do performance tuning pode ser realizada através do painel administrativo. Acesse Configurações > Performance tuning e siga as instruções apresentadas na interface.

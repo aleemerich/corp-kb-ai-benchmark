@@ -1,0 +1,3 @@
+# Security audit - AIRich Security Shield
+
+# Security audit - AIRich Security Shield O security audit foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a security audit no contexto do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do security audit para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a security audit no contexto do AIRich Security Shield.

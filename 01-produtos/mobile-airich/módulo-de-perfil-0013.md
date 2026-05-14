@@ -1,0 +1,3 @@
+# Módulo de perfil - AIRich Mobile
+
+# Módulo de perfil - AIRich Mobile Para mais informações sobre módulo de perfil, consulte a documentação completa do AIRich Mobile. Este documento descreve os aspectos principais relacionados a módulo de perfil no contexto do AIRich Mobile. O módulo de perfil foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O módulo de perfil do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia.

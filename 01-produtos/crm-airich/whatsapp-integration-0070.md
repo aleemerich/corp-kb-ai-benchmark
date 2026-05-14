@@ -1,0 +1,3 @@
+# WhatsApp integration - AIRich CRM
+
+# WhatsApp integration - AIRich CRM Este documento descreve os aspectos principais relacionados a whatsapp integration no contexto do AIRich CRM. O whatsapp integration foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre whatsapp integration, consulte a documentação completa do AIRich CRM. A equipe de produto trabalha continuamente na evolução do whatsapp integration para atender às necessidades dos clientes.

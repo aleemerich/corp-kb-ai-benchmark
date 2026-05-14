@@ -1,0 +1,3 @@
+# Doc: GraphQL proxy
+
+# Doc: GraphQL proxy Este documento descreve os aspectos principais relacionados a graphql proxy no contexto do AIRich API Gateway. O graphql proxy do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a graphql proxy no contexto do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do graphql proxy para atender às necessidades dos clientes.

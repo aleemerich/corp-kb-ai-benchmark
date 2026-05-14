@@ -1,0 +1,3 @@
+# Doc: Testes de carga
+
+# Doc: Testes de carga O testes de carga foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre testes de carga, consulte a documentação completa do AIRich Platform. A equipe de produto trabalha continuamente na evolução do testes de carga para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a testes de carga no contexto do AIRich Platform.

@@ -1,0 +1,3 @@
+# Changelog v1.0
+
+# Changelog v1.0 A equipe de produto trabalha continuamente na evolução do changelog v1.0 para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a changelog v1.0 no contexto do AIRich Security Shield. Para mais informações sobre changelog v1.0, consulte a documentação completa do AIRich Security Shield. O changelog v1.0 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

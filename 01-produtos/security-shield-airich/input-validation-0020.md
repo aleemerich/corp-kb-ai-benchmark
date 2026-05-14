@@ -1,0 +1,3 @@
+# Doc: Input validation
+
+# Doc: Input validation Este documento descreve os aspectos principais relacionados a input validation no contexto do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do input validation para atender às necessidades dos clientes. Para mais informações sobre input validation, consulte a documentação completa do AIRich Security Shield. A equipe de produto trabalha continuamente na evolução do input validation para atender às necessidades dos clientes.

@@ -1,0 +1,3 @@
+# Processamento de cartão
+
+# Processamento de cartão O processamento de cartão foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O processamento de cartão do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a processamento de cartão no contexto do AIRich Pay. O processamento de cartão do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.

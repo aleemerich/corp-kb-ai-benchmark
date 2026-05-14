@@ -1,0 +1,3 @@
+# Score de leads
+
+# Score de leads Este documento descreve os aspectos principais relacionados a score de leads no contexto do AIRich CRM. O score de leads foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre score de leads, consulte a documentação completa do AIRich CRM. O score de leads foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

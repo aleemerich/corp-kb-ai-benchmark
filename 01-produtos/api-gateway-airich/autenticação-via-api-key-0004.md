@@ -1,0 +1,3 @@
+# Autenticação via API Key
+
+# Autenticação via API Key A equipe de produto trabalha continuamente na evolução do autenticação via api key para atender às necessidades dos clientes. O autenticação via api key foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O autenticação via api key do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre autenticação via api key, consulte a documentação completa do AIRich API Gateway.

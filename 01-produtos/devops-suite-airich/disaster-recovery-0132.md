@@ -1,0 +1,3 @@
+# Disaster recovery
+
+# Disaster recovery Este documento descreve os aspectos principais relacionados a disaster recovery no contexto do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do disaster recovery para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a disaster recovery no contexto do AIRich DevOps Suite. Para mais informações sobre disaster recovery, consulte a documentação completa do AIRich DevOps Suite.

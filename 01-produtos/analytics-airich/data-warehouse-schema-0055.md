@@ -1,0 +1,3 @@
+# Data warehouse schema - AIRich Analytics
+
+# Data warehouse schema - AIRich Analytics Este documento descreve os aspectos principais relacionados a data warehouse schema no contexto do AIRich Analytics. Para mais informações sobre data warehouse schema, consulte a documentação completa do AIRich Analytics. O data warehouse schema foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O data warehouse schema do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia.

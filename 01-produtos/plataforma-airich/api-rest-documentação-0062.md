@@ -1,0 +1,3 @@
+# Doc: API REST documentação
+
+# Doc: API REST documentação O api rest documentação do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do api rest documentação para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do api rest documentação para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a api rest documentação no contexto do AIRich Platform.

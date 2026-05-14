@@ -1,0 +1,7 @@
+# Integração com calendário
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# Integração com calendário **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.2 ## Configuração A configuração do integração com calendário pode ser realizada através do painel administrativo. Acesse Configurações > Integração com calendário e siga as instruções apresentadas na interface. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O integração com calendário passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do integração com calendário, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do integração com calendário pode ser realizada através do painel administrativo. Acesse Configurações > Integração com calendário e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o integração com calendário corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

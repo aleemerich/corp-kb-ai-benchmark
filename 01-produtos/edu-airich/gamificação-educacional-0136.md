@@ -1,0 +1,3 @@
+# Doc: Gamificação educacional
+
+# Doc: Gamificação educacional O gamificação educacional do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do gamificação educacional para atender às necessidades dos clientes. O gamificação educacional foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a gamificação educacional no contexto do AIRich Edu.

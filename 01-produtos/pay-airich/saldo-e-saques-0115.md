@@ -1,0 +1,3 @@
+# Saldo e saques
+
+# Saldo e saques O saldo e saques do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a saldo e saques no contexto do AIRich Pay. Para mais informações sobre saldo e saques, consulte a documentação completa do AIRich Pay. O saldo e saques foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

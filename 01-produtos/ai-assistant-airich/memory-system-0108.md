@@ -1,0 +1,3 @@
+# Memory system - AIRich AI Assistant
+
+# Memory system - AIRich AI Assistant A equipe de produto trabalha continuamente na evolução do memory system para atender às necessidades dos clientes. O memory system do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a memory system no contexto do AIRich AI Assistant. O memory system do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia.

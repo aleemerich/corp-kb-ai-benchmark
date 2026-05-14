@@ -1,0 +1,3 @@
+# Doc: Push notifications
+
+# Doc: Push notifications A equipe de produto trabalha continuamente na evolução do push notifications para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a push notifications no contexto do AIRich Mobile. O push notifications do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a push notifications no contexto do AIRich Mobile.

@@ -1,0 +1,7 @@
+# KPIs principais
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.5
+
+# KPIs principais **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.5 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O kpis principais passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do kpis principais pode ser realizada através do painel administrativo. Acesse Configurações > KPIs principais e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a kpis principais no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Sobre KPIs principais O kpis principais do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do kpis principais pode ser realizada através do painel administrativo. Acesse Configurações > KPIs principais e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a kpis principais no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais.

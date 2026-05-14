@@ -1,0 +1,7 @@
+# Chunking strategies
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Chunking strategies **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.4 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O chunking strategies passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do chunking strategies, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o chunking strategies corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do chunking strategies, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Configuração A configuração do chunking strategies pode ser realizada através do painel administrativo. Acesse Configurações > Chunking strategies e siga as instruções apresentadas na interface.

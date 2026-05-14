@@ -1,0 +1,3 @@
+# Boleto bancário
+
+# Boleto bancário Este documento descreve os aspectos principais relacionados a boleto bancário no contexto do AIRich Pay. O boleto bancário do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a boleto bancário no contexto do AIRich Pay. O boleto bancário do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.

@@ -1,0 +1,3 @@
+# Doc: Configuração de SSO
+
+# Doc: Configuração de SSO A equipe de produto trabalha continuamente na evolução do configuração de sso para atender às necessidades dos clientes. O configuração de sso do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O configuração de sso foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre configuração de sso, consulte a documentação completa do AIRich Platform.

@@ -1,0 +1,7 @@
+# Session management
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Session management **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.4 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do session management, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o session management corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a session management no AIRich Security Shield, incluindo configurações, integrações e procedimentos operacionais. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O session management passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do session management, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o session management corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

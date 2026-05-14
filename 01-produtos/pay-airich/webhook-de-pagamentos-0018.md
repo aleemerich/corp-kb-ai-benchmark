@@ -1,0 +1,3 @@
+# Doc: Webhook de pagamentos
+
+# Doc: Webhook de pagamentos A equipe de produto trabalha continuamente na evolução do webhook de pagamentos para atender às necessidades dos clientes. O webhook de pagamentos foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O webhook de pagamentos foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O webhook de pagamentos do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.

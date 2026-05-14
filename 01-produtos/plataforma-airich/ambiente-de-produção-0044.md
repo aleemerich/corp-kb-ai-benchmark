@@ -1,0 +1,3 @@
+# Doc: Ambiente de produção
+
+# Doc: Ambiente de produção Este documento descreve os aspectos principais relacionados a ambiente de produção no contexto do AIRich Platform. A equipe de produto trabalha continuamente na evolução do ambiente de produção para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a ambiente de produção no contexto do AIRich Platform. O ambiente de produção do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia.

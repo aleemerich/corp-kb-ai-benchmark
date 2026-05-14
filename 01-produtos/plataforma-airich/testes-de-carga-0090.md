@@ -1,0 +1,3 @@
+# Testes de carga - AIRich Platform
+
+# Testes de carga - AIRich Platform Este documento descreve os aspectos principais relacionados a testes de carga no contexto do AIRich Platform. O testes de carga do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O testes de carga do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre testes de carga, consulte a documentação completa do AIRich Platform.

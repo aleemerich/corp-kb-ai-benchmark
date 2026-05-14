@@ -1,0 +1,3 @@
+# Doc: Chargeback management
+
+# Doc: Chargeback management A equipe de produto trabalha continuamente na evolução do chargeback management para atender às necessidades dos clientes. Para mais informações sobre chargeback management, consulte a documentação completa do AIRich Pay. O chargeback management foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O chargeback management do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia.

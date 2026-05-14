@@ -1,0 +1,3 @@
+# Doc: Scaling analytics
+
+# Doc: Scaling analytics O scaling analytics foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre scaling analytics, consulte a documentação completa do AIRich Analytics. O scaling analytics do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do scaling analytics para atender às necessidades dos clientes.

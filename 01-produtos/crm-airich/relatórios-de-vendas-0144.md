@@ -1,0 +1,3 @@
+# Relatórios de vendas
+
+# Relatórios de vendas O relatórios de vendas foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do relatórios de vendas para atender às necessidades dos clientes. O relatórios de vendas foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do relatórios de vendas para atender às necessidades dos clientes.

@@ -1,0 +1,3 @@
+# Roadmap mobile
+
+# Roadmap mobile O roadmap mobile foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O roadmap mobile do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. O roadmap mobile do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre roadmap mobile, consulte a documentação completa do AIRich Mobile.

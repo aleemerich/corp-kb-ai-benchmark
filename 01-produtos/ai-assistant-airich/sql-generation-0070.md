@@ -1,0 +1,3 @@
+# Doc: SQL generation
+
+# Doc: SQL generation O sql generation do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. O sql generation foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O sql generation do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do sql generation para atender às necessidades dos clientes.

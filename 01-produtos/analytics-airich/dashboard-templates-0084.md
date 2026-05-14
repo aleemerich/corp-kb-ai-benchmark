@@ -1,0 +1,7 @@
+# Dashboard templates
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.3
+
+# Dashboard templates **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.3 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dashboard templates no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do dashboard templates pode ser realizada através do painel administrativo. Acesse Configurações > Dashboard templates e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do dashboard templates, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O dashboard templates passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o dashboard templates corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dashboard templates no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais.

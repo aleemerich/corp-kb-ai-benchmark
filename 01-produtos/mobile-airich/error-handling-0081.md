@@ -1,0 +1,3 @@
+# Doc: Error handling
+
+# Doc: Error handling Este documento descreve os aspectos principais relacionados a error handling no contexto do AIRich Mobile. Para mais informações sobre error handling, consulte a documentação completa do AIRich Mobile. Para mais informações sobre error handling, consulte a documentação completa do AIRich Mobile. Este documento descreve os aspectos principais relacionados a error handling no contexto do AIRich Mobile.

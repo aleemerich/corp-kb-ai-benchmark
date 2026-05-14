@@ -1,0 +1,7 @@
+# Sistema de cache
+
+**Produto:** AIRich Platform  
+**Departamento:** Produtos  
+**Versão:** 1.5
+
+# Sistema de cache **Produto:** AIRich Platform **Departamento:** Produtos **Versão:** 1.5 ## Sobre Sistema de cache O sistema de cache do AIRich Platform representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do sistema de cache pode ser realizada através do painel administrativo. Acesse Configurações > Sistema de cache e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do sistema de cache, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o sistema de cache corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do sistema de cache pode ser realizada através do painel administrativo. Acesse Configurações > Sistema de cache e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

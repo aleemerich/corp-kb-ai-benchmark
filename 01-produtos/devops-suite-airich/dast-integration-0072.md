@@ -1,0 +1,7 @@
+# DAST integration
+
+**Produto:** AIRich DevOps Suite  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# DAST integration **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.1 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O dast integration passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do dast integration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dast integration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Sobre DAST integration O dast integration do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do dast integration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O dast integration passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

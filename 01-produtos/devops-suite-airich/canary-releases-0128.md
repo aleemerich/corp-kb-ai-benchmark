@@ -1,0 +1,3 @@
+# Canary releases
+
+# Canary releases O canary releases foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O canary releases do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre canary releases, consulte a documentação completa do AIRich DevOps Suite. O canary releases foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

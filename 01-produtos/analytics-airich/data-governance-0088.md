@@ -1,0 +1,7 @@
+# Data governance
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.7
+
+# Data governance **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.7 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data governance passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do data governance pode ser realizada através do painel administrativo. Acesse Configurações > Data governance e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do data governance, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data governance no AIRich Analytics, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o data governance corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O data governance passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

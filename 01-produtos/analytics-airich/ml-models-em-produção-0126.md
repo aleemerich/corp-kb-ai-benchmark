@@ -1,0 +1,3 @@
+# Doc: ML models em produção
+
+# Doc: ML models em produção Para mais informações sobre ml models em produção, consulte a documentação completa do AIRich Analytics. Este documento descreve os aspectos principais relacionados a ml models em produção no contexto do AIRich Analytics. A equipe de produto trabalha continuamente na evolução do ml models em produção para atender às necessidades dos clientes. O ml models em produção do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia.

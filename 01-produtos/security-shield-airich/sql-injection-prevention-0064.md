@@ -1,0 +1,3 @@
+# SQL injection prevention
+
+# SQL injection prevention A equipe de produto trabalha continuamente na evolução do sql injection prevention para atender às necessidades dos clientes. O sql injection prevention foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre sql injection prevention, consulte a documentação completa do AIRich Security Shield. Este documento descreve os aspectos principais relacionados a sql injection prevention no contexto do AIRich Security Shield.

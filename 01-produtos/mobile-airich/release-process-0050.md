@@ -1,0 +1,3 @@
+# Release process
+
+# Release process O release process do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. O release process foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O release process foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do release process para atender às necessidades dos clientes.

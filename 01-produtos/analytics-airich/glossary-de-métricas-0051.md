@@ -1,0 +1,3 @@
+# Doc: Glossary de métricas
+
+# Doc: Glossary de métricas Para mais informações sobre glossary de métricas, consulte a documentação completa do AIRich Analytics. A equipe de produto trabalha continuamente na evolução do glossary de métricas para atender às necessidades dos clientes. O glossary de métricas foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O glossary de métricas do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia.

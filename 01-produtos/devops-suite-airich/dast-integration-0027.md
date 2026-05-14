@@ -1,0 +1,7 @@
+# DAST integration
+
+**Produto:** AIRich DevOps Suite  
+**Departamento:** Produtos  
+**Versão:** 1.6
+
+# DAST integration **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.6 ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dast integration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Sobre DAST integration O dast integration do AIRich DevOps Suite representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do dast integration pode ser realizada através do painel administrativo. Acesse Configurações > DAST integration e siga as instruções apresentadas na interface. ## Requisitos Para utilizar o dast integration corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do dast integration, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a dast integration no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais.

@@ -1,0 +1,3 @@
+# Firewall rules - AIRich Security Shield
+
+# Firewall rules - AIRich Security Shield O firewall rules foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre firewall rules, consulte a documentação completa do AIRich Security Shield. Para mais informações sobre firewall rules, consulte a documentação completa do AIRich Security Shield. O firewall rules do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia.

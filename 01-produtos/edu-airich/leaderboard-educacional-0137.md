@@ -1,0 +1,3 @@
+# Leaderboard educacional - AIRich Edu
+
+# Leaderboard educacional - AIRich Edu A equipe de produto trabalha continuamente na evolução do leaderboard educacional para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a leaderboard educacional no contexto do AIRich Edu. Este documento descreve os aspectos principais relacionados a leaderboard educacional no contexto do AIRich Edu. O leaderboard educacional do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.

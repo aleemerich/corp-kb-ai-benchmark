@@ -1,0 +1,3 @@
+# Strong Customer Authentication
+
+# Strong Customer Authentication O strong customer authentication foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do strong customer authentication para atender às necessidades dos clientes. O strong customer authentication do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do strong customer authentication para atender às necessidades dos clientes.

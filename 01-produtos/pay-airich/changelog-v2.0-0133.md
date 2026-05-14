@@ -1,0 +1,7 @@
+# Changelog v2.0
+
+**Produto:** AIRich Pay  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# Changelog v2.0 **Produto:** AIRich Pay **Departamento:** Produtos **Versão:** 1.2 ## Requisitos Para utilizar o changelog v2.0 corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O changelog v2.0 passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do changelog v2.0 pode ser realizada através do painel administrativo. Acesse Configurações > Changelog v2.0 e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do changelog v2.0, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

@@ -1,0 +1,3 @@
+# Checkout integration
+
+# Checkout integration O checkout integration foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a checkout integration no contexto do AIRich Pay. A equipe de produto trabalha continuamente na evolução do checkout integration para atender às necessidades dos clientes. Para mais informações sobre checkout integration, consulte a documentação completa do AIRich Pay.

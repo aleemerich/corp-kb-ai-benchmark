@@ -1,0 +1,3 @@
+# Doc: Stream processing com Kafka
+
+# Doc: Stream processing com Kafka Este documento descreve os aspectos principais relacionados a stream processing com kafka no contexto do AIRich Analytics. O stream processing com kafka foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a stream processing com kafka no contexto do AIRich Analytics. A equipe de produto trabalha continuamente na evolução do stream processing com kafka para atender às necessidades dos clientes.

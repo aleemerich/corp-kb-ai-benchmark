@@ -1,0 +1,7 @@
+# SDK de integração
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.6
+
+# SDK de integração **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.6 ## Configuração A configuração do sdk de integração pode ser realizada através do painel administrativo. Acesse Configurações > SDK de integração e siga as instruções apresentadas na interface. ## Sobre SDK de integração O sdk de integração do AIRich API Gateway representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do sdk de integração, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Requisitos Para utilizar o sdk de integração corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Configuração A configuração do sdk de integração pode ser realizada através do painel administrativo. Acesse Configurações > SDK de integração e siga as instruções apresentadas na interface.

@@ -1,0 +1,7 @@
+# Data deduplication
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.0
+
+# Data deduplication **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.0 ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Sobre Data deduplication O data deduplication do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do data deduplication, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data deduplication no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais. ## Sobre Data deduplication O data deduplication do AIRich CRM representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a data deduplication no AIRich CRM, incluindo configurações, integrações e procedimentos operacionais.

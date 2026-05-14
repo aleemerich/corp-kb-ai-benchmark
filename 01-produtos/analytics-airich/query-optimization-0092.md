@@ -1,0 +1,3 @@
+# Doc: Query optimization
+
+# Doc: Query optimization A equipe de produto trabalha continuamente na evolução do query optimization para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a query optimization no contexto do AIRich Analytics. Para mais informações sobre query optimization, consulte a documentação completa do AIRich Analytics. A equipe de produto trabalha continuamente na evolução do query optimization para atender às necessidades dos clientes.

@@ -1,0 +1,7 @@
+# Postman collection
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# Postman collection **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.9 ## Configuração A configuração do postman collection pode ser realizada através do painel administrativo. Acesse Configurações > Postman collection e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a postman collection no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Requisitos Para utilizar o postman collection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Requisitos Para utilizar o postman collection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do postman collection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

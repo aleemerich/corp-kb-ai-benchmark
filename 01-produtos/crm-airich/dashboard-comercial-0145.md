@@ -1,0 +1,3 @@
+# Dashboard comercial - AIRich CRM
+
+# Dashboard comercial - AIRich CRM Este documento descreve os aspectos principais relacionados a dashboard comercial no contexto do AIRich CRM. O dashboard comercial do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. O dashboard comercial do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. O dashboard comercial foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

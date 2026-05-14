@@ -1,0 +1,7 @@
+# Token usage tracking
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.3
+
+# Token usage tracking **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.3 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O token usage tracking passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do token usage tracking pode ser realizada através do painel administrativo. Acesse Configurações > Token usage tracking e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do token usage tracking, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a token usage tracking no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a token usage tracking no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

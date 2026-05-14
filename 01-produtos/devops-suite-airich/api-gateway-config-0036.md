@@ -1,0 +1,3 @@
+# Doc: API gateway config
+
+# Doc: API gateway config O api gateway config do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a api gateway config no contexto do AIRich DevOps Suite. Este documento descreve os aspectos principais relacionados a api gateway config no contexto do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do api gateway config para atender às necessidades dos clientes.

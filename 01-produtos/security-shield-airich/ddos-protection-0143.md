@@ -1,0 +1,7 @@
+# DDoS protection
+
+**Produto:** AIRich Security Shield  
+**Departamento:** Produtos  
+**Versão:** 1.2
+
+# DDoS protection **Produto:** AIRich Security Shield **Departamento:** Produtos **Versão:** 1.2 ## Configuração A configuração do ddos protection pode ser realizada através do painel administrativo. Acesse Configurações > DDoS protection e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ddos protection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre DDoS protection O ddos protection do AIRich Security Shield representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O ddos protection passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o ddos protection corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do ddos protection, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

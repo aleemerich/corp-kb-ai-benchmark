@@ -1,0 +1,3 @@
+# Biblioteca digital - AIRich Edu
+
+# Biblioteca digital - AIRich Edu O biblioteca digital do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do biblioteca digital para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a biblioteca digital no contexto do AIRich Edu. O biblioteca digital do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.

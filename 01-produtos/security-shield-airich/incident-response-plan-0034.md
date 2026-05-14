@@ -1,0 +1,3 @@
+# Incident response plan
+
+# Incident response plan O incident response plan foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a incident response plan no contexto do AIRich Security Shield. Para mais informações sobre incident response plan, consulte a documentação completa do AIRich Security Shield. O incident response plan foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

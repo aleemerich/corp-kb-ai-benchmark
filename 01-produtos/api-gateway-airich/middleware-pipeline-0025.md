@@ -1,0 +1,7 @@
+# Middleware pipeline
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.4
+
+# Middleware pipeline **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.4 ## Requisitos Para utilizar o middleware pipeline corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O middleware pipeline passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Configuração A configuração do middleware pipeline pode ser realizada através do painel administrativo. Acesse Configurações > Middleware pipeline e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a middleware pipeline no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do middleware pipeline pode ser realizada através do painel administrativo. Acesse Configurações > Middleware pipeline e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do middleware pipeline, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações.

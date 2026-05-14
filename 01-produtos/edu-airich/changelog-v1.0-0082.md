@@ -1,0 +1,3 @@
+# Doc: Changelog v1.0
+
+# Doc: Changelog v1.0 O changelog v1.0 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O changelog v1.0 do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre changelog v1.0, consulte a documentação completa do AIRich Edu. O changelog v1.0 foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

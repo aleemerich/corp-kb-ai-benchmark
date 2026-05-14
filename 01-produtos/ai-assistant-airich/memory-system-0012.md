@@ -1,0 +1,7 @@
+# Memory system
+
+**Produto:** AIRich AI Assistant  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# Memory system **Produto:** AIRich AI Assistant **Departamento:** Produtos **Versão:** 1.1 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O memory system passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o memory system corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a memory system no AIRich AI Assistant, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do memory system pode ser realizada através do painel administrativo. Acesse Configurações > Memory system e siga as instruções apresentadas na interface. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do memory system, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o memory system corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge)

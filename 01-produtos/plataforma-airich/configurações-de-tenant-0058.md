@@ -1,0 +1,3 @@
+# Configurações de tenant - AIRich Platform
+
+# Configurações de tenant - AIRich Platform O configurações de tenant foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O configurações de tenant do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O configurações de tenant do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O configurações de tenant foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

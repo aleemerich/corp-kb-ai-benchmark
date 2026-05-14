@@ -1,0 +1,3 @@
+# Arquitetura de dados
+
+# Arquitetura de dados A equipe de produto trabalha continuamente na evolução do arquitetura de dados para atender às necessidades dos clientes. O arquitetura de dados foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre arquitetura de dados, consulte a documentação completa do AIRich Analytics. Este documento descreve os aspectos principais relacionados a arquitetura de dados no contexto do AIRich Analytics.

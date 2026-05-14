@@ -1,0 +1,3 @@
+# Doc: Device fingerprinting
+
+# Doc: Device fingerprinting A equipe de produto trabalha continuamente na evolução do device fingerprinting para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a device fingerprinting no contexto do AIRich Pay. O device fingerprinting do AIRich Pay é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a device fingerprinting no contexto do AIRich Pay.

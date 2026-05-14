@@ -1,0 +1,3 @@
+# Deployment pipeline - AIRich AI Assistant
+
+# Deployment pipeline - AIRich AI Assistant O deployment pipeline do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do deployment pipeline para atender às necessidades dos clientes. A equipe de produto trabalha continuamente na evolução do deployment pipeline para atender às necessidades dos clientes. O deployment pipeline foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

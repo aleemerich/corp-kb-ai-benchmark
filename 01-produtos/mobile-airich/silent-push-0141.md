@@ -1,0 +1,3 @@
+# Silent push
+
+# Silent push Este documento descreve os aspectos principais relacionados a silent push no contexto do AIRich Mobile. O silent push do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. O silent push do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a silent push no contexto do AIRich Mobile.

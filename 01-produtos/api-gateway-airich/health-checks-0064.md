@@ -1,0 +1,3 @@
+# Health checks
+
+# Health checks O health checks do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre health checks, consulte a documentação completa do AIRich API Gateway. O health checks foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do health checks para atender às necessidades dos clientes.

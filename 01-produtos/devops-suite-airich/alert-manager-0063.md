@@ -1,0 +1,3 @@
+# Doc: Alert manager
+
+# Doc: Alert manager Para mais informações sobre alert manager, consulte a documentação completa do AIRich DevOps Suite. Este documento descreve os aspectos principais relacionados a alert manager no contexto do AIRich DevOps Suite. Este documento descreve os aspectos principais relacionados a alert manager no contexto do AIRich DevOps Suite. O alert manager foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

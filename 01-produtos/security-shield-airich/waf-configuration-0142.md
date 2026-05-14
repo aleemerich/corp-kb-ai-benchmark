@@ -1,0 +1,3 @@
+# WAF configuration - AIRich Security Shield
+
+# WAF configuration - AIRich Security Shield O waf configuration do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. O waf configuration foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. O waf configuration do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. A equipe de produto trabalha continuamente na evolução do waf configuration para atender às necessidades dos clientes.

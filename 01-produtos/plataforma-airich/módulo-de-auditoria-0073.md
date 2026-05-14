@@ -1,0 +1,3 @@
+# Doc: Módulo de auditoria
+
+# Doc: Módulo de auditoria A equipe de produto trabalha continuamente na evolução do módulo de auditoria para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a módulo de auditoria no contexto do AIRich Platform. Este documento descreve os aspectos principais relacionados a módulo de auditoria no contexto do AIRich Platform. O módulo de auditoria do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia.

@@ -1,0 +1,3 @@
+# API security
+
+# API security O api security foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do api security para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a api security no contexto do AIRich Security Shield. O api security do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia.

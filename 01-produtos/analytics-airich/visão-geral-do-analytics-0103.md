@@ -1,0 +1,3 @@
+# Visão geral do Analytics
+
+# Visão geral do Analytics Para mais informações sobre visão geral do analytics, consulte a documentação completa do AIRich Analytics. Este documento descreve os aspectos principais relacionados a visão geral do analytics no contexto do AIRich Analytics. O visão geral do analytics foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do visão geral do analytics para atender às necessidades dos clientes.

@@ -1,0 +1,3 @@
+# Audit trail - AIRich API Gateway
+
+# Audit trail - AIRich API Gateway O audit trail do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a audit trail no contexto do AIRich API Gateway. O audit trail do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a audit trail no contexto do AIRich API Gateway.

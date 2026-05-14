@@ -1,0 +1,3 @@
+# SIEM integration - AIRich Security Shield
+
+# SIEM integration - AIRich Security Shield A equipe de produto trabalha continuamente na evolução do siem integration para atender às necessidades dos clientes. O siem integration do AIRich Security Shield é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a siem integration no contexto do AIRich Security Shield. O siem integration foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

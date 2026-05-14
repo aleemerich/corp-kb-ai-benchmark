@@ -1,0 +1,3 @@
+# Sistema de permissões RBAC - AIRich Platform
+
+# Sistema de permissões RBAC - AIRich Platform Este documento descreve os aspectos principais relacionados a sistema de permissões rbac no contexto do AIRich Platform. Para mais informações sobre sistema de permissões rbac, consulte a documentação completa do AIRich Platform. O sistema de permissões rbac do AIRich Platform é um componente essencial da plataforma AIRich Tecnologia. O sistema de permissões rbac foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

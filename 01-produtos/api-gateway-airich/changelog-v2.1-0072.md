@@ -1,0 +1,7 @@
+# Changelog v2.1
+
+**Produto:** AIRich API Gateway  
+**Departamento:** Produtos  
+**Versão:** 1.1
+
+# Changelog v2.1 **Produto:** AIRich API Gateway **Departamento:** Produtos **Versão:** 1.1 ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O changelog v2.1 passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Requisitos Para utilizar o changelog v2.1 corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a changelog v2.1 no AIRich API Gateway, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O changelog v2.1 passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real

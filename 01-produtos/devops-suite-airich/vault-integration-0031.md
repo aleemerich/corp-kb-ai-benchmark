@@ -1,0 +1,3 @@
+# Vault integration
+
+# Vault integration A equipe de produto trabalha continuamente na evolução do vault integration para atender às necessidades dos clientes. O vault integration do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a vault integration no contexto do AIRich DevOps Suite. O vault integration do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia.

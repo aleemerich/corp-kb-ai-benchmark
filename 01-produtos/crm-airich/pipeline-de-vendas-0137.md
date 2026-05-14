@@ -1,0 +1,7 @@
+# Pipeline de vendas
+
+**Produto:** AIRich CRM  
+**Departamento:** Produtos  
+**Versão:** 1.6
+
+# Pipeline de vendas **Produto:** AIRich CRM **Departamento:** Produtos **Versão:** 1.6 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do pipeline de vendas, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Requisitos Para utilizar o pipeline de vendas corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O pipeline de vendas passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos. ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do pipeline de vendas, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Contexto A AIRich Tecnologia mantém um compromisso contínuo com a evolução de seus produtos. O pipeline de vendas passou por diversas melhorias nos últimos trimestres, incorporando feedback de clientes e avanços tecnológicos.

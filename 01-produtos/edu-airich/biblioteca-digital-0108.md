@@ -1,0 +1,3 @@
+# Doc: Biblioteca digital
+
+# Doc: Biblioteca digital Para mais informações sobre biblioteca digital, consulte a documentação completa do AIRich Edu. O biblioteca digital foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do biblioteca digital para atender às necessidades dos clientes. O biblioteca digital do AIRich Edu é um componente essencial da plataforma AIRich Tecnologia.

@@ -1,0 +1,3 @@
+# Dashboards operacionais
+
+# Dashboards operacionais Este documento descreve os aspectos principais relacionados a dashboards operacionais no contexto do AIRich Analytics. O dashboards operacionais do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre dashboards operacionais, consulte a documentação completa do AIRich Analytics. O dashboards operacionais do AIRich Analytics é um componente essencial da plataforma AIRich Tecnologia.

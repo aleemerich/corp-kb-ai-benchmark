@@ -1,0 +1,3 @@
+# Versionamento de APIs - AIRich API Gateway
+
+# Versionamento de APIs - AIRich API Gateway O versionamento de apis foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a versionamento de apis no contexto do AIRich API Gateway. A equipe de produto trabalha continuamente na evolução do versionamento de apis para atender às necessidades dos clientes. O versionamento de apis do AIRich API Gateway é um componente essencial da plataforma AIRich Tecnologia.

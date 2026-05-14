@@ -1,0 +1,7 @@
+# Docker containerization
+
+**Produto:** AIRich DevOps Suite  
+**Departamento:** Produtos  
+**Versão:** 1.9
+
+# Docker containerization **Produto:** AIRich DevOps Suite **Departamento:** Produtos **Versão:** 1.9 ## Requisitos Para utilizar o docker containerization corretamente, é necessário: 1. Ter uma conta ativa na plataforma AIRich 2. Possuir permissões adequadas no sistema 3. Estar com o plano de assinatura ativo 4. Utilizar um navegador compatível (Chrome, Firefox, Edge) ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a docker containerization no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do docker containerization pode ser realizada através do painel administrativo. Acesse Configurações > Docker containerization e siga as instruções apresentadas na interface. ## Escopo O escopo deste documento abrange todas as funcionalidades relacionadas a docker containerization no AIRich DevOps Suite, incluindo configurações, integrações e procedimentos operacionais. ## Configuração A configuração do docker containerization pode ser realizada através do painel administrativo. Acesse Configurações > Docker containerization e siga as instruções apresentadas na interface.

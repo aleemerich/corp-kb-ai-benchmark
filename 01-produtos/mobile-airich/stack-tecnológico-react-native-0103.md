@@ -1,0 +1,3 @@
+# Doc: Stack tecnológico React Native
+
+# Doc: Stack tecnológico React Native A equipe de produto trabalha continuamente na evolução do stack tecnológico react native para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a stack tecnológico react native no contexto do AIRich Mobile. A equipe de produto trabalha continuamente na evolução do stack tecnológico react native para atender às necessidades dos clientes. O stack tecnológico react native do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia.

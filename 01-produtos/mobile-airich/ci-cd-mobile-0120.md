@@ -1,0 +1,3 @@
+# CI/CD mobile
+
+# CI/CD mobile A equipe de produto trabalha continuamente na evolução do ci/cd mobile para atender às necessidades dos clientes. O ci/cd mobile do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre ci/cd mobile, consulte a documentação completa do AIRich Mobile. O ci/cd mobile foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

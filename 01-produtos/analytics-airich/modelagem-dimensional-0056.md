@@ -1,0 +1,7 @@
+# Modelagem dimensional
+
+**Produto:** AIRich Analytics  
+**Departamento:** Produtos  
+**Versão:** 1.5
+
+# Modelagem dimensional **Produto:** AIRich Analytics **Departamento:** Produtos **Versão:** 1.5 ## Objetivo Este documento tem como objetivo apresentar os aspectos técnicos e funcionais do modelagem dimensional, fornecendo uma visão abrangente para as equipes de desenvolvimento, suporte e operações. ## Sobre Modelagem dimensional O modelagem dimensional do AIRich Analytics representa uma parte fundamental da estratura de produtos da AIRich Tecnologia. Desenvolvido com foco em escalabilidade e performance, este módulo atende mais de 500 empresas clientes em todo o Brasil e internacionalmente. ## Configuração A configuração do modelagem dimensional pode ser realizada através do painel administrativo. Acesse Configurações > Modelagem dimensional e siga as instruções apresentadas na interface. ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Funcionalidades Principais - Configuração simplificada via interface web - Integração nativa com outros produtos AIRich - Suporte a multi-tenant - Auditoria completa de operações - Notificações em tempo real ## Configuração A configuração do modelagem dimensional pode ser realizada através do painel administrativo. Acesse Configurações > Modelagem dimensional e siga as instruções apresentadas na interface.

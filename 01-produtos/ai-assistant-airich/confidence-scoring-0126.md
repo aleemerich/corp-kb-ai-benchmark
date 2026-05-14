@@ -1,0 +1,3 @@
+# Doc: Confidence scoring
+
+# Doc: Confidence scoring Para mais informações sobre confidence scoring, consulte a documentação completa do AIRich AI Assistant. O confidence scoring foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre confidence scoring, consulte a documentação completa do AIRich AI Assistant. Este documento descreve os aspectos principais relacionados a confidence scoring no contexto do AIRich AI Assistant.

@@ -1,0 +1,3 @@
+# Changelog v2.0
+
+# Changelog v2.0 Este documento descreve os aspectos principais relacionados a changelog v2.0 no contexto do AIRich AI Assistant. Para mais informações sobre changelog v2.0, consulte a documentação completa do AIRich AI Assistant. O changelog v2.0 do AIRich AI Assistant é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a changelog v2.0 no contexto do AIRich AI Assistant.

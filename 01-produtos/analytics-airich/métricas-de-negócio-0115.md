@@ -1,0 +1,3 @@
+# Doc: Métricas de negócio
+
+# Doc: Métricas de negócio Este documento descreve os aspectos principais relacionados a métricas de negócio no contexto do AIRich Analytics. Para mais informações sobre métricas de negócio, consulte a documentação completa do AIRich Analytics. Para mais informações sobre métricas de negócio, consulte a documentação completa do AIRich Analytics. O métricas de negócio foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich.

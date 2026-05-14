@@ -1,0 +1,3 @@
+# Doc: Otimização de bundle
+
+# Doc: Otimização de bundle O otimização de bundle do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia. Para mais informações sobre otimização de bundle, consulte a documentação completa do AIRich Mobile. A equipe de produto trabalha continuamente na evolução do otimização de bundle para atender às necessidades dos clientes. O otimização de bundle do AIRich Mobile é um componente essencial da plataforma AIRich Tecnologia.

@@ -1,0 +1,3 @@
+# Webhook de pagamentos - AIRich Pay
+
+# Webhook de pagamentos - AIRich Pay A equipe de produto trabalha continuamente na evolução do webhook de pagamentos para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a webhook de pagamentos no contexto do AIRich Pay. A equipe de produto trabalha continuamente na evolução do webhook de pagamentos para atender às necessidades dos clientes. Este documento descreve os aspectos principais relacionados a webhook de pagamentos no contexto do AIRich Pay.

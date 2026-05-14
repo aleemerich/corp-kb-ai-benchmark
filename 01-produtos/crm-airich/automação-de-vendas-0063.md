@@ -1,0 +1,3 @@
+# Automação de vendas - AIRich CRM
+
+# Automação de vendas - AIRich CRM Este documento descreve os aspectos principais relacionados a automação de vendas no contexto do AIRich CRM. O automação de vendas do AIRich CRM é um componente essencial da plataforma AIRich Tecnologia. Este documento descreve os aspectos principais relacionados a automação de vendas no contexto do AIRich CRM. A equipe de produto trabalha continuamente na evolução do automação de vendas para atender às necessidades dos clientes.

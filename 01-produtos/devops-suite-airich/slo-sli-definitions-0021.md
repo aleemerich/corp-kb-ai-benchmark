@@ -1,0 +1,3 @@
+# Doc: SLO/SLI definitions
+
+# Doc: SLO/SLI definitions O slo/sli definitions do AIRich DevOps Suite é um componente essencial da plataforma AIRich Tecnologia. O slo/sli definitions foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Este documento descreve os aspectos principais relacionados a slo/sli definitions no contexto do AIRich DevOps Suite. A equipe de produto trabalha continuamente na evolução do slo/sli definitions para atender às necessidades dos clientes.

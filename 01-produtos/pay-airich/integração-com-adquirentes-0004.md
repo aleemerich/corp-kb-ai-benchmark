@@ -1,0 +1,3 @@
+# Integração com adquirentes - AIRich Pay
+
+# Integração com adquirentes - AIRich Pay O integração com adquirentes foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. A equipe de produto trabalha continuamente na evolução do integração com adquirentes para atender às necessidades dos clientes. O integração com adquirentes foi projetado seguindo as melhores práticas de mercado e padrões de qualidade AIRich. Para mais informações sobre integração com adquirentes, consulte a documentação completa do AIRich Pay.
