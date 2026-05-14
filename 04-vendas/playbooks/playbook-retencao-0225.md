@@ -1,0 +1,5 @@
+# Playbook: Retencao
+
+**Depto:** Playbooks
+
+# Playbook: Retencao **Depto:** Playbooks ## Contexto Playbook: Retencao no departamento Playbooks da AIRich Tecnologia. ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Responsabilidades - Gestor: Aprovar - Equipe: Executar - QA: Validar

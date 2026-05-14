@@ -1,0 +1,63 @@
+# Script: check-k8s-pods.sh
+
+**Depto:** Scripts Diagnostico  
+**Data:** 2026-03-02
+
+---
+
+## Introducao
+
+Script: check-k8s-pods.sh - Scripts Diagnostico AIRich.
+
+
+
+## Detalhes
+
+| Item | Desc | Status |
+|------|------|--------|
+| A | A | OK |
+| B | B | OK |
+
+```mermaid
+flowchart TD
+    A[Inicio] --> B[Analise]
+    B --> C{Decisao}
+    C -->|Sim| D[Acao]
+    C -->|Nao| E[Revisao]
+    D --> F[Fim]
+    E --> B
+```
+
+
+
+## Troubleshooting
+
+**Sintoma:** Falha
+
+**Solucao:**
+1. Verificar logs
+2. Reiniciar
+
+
+
+## Seguranca
+
+- Acesso controlado
+- Auditoria
+
+
+
+## Troubleshooting
+
+**Sintoma:** Falha
+
+**Solucao:**
+1. Verificar logs
+2. Reiniciar
+
+
+
+## Introducao
+
+Script: check-k8s-pods.sh - Scripts Diagnostico AIRich.
+

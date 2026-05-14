@@ -1,0 +1,5 @@
+# Case de sucesso
+
+**Depto:** Pipeline
+
+# Case de sucesso **Depto:** Pipeline ## Procedimento 1. Identificar necessidade 2. Planejar acao 3. Executar 4. Validar 5. Documentar ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado ## Contexto Case de sucesso no departamento Pipeline da AIRich Tecnologia. ## Requisitos 1. Acesso ao sistema 2. Permissoes adequadas 3. Ambiente configurado
