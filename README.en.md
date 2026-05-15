@@ -10,6 +10,8 @@
 
 **corp-kb-ai-benchmark** is a synthetic knowledge base that simulates the daily operations of a Brazilian technology company with international operations. It contains over **10,000 documents in PT-BR** and approximately **6,750 documents in EN**, totaling around **16,750 markdown files**.
 
+The base was created with more documents in **PT-BR** to test in benchmarks the ability to adapt to languages other than EN, ES, and FR (the most common languages today). It also has **EN** versions for comparison and multilingual performance evaluation.
+
 The document base includes:
 
 - Product specifications and roadmaps
