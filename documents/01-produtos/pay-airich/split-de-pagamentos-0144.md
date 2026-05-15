@@ -24,10 +24,10 @@ O fluxo de trabalho padrão inclui:
 ## Infraestrutura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 
-![Sequencia Pagamento](../../assets/img/sequencia-pagamento.png)
+![Sequencia Pagamento](../assets/img/sequencia-pagamento.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

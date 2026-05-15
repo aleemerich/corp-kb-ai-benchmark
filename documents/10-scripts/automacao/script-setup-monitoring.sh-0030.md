@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Script: setup-monitoring.sh foi projeta
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

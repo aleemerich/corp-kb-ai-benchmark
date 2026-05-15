@@ -4,10 +4,10 @@ O presente documento tem como objetivo apresentar TKT-2026-0004: Dados incorreto
 
 Como parte da estratégia de inovação, TKT-2026-0004: Dados incorretos foi projetado para suportar o crescimento escalável da plataforma.
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../../../assets/img/arquitetura-dados.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Anexo tecnico desempenha um papel 
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

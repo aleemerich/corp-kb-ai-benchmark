@@ -23,13 +23,13 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 
-![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

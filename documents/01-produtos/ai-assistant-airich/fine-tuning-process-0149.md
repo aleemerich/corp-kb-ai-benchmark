@@ -24,7 +24,7 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

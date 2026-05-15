@@ -24,16 +24,16 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Tela Login](../../assets/img/tela-login.png)
+![Tela Login](../assets/img/tela-login.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../assets/img/topologia-rede.png)
 
 
-![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

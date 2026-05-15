@@ -4,10 +4,10 @@ Este documento descreve FAQ: Como solicitar reembolso no contexto da AIRich Tecn
 
 A evolução constante do ecossistema AIRich demanda processos bem definidos. FAQ: Como solicitar reembolso foi documentado para orientar as equipes.
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

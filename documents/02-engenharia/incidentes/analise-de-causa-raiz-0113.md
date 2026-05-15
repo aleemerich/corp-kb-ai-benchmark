@@ -23,13 +23,13 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Tela Login](../../assets/img/tela-login.png)
+![Tela Login](../../../assets/img/tela-login.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

@@ -24,16 +24,16 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../assets/img/camadas-seguranca.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

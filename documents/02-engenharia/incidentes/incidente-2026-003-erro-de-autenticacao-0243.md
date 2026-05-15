@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Incidente 2026-003: Erro de auten
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

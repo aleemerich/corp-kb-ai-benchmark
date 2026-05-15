@@ -4,16 +4,16 @@ Este documento descreve Onboarding: Cultura AIRich no contexto da AIRich Tecnolo
 
 A evolução constante do ecossistema AIRich demanda processos bem definidos. Onboarding: Cultura AIRich foi documentado para orientar as equipes.
 
-![Tela Login](../../assets/img/tela-login.png)
+![Tela Login](../../../assets/img/tela-login.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

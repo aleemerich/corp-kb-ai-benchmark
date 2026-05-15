@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, FAQ: Como gerenciar permissoes foi proj
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

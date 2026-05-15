@@ -26,7 +26,7 @@ No cenário atual de transformação digital, Fraud detection ML desempenha um p
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram

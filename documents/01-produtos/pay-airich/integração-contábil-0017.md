@@ -24,16 +24,16 @@ O fluxo de trabalho padrão inclui:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 
-![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

@@ -24,10 +24,10 @@ O fluxo de trabalho padrão inclui:
 ## Infraestrutura
 
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../assets/img/arquitetura-dados.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

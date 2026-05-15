@@ -26,7 +26,7 @@ Como parte da estratégia de inovação, Sprint 26.05 - Retrospectiva foi projet
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -101,10 +101,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Referências
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

@@ -60,13 +60,13 @@ Para executar corretamente:
 ## Segurança
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

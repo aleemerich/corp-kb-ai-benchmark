@@ -23,13 +23,13 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

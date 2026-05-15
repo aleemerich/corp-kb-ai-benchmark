@@ -23,10 +23,10 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../assets/img/uptime-mensal.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

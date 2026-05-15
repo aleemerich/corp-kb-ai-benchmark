@@ -26,7 +26,7 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram
@@ -107,7 +107,7 @@ O fluxo de trabalho padrão inclui:
 ## Referências
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

@@ -26,7 +26,7 @@ Como parte da estratégia de inovação, Tech stack decision foi projetado para 
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

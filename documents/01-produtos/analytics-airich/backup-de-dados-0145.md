@@ -23,10 +23,10 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../assets/img/arquitetura-dados.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

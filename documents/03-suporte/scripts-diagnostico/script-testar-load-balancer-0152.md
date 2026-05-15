@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Script: Testar load balancer segu
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -66,13 +66,13 @@ Etapas recomendadas:
 ## Segurança
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

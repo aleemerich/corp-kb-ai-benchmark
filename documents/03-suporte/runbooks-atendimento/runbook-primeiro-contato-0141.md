@@ -13,7 +13,7 @@ O investimento contínuo em Runbook: Primeiro contato reflete o compromisso da A
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Template proposta SaaS segue padr
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -62,7 +62,7 @@ Etapas recomendadas:
 ## Segurança
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

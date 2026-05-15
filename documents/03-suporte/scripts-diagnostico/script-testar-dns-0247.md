@@ -23,16 +23,16 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

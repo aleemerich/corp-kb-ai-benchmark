@@ -23,10 +23,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

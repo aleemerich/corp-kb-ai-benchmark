@@ -23,16 +23,16 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../assets/img/uptime-mensal.png)
 
 
-![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../assets/img/paineis-relatorios.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

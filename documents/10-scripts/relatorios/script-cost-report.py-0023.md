@@ -4,7 +4,7 @@ O objetivo deste material é documentar as práticas recomendadas para Script: c
 
 Alinhado com as melhores práticas do mercado, Script: cost-report.py segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

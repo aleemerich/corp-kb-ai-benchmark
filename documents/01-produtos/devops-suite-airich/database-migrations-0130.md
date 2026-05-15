@@ -23,7 +23,7 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

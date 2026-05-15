@@ -13,7 +13,7 @@ A equipe da AIRich trabalha continuamente na evolução de Cloud: Reserved insta
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

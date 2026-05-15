@@ -23,16 +23,16 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../assets/img/uptime-mensal.png)
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../assets/img/camadas-seguranca.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

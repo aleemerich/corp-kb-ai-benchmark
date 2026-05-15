@@ -26,7 +26,7 @@ Como parte do programa de melhoria contínua da AIRich, Roadmap do Gateway foi e
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -105,7 +105,7 @@ As etapas recomendadas são:
 ## Referências
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

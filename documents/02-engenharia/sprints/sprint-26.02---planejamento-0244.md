@@ -13,7 +13,7 @@ Como parte do programa de melhoria contínua da AIRich, Sprint 26.02 - Planejame
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

@@ -23,16 +23,16 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../assets/img/paineis-relatorios.png)
 
 
-![Tela Login](../../assets/img/tela-login.png)
+![Tela Login](../assets/img/tela-login.png)
 
 
-![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../assets/img/rbac-permissoes.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

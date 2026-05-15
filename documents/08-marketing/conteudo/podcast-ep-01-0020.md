@@ -26,7 +26,7 @@ Como parte do programa de melhoria contínua da AIRich, Podcast: Ep 01 foi estru
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -97,13 +97,13 @@ O procedimento padrão segue as seguintes etapas:
 ## Referências
 
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../../../assets/img/uptime-mensal.png)
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

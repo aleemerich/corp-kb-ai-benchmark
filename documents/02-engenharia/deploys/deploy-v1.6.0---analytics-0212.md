@@ -23,10 +23,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../../../assets/img/arquitetura-dados.png)
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../../../assets/img/pipeline-cicd.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

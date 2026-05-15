@@ -4,10 +4,10 @@ Este documento fornece uma visão detalhada sobre Incidente 2026-002: Lentidao n
 
 Como parte do programa de melhoria contínua da AIRich, Incidente 2026-002: Lentidao no banco foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../../../assets/img/uptime-mensal.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

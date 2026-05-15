@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Playbook: Upsell foi projetado para sup
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

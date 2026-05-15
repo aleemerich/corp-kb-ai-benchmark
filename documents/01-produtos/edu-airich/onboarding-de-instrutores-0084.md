@@ -24,7 +24,7 @@ O fluxo de trabalho padrão inclui:
 ## Infraestrutura
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

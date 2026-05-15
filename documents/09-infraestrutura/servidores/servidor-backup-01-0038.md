@@ -4,10 +4,10 @@ Esta especificação técnica define os requisitos e procedimentos para Servidor
 
 A equipe da AIRich trabalha continuamente na evolução de Servidor: backup-01, incorporando feedback e avanços tecnológicos.
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

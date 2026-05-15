@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Script: Checar rate limiting foi projet
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

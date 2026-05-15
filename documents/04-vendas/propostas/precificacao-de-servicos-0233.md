@@ -4,7 +4,7 @@ Este manual operacional descreve os processos e responsabilidades de Precificaca
 
 A evolução constante do ecossistema AIRich demanda processos bem definidos. Precificacao de servicos foi documentado para orientar as equipes.
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

@@ -98,10 +98,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Referências
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

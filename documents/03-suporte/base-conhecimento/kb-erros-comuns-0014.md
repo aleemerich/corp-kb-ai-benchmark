@@ -24,10 +24,10 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../assets/img/topologia-rede.png)
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../assets/img/paineis-relatorios.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

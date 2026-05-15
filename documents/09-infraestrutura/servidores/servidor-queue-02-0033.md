@@ -23,13 +23,13 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

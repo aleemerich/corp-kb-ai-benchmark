@@ -26,7 +26,7 @@ Alinhado com as melhores práticas do mercado, Gestão de contatos segue padrõe
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

@@ -13,7 +13,7 @@ Como parte da estratégia de inovação da AIRich, Importação em massa foi pro
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -65,13 +65,13 @@ As etapas recomendadas são:
 ## Segurança
 
 
-![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

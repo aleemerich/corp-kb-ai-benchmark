@@ -13,7 +13,7 @@ O investimento contínuo em Distribuição via App Store reflete o compromisso d
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -69,7 +69,7 @@ O fluxo de trabalho padrão inclui:
 ## Segurança
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

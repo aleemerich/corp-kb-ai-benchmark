@@ -4,10 +4,10 @@ Este guia técnico aborda os aspectos fundamentais de Sprint 26.04 - Review na A
 
 Como parte do programa de melhoria contínua da AIRich, Sprint 26.04 - Review foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

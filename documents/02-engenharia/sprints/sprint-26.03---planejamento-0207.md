@@ -13,7 +13,7 @@ A equipe da AIRich trabalha continuamente na evolução de Sprint 26.03 - Planej
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

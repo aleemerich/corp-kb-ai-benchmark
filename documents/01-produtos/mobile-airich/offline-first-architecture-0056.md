@@ -26,7 +26,7 @@ Como parte da estratégia de inovação da AIRich, Offline-first architecture fo
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram

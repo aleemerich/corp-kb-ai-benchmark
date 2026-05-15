@@ -23,10 +23,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../../../assets/img/arquitetura-dados.png)
 
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../../../assets/img/uptime-mensal.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

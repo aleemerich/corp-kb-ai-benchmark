@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Script: Checar PostgreSQL desempen
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -61,7 +61,7 @@ Para executar corretamente:
 ## Segurança
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

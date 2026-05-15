@@ -23,7 +23,7 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../assets/img/arquitetura-dados.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

@@ -24,7 +24,7 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Uptime Mensal](../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../assets/img/uptime-mensal.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

@@ -24,10 +24,10 @@ O fluxo de trabalho padrão inclui:
 ## Infraestrutura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

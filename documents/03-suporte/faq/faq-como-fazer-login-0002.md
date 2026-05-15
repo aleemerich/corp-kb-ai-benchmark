@@ -23,13 +23,13 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Tela Login](../../assets/img/tela-login.png)
+![Tela Login](../assets/img/tela-login.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

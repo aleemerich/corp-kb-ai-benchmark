@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Win rate desempenha um papel funda
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -65,10 +65,10 @@ Para executar corretamente:
 ## Segurança
 
 
-![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

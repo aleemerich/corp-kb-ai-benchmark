@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, TKT-2026-0004: Dados incorretos s
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

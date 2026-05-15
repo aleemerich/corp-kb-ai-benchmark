@@ -56,7 +56,7 @@ Para executar corretamente:
 ## Segurança
 
 
-![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

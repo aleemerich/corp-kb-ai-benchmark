@@ -4,10 +4,10 @@ Esta especificação técnica define os requisitos e procedimentos para TKT-2026
 
 O investimento contínuo em TKT-2026-0010: Integracao quebrou reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

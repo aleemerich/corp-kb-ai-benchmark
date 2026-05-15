@@ -23,10 +23,10 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../assets/img/topologia-rede.png)
 
 
-![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../assets/img/arquitetura-dados.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

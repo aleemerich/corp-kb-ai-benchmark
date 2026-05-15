@@ -23,10 +23,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

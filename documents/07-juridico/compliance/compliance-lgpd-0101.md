@@ -13,7 +13,7 @@ Como parte do programa de melhoria contínua da AIRich, Compliance: LGPD foi est
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

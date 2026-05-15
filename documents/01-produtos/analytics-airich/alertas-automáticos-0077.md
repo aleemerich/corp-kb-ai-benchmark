@@ -24,10 +24,10 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../assets/img/pipeline-cicd.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

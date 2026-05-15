@@ -13,7 +13,7 @@ A equipe da AIRich trabalha continuamente na evolução de LGPD: Acesso a dados,
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

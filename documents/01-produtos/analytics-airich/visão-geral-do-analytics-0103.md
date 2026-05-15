@@ -26,7 +26,7 @@ A equipe de produto da AIRich trabalha continuamente na evolução de Visão ger
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram
@@ -109,7 +109,7 @@ As etapas recomendadas são:
 ## Referências
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

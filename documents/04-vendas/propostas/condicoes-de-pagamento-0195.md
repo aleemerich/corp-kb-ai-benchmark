@@ -24,16 +24,16 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Sequencia Pagamento](../../assets/img/sequencia-pagamento.png)
+![Sequencia Pagamento](../../../assets/img/sequencia-pagamento.png)
 
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

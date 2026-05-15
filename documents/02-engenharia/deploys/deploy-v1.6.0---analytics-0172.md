@@ -26,7 +26,7 @@ A equipe da AIRich trabalha continuamente na evolução de Deploy v1.6.0 - Analy
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

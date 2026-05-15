@@ -4,10 +4,10 @@ O objetivo deste material é documentar as práticas recomendadas para Deploy v1
 
 A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacional. Deploy v1.6.0 - Analytics representa um componente essencial dessa estratégia.
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

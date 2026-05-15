@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Saga pattern segue padrões estab
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

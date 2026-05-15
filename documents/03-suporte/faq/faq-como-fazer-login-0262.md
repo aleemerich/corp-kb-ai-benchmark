@@ -24,10 +24,10 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../assets/img/paineis-relatorios.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Event streaming desempenha um pape
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -66,10 +66,10 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Segurança
 
 
-![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

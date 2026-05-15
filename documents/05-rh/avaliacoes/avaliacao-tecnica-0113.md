@@ -4,7 +4,7 @@ O presente documento tem como objetivo apresentar Avaliacao: Tecnica para as equ
 
 Como parte do programa de melhoria contínua da AIRich, Avaliacao: Tecnica foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-![Topologia Rede](../../assets/img/topologia-rede.png)
+![Topologia Rede](../../../assets/img/topologia-rede.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

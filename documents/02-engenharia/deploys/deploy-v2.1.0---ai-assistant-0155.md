@@ -4,7 +4,7 @@ O presente documento tem como objetivo apresentar Deploy v2.1.0 - AI Assistant p
 
 A equipe da AIRich trabalha continuamente na evolução de Deploy v2.1.0 - AI Assistant, incorporando feedback e avanços tecnológicos.
 
-![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../../../assets/img/pipeline-cicd.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

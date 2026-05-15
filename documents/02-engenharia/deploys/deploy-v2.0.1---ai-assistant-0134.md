@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Deploy v2.0.1 - AI Assistant foi projet
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../../../assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
