@@ -23,6 +23,12 @@ Etapas recomendadas:
 
 ## Infraestrutura
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

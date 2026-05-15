@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Contrato: Parceiro Y foi projetado para
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

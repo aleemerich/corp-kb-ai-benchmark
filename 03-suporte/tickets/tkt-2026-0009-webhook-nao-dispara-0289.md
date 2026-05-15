@@ -12,6 +12,9 @@ A equipe da AIRich trabalha continuamente na evolução de TKT-2026-0009: Webhoo
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

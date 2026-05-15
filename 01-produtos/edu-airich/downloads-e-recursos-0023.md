@@ -12,6 +12,9 @@ Como parte da estratégia de inovação da AIRich, Downloads e recursos foi proj
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]
@@ -60,6 +63,9 @@ As etapas recomendadas são:
 4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

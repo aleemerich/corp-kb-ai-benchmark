@@ -12,6 +12,9 @@ A evolução constante do ecossistema AIRich demanda processos bem definidos. Da
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]
@@ -59,6 +62,9 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

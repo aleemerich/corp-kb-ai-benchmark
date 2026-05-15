@@ -23,6 +23,15 @@ As etapas recomendadas são:
 
 ## Infraestrutura
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

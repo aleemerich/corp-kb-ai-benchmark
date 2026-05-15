@@ -23,6 +23,15 @@ Etapas recomendadas:
 
 ## Infraestrutura
 
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

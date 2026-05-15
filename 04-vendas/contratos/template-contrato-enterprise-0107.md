@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Template contrato enterprise foi projet
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

@@ -23,6 +23,12 @@ Etapas recomendadas:
 
 ## Infraestrutura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

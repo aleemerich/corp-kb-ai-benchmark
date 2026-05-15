@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <!-- Gradient for the owl body -->
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+    </linearGradient>
+    <!-- Gradient for the gem -->
+    <linearGradient id="gemGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffab00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6f00;stop-opacity:1" />
+    </linearGradient>
+    <!-- Gradient for wings -->
+    <linearGradient id="wingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#283593;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1565c0;stop-opacity:1" />
+    </linearGradient>
+    <!-- Eye glow -->
+    <radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00e5ff;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#00b8d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0091ea;stop-opacity:1" />
+    </radialGradient>
+    <!-- Drop shadow -->
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="190" fill="url(#bodyGrad)" filter="url(#shadow)"/>
+  
+  <!-- Inner circle accent -->
+  <circle cx="200" cy="200" r="175" fill="none" stroke="#1565c0" stroke-width="2" opacity="0.5"/>
+
+  <!-- Left wing -->
+  <path d="M60 180 Q30 200 50 260 Q70 280 100 260 Q120 230 110 200 Q100 170 60 180Z" 
+        fill="url(#wingGrad)" stroke="#0d47a1" stroke-width="1.5"/>
+  <!-- Wing pattern (AI circuit lines) -->
+  <path d="M70 200 L90 200 M80 190 L80 210 M75 230 L95 230" 
+        stroke="#42a5f5" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <circle cx="80" cy="200" r="3" fill="#42a5f5" opacity="0.8"/>
+  <circle cx="85" cy="230" r="3" fill="#42a5f5" opacity="0.8"/>
+
+  <!-- Right wing -->
+  <path d="M340 180 Q370 200 350 260 Q330 280 300 260 Q280 230 290 200 Q300 170 340 180Z" 
+        fill="url(#wingGrad)" stroke="#0d47a1" stroke-width="1.5"/>
+  <!-- Wing pattern (AI circuit lines) -->
+  <path d="M330 200 L310 200 M320 190 L320 210 M325 230 L305 230" 
+        stroke="#42a5f5" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <circle cx="320" cy="200" r="3" fill="#42a5f5" opacity="0.8"/>
+  <circle cx="315" cy="230" r="3" fill="#42a5f5" opacity="0.8"/>
+
+  <!-- Owl body (oval) -->
+  <ellipse cx="200" cy="220" rx="90" ry="110" fill="url(#bodyGrad)" stroke="#0d47a1" stroke-width="1.5"/>
+
+  <!-- Belly pattern -->
+  <ellipse cx="200" cy="240" rx="60" ry="70" fill="#1565c0" opacity="0.4"/>
+
+  <!-- Left eye white -->
+  <circle cx="165" cy="175" r="35" fill="white" filter="url(#shadow)"/>
+  <!-- Left eye iris -->
+  <circle cx="168" cy="175" r="22" fill="url(#eyeGlow)"/>
+  <!-- Left eye pupil -->
+  <circle cx="170" cy="175" r="10" fill="#0d47a1"/>
+  <!-- Left eye glint -->
+  <circle cx="175" cy="168" r="5" fill="white" opacity="0.9"/>
+  <!-- Left eye small glint -->
+  <circle cx="165" cy="180" r="2.5" fill="white" opacity="0.6"/>
+
+  <!-- Right eye white -->
+  <circle cx="235" cy="175" r="35" fill="white" filter="url(#shadow)"/>
+  <!-- Right eye iris -->
+  <circle cx="232" cy="175" r="22" fill="url(#eyeGlow)"/>
+  <!-- Right eye pupil -->
+  <circle cx="230" cy="175" r="10" fill="#0d47a1"/>
+  <!-- Right eye glint -->
+  <circle cx="235" cy="168" r="5" fill="white" opacity="0.9"/>
+  <!-- Right eye small glint -->
+  <circle cx="225" cy="180" r="2.5" fill="white" opacity="0.6"/>
+
+  <!-- Beak -->
+  <path d="M190 210 L200 230 L210 210 Z" fill="#ff8f00" stroke="#e65100" stroke-width="1"/>
+
+  <!-- Eyebrows (giving a playful/clever expression) -->
+  <path d="M140 150 Q155 140 175 150" stroke="#0d47a1" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M225 150 Q245 140 260 150" stroke="#0d47a1" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Gem on chest (the "rich" element) -->
+  <polygon points="200,250 185,270 190,295 210,295 215,270" fill="url(#gemGrad)" stroke="#e65100" stroke-width="1.5" filter="url(#shadow)"/>
+  <polygon points="200,250 185,270 200,265 215,270" fill="#ffecb3" opacity="0.4"/>
+  <line x1="190" y1="280" x2="210" y2="280" stroke="#e65100" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Feet -->
+  <path d="M160 320 L150 340 L160 335 L170 340 L165 325" fill="#ff8f00" stroke="#e65100" stroke-width="1"/>
+  <path d="M240 320 L230 340 L240 335 L250 340 L245 325" fill="#ff8f00" stroke="#e65100" stroke-width="1"/>
+
+  <!-- Text: AIRich -->
+  <text x="200" y="375" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold" 
+        fill="white" text-anchor="middle" letter-spacing="2">AIRich</text>
+  
+  <!-- Text: Tecnologia -->
+  <text x="200" y="395" font-family="Arial, Helvetica, sans-serif" font-size="14" 
+        fill="#90caf9" text-anchor="middle" letter-spacing="4">TECNOLOGIA</text>
+
+  <!-- Small circuit pattern on body (AI theme) -->
+  <circle cx="140" cy="220" r="2" fill="#42a5f5" opacity="0.5"/>
+  <circle cx="260" cy="220" r="2" fill="#42a5f5" opacity="0.5"/>
+  <line x1="140" y1="220" x2="160" y2="220" stroke="#42a5f5" stroke-width="1" opacity="0.4"/>
+  <line x1="240" y1="220" x2="260" y2="220" stroke="#42a5f5" stroke-width="1" opacity="0.4"/>
+</svg>

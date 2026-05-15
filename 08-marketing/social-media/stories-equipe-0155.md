@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Stories: Equipe foi projetado para supo
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

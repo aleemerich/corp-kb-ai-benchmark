@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Script: deploy-devops.sh
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -58,6 +61,15 @@ O procedimento padrão segue as seguintes etapas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

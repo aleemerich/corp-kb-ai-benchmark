@@ -12,6 +12,9 @@ No cenário atual de transformação digital, TKT-2026-0015: Certificado invalid
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

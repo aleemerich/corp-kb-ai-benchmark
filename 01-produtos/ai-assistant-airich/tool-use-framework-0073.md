@@ -12,6 +12,9 @@ O investimento contínuo em Tool use framework reflete o compromisso da AIRich c
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

@@ -12,6 +12,9 @@ A equipe de produto da AIRich trabalha continuamente na evolução de Authentica
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

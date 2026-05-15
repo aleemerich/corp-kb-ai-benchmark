@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, KB: Visao geral do produto foi projetad
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

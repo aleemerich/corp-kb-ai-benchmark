@@ -22,6 +22,15 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

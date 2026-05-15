@@ -22,6 +22,9 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

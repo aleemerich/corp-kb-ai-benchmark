@@ -12,6 +12,9 @@ O investimento contínuo em Sprint 26.01 - Planejamento reflete o compromisso da
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

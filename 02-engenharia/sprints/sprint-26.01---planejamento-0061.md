@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Sprint 26.01 - Planejamento desemp
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

@@ -12,6 +12,9 @@ Como parte da estratégia de inovação da AIRich, Otimização de bundle foi pr
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

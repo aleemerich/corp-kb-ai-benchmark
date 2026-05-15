@@ -22,6 +22,9 @@ Para executar este processo corretamente:
 
 ## Infraestrutura
 
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

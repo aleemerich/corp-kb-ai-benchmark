@@ -22,6 +22,18 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

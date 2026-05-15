@@ -12,6 +12,9 @@ O investimento contínuo em gRPC proxy reflete o compromisso da AIRich com a ent
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

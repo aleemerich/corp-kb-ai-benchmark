@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Deploy v1.5.1 - Analytics foi projetado
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

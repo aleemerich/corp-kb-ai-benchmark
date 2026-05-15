@@ -94,6 +94,18 @@ Etapas recomendadas:
 
 ## Referências
 
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0
 3. Manual de operações

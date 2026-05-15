@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Onboarding: Feedback 60d foi projetado 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

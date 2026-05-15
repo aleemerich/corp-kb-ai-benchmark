@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Incidente 2026-008: Ataq
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -61,6 +64,9 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

@@ -4,4 +4,13 @@ O presente documento tem como objetivo apresentar Ciclo de vendas para as equipe
 
 No cenário atual de transformação digital, Ciclo de vendas desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
 Para mais informações, consulte a documentação da AIRich.

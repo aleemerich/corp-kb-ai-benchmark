@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, KB: Solucoes frequentes foi projetado p
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -60,6 +63,15 @@ O procedimento padrão segue as seguintes etapas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

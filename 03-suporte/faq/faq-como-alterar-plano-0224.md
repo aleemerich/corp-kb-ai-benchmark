@@ -22,6 +22,9 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

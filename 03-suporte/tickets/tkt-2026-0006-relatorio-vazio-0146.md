@@ -23,6 +23,9 @@ Etapas recomendadas:
 
 ## Infraestrutura
 
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

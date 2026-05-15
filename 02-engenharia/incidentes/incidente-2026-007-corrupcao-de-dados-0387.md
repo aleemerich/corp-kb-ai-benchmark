@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Incidente 2026-007: Corrupcao de dados 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -94,6 +97,12 @@ O procedimento padrão segue as seguintes etapas:
 | 2.0 | 2026-05-01 | Equipe  | Revisão completa |
 
 ## Referências
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

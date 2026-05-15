@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Processo: Promocao foi e
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -57,6 +60,15 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

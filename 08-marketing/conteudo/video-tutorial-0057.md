@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Video: Tutorial segue padrões es
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

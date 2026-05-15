@@ -23,6 +23,12 @@ O fluxo de trabalho padrão inclui:
 
 ## Infraestrutura
 
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

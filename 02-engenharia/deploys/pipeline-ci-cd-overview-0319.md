@@ -25,6 +25,9 @@ Como parte do programa de melhoria contínua da AIRich, Pipeline CI/CD overview 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

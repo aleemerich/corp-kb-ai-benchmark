@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Blue-green deployment desempenha u
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

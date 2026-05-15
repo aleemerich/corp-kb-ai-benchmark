@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Reembolso treinamento foi projetado par
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

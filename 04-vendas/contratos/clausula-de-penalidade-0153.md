@@ -25,6 +25,9 @@ Alinhado com as melhores práticas do mercado, Clausula de penalidade segue padr
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

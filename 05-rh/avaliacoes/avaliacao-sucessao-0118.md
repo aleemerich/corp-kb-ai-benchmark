@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Avaliacao: Sucessao segue padrõe
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

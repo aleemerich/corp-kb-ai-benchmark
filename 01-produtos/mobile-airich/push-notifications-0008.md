@@ -23,6 +23,12 @@ As etapas recomendadas são:
 
 ## Infraestrutura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

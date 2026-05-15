@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Deploy v3.1.0 - Plataforma segue 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

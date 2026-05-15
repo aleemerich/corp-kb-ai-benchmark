@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Onboarding: Semana 2 segue padrõ
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

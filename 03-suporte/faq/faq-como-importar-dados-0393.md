@@ -22,6 +22,18 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

@@ -25,6 +25,9 @@ Como parte do programa de melhoria contínua da AIRich, MFA implementation foi e
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário
@@ -102,6 +105,9 @@ As etapas recomendadas são:
 | 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
 ## Referências
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

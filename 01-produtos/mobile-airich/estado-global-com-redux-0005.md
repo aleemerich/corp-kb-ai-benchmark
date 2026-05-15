@@ -25,6 +25,9 @@ Como parte da estratégia de inovação da AIRich, Estado global com Redux foi p
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]
@@ -99,6 +102,9 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 | 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
 ## Referências
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

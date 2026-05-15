@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Servidor: api-01 segue padrões e
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

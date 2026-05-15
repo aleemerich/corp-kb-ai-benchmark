@@ -22,6 +22,18 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

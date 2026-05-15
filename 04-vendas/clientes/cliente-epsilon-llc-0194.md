@@ -12,6 +12,9 @@ O investimento contínuo em Cliente: Epsilon LLC reflete o compromisso da AIRich
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -54,6 +57,15 @@ O procedimento padrão segue as seguintes etapas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

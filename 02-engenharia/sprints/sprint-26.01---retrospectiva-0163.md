@@ -25,6 +25,9 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

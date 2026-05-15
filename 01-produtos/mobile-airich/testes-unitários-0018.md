@@ -23,6 +23,12 @@ O fluxo de trabalho padrão inclui:
 
 ## Infraestrutura
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

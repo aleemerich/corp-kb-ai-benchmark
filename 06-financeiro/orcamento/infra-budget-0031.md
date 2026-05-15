@@ -4,4 +4,7 @@ Este documento fornece uma visão detalhada sobre Infra budget no ecossistema AI
 
 Como parte da estratégia de inovação, Infra budget foi projetado para suportar o crescimento escalável da plataforma.
 
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
 Para mais informações, consulte a documentação da AIRich.

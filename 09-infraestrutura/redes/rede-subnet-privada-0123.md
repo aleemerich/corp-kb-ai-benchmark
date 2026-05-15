@@ -56,6 +56,9 @@ Etapas recomendadas:
 
 ## Segurança
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves
 - **Autorização:** RBAC granular

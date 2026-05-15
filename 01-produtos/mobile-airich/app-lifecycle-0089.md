@@ -25,6 +25,9 @@ A evolução constante do ecossistema AIRich demanda processos bem definidos. Ap
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]
@@ -99,6 +102,9 @@ Para executar este processo corretamente:
 | 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
 ## Referências
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

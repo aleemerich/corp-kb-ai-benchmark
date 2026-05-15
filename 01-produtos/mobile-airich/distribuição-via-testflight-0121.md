@@ -12,6 +12,9 @@ O investimento contínuo em Distribuição via TestFlight reflete o compromisso 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

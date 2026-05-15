@@ -4,4 +4,10 @@ Este guia técnico aborda os aspectos fundamentais de Sprint 26.03 - Review na A
 
 Como parte da estratégia de inovação, Sprint 26.03 - Review foi projetado para suportar o crescimento escalável da plataforma.
 
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
 Para mais informações, consulte a documentação da AIRich.

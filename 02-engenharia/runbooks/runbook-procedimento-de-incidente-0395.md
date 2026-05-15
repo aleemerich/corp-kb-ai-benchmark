@@ -25,6 +25,9 @@ A equipe da AIRich trabalha continuamente na evolução de Runbook: Procedimento
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -92,6 +95,15 @@ Para executar corretamente:
 | 2.0 | 2026-05-01 | Equipe  | Revisão completa |
 
 ## Referências
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

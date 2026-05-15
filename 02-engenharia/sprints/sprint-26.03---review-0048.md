@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Sprint 26.03 - Review foi projetado par
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

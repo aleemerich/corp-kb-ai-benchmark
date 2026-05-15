@@ -25,6 +25,9 @@ Como parte do programa de melhoria contínua da AIRich, TKT-2026-0003: API timeo
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -96,6 +99,15 @@ Para executar corretamente:
 | 2.0 | 2026-05-01 | Equipe  | Revisão completa |
 
 ## Referências
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

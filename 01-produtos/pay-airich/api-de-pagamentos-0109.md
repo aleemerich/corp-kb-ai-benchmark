@@ -22,6 +22,9 @@ Para executar este processo corretamente:
 
 ## Infraestrutura
 
+
+![Sequencia Pagamento](../../assets/img/sequencia-pagamento.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

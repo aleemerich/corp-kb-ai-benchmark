@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Script: Checar portas abertas foi proje
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

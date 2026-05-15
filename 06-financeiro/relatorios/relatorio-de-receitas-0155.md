@@ -22,6 +22,12 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

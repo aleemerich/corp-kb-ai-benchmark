@@ -12,6 +12,9 @@ Como parte da estratégia de inovação da AIRich, Strong Customer Authenticatio
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]
@@ -61,6 +64,15 @@ Para executar este processo corretamente:
 4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

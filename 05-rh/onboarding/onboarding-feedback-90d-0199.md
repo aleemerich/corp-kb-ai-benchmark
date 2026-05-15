@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Onboarding: Feedback 90d foi projetado 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Politica de privacidade foi projetado p
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

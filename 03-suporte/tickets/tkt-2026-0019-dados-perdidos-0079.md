@@ -12,6 +12,9 @@ A equipe da AIRich trabalha continuamente na evolução de TKT-2026-0019: Dados 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -60,6 +63,9 @@ Para executar corretamente:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

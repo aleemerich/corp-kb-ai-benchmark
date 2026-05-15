@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Cloud: GCP backup foi es
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

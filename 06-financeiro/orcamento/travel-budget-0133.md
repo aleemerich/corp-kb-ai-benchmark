@@ -22,6 +22,18 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Arquitetura de microsservicos foi proje
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -57,6 +60,12 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Microservicos Detalhada](../../assets/img/microservicos-detalhada.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

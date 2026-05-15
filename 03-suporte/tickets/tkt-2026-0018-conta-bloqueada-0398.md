@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, TKT-2026-0018: Conta bloqueada foi proj
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -94,6 +97,15 @@ Para executar corretamente:
 | 2.0 | 2026-05-01 | Equipe  | Revisão completa |
 
 ## Referências
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

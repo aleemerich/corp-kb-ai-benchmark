@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Orcamento: 2027 desempenha um pape
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

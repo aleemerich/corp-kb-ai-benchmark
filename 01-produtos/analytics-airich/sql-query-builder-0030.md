@@ -12,6 +12,9 @@ No cenário atual de transformação digital, SQL query builder desempenha um pa
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário
@@ -65,6 +68,15 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
+
+
+![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

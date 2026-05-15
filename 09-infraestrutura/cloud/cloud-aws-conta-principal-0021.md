@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Cloud: AWS conta principal foi projetad
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

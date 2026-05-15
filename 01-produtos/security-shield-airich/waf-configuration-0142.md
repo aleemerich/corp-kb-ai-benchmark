@@ -22,6 +22,12 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

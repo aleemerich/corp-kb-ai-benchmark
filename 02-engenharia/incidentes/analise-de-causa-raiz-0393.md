@@ -12,6 +12,9 @@ O investimento contínuo em Analise de causa raiz reflete o compromisso da AIRic
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

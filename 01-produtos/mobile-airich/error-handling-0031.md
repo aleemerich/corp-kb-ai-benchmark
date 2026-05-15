@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Error handling foi estru
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

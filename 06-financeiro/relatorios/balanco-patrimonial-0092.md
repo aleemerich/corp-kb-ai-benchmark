@@ -25,6 +25,9 @@ No cenário atual de transformação digital, Balanco patrimonial desempenha um 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

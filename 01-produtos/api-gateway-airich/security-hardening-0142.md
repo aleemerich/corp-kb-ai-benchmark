@@ -23,6 +23,12 @@ O fluxo de trabalho padrão inclui:
 
 ## Infraestrutura
 
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

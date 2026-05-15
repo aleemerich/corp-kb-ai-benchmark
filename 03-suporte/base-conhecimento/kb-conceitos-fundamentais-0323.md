@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, KB: Conceitos fundamenta
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -61,6 +64,9 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

@@ -23,6 +23,9 @@ O fluxo de trabalho padrão inclui:
 
 ## Infraestrutura
 
+
+![Sequencia Pagamento](../../assets/img/sequencia-pagamento.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

@@ -22,6 +22,15 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

@@ -25,6 +25,9 @@ Alinhado com as melhores práticas do mercado, Guia de troubleshooting segue pad
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

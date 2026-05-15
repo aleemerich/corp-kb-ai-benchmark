@@ -25,6 +25,9 @@ O investimento contínuo em Deploy v3.1.0 - Plataforma reflete o compromisso da 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

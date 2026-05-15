@@ -25,6 +25,9 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]
@@ -100,6 +103,15 @@ O fluxo de trabalho padrão inclui:
 | 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
 ## Referências
+
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

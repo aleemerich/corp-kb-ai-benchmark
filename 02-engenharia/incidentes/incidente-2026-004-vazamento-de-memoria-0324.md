@@ -23,6 +23,9 @@ Etapas recomendadas:
 
 ## Infraestrutura
 
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

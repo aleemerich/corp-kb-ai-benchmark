@@ -12,6 +12,9 @@ A equipe da AIRich trabalha continuamente na evolução de Deploy v4.1.0 - Mobil
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -59,6 +62,12 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

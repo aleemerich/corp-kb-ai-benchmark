@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Incidente 2026-004: Vaza
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -57,6 +60,9 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

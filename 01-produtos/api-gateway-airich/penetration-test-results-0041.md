@@ -23,6 +23,12 @@ O fluxo de trabalho padrão inclui:
 
 ## Infraestrutura
 
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

@@ -25,6 +25,9 @@ A equipe da AIRich trabalha continuamente na evolução de Deploy v4.0.1 - Mobil
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

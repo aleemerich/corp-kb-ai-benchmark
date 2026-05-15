@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Reembolso: Equipe A segue padrõe
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

@@ -4,4 +4,7 @@ O objetivo deste material é documentar as práticas recomendadas para Script: C
 
 A equipe da AIRich trabalha continuamente na evolução de Script: Checar rate limiting, incorporando feedback e avanços tecnológicos.
 
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
 Para mais informações, consulte a documentação da AIRich.

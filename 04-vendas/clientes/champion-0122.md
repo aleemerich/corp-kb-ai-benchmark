@@ -12,6 +12,9 @@ O investimento contínuo em Champion reflete o compromisso da AIRich com a entre
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

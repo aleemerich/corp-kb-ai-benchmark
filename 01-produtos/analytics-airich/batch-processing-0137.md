@@ -23,6 +23,18 @@ As etapas recomendadas são:
 
 ## Infraestrutura
 
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

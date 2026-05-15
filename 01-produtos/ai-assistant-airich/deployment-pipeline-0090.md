@@ -22,6 +22,9 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

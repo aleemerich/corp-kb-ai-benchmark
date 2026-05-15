@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Campanha: Retargeting segue padr�
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

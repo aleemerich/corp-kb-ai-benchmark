@@ -22,6 +22,15 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

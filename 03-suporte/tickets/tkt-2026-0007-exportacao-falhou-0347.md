@@ -25,6 +25,9 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -99,6 +102,9 @@ Etapas recomendadas:
 | 2.0 | 2026-05-01 | Equipe  | Revisão completa |
 
 ## Referências
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

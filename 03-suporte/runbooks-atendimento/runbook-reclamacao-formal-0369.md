@@ -25,6 +25,9 @@ A equipe da AIRich trabalha continuamente na evolução de Runbook: Reclamacao f
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

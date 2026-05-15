@@ -25,6 +25,9 @@ A equipe de produto da AIRich trabalha continuamente na evolução de Métricas 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

@@ -60,6 +60,18 @@ Etapas recomendadas:
 
 ## Segurança
 
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves
 - **Autorização:** RBAC granular

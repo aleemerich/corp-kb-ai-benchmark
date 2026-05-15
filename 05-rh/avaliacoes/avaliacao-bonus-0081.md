@@ -25,6 +25,9 @@ Alinhado com as melhores práticas do mercado, Avaliacao: Bonus segue padrões e
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

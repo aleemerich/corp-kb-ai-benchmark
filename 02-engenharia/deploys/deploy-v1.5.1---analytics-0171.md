@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Deploy v1.5.1 - Analytics desempen
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

@@ -12,6 +12,9 @@ O investimento contínuo em Rede: Subnet privada reflete o compromisso da AIRich
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -60,6 +63,12 @@ Para executar corretamente:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

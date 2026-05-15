@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Sprint 26.05 - Planejamento desemp
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -60,6 +63,12 @@ Para executar corretamente:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

@@ -12,6 +12,9 @@ A equipe da AIRich trabalha continuamente na evolução de Deploy v2.1.0 - API G
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -54,6 +57,9 @@ O procedimento padrão segue as seguintes etapas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

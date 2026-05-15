@@ -25,6 +25,9 @@ Alinhado com as melhores práticas do mercado, Deploy v2.1.0 - API Gateway segue
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

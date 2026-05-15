@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Logs e monitoramento segue padrõ
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

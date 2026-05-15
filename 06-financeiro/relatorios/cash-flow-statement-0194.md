@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Cash flow statement foi projetado para 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

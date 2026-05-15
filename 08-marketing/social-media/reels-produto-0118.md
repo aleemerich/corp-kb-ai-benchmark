@@ -12,6 +12,9 @@ O investimento contínuo em Reels: Produto reflete o compromisso da AIRich com a
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

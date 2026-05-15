@@ -22,6 +22,15 @@ Para executar este processo corretamente:
 
 ## Infraestrutura
 
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

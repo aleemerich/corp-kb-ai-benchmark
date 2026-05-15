@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Runbook: Debug de CPU alta segue 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

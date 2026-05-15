@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Politica de reembolso foi projetado par
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, GitLab CI integration segue padr�
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário
@@ -63,6 +66,12 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 4. Escalar para o time de SRE se o problema persistir
 
 ## Segurança
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

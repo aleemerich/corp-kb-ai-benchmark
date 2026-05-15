@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Criação de conteúdo desempenha 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

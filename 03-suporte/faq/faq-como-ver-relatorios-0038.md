@@ -22,6 +22,18 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Tela Login](../../assets/img/tela-login.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

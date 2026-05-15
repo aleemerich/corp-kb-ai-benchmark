@@ -22,6 +22,15 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

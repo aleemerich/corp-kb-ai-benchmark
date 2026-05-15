@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Win rate foi estruturado
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

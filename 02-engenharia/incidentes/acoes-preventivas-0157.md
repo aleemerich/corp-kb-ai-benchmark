@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Acoes preventivas foi projetado para su
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

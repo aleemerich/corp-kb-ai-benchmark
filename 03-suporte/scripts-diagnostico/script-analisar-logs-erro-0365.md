@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Script: Analisar logs erro foi projetad
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

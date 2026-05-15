@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Sprint 26.02 - Review foi projetado par
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -54,6 +57,15 @@ O procedimento padrão segue as seguintes etapas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

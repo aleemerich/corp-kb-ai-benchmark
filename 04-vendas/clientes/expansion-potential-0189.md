@@ -12,6 +12,9 @@ A equipe da AIRich trabalha continuamente na evolução de Expansion potential, 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

@@ -23,6 +23,12 @@ O fluxo de trabalho padrão inclui:
 
 ## Infraestrutura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Dashboard Metricas](../../assets/img/dashboard-metricas.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

@@ -12,6 +12,9 @@ O investimento contínuo em Avaliacao: Competencias reflete o compromisso da AIR
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

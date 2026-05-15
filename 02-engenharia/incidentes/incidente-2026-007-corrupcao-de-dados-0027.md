@@ -22,6 +22,12 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

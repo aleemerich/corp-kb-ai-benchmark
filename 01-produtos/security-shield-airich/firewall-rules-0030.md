@@ -22,6 +22,18 @@ Para executar este processo corretamente:
 
 ## Infraestrutura
 
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

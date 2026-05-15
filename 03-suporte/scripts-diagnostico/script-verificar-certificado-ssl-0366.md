@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Script: Verificar certificado SSL 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

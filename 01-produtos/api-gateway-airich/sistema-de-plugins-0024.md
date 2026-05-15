@@ -12,6 +12,9 @@ O investimento contínuo em Sistema de plugins reflete o compromisso da AIRich c
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

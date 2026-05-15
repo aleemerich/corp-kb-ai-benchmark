@@ -12,6 +12,9 @@ O investimento contínuo em Arquitetura de microsservicos reflete o compromisso 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

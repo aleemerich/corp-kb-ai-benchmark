@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Runbook: Verificacao de saude foi proje
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
@@ -61,6 +64,15 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

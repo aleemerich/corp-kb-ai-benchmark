@@ -23,6 +23,9 @@ As etapas recomendadas são:
 
 ## Infraestrutura
 
+
+![Uptime Mensal](../../assets/img/uptime-mensal.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

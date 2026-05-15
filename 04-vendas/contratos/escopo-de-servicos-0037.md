@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Escopo de servicos foi projetado para s
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

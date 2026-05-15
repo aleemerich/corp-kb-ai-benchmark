@@ -22,6 +22,12 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

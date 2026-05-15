@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Template NDA foi projetado para suporta
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

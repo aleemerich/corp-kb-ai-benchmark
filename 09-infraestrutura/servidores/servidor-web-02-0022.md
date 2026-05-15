@@ -12,6 +12,9 @@ A evolução constante do ecossistema AIRich demanda processos bem definidos. Se
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]
@@ -57,6 +60,15 @@ Etapas recomendadas:
 4. Escalar para SRE
 
 ## Segurança
+
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

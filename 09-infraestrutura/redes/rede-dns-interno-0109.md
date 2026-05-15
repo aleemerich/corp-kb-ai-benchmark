@@ -25,6 +25,9 @@ Alinhado com as melhores práticas do mercado, Rede: DNS interno segue padrões 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

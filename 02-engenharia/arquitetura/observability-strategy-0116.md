@@ -12,6 +12,9 @@ O investimento contínuo em Observability strategy reflete o compromisso da AIRi
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

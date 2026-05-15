@@ -23,6 +23,15 @@ As etapas recomendadas são:
 
 ## Infraestrutura
 
+
+![Pipeline Cicd](../../assets/img/pipeline-cicd.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
+
+![Rbac Permissoes](../../assets/img/rbac-permissoes.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

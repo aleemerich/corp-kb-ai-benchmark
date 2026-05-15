@@ -12,6 +12,9 @@ No cenário atual de transformação digital, Runbook: Migracao de dados desempe
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

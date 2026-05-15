@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Marketing budget foi projetado para sup
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

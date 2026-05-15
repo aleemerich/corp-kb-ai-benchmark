@@ -12,6 +12,9 @@ Como parte do programa de melhoria contínua da AIRich, Face ID support foi estr
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

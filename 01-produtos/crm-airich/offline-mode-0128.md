@@ -12,6 +12,9 @@ Como parte da estratégia de inovação da AIRich, Offline mode foi projetado pa
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

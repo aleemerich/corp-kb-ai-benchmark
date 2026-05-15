@@ -25,6 +25,9 @@ A equipe de produto da AIRich trabalha continuamente na evolução de Predictive
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]
@@ -97,6 +100,12 @@ Para executar este processo corretamente:
 | 2.0 | 2026-05-01 | Equipe Produtos | Revisão completa |
 
 ## Referências
+
+
+![Arquitetura Dados](../../assets/img/arquitetura-dados.png)
+
+
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

@@ -23,6 +23,9 @@ As etapas recomendadas são:
 
 ## Infraestrutura
 
+
+![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

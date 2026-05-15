@@ -25,6 +25,9 @@ No cenário atual de transformação digital, Alert manager desempenha um papel 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Proposta: Cliente Beta foi projetado pa
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

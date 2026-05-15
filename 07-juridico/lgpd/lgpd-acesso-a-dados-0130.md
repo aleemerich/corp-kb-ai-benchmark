@@ -12,6 +12,9 @@ O investimento contínuo em LGPD: Acesso a dados reflete o compromisso da AIRich
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

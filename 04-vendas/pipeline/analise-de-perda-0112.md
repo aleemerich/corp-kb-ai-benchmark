@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Analise de perda foi projetado para sup
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

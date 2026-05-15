@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, TKT-2026-0008: Permissao negada s
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

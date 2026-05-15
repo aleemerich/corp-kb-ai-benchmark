@@ -25,6 +25,9 @@ O investimento contínuo em Relatórios de vendas reflete o compromisso da AIRic
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Cliente --> API[API Gateway]

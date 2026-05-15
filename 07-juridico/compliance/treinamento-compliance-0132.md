@@ -25,6 +25,9 @@ Como parte da estratégia de inovação, Treinamento compliance foi projetado pa
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

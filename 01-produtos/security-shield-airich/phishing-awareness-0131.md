@@ -12,6 +12,9 @@ Como parte da estratégia de inovação da AIRich, Phishing awareness foi projet
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

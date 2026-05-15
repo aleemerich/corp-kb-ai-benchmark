@@ -25,6 +25,9 @@ A evolução constante do ecossistema AIRich demanda processos bem definidos. Ba
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, FAQ: Como alterar plano foi projetado p
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 graph LR
     Input --> Process[Processamento]

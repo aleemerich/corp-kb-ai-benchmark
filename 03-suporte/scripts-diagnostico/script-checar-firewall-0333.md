@@ -22,6 +22,15 @@ Para executar corretamente:
 
 ## Infraestrutura
 
+
+![Camadas Seguranca](../../assets/img/camadas-seguranca.png)
+
+
+![Paineis Relatorios](../../assets/img/paineis-relatorios.png)
+
+
+![Topologia Rede](../../assets/img/topologia-rede.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

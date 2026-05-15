@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Deploy v3.1.1 - Plataforma foi projetad
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

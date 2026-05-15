@@ -4,4 +4,7 @@ Este manual operacional descreve os processos e responsabilidades de Qualificaç
 
 Como parte do programa de melhoria contínua da AIRich, Qualificação de leads foi estruturado para atender às necessidades de escalabilidade, segurança e performance exigidas pelo mercado.
 
+![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+
+
 Para mais informações, consulte a documentação completa da AIRich Tecnologia.

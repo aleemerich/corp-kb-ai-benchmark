@@ -23,6 +23,9 @@ Etapas recomendadas:
 
 ## Infraestrutura
 
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|
 | Disponibilidade | 99.95% | 99.97% | ↑ |

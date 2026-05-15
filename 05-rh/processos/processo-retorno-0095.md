@@ -12,6 +12,9 @@ Como parte da estratégia de inovação, Processo: Retorno foi projetado para su
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

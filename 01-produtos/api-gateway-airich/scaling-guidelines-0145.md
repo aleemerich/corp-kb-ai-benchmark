@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Scaling guidelines segue padrões
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

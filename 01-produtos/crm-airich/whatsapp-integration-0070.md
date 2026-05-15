@@ -12,6 +12,9 @@ O investimento contínuo em WhatsApp integration reflete o compromisso da AIRich
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise de Requisitos]

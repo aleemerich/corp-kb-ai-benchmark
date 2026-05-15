@@ -12,6 +12,9 @@ O investimento contínuo em Integração OAuth2 reflete o compromisso da AIRich 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

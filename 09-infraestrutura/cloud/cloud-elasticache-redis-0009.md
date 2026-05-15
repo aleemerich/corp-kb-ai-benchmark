@@ -22,6 +22,12 @@ O procedimento padrão segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Infraestrutura Cloud](../../assets/img/infraestrutura-cloud.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|
 | Backend | Python | 3.12 | Lógica de negócio |

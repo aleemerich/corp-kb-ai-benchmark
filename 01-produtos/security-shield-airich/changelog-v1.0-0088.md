@@ -25,6 +25,9 @@ Como parte da estratégia de inovação da AIRich, Changelog v1.0 foi projetado 
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 sequenceDiagram
     participant U as Usuário

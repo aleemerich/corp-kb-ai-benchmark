@@ -22,6 +22,12 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 
 ## Infraestrutura
 
+
+![Crescimento Usuarios](../../assets/img/crescimento-usuarios.png)
+
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|
 | Produção | app.airich.com | Ativo | SRE |

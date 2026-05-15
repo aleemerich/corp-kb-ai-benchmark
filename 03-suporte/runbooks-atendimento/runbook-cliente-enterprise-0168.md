@@ -25,6 +25,9 @@ Alinhado com as melhores práticas do mercado, Runbook: Cliente enterprise segue
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]

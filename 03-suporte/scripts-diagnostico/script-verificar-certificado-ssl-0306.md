@@ -12,6 +12,9 @@ Alinhado com as melhores práticas do mercado, Script: Verificar certificado SSL
 
 ## Arquitetura
 
+
+![Plataforma Geral](../../assets/img/plataforma-geral.png)
+
 ```mermaid
 flowchart TD
     A[Início] --> B[Análise]
