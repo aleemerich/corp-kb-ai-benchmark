@@ -1,5 +1,7 @@
 # corp-kb-ai-benchmark
 
+![AIRich Tecnologia](assets/img/logo/airich-logo.png)
+
 > **AIRich Tecnologia** — Base de conhecimento corporativa sintética para benchmark de IA
 
 For English version, [click here](README.en.md).
