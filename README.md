@@ -1,42 +1,42 @@
 # corp-kb-ai-benchmark
 
-> Base de conhecimento corporativa sintética para benchmark de IA
+> Synthetic enterprise knowledge base for AI benchmarking
 
-[English version](README.en.md)
-
----
-
-## Sobre o Projeto
-
-O **corp-kb-ai-benchmark** é uma base de conhecimento sintética que simula o dia a dia de uma empresa de tecnologia brasileira com operações internacionais. Conta com mais de **10.000 documentos em PT-BR** e aproximadamente **6.750 documentos em EN**, totalizando cerca de **16.750 arquivos markdown**.
-
-A base foi criada com mais documentos em **PT-BR** para testar em benchmarks a capacidade de adequação a outras línguas além do EN, ES e FR (línguas mais comuns hoje em dia). Também possui versões em **EN** para comparação e avaliação de desempenho multilíngue.
-
-A base documental inclui:
-
-- Especificações de produto e roadmaps
-- Runbooks de engenharia e suporte
-- Tickets de suporte com scripts de diagnóstico
-- Propostas comerciais e contratos
-- Políticas de RH e compliance
-- Relatórios financeiros
-- Documentos jurídicos e LGPD
-- Campanhas de marketing
-- Documentação de infraestrutura
-- Scripts operacionais em Bash e Python
-- Diagramas, gráficos e ilustrações
+[Versão em Português](README.pt.md)
 
 ---
 
-## Finalidade
+## About the Project
 
-Esta base foi projetada para benchmark de:
+**corp-kb-ai-benchmark** is a synthetic knowledge base that simulates the daily operations of a Brazilian technology company with international operations. It contains over **10,000 documents in PT-BR** and approximately **6,750 documents in EN**, totaling around **16,750 markdown files**.
 
-- **Modelos de IA** — compreensão de contexto longo em PT-BR
-- **Pipelines RAG** — recuperação em base multilíngue desorganizada
-- **Search engines** — busca semântica em PT-BR vs EN
-- **Knowledge management** — organização e classificação automática
-- **Agentes de IA** — navegação, sumarização e cross-reference
+The base was created with more documents in **PT-BR** to test in benchmarks the ability to adapt to languages other than EN, ES, and FR (the most common languages today). It also has **EN** versions for comparison and multilingual performance evaluation.
+
+The document base includes:
+
+- Product specifications and roadmaps
+- Engineering and support runbooks
+- Support tickets with diagnostic scripts
+- Commercial proposals and contracts
+- HR policies and compliance
+- Financial reports
+- Legal documents and LGPD compliance
+- Marketing campaigns
+- Infrastructure documentation
+- Operational scripts in Bash and Python
+- Diagrams, charts, and illustrations
+
+---
+
+## Purpose
+
+This base is designed for benchmarking:
+
+- **AI Models** — long-context understanding in PT-BR
+- **RAG Pipelines** — retrieval in disorganized multilingual base
+- **Search Engines** — semantic search in PT-BR vs EN
+- **Knowledge Management** — automatic organization and classification
+- **AI Agents** — navigation, summarization, and cross-referencing
 
 ---
 
@@ -46,47 +46,47 @@ Esta base foi projetada para benchmark de:
   <img src="assets/img/logo/airich-logo.png" alt="AIRich Tecnologia" width="200">
 </p>
 
-A **AIRich Tecnologia** é uma empresa de tecnologia **fictícia** criada especificamente para este benchmark. Ela simula uma empresa SaaS brasileira com operações internacionais, 10 produtos e 10 departamentos.
+**AIRich Tecnologia** is a **fictional** technology company created specifically for this benchmark. It simulates a Brazilian SaaS company with international operations, 10 products, and 10 departments.
 
-Todos os dados, nomes, métricas e documentos são sintéticos e foram gerados artificialmente. Qualquer semelhança com empresas reais é mera coincidência.
+All data, names, metrics, and documents are synthetic and were artificially generated. Any resemblance to real companies is purely coincidental.
 
-### Estrutura
+### Structure
 
 ```
 corp-kb-ai-benchmark/
-├── 01-produtos/           # 1.500 docs PT-BR + 1.012 EN
-├── 02-engenharia/         # 2.000 docs PT-BR + 1.350 EN
-├── 03-suporte/            # 2.000 docs PT-BR + 1.350 EN
-├── 04-vendas/             # 1.200 docs PT-BR + 810 EN
-├── 05-rh/                 # 800 docs PT-BR + 540 EN
-├── 06-financeiro/         # 800 docs PT-BR + 540 EN
-├── 07-juridico/           # 500 docs PT-BR + 338 EN
-├── 08-marketing/          # 500 docs PT-BR + 338 EN
-├── 09-infraestrutura/     # 500 docs PT-BR + 338 EN
-├── 10-scripts/            # 200 docs PT-BR + 134 EN
+├── 01-produtos/           # 1,500 PT-BR + 1,012 EN docs
+├── 02-engenharia/         # 2,000 PT-BR + 1,350 EN docs
+├── 03-suporte/            # 2,000 PT-BR + 1,350 EN docs
+├── 04-vendas/             # 1,200 PT-BR + 810 EN docs
+├── 05-rh/                 # 800 PT-BR + 540 EN docs
+├── 06-financeiro/         # 800 PT-BR + 540 EN docs
+├── 07-juridico/           # 500 PT-BR + 338 EN docs
+├── 08-marketing/          # 500 PT-BR + 338 EN docs
+├── 09-infraestrutura/     # 500 PT-BR + 338 EN docs
+├── 10-scripts/            # 200 PT-BR + 134 EN docs
 ├── assets/
-│   └── img/               # Imagens e diagramas
+│   └── img/               # Images and diagrams
 └── README.md
 ```
 
-### Distribuição de Tamanhos (PT-BR)
+### Document Size Distribution (PT-BR)
 
-| Categoria | Porcentagem | Faixa de palavras |
-|-----------|------------|-------------------|
-| Curta | 20% | 100-200 |
-| Média | 50% | 300-500 |
-| Longa | 25% | 600+ |
-| Muito longa | 5% | 1500+ |
+| Category | Percentage | Word range |
+|----------|-----------|------------|
+| Short | 20% | 100-200 |
+| Medium | 50% | 300-500 |
+| Long | 25% | 600+ |
+| Very long | 5% | 1500+ |
 
-### Idiomas
+### Languages
 
-- **PT-BR:** 10.000 documentos (base completa)
-- **EN:** 6.750 documentos (67,5% traduzidos)
-- A organização PT/EN varia por departamento para simular inconsistência real
+- **PT-BR:** 10,000 documents (complete base)
+- **EN:** 6,750 documents (67.5% translated)
+- PT/EN organization varies per department to simulate real-world inconsistency
 
-### Produtos
+### Products
 
-1. AIRich Platform — SaaS principal
+1. AIRich Platform — Main SaaS
 2. AIRich API Gateway
 3. AIRich Mobile
 4. AIRich Analytics
@@ -99,6 +99,6 @@ corp-kb-ai-benchmark/
 
 ---
 
-## Licença
+## License
 
-Apache 2.0 — Consulte [LICENSE](LICENSE) para detalhes.
+Apache 2.0 — See [LICENSE](LICENSE) for details.
