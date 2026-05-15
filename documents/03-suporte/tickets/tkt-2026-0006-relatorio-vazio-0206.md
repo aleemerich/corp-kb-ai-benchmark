@@ -56,7 +56,7 @@ O procedimento padrão segue as seguintes etapas:
 ## Segurança
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

@@ -24,16 +24,16 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 
-![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../..//assets/img/infraestrutura-cloud.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

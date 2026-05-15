@@ -4,7 +4,7 @@ Este documento fornece uma visão detalhada sobre Contrato: Beta Inc no ecossist
 
 A equipe da AIRich trabalha continuamente na evolução de Contrato: Beta Inc, incorporando feedback e avanços tecnológicos.
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

@@ -13,7 +13,7 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -61,7 +61,7 @@ O procedimento padrão segue as seguintes etapas:
 ## Segurança
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

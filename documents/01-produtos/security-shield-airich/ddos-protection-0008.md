@@ -23,10 +23,10 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](/assets/img/crescimento-usuarios.png)
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

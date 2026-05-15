@@ -13,7 +13,7 @@ A equipe de produto da AIRich trabalha continuamente na evolução de Sistema de
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

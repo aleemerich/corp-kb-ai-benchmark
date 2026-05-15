@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, LGPD: Treinamento segue padrões 
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -63,13 +63,13 @@ Para executar corretamente:
 ## Segurança
 
 
-![Pipeline Cicd](../../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../..//assets/img/pipeline-cicd.png)
 
 
-![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../..//assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

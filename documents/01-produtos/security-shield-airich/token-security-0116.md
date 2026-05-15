@@ -24,16 +24,16 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 
-![Rbac Permissoes](../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](/assets/img/rbac-permissoes.png)
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

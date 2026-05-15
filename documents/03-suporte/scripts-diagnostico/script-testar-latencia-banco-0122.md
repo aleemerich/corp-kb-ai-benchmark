@@ -24,10 +24,10 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

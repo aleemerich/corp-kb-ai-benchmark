@@ -4,10 +4,10 @@ A seguir, apresentamos as diretrizes e procedimentos relacionados a Runbook: Ren
 
 A equipe da AIRich trabalha continuamente na evolução de Runbook: Renovacao de contrato, incorporando feedback e avanços tecnológicos.
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

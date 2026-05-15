@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Onboarding flow desempenha um pape
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram

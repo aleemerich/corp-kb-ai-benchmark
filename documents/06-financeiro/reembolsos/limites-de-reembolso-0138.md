@@ -23,13 +23,13 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

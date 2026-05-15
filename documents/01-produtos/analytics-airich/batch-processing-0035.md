@@ -24,7 +24,7 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Arquitetura Dados](../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](/assets/img/arquitetura-dados.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

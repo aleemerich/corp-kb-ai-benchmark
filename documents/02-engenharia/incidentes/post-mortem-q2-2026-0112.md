@@ -26,7 +26,7 @@ A equipe da AIRich trabalha continuamente na evolução de Post-mortem: Q2 2026,
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

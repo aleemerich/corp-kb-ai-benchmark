@@ -4,16 +4,16 @@ Este documento fornece uma visão detalhada sobre FAQ: Como resetar senha no eco
 
 A equipe da AIRich trabalha continuamente na evolução de FAQ: Como resetar senha, incorporando feedback e avanços tecnológicos.
 
-![Tela Login](../assets/img/tela-login.png)
+![Tela Login](/assets/img/tela-login.png)
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

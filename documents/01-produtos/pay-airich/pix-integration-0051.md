@@ -23,10 +23,10 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 
-![Sequencia Pagamento](../assets/img/sequencia-pagamento.png)
+![Sequencia Pagamento](/assets/img/sequencia-pagamento.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

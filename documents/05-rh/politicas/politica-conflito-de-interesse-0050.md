@@ -4,10 +4,10 @@ Este documento fornece uma visão detalhada sobre Politica: Conflito de interess
 
 Como parte da estratégia de inovação, Politica: Conflito de interesse foi projetado para suportar o crescimento escalável da plataforma.
 
-![Crescimento Usuarios](../../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../..//assets/img/crescimento-usuarios.png)
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

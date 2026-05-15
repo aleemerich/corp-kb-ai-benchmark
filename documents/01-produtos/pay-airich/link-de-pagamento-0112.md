@@ -23,7 +23,7 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Sequencia Pagamento](../assets/img/sequencia-pagamento.png)
+![Sequencia Pagamento](/assets/img/sequencia-pagamento.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

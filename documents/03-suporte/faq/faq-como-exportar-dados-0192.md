@@ -60,7 +60,7 @@ Para executar corretamente:
 ## Segurança
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

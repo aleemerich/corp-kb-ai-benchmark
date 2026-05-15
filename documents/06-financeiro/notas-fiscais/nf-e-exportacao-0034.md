@@ -13,7 +13,7 @@ O investimento contínuo em NF-e: Exportacao reflete o compromisso da AIRich com
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -65,7 +65,7 @@ Para executar corretamente:
 ## Segurança
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

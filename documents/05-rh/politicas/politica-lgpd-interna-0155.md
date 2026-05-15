@@ -13,7 +13,7 @@ A equipe da AIRich trabalha continuamente na evolução de Politica: LGPD intern
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

@@ -23,10 +23,10 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

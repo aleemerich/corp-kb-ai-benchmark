@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Script: Checar firewall segue pad
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -66,7 +66,7 @@ Etapas recomendadas:
 ## Segurança
 
 
-![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../..//assets/img/camadas-seguranca.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

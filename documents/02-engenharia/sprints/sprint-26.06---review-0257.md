@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Sprint 26.06 - Review desempenha u
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

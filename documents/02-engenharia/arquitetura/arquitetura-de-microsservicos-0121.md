@@ -23,10 +23,10 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Microservicos Detalhada](../assets/img/microservicos-detalhada.png)
+![Microservicos Detalhada](/assets/img/microservicos-detalhada.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

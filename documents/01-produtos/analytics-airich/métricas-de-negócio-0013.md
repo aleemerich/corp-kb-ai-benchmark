@@ -13,7 +13,7 @@ Como parte do programa de melhoria contínua da AIRich, Métricas de negócio fo
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -66,10 +66,10 @@ Para executar este processo corretamente:
 ## Segurança
 
 
-![Pipeline Cicd](../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](/assets/img/pipeline-cicd.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

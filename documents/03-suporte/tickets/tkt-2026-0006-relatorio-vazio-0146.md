@@ -24,7 +24,7 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

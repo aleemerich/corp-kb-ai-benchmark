@@ -60,13 +60,13 @@ O procedimento padrão segue as seguintes etapas:
 ## Segurança
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 
-![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../..//assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

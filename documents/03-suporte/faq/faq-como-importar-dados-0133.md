@@ -23,16 +23,16 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Arquitetura Dados](../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](/assets/img/arquitetura-dados.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 
-![Paineis Relatorios](../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](/assets/img/paineis-relatorios.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

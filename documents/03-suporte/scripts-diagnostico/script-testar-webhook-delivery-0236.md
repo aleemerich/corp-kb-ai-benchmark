@@ -4,13 +4,13 @@ Este guia técnico aborda os aspectos fundamentais de Script: Testar webhook del
 
 No cenário atual de transformação digital, Script: Testar webhook delivery desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../..//assets/img/rbac-permissoes.png)
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

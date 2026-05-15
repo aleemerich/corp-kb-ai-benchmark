@@ -23,10 +23,10 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

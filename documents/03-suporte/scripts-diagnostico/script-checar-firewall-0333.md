@@ -23,13 +23,13 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../..//assets/img/camadas-seguranca.png)
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

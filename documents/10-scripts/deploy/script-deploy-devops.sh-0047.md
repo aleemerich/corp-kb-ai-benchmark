@@ -23,16 +23,16 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Pipeline Cicd](../../../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](../..//assets/img/pipeline-cicd.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

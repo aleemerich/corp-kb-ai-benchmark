@@ -26,7 +26,7 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -100,13 +100,13 @@ Etapas recomendadas:
 ## Referências
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
-![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../..//assets/img/camadas-seguranca.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

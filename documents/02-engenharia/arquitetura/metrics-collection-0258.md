@@ -23,16 +23,16 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Uptime Mensal](../assets/img/uptime-mensal.png)
+![Uptime Mensal](/assets/img/uptime-mensal.png)
 
 
-![Paineis Relatorios](../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](/assets/img/paineis-relatorios.png)
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

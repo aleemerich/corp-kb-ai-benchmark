@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Incidente 2026-009: Certificado expirad
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

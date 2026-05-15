@@ -4,10 +4,10 @@ O objetivo deste material é documentar as práticas recomendadas para TKT-2026-
 
 No cenário atual de transformação digital, TKT-2026-0019: Dados perdidos desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
-![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../..//assets/img/rbac-permissoes.png)
 
 
-![Arquitetura Dados](../../../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](../..//assets/img/arquitetura-dados.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

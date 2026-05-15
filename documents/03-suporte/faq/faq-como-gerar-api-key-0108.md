@@ -23,10 +23,10 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Paineis Relatorios](../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](/assets/img/paineis-relatorios.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

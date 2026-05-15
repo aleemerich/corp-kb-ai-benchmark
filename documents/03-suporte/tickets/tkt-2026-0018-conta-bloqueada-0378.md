@@ -13,7 +13,7 @@ O investimento contínuo em TKT-2026-0018: Conta bloqueada reflete o compromisso
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

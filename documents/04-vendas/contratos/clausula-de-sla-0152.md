@@ -4,7 +4,7 @@ A seguir, apresentamos as diretrizes e procedimentos relacionados a Clausula de 
 
 A evolução constante do ecossistema AIRich demanda processos bem definidos. Clausula de SLA foi documentado para orientar as equipes.
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

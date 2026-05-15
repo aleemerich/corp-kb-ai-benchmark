@@ -24,7 +24,7 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

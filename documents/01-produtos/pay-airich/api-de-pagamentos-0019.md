@@ -24,10 +24,10 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Sequencia Pagamento](../assets/img/sequencia-pagamento.png)
+![Sequencia Pagamento](/assets/img/sequencia-pagamento.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

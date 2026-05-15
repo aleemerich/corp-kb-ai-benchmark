@@ -26,7 +26,7 @@ No cenário atual de transformação digital, Model evaluation metrics desempenh
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -103,10 +103,10 @@ As etapas recomendadas são:
 ## Referências
 
 
-![Rbac Permissoes](../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](/assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

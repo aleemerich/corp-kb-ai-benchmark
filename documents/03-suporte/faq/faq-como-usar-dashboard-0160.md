@@ -4,7 +4,7 @@ Este guia técnico aborda os aspectos fundamentais de FAQ: Como usar dashboard n
 
 No cenário atual de transformação digital, FAQ: Como usar dashboard desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
-![Rbac Permissoes](../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](/assets/img/rbac-permissoes.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

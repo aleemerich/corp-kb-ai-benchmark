@@ -26,7 +26,7 @@ No cenário atual de transformação digital, Precificacao de servicos desempenh
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -101,13 +101,13 @@ O procedimento padrão segue as seguintes etapas:
 ## Referências
 
 
-![Camadas Seguranca](../../../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](../..//assets/img/camadas-seguranca.png)
 
 
-![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../..//assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

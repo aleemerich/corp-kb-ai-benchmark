@@ -13,7 +13,7 @@ Como parte da estratégia de inovação da AIRich, Integração com telefonia fo
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram
@@ -68,7 +68,7 @@ Para executar este processo corretamente:
 ## Segurança
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

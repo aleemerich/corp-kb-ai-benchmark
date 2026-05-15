@@ -23,16 +23,16 @@ O procedimento padrão segue as seguintes etapas:
 ## Infraestrutura
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

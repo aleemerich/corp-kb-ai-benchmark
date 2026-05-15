@@ -26,7 +26,7 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -105,13 +105,13 @@ As etapas recomendadas são:
 ## Referências
 
 
-![Uptime Mensal](../assets/img/uptime-mensal.png)
+![Uptime Mensal](/assets/img/uptime-mensal.png)
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

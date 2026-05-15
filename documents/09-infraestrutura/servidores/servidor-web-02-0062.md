@@ -4,7 +4,7 @@ O objetivo deste material é documentar as práticas recomendadas para Servidor:
 
 A equipe da AIRich trabalha continuamente na evolução de Servidor: web-02, incorporando feedback e avanços tecnológicos.
 
-![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../..//assets/img/infraestrutura-cloud.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

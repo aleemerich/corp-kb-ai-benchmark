@@ -24,10 +24,10 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 
-![Pipeline Cicd](../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](/assets/img/pipeline-cicd.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

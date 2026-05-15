@@ -13,7 +13,7 @@ Como parte do programa de melhoria contínua da AIRich, Instalacao: Ubuntu 24.04
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

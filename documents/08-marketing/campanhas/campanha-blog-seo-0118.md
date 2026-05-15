@@ -13,7 +13,7 @@ O investimento contínuo em Campanha: Blog SEO reflete o compromisso da AIRich c
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

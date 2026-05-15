@@ -4,7 +4,7 @@ Este manual operacional descreve os processos e responsabilidades de Post-mortem
 
 No cenário atual de transformação digital, Post-mortem: Q2 2026 desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

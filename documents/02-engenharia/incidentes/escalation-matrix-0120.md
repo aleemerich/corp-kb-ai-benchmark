@@ -13,7 +13,7 @@ O investimento contínuo em Escalation matrix reflete o compromisso da AIRich co
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

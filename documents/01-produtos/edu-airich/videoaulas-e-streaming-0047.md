@@ -13,7 +13,7 @@ O investimento contínuo em Videoaulas e streaming reflete o compromisso da AIRi
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram
@@ -68,7 +68,7 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Segurança
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

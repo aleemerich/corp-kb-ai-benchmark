@@ -24,16 +24,16 @@ O fluxo de trabalho padrão inclui:
 ## Infraestrutura
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 
-![Arquitetura Dados](../assets/img/arquitetura-dados.png)
+![Arquitetura Dados](/assets/img/arquitetura-dados.png)
 
 
-![Pipeline Cicd](../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](/assets/img/pipeline-cicd.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

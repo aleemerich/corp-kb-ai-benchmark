@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Ambiente de staging desempenha um 
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

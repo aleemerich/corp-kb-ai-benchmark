@@ -26,7 +26,7 @@ A AIRich Tecnologia mantém um compromisso contínuo com a excelência operacion
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

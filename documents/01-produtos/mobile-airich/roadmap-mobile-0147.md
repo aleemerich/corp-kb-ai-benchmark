@@ -24,10 +24,10 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](/assets/img/crescimento-usuarios.png)
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

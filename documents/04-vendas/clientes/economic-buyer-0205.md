@@ -26,7 +26,7 @@ A evolução constante do ecossistema AIRich demanda processos bem definidos. Ec
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -97,7 +97,7 @@ Para executar corretamente:
 ## Referências
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Runbook: Investigacao de erro 500 foi p
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

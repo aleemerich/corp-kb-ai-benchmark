@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Quizzes e avaliações segue padr
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR
@@ -64,10 +64,10 @@ Para executar este processo corretamente:
 ## Segurança
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

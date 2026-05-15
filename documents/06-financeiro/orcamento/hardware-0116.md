@@ -99,10 +99,10 @@ Etapas recomendadas:
 ## Referências
 
 
-![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../..//assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich
 2. Guia de arquitetura v3.0

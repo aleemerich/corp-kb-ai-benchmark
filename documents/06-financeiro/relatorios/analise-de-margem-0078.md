@@ -13,7 +13,7 @@ O investimento contínuo em Analise de margem reflete o compromisso da AIRich co
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

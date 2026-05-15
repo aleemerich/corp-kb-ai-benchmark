@@ -24,10 +24,10 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 
-![Sequencia Pagamento](../assets/img/sequencia-pagamento.png)
+![Sequencia Pagamento](/assets/img/sequencia-pagamento.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

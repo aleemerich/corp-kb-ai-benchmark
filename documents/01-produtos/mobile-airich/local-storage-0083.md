@@ -26,7 +26,7 @@ Alinhado com as melhores práticas do mercado, Local storage segue padrões esta
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -106,10 +106,10 @@ O procedimento padrão para esta atividade segue as seguintes etapas:
 ## Referências
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 1. Documentação interna AIRich — Confluence
 2. Guia de arquitetura AIRich v3.0

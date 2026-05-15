@@ -26,7 +26,7 @@ O investimento contínuo em Modelagem dimensional reflete o compromisso da AIRic
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

@@ -23,10 +23,10 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../..//assets/img/infraestrutura-cloud.png)
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

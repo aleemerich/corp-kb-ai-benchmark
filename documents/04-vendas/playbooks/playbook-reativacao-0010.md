@@ -26,7 +26,7 @@ No cenário atual de transformação digital, Playbook: Reativacao desempenha um
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

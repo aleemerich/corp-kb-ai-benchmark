@@ -23,7 +23,7 @@ Para executar este processo corretamente:
 ## Infraestrutura
 
 
-![Pipeline Cicd](../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](/assets/img/pipeline-cicd.png)
 
 | Componente | Tecnologia | Versão | Propósito |
 |------------|------------|--------|----------|

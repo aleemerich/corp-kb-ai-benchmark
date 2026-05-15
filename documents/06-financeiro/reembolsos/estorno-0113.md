@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Estorno desempenha um papel fundam
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

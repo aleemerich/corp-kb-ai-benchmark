@@ -4,7 +4,7 @@ Este guia técnico aborda os aspectos fundamentais de Incidente 2026-001: Indisp
 
 Alinhado com as melhores práticas do mercado, Incidente 2026-001: Indisponibilidade API segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

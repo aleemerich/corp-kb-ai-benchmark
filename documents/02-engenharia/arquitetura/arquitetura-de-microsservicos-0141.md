@@ -13,7 +13,7 @@ O investimento contínuo em Arquitetura de microsservicos reflete o compromisso 
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD
@@ -65,13 +65,13 @@ O procedimento padrão segue as seguintes etapas:
 ## Segurança
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 
-![Microservicos Detalhada](../assets/img/microservicos-detalhada.png)
+![Microservicos Detalhada](/assets/img/microservicos-detalhada.png)
 
 - **Transporte:** TLS 1.3 obrigatório
 - **Autenticação:** JWT com rotação de chaves

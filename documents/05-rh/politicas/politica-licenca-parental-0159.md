@@ -26,7 +26,7 @@ Como parte da estratégia de inovação, Politica: Licenca parental foi projetad
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

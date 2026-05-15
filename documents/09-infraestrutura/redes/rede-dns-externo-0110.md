@@ -13,7 +13,7 @@ A equipe da AIRich trabalha continuamente na evolução de Rede: DNS externo, in
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

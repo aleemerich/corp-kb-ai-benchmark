@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Anexo tecnico foi projetado para suport
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

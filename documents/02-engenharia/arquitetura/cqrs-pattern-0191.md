@@ -24,13 +24,13 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Crescimento Usuarios](../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](/assets/img/crescimento-usuarios.png)
 
 
-![Paineis Relatorios](../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](/assets/img/paineis-relatorios.png)
 
 
-![Topologia Rede](../assets/img/topologia-rede.png)
+![Topologia Rede](/assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

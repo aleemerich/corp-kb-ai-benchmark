@@ -4,7 +4,7 @@ O presente documento tem como objetivo apresentar Sprint 26.05 - Review para as 
 
 Alinhado com as melhores práticas do mercado, Sprint 26.05 - Review segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-![Pipeline Cicd](../assets/img/pipeline-cicd.png)
+![Pipeline Cicd](/assets/img/pipeline-cicd.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

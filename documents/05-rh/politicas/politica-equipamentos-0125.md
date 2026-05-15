@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, Politica: Equipamentos segue padr
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

@@ -4,7 +4,7 @@ Este documento descreve Incidente 2026-008: Ataque DDoS no contexto da AIRich Te
 
 Alinhado com as melhores práticas do mercado, Incidente 2026-008: Ataque DDoS segue padrões estabelecidos pelas equipes da AIRich Tecnologia.
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

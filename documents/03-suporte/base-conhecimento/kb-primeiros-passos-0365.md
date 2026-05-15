@@ -13,7 +13,7 @@ Alinhado com as melhores práticas do mercado, KB: Primeiros passos segue padrõ
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

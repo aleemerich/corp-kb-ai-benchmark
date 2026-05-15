@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Offline mode desempenha um papel f
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 sequenceDiagram
@@ -69,13 +69,13 @@ As etapas recomendadas são:
 ## Segurança
 
 
-![Camadas Seguranca](../assets/img/camadas-seguranca.png)
+![Camadas Seguranca](/assets/img/camadas-seguranca.png)
 
 
-![Rbac Permissoes](../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](/assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 - **Transporte:** TLS 1.3 obrigatório para todas as comunicações
 - **Autenticação:** JWT com rotação automática de chaves

@@ -4,10 +4,10 @@ Este manual operacional descreve os processos e responsabilidades de Calendario 
 
 O investimento contínuo em Calendario editorial: Jan reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
 
-![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../..//assets/img/rbac-permissoes.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

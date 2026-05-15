@@ -4,10 +4,10 @@ Este manual operacional descreve os processos e responsabilidades de Post: Twitt
 
 Como parte da estratégia de inovação, Post: Twitter 002 foi projetado para suportar o crescimento escalável da plataforma.
 
-![Fluxo Autenticacao](../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](..//assets/img/fluxo-autenticacao.png)
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](..//assets/img/plataforma-geral.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

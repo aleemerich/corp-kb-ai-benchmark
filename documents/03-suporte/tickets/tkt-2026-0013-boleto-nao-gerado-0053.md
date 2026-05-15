@@ -13,7 +13,7 @@ No cenário atual de transformação digital, TKT-2026-0013: Boleto nao gerado d
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

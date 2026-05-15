@@ -4,10 +4,10 @@ A seguir, apresentamos as diretrizes e procedimentos relacionados a Rede: Direct
 
 O investimento contínuo em Rede: Direct connect reflete o compromisso da AIRich com a entrega de soluções de alta qualidade.
 
-![Infraestrutura Cloud](../../../assets/img/infraestrutura-cloud.png)
+![Infraestrutura Cloud](../..//assets/img/infraestrutura-cloud.png)
 
 
-![Fluxo Autenticacao](../../../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](../..//assets/img/fluxo-autenticacao.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

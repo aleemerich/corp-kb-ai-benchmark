@@ -24,10 +24,10 @@ As etapas recomendadas são:
 ## Infraestrutura
 
 
-![Fluxo Autenticacao](../assets/img/fluxo-autenticacao.png)
+![Fluxo Autenticacao](/assets/img/fluxo-autenticacao.png)
 
 
-![Paineis Relatorios](../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](/assets/img/paineis-relatorios.png)
 
 | Ambiente | URL | Status | Responsável |
 |---------|-----|--------|-----------|

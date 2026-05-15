@@ -13,7 +13,7 @@ A equipe da AIRich trabalha continuamente na evolução de Playbook: Demo, incor
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 graph LR

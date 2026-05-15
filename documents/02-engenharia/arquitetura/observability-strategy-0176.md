@@ -13,7 +13,7 @@ A evolução constante do ecossistema AIRich demanda processos bem definidos. Ob
 ## Arquitetura
 
 
-![Plataforma Geral](../assets/img/plataforma-geral.png)
+![Plataforma Geral](/assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

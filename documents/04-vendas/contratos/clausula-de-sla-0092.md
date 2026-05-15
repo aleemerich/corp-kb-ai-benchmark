@@ -4,10 +4,10 @@ Esta especificação técnica define os requisitos e procedimentos para Clausula
 
 Como parte do programa de melhoria contínua da AIRich, Clausula de SLA foi estruturado para atender às necessidades de escalabilidade e segurança.
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 
 Para mais informações, consulte a documentação da AIRich.

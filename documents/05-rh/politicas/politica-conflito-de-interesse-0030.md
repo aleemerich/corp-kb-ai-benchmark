@@ -13,7 +13,7 @@ Como parte da estratégia de inovação, Politica: Conflito de interesse foi pro
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

@@ -23,10 +23,10 @@ Para executar corretamente:
 ## Infraestrutura
 
 
-![Dashboard Metricas](../../../assets/img/dashboard-metricas.png)
+![Dashboard Metricas](../..//assets/img/dashboard-metricas.png)
 
 
-![Topologia Rede](../../../assets/img/topologia-rede.png)
+![Topologia Rede](../..//assets/img/topologia-rede.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

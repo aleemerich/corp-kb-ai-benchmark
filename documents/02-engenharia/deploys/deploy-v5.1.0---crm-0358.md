@@ -13,7 +13,7 @@ No cenário atual de transformação digital, Deploy v5.1.0 - CRM desempenha um 
 ## Arquitetura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

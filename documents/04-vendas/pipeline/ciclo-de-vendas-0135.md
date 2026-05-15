@@ -24,13 +24,13 @@ Etapas recomendadas:
 ## Infraestrutura
 
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Crescimento Usuarios](../../../assets/img/crescimento-usuarios.png)
+![Crescimento Usuarios](../..//assets/img/crescimento-usuarios.png)
 
 
-![Paineis Relatorios](../../../assets/img/paineis-relatorios.png)
+![Paineis Relatorios](../..//assets/img/paineis-relatorios.png)
 
 | Métrica | Meta | Atual | Tendência |
 |------|------|-------|----------|

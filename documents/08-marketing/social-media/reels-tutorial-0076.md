@@ -13,7 +13,7 @@ O investimento contínuo em Reels: Tutorial reflete o compromisso da AIRich com 
 ## Arquitetura
 
 
-![Plataforma Geral](../../assets/img/plataforma-geral.png)
+![Plataforma Geral](..//assets/img/plataforma-geral.png)
 
 ```mermaid
 flowchart TD

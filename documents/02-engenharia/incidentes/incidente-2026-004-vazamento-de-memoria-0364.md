@@ -4,13 +4,13 @@ A seguir, apresentamos as diretrizes e procedimentos relacionados a Incidente 20
 
 No cenário atual de transformação digital, Incidente 2026-004: Vazamento de memoria desempenha um papel fundamental na capacidade da AIRich de entregar valor aos seus clientes.
 
-![Plataforma Geral](../../../assets/img/plataforma-geral.png)
+![Plataforma Geral](../..//assets/img/plataforma-geral.png)
 
 
-![Uptime Mensal](../../../assets/img/uptime-mensal.png)
+![Uptime Mensal](../..//assets/img/uptime-mensal.png)
 
 
-![Rbac Permissoes](../../../assets/img/rbac-permissoes.png)
+![Rbac Permissoes](../..//assets/img/rbac-permissoes.png)
 
 
 Para mais informações, consulte a documentação da AIRich.
