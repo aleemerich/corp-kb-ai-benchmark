@@ -1,14 +1,16 @@
 # corp-kb-ai-benchmark
 
-![AIRich Tecnologia](assets/img/logo/airich-logo.png)
+> Synthetic enterprise knowledge base for AI benchmarking
 
-> **AIRich Tecnologia** — Synthetic enterprise knowledge base for AI benchmarking
+[Versão em Português](README.md)
+
+---
 
 ## About the Project
 
 **corp-kb-ai-benchmark** is a synthetic knowledge base that simulates the daily operations of a Brazilian technology company with international operations. It contains over **10,000 documents in PT-BR** and approximately **6,750 documents in EN**, totaling around **16,750 markdown files**.
 
-AIRich Tecnologia is a fictional company with 10 products, 10 departments, and a document base that includes:
+The document base includes:
 
 - Product specifications and roadmaps
 - Engineering and support runbooks
@@ -20,8 +22,33 @@ AIRich Tecnologia is a fictional company with 10 products, 10 departments, and a
 - Marketing campaigns
 - Infrastructure documentation
 - Operational scripts in Bash and Python
+- Diagrams, charts, and illustrations
 
-## Structure
+---
+
+## Purpose
+
+This base is designed for benchmarking:
+
+- **AI Models** — long-context understanding in PT-BR
+- **RAG Pipelines** — retrieval in disorganized multilingual base
+- **Search Engines** — semantic search in PT-BR vs EN
+- **Knowledge Management** — automatic organization and classification
+- **AI Agents** — navigation, summarization, and cross-referencing
+
+---
+
+## AIRich Tecnologia
+
+<p align="center">
+  <img src="assets/img/logo/airich-logo.png" alt="AIRich Tecnologia" width="200">
+</p>
+
+**AIRich Tecnologia** is a **fictional** technology company created specifically for this benchmark. It simulates a Brazilian SaaS company with international operations, 10 products, and 10 departments.
+
+All data, names, metrics, and documents are synthetic and were artificially generated. Any resemblance to real companies is purely coincidental.
+
+### Structure
 
 ```
 corp-kb-ai-benchmark/
@@ -36,11 +63,11 @@ corp-kb-ai-benchmark/
 ├── 09-infraestrutura/     # 500 PT-BR + 338 EN docs
 ├── 10-scripts/            # 200 PT-BR + 134 EN docs
 ├── assets/
-│   └── img/               # Locally downloaded images
+│   └── img/               # Images and diagrams
 └── README.md
 ```
 
-## Document Size Distribution (PT-BR)
+### Document Size Distribution (PT-BR)
 
 | Category | Percentage | Word range |
 |----------|-----------|------------|
@@ -49,13 +76,13 @@ corp-kb-ai-benchmark/
 | Long | 25% | 600+ |
 | Very long | 5% | 1500+ |
 
-## Languages
+### Languages
 
 - **PT-BR:** 10,000 documents (complete base)
 - **EN:** 6,750 documents (67.5% translated)
 - PT/EN organization varies per department to simulate real-world inconsistency
 
-## AIRich Products
+### Products
 
 1. AIRich Platform — Main SaaS
 2. AIRich API Gateway
@@ -68,15 +95,7 @@ corp-kb-ai-benchmark/
 9. AIRich Pay
 10. AIRich Edu
 
-## Benchmark Use Cases
-
-This base can be used to test:
-
-- **AI Models** — long-context understanding in PT-BR
-- **RAG Pipelines** — retrieval in disorganized multilingual base
-- **Search Engines** — semantic search in PT-BR vs EN
-- **Knowledge Management** — automatic organization and classification
-- **AI Agents** — navigation, summarization, and cross-referencing
+---
 
 ## License
 
