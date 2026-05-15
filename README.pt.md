@@ -54,19 +54,22 @@ Todos os dados, nomes, métricas e documentos são sintéticos e foram gerados a
 
 ```
 corp-kb-ai-benchmark/
-├── 01-produtos/           # 1.500 docs PT-BR + 1.012 EN
-├── 02-engenharia/         # 2.000 docs PT-BR + 1.350 EN
-├── 03-suporte/            # 2.000 docs PT-BR + 1.350 EN
-├── 04-vendas/             # 1.200 docs PT-BR + 810 EN
-├── 05-rh/                 # 800 docs PT-BR + 540 EN
-├── 06-financeiro/         # 800 docs PT-BR + 540 EN
-├── 07-juridico/           # 500 docs PT-BR + 338 EN
-├── 08-marketing/          # 500 docs PT-BR + 338 EN
-├── 09-infraestrutura/     # 500 docs PT-BR + 338 EN
-├── 10-scripts/            # 200 docs PT-BR + 134 EN
+├── benchmarks/            # Resultados de benchmarks e avaliações
+├── documents/             # Todos os documentos sintéticos
+│   ├── 01-produtos/       # 1.500 docs PT-BR + 1.012 EN
+│   ├── 02-engenharia/     # 2.000 docs PT-BR + 1.350 EN
+│   ├── 03-suporte/        # 2.000 docs PT-BR + 1.350 EN
+│   ├── 04-vendas/         # 1.200 docs PT-BR + 810 EN
+│   ├── 05-rh/             # 800 docs PT-BR + 540 EN
+│   ├── 06-financeiro/     # 800 docs PT-BR + 540 EN
+│   ├── 07-juridico/       # 500 docs PT-BR + 338 EN
+│   ├── 08-marketing/      # 500 docs PT-BR + 338 EN
+│   ├── 09-infraestrutura/ # 500 docs PT-BR + 338 EN
+│   └── 10-scripts/        # 200 docs PT-BR + 134 EN
 ├── assets/
-│   └── img/               # Imagens e diagramas
-└── README.md
+│   └── img/               # Imagens, diagramas e logo
+├── README.md              # Principal (Inglês)
+└── README.pt.md           # Versão em Português
 ```
 
 ### Distribuição de Tamanhos (PT-BR)

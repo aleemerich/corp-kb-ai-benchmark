@@ -54,19 +54,22 @@ All data, names, metrics, and documents are synthetic and were artificially gene
 
 ```
 corp-kb-ai-benchmark/
-├── 01-produtos/           # 1,500 PT-BR + 1,012 EN docs
-├── 02-engenharia/         # 2,000 PT-BR + 1,350 EN docs
-├── 03-suporte/            # 2,000 PT-BR + 1,350 EN docs
-├── 04-vendas/             # 1,200 PT-BR + 810 EN docs
-├── 05-rh/                 # 800 PT-BR + 540 EN docs
-├── 06-financeiro/         # 800 PT-BR + 540 EN docs
-├── 07-juridico/           # 500 PT-BR + 338 EN docs
-├── 08-marketing/          # 500 PT-BR + 338 EN docs
-├── 09-infraestrutura/     # 500 PT-BR + 338 EN docs
-├── 10-scripts/            # 200 PT-BR + 134 EN docs
+├── benchmarks/            # Benchmark results and evaluations
+├── documents/             # All synthetic documents
+│   ├── 01-produtos/       # 1,500 PT-BR + 1,012 EN docs
+│   ├── 02-engenharia/     # 2,000 PT-BR + 1,350 EN docs
+│   ├── 03-suporte/        # 2,000 PT-BR + 1,350 EN docs
+│   ├── 04-vendas/         # 1,200 PT-BR + 810 EN docs
+│   ├── 05-rh/             # 800 PT-BR + 540 EN docs
+│   ├── 06-financeiro/     # 800 PT-BR + 540 EN docs
+│   ├── 07-juridico/       # 500 PT-BR + 338 EN docs
+│   ├── 08-marketing/      # 500 PT-BR + 338 EN docs
+│   ├── 09-infraestrutura/ # 500 PT-BR + 338 EN docs
+│   └── 10-scripts/        # 200 PT-BR + 134 EN docs
 ├── assets/
-│   └── img/               # Images and diagrams
-└── README.md
+│   └── img/               # Images, diagrams, and logo
+├── README.md              # Main (English)
+└── README.pt.md           # Portuguese version
 ```
 
 ### Document Size Distribution (PT-BR)
