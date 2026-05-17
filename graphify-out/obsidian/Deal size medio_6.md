@@ -1,0 +1,26 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/deal-size-medio-0114.md"
+type: "document"
+community: "Vendas"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Vendas
+---
+
+# Deal size medio
+
+## Connections
+- [[Deal size medio_1]] - `covers_topic` [EXTRACTED]
+- [[Idioma PT]] - `written_in` [EXTRACTED]
+- [[Infraestrutura]] - `has_section` [EXTRACTED]
+- [[Kubernetes]] - `measures` [EXTRACTED]
+- [[PostgreSQL]] - `measures` [EXTRACTED]
+- [[Procedimento]] - `has_section` [EXTRACTED]
+- [[Python]] - `measures` [EXTRACTED]
+- [[RabbitMQ]] - `measures` [EXTRACTED]
+- [[Vendas]] - `about_product` [EXTRACTED]
+- [[Visão Geral]] - `has_section` [EXTRACTED]
+- [[Data 2026-06-02]] - `belongs_to_dept` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Vendas

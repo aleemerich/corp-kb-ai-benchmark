@@ -1,0 +1,17 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/en/playbook-proposta-0164.md"
+type: "document"
+community: "Vendas"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Vendas
+---
+
+# Playbook: Proposta
+
+## Connections
+- [[Idioma PT]] - `written_in` [EXTRACTED]
+- [[Playbook Proposta_1]] - `covers_topic` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Vendas

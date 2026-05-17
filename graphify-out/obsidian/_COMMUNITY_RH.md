@@ -1,0 +1,241 @@
+---
+type: community
+cohesion: 0.05
+members: 61
+---
+
+# RH
+
+**Cohesion:** 0.05 - loosely connected
+**Members:** 61 nodes
+
+## Members
+- [[Avaliacao Ciclo 2026-1]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0001.md
+- [[Avaliacao Ciclo 2026-1_2]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0022.md
+- [[Avaliacao Ciclo 2026-1_5]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0085.md
+- [[Avaliacao Ciclo 2026-1_6]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0106.md
+- [[Avaliacao Ciclo 2026-1_7]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0127.md
+- [[Avaliacao Ciclo 2026-1_8]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0148.md
+- [[Avaliacao Ciclo 2026-1_9]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0169.md
+- [[Avaliacao Ciclo 2026-1_10]] - document - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0190.md
+- [[Avaliacao Ciclo 2026-1_1]] - rationale - 05-rh/avaliacoes/avaliacao-ciclo-2026-1-0001.md
+- [[Avaliacao Comportamental]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0009.md
+- [[Avaliacao Comportamental_2]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0030.md
+- [[Avaliacao Comportamental_3]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0051.md
+- [[Avaliacao Comportamental_4]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0072.md
+- [[Avaliacao Comportamental_7]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0135.md
+- [[Avaliacao Comportamental_8]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0156.md
+- [[Avaliacao Comportamental_9]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0177.md
+- [[Avaliacao Comportamental_10]] - document - 05-rh/avaliacoes/avaliacao-comportamental-0198.md
+- [[Avaliacao Comportamental_1]] - rationale - 05-rh/avaliacoes/avaliacao-comportamental-0009.md
+- [[Avaliacao Gestor_6]] - document - 05-rh/avaliacoes/avaliacao-gestor-0110.md
+- [[Avaliacao PDI acompanhamento]] - document - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0020.md
+- [[Avaliacao PDI acompanhamento_2]] - document - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0041.md
+- [[Avaliacao PDI acompanhamento_3]] - document - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0062.md
+- [[Avaliacao PDI acompanhamento_5]] - document - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0104.md
+- [[Avaliacao PDI acompanhamento_6]] - document - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0125.md
+- [[Avaliacao PDI acompanhamento_8]] - document - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0167.md
+- [[Avaliacao PDI acompanhamento_1]] - rationale - 05-rh/avaliacoes/avaliacao-pdi-acompanhamento-0020.md
+- [[Onboarding Mentoria_2]] - document - 05-rh/onboarding/onboarding-mentoria-0029.md
+- [[Onboarding Mentoria_3]] - document - 05-rh/onboarding/onboarding-mentoria-0049.md
+- [[Onboarding Mentoria_4]] - document - 05-rh/onboarding/onboarding-mentoria-0069.md
+- [[Onboarding Mentoria_5]] - document - 05-rh/onboarding/onboarding-mentoria-0089.md
+- [[Onboarding Mentoria_6]] - document - 05-rh/onboarding/onboarding-mentoria-0109.md
+- [[Onboarding Mentoria_7]] - document - 05-rh/onboarding/onboarding-mentoria-0129.md
+- [[Onboarding Mentoria_8]] - document - 05-rh/onboarding/onboarding-mentoria-0149.md
+- [[Onboarding Mentoria_10]] - document - 05-rh/onboarding/onboarding-mentoria-0189.md
+- [[Onboarding Mentoria_1]] - rationale - 05-rh/onboarding/onboarding-mentoria-0009.md
+- [[Onboarding Semana 2_5]] - document - 05-rh/onboarding/onboarding-semana-2-0042.md
+- [[Onboarding Semana 2_12]] - document - 05-rh/onboarding/onboarding-semana-2-0122.md
+- [[Onboarding Semana 2_14]] - document - 05-rh/onboarding/onboarding-semana-2-0162.md
+- [[Onboarding Semana 2_16]] - document - 05-rh/onboarding/onboarding-semana-2-0182.md
+- [[Onboarding Semana 2_1]] - rationale - 05-rh/onboarding/onboarding-semana-2-0002-en.md
+- [[Politica Saude mental_2]] - document - 05-rh/politicas/politica-saude-mental-0018.md
+- [[Politica Saude mental_6]] - document - 05-rh/politicas/politica-saude-mental-0058.md
+- [[Politica Saude mental_11]] - document - 05-rh/politicas/politica-saude-mental-0118.md
+- [[Processo Beneficios_2]] - document - 05-rh/processos/processo-beneficios-0012.md
+- [[Processo Beneficios_8]] - document - 05-rh/processos/processo-beneficios-0072.md
+- [[Processo DeSLIgamento_1]] - rationale - 05-rh/processos/processo-desligamento-0017-en.md
+- [[Processo Desligamento]] - document - 05-rh/processos/processo-desligamento-0017.md
+- [[Processo Desligamento_1]] - document - 05-rh/processos/processo-desligamento-0037.md
+- [[Processo Desligamento_2]] - document - 05-rh/processos/processo-desligamento-0057.md
+- [[Processo Desligamento_3]] - document - 05-rh/processos/processo-desligamento-0077.md
+- [[Processo Desligamento_4]] - document - 05-rh/processos/processo-desligamento-0097.md
+- [[Processo Desligamento_5]] - document - 05-rh/processos/processo-desligamento-0117.md
+- [[Processo Desligamento_6]] - document - 05-rh/processos/processo-desligamento-0137.md
+- [[Processo Desligamento_8]] - document - 05-rh/processos/processo-desligamento-0177.md
+- [[Processo Desligamento_9]] - document - 05-rh/processos/processo-desligamento-0197.md
+- [[Processo Entrevista de saida_5]] - document - 05-rh/processos/processo-entrevista-de-saida-0058.md
+- [[Processo PDI_2]] - document - 05-rh/processos/processo-pdi-0009.md
+- [[Processo PDI_3]] - document - 05-rh/processos/processo-pdi-0029.md
+- [[Processo PDI_5]] - document - 05-rh/processos/processo-pdi-0049.md
+- [[Processo PDI_17]] - document - 05-rh/processos/processo-pdi-0169.md
+- [[RH]] - rationale - 05-rh/avaliacoes/avaliacao-360-graus-0006.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/RH
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 197 edges to [[_COMMUNITY_Community 0]]
+- 115 edges to [[_COMMUNITY_Community 1]]
+- 56 edges to [[_COMMUNITY_Community 30]]
+- 54 edges to [[_COMMUNITY_Contrato Seguro]]
+- 52 edges to [[_COMMUNITY_Alert manager]]
+- 51 edges to [[_COMMUNITY_Acoes preventivas]]
+- 40 edges to [[_COMMUNITY_Ambiente de staging]]
+- 28 edges to [[_COMMUNITY_Community 13]]
+- 23 edges to [[_COMMUNITY_Community 11]]
+- 20 edges to [[_COMMUNITY_Community 14]]
+- 19 edges to [[_COMMUNITY_Ambiente de produção]]
+- 18 edges to [[_COMMUNITY_Community 18]]
+- 14 edges to [[_COMMUNITY_Community 17]]
+- 13 edges to [[_COMMUNITY_API security]]
+- 13 edges to [[_COMMUNITY_Engenharia]]
+- 10 edges to [[_COMMUNITY_Community 61]]
+- 10 edges to [[_COMMUNITY_Community 20]]
+- 10 edges to [[_COMMUNITY_Community 103]]
+- 9 edges to [[_COMMUNITY_Community 31]]
+- 9 edges to [[_COMMUNITY_Community 23]]
+- 9 edges to [[_COMMUNITY_Community 49]]
+- 9 edges to [[_COMMUNITY_Community 33]]
+- 8 edges to [[_COMMUNITY_Community 102]]
+- 8 edges to [[_COMMUNITY_Community 24]]
+- 7 edges to [[_COMMUNITY_Community 40]]
+- 7 edges to [[_COMMUNITY_Community 111]]
+- 7 edges to [[_COMMUNITY_Processo Recrutamento]]
+- 6 edges to [[_COMMUNITY_Infrastructure]]
+- 6 edges to [[_COMMUNITY_Community 35]]
+- 6 edges to [[_COMMUNITY_Community 43]]
+- 6 edges to [[_COMMUNITY_Community 32]]
+- 6 edges to [[_COMMUNITY_Community 65]]
+- 6 edges to [[_COMMUNITY_Community 44]]
+- 6 edges to [[_COMMUNITY_Community 122]]
+- 6 edges to [[_COMMUNITY_Avaliacao Ciclo 2026-2]]
+- 6 edges to [[_COMMUNITY_Avaliacao Competencias]]
+- 6 edges to [[_COMMUNITY_Avaliacao PDI criacao]]
+- 6 edges to [[_COMMUNITY_Politica Codigo de conduta]]
+- 6 edges to [[_COMMUNITY_Processo Feedback]]
+- 6 edges to [[_COMMUNITY_Processo Onboarding]]
+- 6 edges to [[_COMMUNITY_Processo PDI]]
+- 5 edges to [[_COMMUNITY_AB testing de modelos]]
+- 5 edges to [[_COMMUNITY_Community 95]]
+- 5 edges to [[_COMMUNITY_Avaliacao Ajuste salarial]]
+- 5 edges to [[_COMMUNITY_Avaliacao Autoavaliacao]]
+- 5 edges to [[_COMMUNITY_Avaliacao Avaliacao]]
+- 5 edges to [[_COMMUNITY_Avaliacao KPIs individuais]]
+- 5 edges to [[_COMMUNITY_Onboarding Mes 2]]
+- 5 edges to [[_COMMUNITY_Onboarding Organograma]]
+- 5 edges to [[_COMMUNITY_Politica Denuncias]]
+- 5 edges to [[_COMMUNITY_Politica Home office]]
+- 5 edges to [[_COMMUNITY_Politica Horario flexivel]]
+- 5 edges to [[_COMMUNITY_Politica Presentes]]
+- 5 edges to [[_COMMUNITY_Politica Reembolso]]
+- 4 edges to [[_COMMUNITY_Community 25]]
+- 4 edges to [[_COMMUNITY_Community 22]]
+- 4 edges to [[_COMMUNITY_Community 73]]
+- 4 edges to [[_COMMUNITY_Community 57]]
+- 4 edges to [[_COMMUNITY_Community 52]]
+- 4 edges to [[_COMMUNITY_Community 301]]
+- 4 edges to [[_COMMUNITY_Avaliacao Bonus]]
+- 4 edges to [[_COMMUNITY_Avaliacao Pares]]
+- 4 edges to [[_COMMUNITY_Avaliacao Potencial]]
+- 4 edges to [[_COMMUNITY_Avaliacao Promocao]]
+- 4 edges to [[_COMMUNITY_Onboarding Mes 1]]
+- 4 edges to [[_COMMUNITY_Onboarding Primeiro projeto]]
+- 4 edges to [[_COMMUNITY_Onboarding Semana 1]]
+- 4 edges to [[_COMMUNITY_Onboarding Treinamento product]]
+- 4 edges to [[_COMMUNITY_Politica Conflito de interesse]]
+- 4 edges to [[_COMMUNITY_Politica Diversidade]]
+- 4 edges to [[_COMMUNITY_Politica Viagens]]
+- 4 edges to [[_COMMUNITY_Processo Disciplinar]]
+- 4 edges to [[_COMMUNITY_Processo Selecao]]
+- 4 edges to [[_COMMUNITY_Processo Treinamento]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Community 110]]
+- 3 edges to [[_COMMUNITY_Community 46]]
+- 3 edges to [[_COMMUNITY_Community 63]]
+- 3 edges to [[_COMMUNITY_Community 75]]
+- 3 edges to [[_COMMUNITY_Avaliacao 360 graus]]
+- 3 edges to [[_COMMUNITY_Onboarding Apresentacao equipe]]
+- 3 edges to [[_COMMUNITY_Onboarding Avaliacao]]
+- 3 edges to [[_COMMUNITY_Onboarding Checklist TI]]
+- 3 edges to [[_COMMUNITY_Politica Equipamentos]]
+- 3 edges to [[_COMMUNITY_Processo Externo]]
+- 3 edges to [[_COMMUNITY_Processo Interno]]
+- 3 edges to [[_COMMUNITY_Architecture]]
+- 3 edges to [[_COMMUNITY_Politica Saude mental]]
+- 2 edges to [[_COMMUNITY_Community 42]]
+- 2 edges to [[_COMMUNITY_Community 36]]
+- 2 edges to [[_COMMUNITY_Community 93]]
+- 2 edges to [[_COMMUNITY_Community 54]]
+- 2 edges to [[_COMMUNITY_Community 137]]
+- 2 edges to [[_COMMUNITY_Community 59]]
+- 2 edges to [[_COMMUNITY_Community 317]]
+- 2 edges to [[_COMMUNITY_Community 62]]
+- 2 edges to [[_COMMUNITY_Community 72]]
+- 2 edges to [[_COMMUNITY_Community 80]]
+- 2 edges to [[_COMMUNITY_Community 117]]
+- 2 edges to [[_COMMUNITY_Community 138]]
+- 2 edges to [[_COMMUNITY_Community 50]]
+- 2 edges to [[_COMMUNITY_Community 71]]
+- 2 edges to [[_COMMUNITY_Community 68]]
+- 2 edges to [[_COMMUNITY_Community 199]]
+- 2 edges to [[_COMMUNITY_Community 64]]
+- 2 edges to [[_COMMUNITY_Community 76]]
+- 2 edges to [[_COMMUNITY_Community 55]]
+- 2 edges to [[_COMMUNITY_Community 92]]
+- 2 edges to [[_COMMUNITY_Community 106]]
+- 2 edges to [[_COMMUNITY_Onboarding Feedback 60d]]
+- 2 edges to [[_COMMUNITY_Processo Afastamento]]
+- 2 edges to [[_COMMUNITY_Processo Retorno]]
+- 2 edges to [[_COMMUNITY_Processo Beneficios]]
+- 1 edge to [[_COMMUNITY_Community 41]]
+- 1 edge to [[_COMMUNITY_Community 91]]
+- 1 edge to [[_COMMUNITY_Community 136]]
+- 1 edge to [[_COMMUNITY_Community 277]]
+- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Community 335]]
+- 1 edge to [[_COMMUNITY_Community 82]]
+- 1 edge to [[_COMMUNITY_Community 124]]
+- 1 edge to [[_COMMUNITY_Community 77]]
+- 1 edge to [[_COMMUNITY_Community 74]]
+- 1 edge to [[_COMMUNITY_Community 94]]
+- 1 edge to [[_COMMUNITY_Community 108]]
+- 1 edge to [[_COMMUNITY_Community 293]]
+- 1 edge to [[_COMMUNITY_Community 97]]
+- 1 edge to [[_COMMUNITY_Community 89]]
+- 1 edge to [[_COMMUNITY_Community 154]]
+- 1 edge to [[_COMMUNITY_Community 121]]
+- 1 edge to [[_COMMUNITY_Community 79]]
+- 1 edge to [[_COMMUNITY_Community 90]]
+- 1 edge to [[_COMMUNITY_Community 410]]
+- 1 edge to [[_COMMUNITY_Community 210]]
+- 1 edge to [[_COMMUNITY_Community 58]]
+- 1 edge to [[_COMMUNITY_Community 37]]
+- 1 edge to [[_COMMUNITY_Community 172]]
+- 1 edge to [[_COMMUNITY_Community 96]]
+- 1 edge to [[_COMMUNITY_Community 48]]
+- 1 edge to [[_COMMUNITY_Community 81]]
+- 1 edge to [[_COMMUNITY_Community 47]]
+- 1 edge to [[_COMMUNITY_Community 84]]
+- 1 edge to [[_COMMUNITY_Community 107]]
+- 1 edge to [[_COMMUNITY_Community 123]]
+- 1 edge to [[_COMMUNITY_Community 53]]
+- 1 edge to [[_COMMUNITY_Onboarding Cultura AIRich]]
+- 1 edge to [[_COMMUNITY_Politica Anticorrupcao]]
+- 1 edge to [[_COMMUNITY_Politica EPI]]
+- 1 edge to [[_COMMUNITY_Politica LGPD interna]]
+- 1 edge to [[_COMMUNITY_Processo Avaliacao]]
+- 1 edge to [[_COMMUNITY_Processo Transferencia]]
+- 1 edge to [[_COMMUNITY_Processo Entrevista de saida]]
+
+## Top bridge nodes
+- [[RH]] - degree 813, connects to 146 communities
+- [[Avaliacao Comportamental_2]] - degree 16, connects to 9 communities
+- [[Avaliacao Ciclo 2026-1_6]] - degree 15, connects to 9 communities
+- [[Processo Entrevista de saida_5]] - degree 14, connects to 9 communities
+- [[Processo Desligamento_4]] - degree 11, connects to 9 communities

@@ -1,0 +1,235 @@
+---
+type: community
+cohesion: 0.04
+members: 65
+---
+
+# Financeiro
+
+**Cohesion:** 0.04 - loosely connected
+**Members:** 65 nodes
+
+## Members
+- [[Aprovacao de reembolso_5]] - document - 06-financeiro/reembolsos/aprovacao-de-reembolso-0044.md
+- [[Consulting_11]] - document - 06-financeiro/orcamento/consulting-0078.md
+- [[Financeiro]] - rationale - 06-financeiro/notas-fiscais/cancelamento-nf-e-0015.md
+- [[Fluxo de aprovacao_15]] - document - 06-financeiro/reembolsos/fluxo-de-aprovacao-0130.md
+- [[Fluxo de aprovacao_16]] - document - 06-financeiro/reembolsos/fluxo-de-aprovacao-0149.md
+- [[Headcount budget_13]] - document - 06-financeiro/orcamento/headcount-budget-0109.md
+- [[Limites de reembolso_7]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0005.md
+- [[Limites de reembolso_8]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0024.md
+- [[Limites de reembolso_10]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0062.md
+- [[Limites de reembolso_11]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0081.md
+- [[Limites de reembolso_12]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0100.md
+- [[Limites de reembolso_13]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0119.md
+- [[Limites de reembolso_14]] - document - 06-financeiro/reembolsos/limites-de-reembolso-0138.md
+- [[Limites de reembolso_1]] - rationale - 06-financeiro/en/reembolsos/limites-de-reembolso-0005.md
+- [[NF-e Jan 2026_10]] - document - 06-financeiro/notas-fiscais/nf-e-jan-2026-0001.md
+- [[NF-e Jan 2026_12]] - document - 06-financeiro/notas-fiscais/nf-e-jan-2026-0041.md
+- [[NF-e Jan 2026_14]] - document - 06-financeiro/notas-fiscais/nf-e-jan-2026-0081.md
+- [[NF-e Out 2026_11]] - document - 06-financeiro/notas-fiscais/nf-e-out-2026-0050.md
+- [[NF-e Out 2026_12]] - document - 06-financeiro/notas-fiscais/nf-e-out-2026-0070.md
+- [[NF-e Out 2026_13]] - document - 06-financeiro/notas-fiscais/nf-e-out-2026-0090.md
+- [[Orcamento 2026]] - document - 06-financeiro/en/orcamento/orcamento-2026-0001.md
+- [[Orcamento 2026_6]] - document - 06-financeiro/orcamento/orcamento-2026-0001.md
+- [[Orcamento 2026_7]] - document - 06-financeiro/orcamento/orcamento-2026-0021.md
+- [[Orcamento 2026_8]] - document - 06-financeiro/orcamento/orcamento-2026-0041.md
+- [[Orcamento 2026_9]] - document - 06-financeiro/orcamento/orcamento-2026-0061.md
+- [[Orcamento 2026_11]] - document - 06-financeiro/orcamento/orcamento-2026-0101.md
+- [[Orcamento 2026_12]] - document - 06-financeiro/orcamento/orcamento-2026-0121.md
+- [[Orcamento 2026_13]] - document - 06-financeiro/orcamento/orcamento-2026-0141.md
+- [[Orcamento 2026_15]] - document - 06-financeiro/orcamento/orcamento-2026-0181.md
+- [[Orcamento 2026_1]] - rationale - 06-financeiro/en/orcamento/orcamento-2026-0001.md
+- [[R&D budget_7]] - document - 06-financeiro/orcamento/r&d-budget-0012.md
+- [[R&D budget_8]] - document - 06-financeiro/orcamento/r&d-budget-0032.md
+- [[R&D budget_9]] - document - 06-financeiro/orcamento/r&d-budget-0052.md
+- [[R&D budget_10]] - document - 06-financeiro/orcamento/r&d-budget-0072.md
+- [[R&D budget_11]] - document - 06-financeiro/orcamento/r&d-budget-0092.md
+- [[R&D budget_14]] - document - 06-financeiro/orcamento/r&d-budget-0152.md
+- [[R&D budget_1]] - rationale - 06-financeiro/en/orcamento/r&d-budget-0032.md
+- [[Reembolso equipamento_4]] - document - 06-financeiro/en/reembolsos/reembolso-equipamento-0129.md
+- [[Reembolso equipamento_6]] - document - 06-financeiro/en/reembolsos/reembolso-equipamento-0167.md
+- [[Reembolso equipamento_8]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0015.md
+- [[Reembolso equipamento_11]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0072.md
+- [[Reembolso equipamento_13]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0110.md
+- [[Reembolso equipamento_14]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0129.md
+- [[Reembolso equipamento_15]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0148.md
+- [[Reembolso equipamento_16]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0167.md
+- [[Reembolso equipamento_17]] - document - 06-financeiro/reembolsos/reembolso-equipamento-0186.md
+- [[Reembolso equipamento_1]] - rationale - 06-financeiro/en/reembolsos/reembolso-equipamento-0015.md
+- [[Reembolso hospedagem_10]] - document - 06-financeiro/reembolsos/reembolso-hospedagem-0070.md
+- [[Reembolso viagem]] - document - 06-financeiro/reembolsos/reembolso-viagem-0010.md
+- [[Reembolso viagem_3]] - document - 06-financeiro/reembolsos/reembolso-viagem-0048.md
+- [[Reembolso viagem_4]] - document - 06-financeiro/reembolsos/reembolso-viagem-0067.md
+- [[Reembolso viagem_5]] - document - 06-financeiro/reembolsos/reembolso-viagem-0086.md
+- [[Reembolso viagem_7]] - document - 06-financeiro/reembolsos/reembolso-viagem-0124.md
+- [[Reembolso viagem_8]] - document - 06-financeiro/reembolsos/reembolso-viagem-0143.md
+- [[Reembolso viagem_10]] - document - 06-financeiro/reembolsos/reembolso-viagem-0181.md
+- [[Reembolso viagem_1]] - rationale - 06-financeiro/reembolsos/reembolso-viagem-0010.md
+- [[Reembolso Equipe C_13]] - document - 06-financeiro/reembolsos/reembolso-equipe-c-0041.md
+- [[Software licenses]] - document - 06-financeiro/en/orcamento/software-licenses-0055.md
+- [[Software licenses_8]] - document - 06-financeiro/orcamento/software-licenses-0055.md
+- [[Software licenses_9]] - document - 06-financeiro/orcamento/software-licenses-0075.md
+- [[Software licenses_10]] - document - 06-financeiro/orcamento/software-licenses-0095.md
+- [[Software licenses_11]] - document - 06-financeiro/orcamento/software-licenses-0115.md
+- [[Software licenses_12]] - document - 06-financeiro/orcamento/software-licenses-0135.md
+- [[Software licenses_13]] - document - 06-financeiro/orcamento/software-licenses-0155.md
+- [[Software licenses_1]] - rationale - 06-financeiro/en/orcamento/software-licenses-0055.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Financeiro
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 226 edges to [[_COMMUNITY_Community 0]]
+- 108 edges to [[_COMMUNITY_Community 1]]
+- 61 edges to [[_COMMUNITY_Contrato Seguro]]
+- 54 edges to [[_COMMUNITY_Acoes preventivas]]
+- 54 edges to [[_COMMUNITY_Community 30]]
+- 50 edges to [[_COMMUNITY_Alert manager]]
+- 41 edges to [[_COMMUNITY_Community 25]]
+- 38 edges to [[_COMMUNITY_Ambiente de staging]]
+- 26 edges to [[_COMMUNITY_Ambiente de produção]]
+- 22 edges to [[_COMMUNITY_Engenharia]]
+- 21 edges to [[_COMMUNITY_Community 14]]
+- 18 edges to [[_COMMUNITY_Community 17]]
+- 16 edges to [[_COMMUNITY_Community 13]]
+- 15 edges to [[_COMMUNITY_Community 11]]
+- 15 edges to [[_COMMUNITY_Community 18]]
+- 12 edges to [[_COMMUNITY_Community 24]]
+- 11 edges to [[_COMMUNITY_Community 59]]
+- 10 edges to [[_COMMUNITY_Community 20]]
+- 10 edges to [[_COMMUNITY_Infrastructure]]
+- 8 edges to [[_COMMUNITY_Community 42]]
+- 8 edges to [[_COMMUNITY_Community 23]]
+- 8 edges to [[_COMMUNITY_Community 73]]
+- 8 edges to [[_COMMUNITY_Community 62]]
+- 8 edges to [[_COMMUNITY_Community 43]]
+- 8 edges to [[_COMMUNITY_Community 117]]
+- 7 edges to [[_COMMUNITY_Community 35]]
+- 7 edges to [[_COMMUNITY_NF-e Jan 2026]]
+- 6 edges to [[_COMMUNITY_Community 31]]
+- 6 edges to [[_COMMUNITY_Community 22]]
+- 6 edges to [[_COMMUNITY_Community 32]]
+- 6 edges to [[_COMMUNITY_Community 121]]
+- 6 edges to [[_COMMUNITY_Community 76]]
+- 6 edges to [[_COMMUNITY_Community 33]]
+- 6 edges to [[_COMMUNITY_Community 96]]
+- 6 edges to [[_COMMUNITY_Architecture]]
+- 6 edges to [[_COMMUNITY_Aprovacao de reembolso]]
+- 5 edges to [[_COMMUNITY_Community 40]]
+- 5 edges to [[_COMMUNITY_Community 90]]
+- 5 edges to [[_COMMUNITY_Community 107]]
+- 5 edges to [[_COMMUNITY_DANFE]]
+- 5 edges to [[_COMMUNITY_Alocacao por produto]]
+- 5 edges to [[_COMMUNITY_Contingencia]]
+- 5 edges to [[_COMMUNITY_Marketing budget]]
+- 5 edges to [[_COMMUNITY_Recibo]]
+- 5 edges to [[_COMMUNITY_Reembolso alimentacao]]
+- 5 edges to [[_COMMUNITY_Reembolso transporte]]
+- 5 edges to [[_COMMUNITY_Balanco patrimonial]]
+- 5 edges to [[_COMMUNITY_DRE Fev 2026]]
+- 4 edges to [[_COMMUNITY_API security]]
+- 4 edges to [[_COMMUNITY_Community 36]]
+- 4 edges to [[_COMMUNITY_Community 61]]
+- 4 edges to [[_COMMUNITY_Community 54]]
+- 4 edges to [[_COMMUNITY_Community 65]]
+- 4 edges to [[_COMMUNITY_Community 44]]
+- 4 edges to [[_COMMUNITY_Community 46]]
+- 4 edges to [[_COMMUNITY_Community 52]]
+- 4 edges to [[_COMMUNITY_Headcount budget]]
+- 4 edges to [[_COMMUNITY_Orcamento 2027]]
+- 4 edges to [[_COMMUNITY_Prazo de reembolso]]
+- 4 edges to [[_COMMUNITY_Reembolso treinamento]]
+- 4 edges to [[_COMMUNITY_Fluxo de caixa]]
+- 3 edges to [[_COMMUNITY_Community 72]]
+- 3 edges to [[_COMMUNITY_Community 95]]
+- 3 edges to [[_COMMUNITY_Community 50]]
+- 3 edges to [[_COMMUNITY_Community 97]]
+- 3 edges to [[_COMMUNITY_Community 49]]
+- 3 edges to [[_COMMUNITY_Community 64]]
+- 3 edges to [[_COMMUNITY_Community 63]]
+- 3 edges to [[_COMMUNITY_Community 75]]
+- 3 edges to [[_COMMUNITY_Community 301]]
+- 3 edges to [[_COMMUNITY_Community 84]]
+- 3 edges to [[_COMMUNITY_NF-e Out 2026]]
+- 3 edges to [[_COMMUNITY_Reembolso hospedagem]]
+- 3 edges to [[_COMMUNITY_NF-e Abr 2026]]
+- 3 edges to [[_COMMUNITY_AB testing de modelos]]
+- 3 edges to [[_COMMUNITY_NF-e Mar 2026]]
+- 3 edges to [[_COMMUNITY_NF-e Set 2026]]
+- 3 edges to [[_COMMUNITY_Hardware]]
+- 3 edges to [[_COMMUNITY_Infra budget]]
+- 3 edges to [[_COMMUNITY_Estorno]]
+- 3 edges to [[_COMMUNITY_Nota fiscal reembolso]]
+- 3 edges to [[_COMMUNITY_Reembolso Equipe B]]
+- 3 edges to [[_COMMUNITY_Analise de margem]]
+- 3 edges to [[_COMMUNITY_DRE Trimestre 2]]
+- 3 edges to [[_COMMUNITY_DRE Trimestre 3]]
+- 3 edges to [[_COMMUNITY_DRE Trimestre 4]]
+- 3 edges to [[_COMMUNITY_Relatorio de receitas]]
+- 2 edges to [[_COMMUNITY_Community 41]]
+- 2 edges to [[_COMMUNITY_Community 93]]
+- 2 edges to [[_COMMUNITY_Community 137]]
+- 2 edges to [[_COMMUNITY_Community 335]]
+- 2 edges to [[_COMMUNITY_Community 82]]
+- 2 edges to [[_COMMUNITY_Community 124]]
+- 2 edges to [[_COMMUNITY_Community 111]]
+- 2 edges to [[_COMMUNITY_Community 77]]
+- 2 edges to [[_COMMUNITY_Community 74]]
+- 2 edges to [[_COMMUNITY_Community 138]]
+- 2 edges to [[_COMMUNITY_Community 68]]
+- 2 edges to [[_COMMUNITY_Community 199]]
+- 2 edges to [[_COMMUNITY_Community 89]]
+- 2 edges to [[_COMMUNITY_Community 122]]
+- 2 edges to [[_COMMUNITY_Community 154]]
+- 2 edges to [[_COMMUNITY_Community 410]]
+- 2 edges to [[_COMMUNITY_Community 210]]
+- 2 edges to [[_COMMUNITY_Community 58]]
+- 2 edges to [[_COMMUNITY_Community 37]]
+- 2 edges to [[_COMMUNITY_Community 48]]
+- 2 edges to [[_COMMUNITY_Community 81]]
+- 2 edges to [[_COMMUNITY_Community 47]]
+- 2 edges to [[_COMMUNITY_Community 106]]
+- 2 edges to [[_COMMUNITY_Fluxo de aprovacao]]
+- 2 edges to [[_COMMUNITY_NF-e Produtos]]
+- 2 edges to [[_COMMUNITY_CAPEX]]
+- 2 edges to [[_COMMUNITY_DRE Jan 2026]]
+- 2 edges to [[_COMMUNITY_DRE Mar 2026]]
+- 1 edge to [[_COMMUNITY_Community 91]]
+- 1 edge to [[_COMMUNITY_Community 136]]
+- 1 edge to [[_COMMUNITY_Community 277]]
+- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Community 317]]
+- 1 edge to [[_COMMUNITY_Community 102]]
+- 1 edge to [[_COMMUNITY_Community 80]]
+- 1 edge to [[_COMMUNITY_Community 110]]
+- 1 edge to [[_COMMUNITY_Community 94]]
+- 1 edge to [[_COMMUNITY_Community 108]]
+- 1 edge to [[_COMMUNITY_Community 71]]
+- 1 edge to [[_COMMUNITY_Community 293]]
+- 1 edge to [[_COMMUNITY_Community 103]]
+- 1 edge to [[_COMMUNITY_Community 57]]
+- 1 edge to [[_COMMUNITY_Community 79]]
+- 1 edge to [[_COMMUNITY_Community 56]]
+- 1 edge to [[_COMMUNITY_Community 55]]
+- 1 edge to [[_COMMUNITY_Community 172]]
+- 1 edge to [[_COMMUNITY_Community 92]]
+- 1 edge to [[_COMMUNITY_Community 123]]
+- 1 edge to [[_COMMUNITY_Community 53]]
+- 1 edge to [[_COMMUNITY_Consulting]]
+- 1 edge to [[_COMMUNITY_Reembolso Equipe C]]
+- 1 edge to [[_COMMUNITY_Cancelamento NF-e]]
+- 1 edge to [[_COMMUNITY_XML armazenado]]
+- 1 edge to [[_COMMUNITY_Training budget]]
+
+## Top bridge nodes
+- [[Financeiro]] - degree 807, connects to 134 communities
+- [[Limites de reembolso_11]] - degree 21, connects to 9 communities
+- [[Orcamento 2026_9]] - degree 15, connects to 9 communities
+- [[Reembolso viagem_5]] - degree 15, connects to 9 communities
+- [[Software licenses_12]] - degree 14, connects to 8 communities

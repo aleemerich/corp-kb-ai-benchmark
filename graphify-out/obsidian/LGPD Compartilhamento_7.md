@@ -1,0 +1,17 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/lgpd/lgpd-compartilhamento-0096-en.md"
+type: "document"
+community: "LGPD: Compartilhamento"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/LGPD_Compartilhamento
+---
+
+# LGPD: Compartilhamento
+
+## Connections
+- [[Idioma PT]] - `written_in` [EXTRACTED]
+- [[LGPD Compartilhamento_1]] - `covers_topic` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/LGPD_Compartilhamento

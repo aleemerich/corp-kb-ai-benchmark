@@ -1,0 +1,20 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/edu-airich/busca-de-conteúdo-0015.md"
+type: "document"
+community: "Edu / Produtos"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Edu_/_Produtos
+---
+
+# Busca de conteúdo
+
+## Connections
+- [[Busca de conteúdo_1]] - `covers_topic` [EXTRACTED]
+- [[Idioma PT]] - `written_in` [EXTRACTED]
+- [[Imagem Fluxo Autenticacao]] - `references_image` [EXTRACTED]
+- [[Imagem Plataforma Geral]] - `references_image` [EXTRACTED]
+- [[Imagem Topologia Rede]] - `references_image` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Edu_/_Produtos

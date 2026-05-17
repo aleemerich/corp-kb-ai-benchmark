@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {"id": "doc_01-produtos_ai-assistant-airich_code-generation-0021", "label": "Code generation (0021)", "file_type": "document", "source_file": "01-produtos/ai-assistant-airich/code-generation-0021.md"},
+    {"id": "doc_01-produtos_ai-assistant-airich_code-generation-0069", "label": "Code generation (0069)", "file_type": "document", "source_file": "01-produtos/ai-assistant-airich/code-generation-0069.md"},
+    {"id": "doc_01-produtos_ai-assistant-airich_code-generation-0117", "label": "Code generation (0117)", "file_type": "document", "source_file": "01-produtos/ai-assistant-airich/code-generation-0117.md"},
+    {"id": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0030", "label": "Confidence scoring (0030)", "file_type": "document", "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0030.md"},
+    {"id": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0078", "label": "Confidence scoring (0078)", "file_type": "document", "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0078.md"},
+    {"id": "topic_code-generation", "label": "Code generation", "file_type": "rationale", "source_file": "01-produtos/ai-assistant-airich/"},
+    {"id": "topic_confidence-scoring", "label": "Confidence scoring", "file_type": "rationale", "source_file": "01-produtos/ai-assistant-airich/"},
+    {"id": "concept_code-gen", "label": "Code Generation", "file_type": "rationale", "source_file": "01-produtos/ai-assistant-airich/"},
+    {"id": "concept_confidence", "label": "Confidence Scoring", "file_type": "rationale", "source_file": "01-produtos/ai-assistant-airich/"},
+    {"id": "concept_llm", "label": "LLM (Large Language Model)", "file_type": "rationale", "source_file": "01-produtos/ai-assistant-airich/"}
+  ],
+  "edges": [
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0021", "target": "topic_code-generation", "relation": "covers_topic", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/code-generation-0021.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0021", "target": "concept_code-gen", "relation": "related_to", "confidence": "INFERRED", "confidence_score": 0.95, "source_file": "01-produtos/ai-assistant-airich/code-generation-0021.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0021", "target": "concept_llm", "relation": "related_to", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "01-produtos/ai-assistant-airich/code-generation-0021.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0069", "target": "product_airich-ai-assistant", "relation": "about_product", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/code-generation-0069.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0069", "target": "topic_code-generation", "relation": "covers_topic", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/code-generation-0069.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0117", "target": "product_airich-ai-assistant", "relation": "about_product", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/code-generation-0117.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_code-generation-0117", "target": "topic_code-generation", "relation": "covers_topic", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/code-generation-0117.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0030", "target": "product_airich-ai-assistant", "relation": "about_product", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0030.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0030", "target": "topic_confidence-scoring", "relation": "covers_topic", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0030.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0030", "target": "concept_confidence", "relation": "related_to", "confidence": "INFERRED", "confidence_score": 0.95, "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0030.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0078", "target": "product_airich-ai-assistant", "relation": "about_product", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0078.md"},
+    {"source": "doc_01-produtos_ai-assistant-airich_confidence-scoring-0078", "target": "topic_confidence-scoring", "relation": "covers_topic", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "01-produtos/ai-assistant-airich/confidence-scoring-0078.md"},
+    {"source": "topic_code-generation", "target": "concept_code-gen", "relation": "subtopic_of", "confidence": "INFERRED", "confidence_score": 0.95, "source_file": "01-produtos/ai-assistant-airich/"},
+    {"source": "topic_code-generation", "target": "concept_llm", "relation": "enabled_by", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "01-produtos/ai-assistant-airich/"},
+    {"source": "topic_confidence-scoring", "target": "concept_confidence", "relation": "subtopic_of", "confidence": "INFERRED", "confidence_score": 0.95, "source_file": "01-produtos/ai-assistant-airich/"},
+    {"source": "concept_code-gen", "target": "concept_llm", "relation": "subtopic_of", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "01-produtos/ai-assistant-airich/"},
+    {"source": "concept_confidence", "target": "concept_llm", "relation": "subtopic_of", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "01-produtos/ai-assistant-airich/"}
+  ],
+  "hyperedges": []
+}

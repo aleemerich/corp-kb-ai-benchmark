@@ -1,0 +1,303 @@
+---
+type: community
+cohesion: 0.04
+members: 63
+---
+
+# Community 25
+
+**Cohesion:** 0.04 - loosely connected
+**Members:** 63 nodes
+
+## Members
+- [[Analise de perda_3]] - document - 04-vendas/pipeline/analise-de-perda-0052.md
+- [[Cash flow statement_2]] - document - 06-financeiro/en/relatorios/cash-flow-statement-0034.md
+- [[Cash flow statement_5]] - document - 06-financeiro/relatorios/cash-flow-statement-0014.md
+- [[Cash flow statement_6]] - document - 06-financeiro/relatorios/cash-flow-statement-0034.md
+- [[Cash flow statement_7]] - document - 06-financeiro/relatorios/cash-flow-statement-0054.md
+- [[Cash flow statement_8]] - document - 06-financeiro/relatorios/cash-flow-statement-0074.md
+- [[Cash flow statement_9]] - document - 06-financeiro/relatorios/cash-flow-statement-0094.md
+- [[Cash flow statement_10]] - document - 06-financeiro/relatorios/cash-flow-statement-0114.md
+- [[Cash flow statement_11]] - document - 06-financeiro/relatorios/cash-flow-statement-0134.md
+- [[Cash flow statement_12]] - document - 06-financeiro/relatorios/cash-flow-statement-0154.md
+- [[Cash flow statement_1]] - rationale - 06-financeiro/en/relatorios/cash-flow-statement-0014.md
+- [[Clausula de rescisao_4]] - document - 04-vendas/contratos/clausula-de-rescisao-0074.md
+- [[Clausula de rescisao_12]] - document - 04-vendas/contratos/clausula-de-rescisao-0234.md
+- [[Clean architecture_7]] - document - 02-engenharia/arquitetura/clean-architecture-0074.md
+- [[Cliente Eta Solutions_8]] - document - 04-vendas/clientes/cliente-eta-solutions-0154.md
+- [[Cliente Gamma Ltd_8]] - document - 04-vendas/clientes/cliente-gamma-ltd-0150.md
+- [[Cliente Kappa Systems_3]] - document - 04-vendas/clientes/cliente-kappa-systems-0052.md
+- [[DRE Abr 2026_13]] - document - 06-financeiro/relatorios/dre-abr-2026-0104.md
+- [[Deal size medio_4]] - document - 04-vendas/pipeline/deal-size-medio-0074.md
+- [[Decisao ADR-001_5]] - document - 02-engenharia/arquitetura/decisao-adr-001-0044.md
+- [[FAQ Como alterar plano_26]] - document - 03-suporte/faq/faq-como-alterar-plano-0244.md
+- [[Forecast de vendas_2]] - document - 01-produtos/crm-airich/forecast-de-vendas-0053.md
+- [[Forecast trimestral]] - document - 04-vendas/pipeline/forecast-trimestral-0009.md
+- [[Gestão de oportunidades_2]] - document - 01-produtos/crm-airich/gestão-de-oportunidades-0051.md
+- [[Guia de contribuição_2]] - document - 01-produtos/mobile-airich/guia-de-contribuição-0098.md
+- [[Headcount budget_8]] - document - 06-financeiro/orcamento/headcount-budget-0009.md
+- [[Image paineis-relatorios.png]] - image - 01-produtos/ai-assistant-airich/content-filtering-0075.md
+- [[KB Erros comuns_8]] - document - 03-suporte/base-conhecimento/kb-erros-comuns-0154.md
+- [[Meta de vendas]] - document - 04-vendas/pipeline/meta-de-vendas-0010.md
+- [[Meta de vendas_3]] - document - 04-vendas/pipeline/meta-de-vendas-0050.md
+- [[Meta de vendas_4]] - document - 04-vendas/pipeline/meta-de-vendas-0070.md
+- [[Meta de vendas_5]] - document - 04-vendas/pipeline/meta-de-vendas-0090.md
+- [[Meta de vendas_6]] - document - 04-vendas/pipeline/meta-de-vendas-0110.md
+- [[Meta de vendas_8]] - document - 04-vendas/pipeline/meta-de-vendas-0150.md
+- [[Meta de vendas_1]] - rationale - 04-vendas/pipeline/meta-de-vendas-0010.md
+- [[Playbook Account management_4]] - document - 04-vendas/playbooks/playbook-account-management-0074.md
+- [[Playbook Sales engineer_2]] - document - 04-vendas/playbooks/playbook-sales-engineer-0038.md
+- [[Playbook Sales engineer_3]] - document - 04-vendas/playbooks/playbook-sales-engineer-0058.md
+- [[Playbook Sales engineer_5]] - document - 04-vendas/playbooks/playbook-sales-engineer-0098.md
+- [[Proposta Cliente Beta_11]] - document - 04-vendas/propostas/proposta-cliente-beta-0202.md
+- [[ROI por produto]] - document - 06-financeiro/relatorios/roi-por-produto-0020.md
+- [[ROI por produto_3]] - document - 06-financeiro/relatorios/roi-por-produto-0060.md
+- [[ROI por produto_4]] - document - 06-financeiro/relatorios/roi-por-produto-0080.md
+- [[ROI por produto_6]] - document - 06-financeiro/relatorios/roi-por-produto-0120.md
+- [[ROI por produto_7]] - document - 06-financeiro/relatorios/roi-por-produto-0140.md
+- [[ROI por produto_10]] - document - 06-financeiro/relatorios/roi-por-produto-0200.md
+- [[ROI por produto_1]] - rationale - 06-financeiro/relatorios/roi-por-produto-0020.md
+- [[Reembolso hospedagem_8]] - document - 06-financeiro/reembolsos/reembolso-hospedagem-0032.md
+- [[Reembolso Equipe C_12]] - document - 06-financeiro/reembolsos/reembolso-equipe-c-0022.md
+- [[Relatorio de custos]] - document - 06-financeiro/relatorios/relatorio-de-custos-0017.md
+- [[Relatorio de custos_3]] - document - 06-financeiro/relatorios/relatorio-de-custos-0057.md
+- [[Relatorio de custos_4]] - document - 06-financeiro/relatorios/relatorio-de-custos-0077.md
+- [[Relatorio de custos_5]] - document - 06-financeiro/relatorios/relatorio-de-custos-0097.md
+- [[Relatorio de custos_6]] - document - 06-financeiro/relatorios/relatorio-de-custos-0117.md
+- [[Relatorio de custos_7]] - document - 06-financeiro/relatorios/relatorio-de-custos-0137.md
+- [[Relatorio de custos_8]] - document - 06-financeiro/relatorios/relatorio-de-custos-0157.md
+- [[Relatorio de custos_1]] - rationale - 06-financeiro/relatorios/relatorio-de-custos-0017.md
+- [[Risco legal_7]] - document - 07-juridico/compliance/risco-legal-0074.md
+- [[Technical buyer_4]] - document - 04-vendas/clientes/technical-buyer-0078.md
+- [[Training budget_8]] - document - 06-financeiro/orcamento/training-budget-0074.md
+- [[Training budget_12]] - document - 06-financeiro/orcamento/training-budget-0154.md
+- [[Data 2026-01-14]] - rationale - 02-engenharia/arquitetura/clean-architecture-0154.md
+- [[Data 2026-02-18]] - rationale - 02-engenharia/arquitetura/clean-architecture-0074.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_25
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 81 edges to [[_COMMUNITY_Community 0]]
+- 81 edges to [[_COMMUNITY_Community 1]]
+- 58 edges to [[_COMMUNITY_Contrato Seguro]]
+- 57 edges to [[_COMMUNITY_Alert manager]]
+- 56 edges to [[_COMMUNITY_Community 30]]
+- 49 edges to [[_COMMUNITY_Acoes preventivas]]
+- 41 edges to [[_COMMUNITY_Vendas]]
+- 41 edges to [[_COMMUNITY_Financeiro]]
+- 28 edges to [[_COMMUNITY_Community 14]]
+- 27 edges to [[_COMMUNITY_Ambiente de produção]]
+- 25 edges to [[_COMMUNITY_Community 11]]
+- 25 edges to [[_COMMUNITY_Community 18]]
+- 22 edges to [[_COMMUNITY_Community 13]]
+- 21 edges to [[_COMMUNITY_API security]]
+- 21 edges to [[_COMMUNITY_Suporte]]
+- 19 edges to [[_COMMUNITY_Community 20]]
+- 18 edges to [[_COMMUNITY_Community 17]]
+- 17 edges to [[_COMMUNITY_Ambiente de staging]]
+- 13 edges to [[_COMMUNITY_Community 32]]
+- 13 edges to [[_COMMUNITY_Community 35]]
+- 13 edges to [[_COMMUNITY_Engenharia]]
+- 13 edges to [[_COMMUNITY_Community 41]]
+- 12 edges to [[_COMMUNITY_AIRich AI Assistant  Produtos]]
+- 12 edges to [[_COMMUNITY_Community 22]]
+- 12 edges to [[_COMMUNITY_Community 24]]
+- 11 edges to [[_COMMUNITY_Community 50]]
+- 11 edges to [[_COMMUNITY_Community 54]]
+- 10 edges to [[_COMMUNITY_AB testing de modelos]]
+- 10 edges to [[_COMMUNITY_Community 36]]
+- 10 edges to [[_COMMUNITY_Community 48]]
+- 9 edges to [[_COMMUNITY_Juridico]]
+- 8 edges to [[_COMMUNITY_Community 23]]
+- 8 edges to [[_COMMUNITY_Community 42]]
+- 8 edges to [[_COMMUNITY_Community 37]]
+- 8 edges to [[_COMMUNITY_Community 31]]
+- 7 edges to [[_COMMUNITY_Arquitetura mobile]]
+- 7 edges to [[_COMMUNITY_Community 59]]
+- 6 edges to [[_COMMUNITY_Community 62]]
+- 6 edges to [[_COMMUNITY_Community 52]]
+- 6 edges to [[_COMMUNITY_Community 72]]
+- 6 edges to [[_COMMUNITY_Community 73]]
+- 6 edges to [[_COMMUNITY_Community 40]]
+- 6 edges to [[_COMMUNITY_Community 79]]
+- 6 edges to [[_COMMUNITY_Community 43]]
+- 6 edges to [[_COMMUNITY_Community 117]]
+- 5 edges to [[_COMMUNITY_Batch processing]]
+- 5 edges to [[_COMMUNITY_Community 57]]
+- 5 edges to [[_COMMUNITY_Community 33]]
+- 5 edges to [[_COMMUNITY_Community 110]]
+- 5 edges to [[_COMMUNITY_Community 137]]
+- 5 edges to [[_COMMUNITY_Community 60]]
+- 5 edges to [[_COMMUNITY_Community 61]]
+- 5 edges to [[_COMMUNITY_Community 154]]
+- 5 edges to [[_COMMUNITY_Community 53]]
+- 5 edges to [[_COMMUNITY_Community 56]]
+- 5 edges to [[_COMMUNITY_Playbook Reativacao]]
+- 4 edges to [[_COMMUNITY_Community 46]]
+- 4 edges to [[_COMMUNITY_Community 90]]
+- 4 edges to [[_COMMUNITY_Community 81]]
+- 4 edges to [[_COMMUNITY_Community 124]]
+- 4 edges to [[_COMMUNITY_Community 64]]
+- 4 edges to [[_COMMUNITY_Community 58]]
+- 4 edges to [[_COMMUNITY_Community 91]]
+- 4 edges to [[_COMMUNITY_Community 109]]
+- 4 edges to [[_COMMUNITY_Community 76]]
+- 4 edges to [[_COMMUNITY_Community 65]]
+- 4 edges to [[_COMMUNITY_Community 44]]
+- 4 edges to [[_COMMUNITY_Community 78]]
+- 4 edges to [[_COMMUNITY_Template SOW]]
+- 4 edges to [[_COMMUNITY_Community 138]]
+- 4 edges to [[_COMMUNITY_Template proposta SaaS]]
+- 4 edges to [[_COMMUNITY_RH]]
+- 4 edges to [[_COMMUNITY_Marketing]]
+- 3 edges to [[_COMMUNITY_Community 80]]
+- 3 edges to [[_COMMUNITY_Community 94]]
+- 3 edges to [[_COMMUNITY_Community 277]]
+- 3 edges to [[_COMMUNITY_Community 88]]
+- 3 edges to [[_COMMUNITY_Community 121]]
+- 3 edges to [[_COMMUNITY_Cliente Kappa Systems]]
+- 3 edges to [[_COMMUNITY_Community 106]]
+- 3 edges to [[_COMMUNITY_Pipeline Q1 2026]]
+- 3 edges to [[_COMMUNITY_Proposta Cliente Alpha]]
+- 3 edges to [[_COMMUNITY_DANFE]]
+- 3 edges to [[_COMMUNITY_Alocacao por produto]]
+- 3 edges to [[_COMMUNITY_Contingencia]]
+- 3 edges to [[_COMMUNITY_Community 96]]
+- 3 edges to [[_COMMUNITY_Training budget]]
+- 3 edges to [[_COMMUNITY_Estorno]]
+- 3 edges to [[_COMMUNITY_Prazo de reembolso]]
+- 3 edges to [[_COMMUNITY_Community 93]]
+- 3 edges to [[_COMMUNITY_Clausula de rescisao]]
+- 3 edges to [[_COMMUNITY_Playbook Sales engineer]]
+- 2 edges to [[_COMMUNITY_Deploy v2.0.1 - AI Assistant]]
+- 2 edges to [[_COMMUNITY_Community 74]]
+- 2 edges to [[_COMMUNITY_Community 49]]
+- 2 edges to [[_COMMUNITY_Community 63]]
+- 2 edges to [[_COMMUNITY_Community 84]]
+- 2 edges to [[_COMMUNITY_Community 103]]
+- 2 edges to [[_COMMUNITY_Community 47]]
+- 2 edges to [[_COMMUNITY_Community 125]]
+- 2 edges to [[_COMMUNITY_Community 82]]
+- 2 edges to [[_COMMUNITY_Community 199]]
+- 2 edges to [[_COMMUNITY_FAQ Como ver relatorios]]
+- 2 edges to [[_COMMUNITY_Community 122]]
+- 2 edges to [[_COMMUNITY_TKT-2026-0003 API timeout]]
+- 2 edges to [[_COMMUNITY_Community 123]]
+- 2 edges to [[_COMMUNITY_TKT-2026-0016 SSO falhou]]
+- 2 edges to [[_COMMUNITY_TKT-2026-0020 Backup falhou]]
+- 2 edges to [[_COMMUNITY_Blocker]]
+- 2 edges to [[_COMMUNITY_Cliente Epsilon LLC]]
+- 2 edges to [[_COMMUNITY_Community 136]]
+- 2 edges to [[_COMMUNITY_Cliente Zeta Group]]
+- 2 edges to [[_COMMUNITY_Health score]]
+- 2 edges to [[_COMMUNITY_NPS do cliente]]
+- 2 edges to [[_COMMUNITY_Aditivo]]
+- 2 edges to [[_COMMUNITY_Clausula de penalidade]]
+- 2 edges to [[_COMMUNITY_Analise de perda]]
+- 2 edges to [[_COMMUNITY_Atingimento de meta]]
+- 2 edges to [[_COMMUNITY_Community 97]]
+- 2 edges to [[_COMMUNITY_Precificacao de servicos]]
+- 2 edges to [[_COMMUNITY_Community 77]]
+- 2 edges to [[_COMMUNITY_Avaliacao Competencias]]
+- 2 edges to [[_COMMUNITY_Politica Presentes]]
+- 2 edges to [[_COMMUNITY_Politica Viagens]]
+- 2 edges to [[_COMMUNITY_NF-e Abr 2026]]
+- 2 edges to [[_COMMUNITY_Community 107]]
+- 2 edges to [[_COMMUNITY_Marketing budget]]
+- 2 edges to [[_COMMUNITY_Orcamento 2027]]
+- 2 edges to [[_COMMUNITY_Reembolso alimentacao]]
+- 2 edges to [[_COMMUNITY_Reembolso transporte]]
+- 2 edges to [[_COMMUNITY_Analise de margem]]
+- 2 edges to [[_COMMUNITY_Balanco patrimonial]]
+- 2 edges to [[_COMMUNITY_DRE Fev 2026]]
+- 2 edges to [[_COMMUNITY_DRE Trimestre 4]]
+- 2 edges to [[_COMMUNITY_Relatorio de receitas]]
+- 2 edges to [[_COMMUNITY_Canal de etica]]
+- 2 edges to [[_COMMUNITY_Alerta Erro 5xx]]
+- 2 edges to [[_COMMUNITY_Stories Bastidores]]
+- 2 edges to [[_COMMUNITY_Infrastructure]]
+- 1 edge to [[_COMMUNITY_Webinars gravados]]
+- 1 edge to [[_COMMUNITY_Fingerprint support]]
+- 1 edge to [[_COMMUNITY_API de pagamentos]]
+- 1 edge to [[_COMMUNITY_API design guidelines]]
+- 1 edge to [[_COMMUNITY_Acoes corretivas]]
+- 1 edge to [[_COMMUNITY_Community 55]]
+- 1 edge to [[_COMMUNITY_Runbook Security patch]]
+- 1 edge to [[_COMMUNITY_KB FAQ negocio]]
+- 1 edge to [[_COMMUNITY_Community 89]]
+- 1 edge to [[_COMMUNITY_KB Workarounds]]
+- 1 edge to [[_COMMUNITY_FAQ Como ativar MFA]]
+- 1 edge to [[_COMMUNITY_Community 172]]
+- 1 edge to [[_COMMUNITY_FAQ Como gerar API key]]
+- 1 edge to [[_COMMUNITY_FAQ Como integrar API]]
+- 1 edge to [[_COMMUNITY_Community 102]]
+- 1 edge to [[_COMMUNITY_Community 92]]
+- 1 edge to [[_COMMUNITY_Community 317]]
+- 1 edge to [[_COMMUNITY_Cliente Beta Inc]]
+- 1 edge to [[_COMMUNITY_Cliente Delta SA]]
+- 1 edge to [[_COMMUNITY_Economic buyer]]
+- 1 edge to [[_COMMUNITY_Lead scoring]]
+- 1 edge to [[_COMMUNITY_Pipeline Q2 2026]]
+- 1 edge to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Playbook Proposta]]
+- 1 edge to [[_COMMUNITY_Playbook Qualificacao]]
+- 1 edge to [[_COMMUNITY_Playbook Retencao]]
+- 1 edge to [[_COMMUNITY_SLA proposto]]
+- 1 edge to [[_COMMUNITY_Avaliacao Ajuste salarial]]
+- 1 edge to [[_COMMUNITY_Avaliacao Bonus]]
+- 1 edge to [[_COMMUNITY_Avaliacao PDI criacao]]
+- 1 edge to [[_COMMUNITY_Avaliacao Potencial]]
+- 1 edge to [[_COMMUNITY_Politica Conflito de interesse]]
+- 1 edge to [[_COMMUNITY_Politica Horario flexivel]]
+- 1 edge to [[_COMMUNITY_Processo Afastamento]]
+- 1 edge to [[_COMMUNITY_NF-e Mar 2026]]
+- 1 edge to [[_COMMUNITY_NF-e Produtos]]
+- 1 edge to [[_COMMUNITY_XML armazenado]]
+- 1 edge to [[_COMMUNITY_Community 111]]
+- 1 edge to [[_COMMUNITY_Infra budget]]
+- 1 edge to [[_COMMUNITY_Community 301]]
+- 1 edge to [[_COMMUNITY_Recibo]]
+- 1 edge to [[_COMMUNITY_Reembolso treinamento]]
+- 1 edge to [[_COMMUNITY_Fluxo de caixa]]
+- 1 edge to [[_COMMUNITY_PLD]]
+- 1 edge to [[_COMMUNITY_Post Blog 002]]
+- 1 edge to [[_COMMUNITY_Post Instagram 001]]
+- 1 edge to [[_COMMUNITY_Post LinkedIn 002]]
+- 1 edge to [[_COMMUNITY_Post Twitter 001]]
+- 1 edge to [[_COMMUNITY_Reels Produto]]
+- 1 edge to [[_COMMUNITY_Monitor Datadog]]
+- 1 edge to [[_COMMUNITY_Cloud AWS conta principal]]
+- 1 edge to [[_COMMUNITY_Hardening Linux]]
+- 1 edge to [[_COMMUNITY_Scripts]]
+- 1 edge to [[_COMMUNITY_Clean architecture]]
+- 1 edge to [[_COMMUNITY_FAQ Como configurar SSO]]
+- 1 edge to [[_COMMUNITY_Avaliacao KPIs individuais]]
+- 1 edge to [[_COMMUNITY_Politica Denuncias]]
+- 1 edge to [[_COMMUNITY_Cloud Security groups]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Servidor worker-01]]
+- 1 edge to [[_COMMUNITY_Contrato Parceiro X]]
+- 1 edge to [[_COMMUNITY_Decisao ADR-001]]
+- 1 edge to [[_COMMUNITY_FAQ Como alterar plano]]
+- 1 edge to [[_COMMUNITY_Cliente Gamma Ltd]]
+- 1 edge to [[_COMMUNITY_Technical buyer]]
+- 1 edge to [[_COMMUNITY_Deal size medio]]
+- 1 edge to [[_COMMUNITY_Forecast trimestral]]
+- 1 edge to [[_COMMUNITY_Headcount budget]]
+- 1 edge to [[_COMMUNITY_Reembolso Equipe C]]
+- 1 edge to [[_COMMUNITY_Reembolso hospedagem]]
+- 1 edge to [[_COMMUNITY_Architecture]]
+- 1 edge to [[_COMMUNITY_DRE Abr 2026]]
+- 1 edge to [[_COMMUNITY_Risco legal]]
+
+## Top bridge nodes
+- [[Image paineis-relatorios.png]] - degree 799, connects to 187 communities
+- [[Data 2026-02-18]] - degree 37, connects to 22 communities
+- [[Data 2026-01-14]] - degree 31, connects to 17 communities
+- [[Meta de vendas]] - degree 21, connects to 10 communities
+- [[ROI por produto_4]] - degree 16, connects to 10 communities

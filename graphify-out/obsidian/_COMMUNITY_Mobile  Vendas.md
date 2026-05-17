@@ -1,0 +1,393 @@
+---
+type: community
+cohesion: 0.01
+members: 203
+---
+
+# Mobile / Vendas
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 203 nodes
+
+## Members
+- [[Acoes corretivas_14]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/incidentes/acoes-corretivas-0176.md
+- [[Ajuste de precos_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/ajuste-de-precos-0136.md
+- [[Alocacao por produto_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/alocacao-por-produto-0106.md
+- [[Alocacao por projeto_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/alocacao-por-projeto-0125.md
+- [[Analise de margem_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/analise-de-margem-0118.md
+- [[Analise de perda_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/analise-de-perda-0052.md
+- [[Analise de rentabilidade_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/analise-de-rentabilidade-0059.md
+- [[Anexo tecnico_15]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/anexo-tecnico-0059.md
+- [[Atingimento de meta_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/atingimento-de-meta-0131.md
+- [[Avaliacao Comportamental_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-comportamental-0135.md
+- [[Avaliacao Meritocracia_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-meritocracia-0100.md
+- [[Budget authority_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/budget-authority-0035.md
+- [[CAPEX_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/capex-0147.md
+- [[Campanha Podcast_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/campanhas/campanha-podcast-0057.md
+- [[Cash flow statement_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/cash-flow-statement-0114.md
+- [[Ciclo de vendas_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0035.md
+- [[Ciclo de vendas_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0055.md
+- [[Ciclo de vendas_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0095.md
+- [[Ciclo de vendas_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0135.md
+- [[Ciclo de vendas_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0175.md
+- [[Ciclo de vendas_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0195.md
+- [[Ciclo de vendas_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0235.md
+- [[Ciclo de vendas_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/ciclo-de-vendas-0015.md
+- [[Clausula de penalidade_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/clausula-de-penalidade-0193.md
+- [[Clausula de rescisao_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/clausula-de-rescisao-0234.md
+- [[Cliente Alpha Corp_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-alpha-corp-0085.md
+- [[Cliente Beta Inc_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-beta-inc-0212.md
+- [[Cliente Epsilon LLC_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-epsilon-llc-0047.md
+- [[Cliente Epsilon LLC_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-epsilon-llc-0131.md
+- [[Cliente Eta Solutions_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-eta-solutions-0049.md
+- [[Cliente Gamma Ltd_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-gamma-ltd-0150.md
+- [[Cliente Gamma Ltd_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-gamma-ltd-0192.md
+- [[Cliente Iota Digital_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-iota-digital-0072.md
+- [[Cliente Iota Digital_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-iota-digital-0135.md
+- [[Cliente Iota Digital_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-iota-digital-0219.md
+- [[Cliente Kappa Systems_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-kappa-systems-0052.md
+- [[Cliente Kappa Systems_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-kappa-systems-0094.md
+- [[Cliente Theta Tech_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-theta-tech-0239.md
+- [[Cliente Zeta Group_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-zeta-group-0048.md
+- [[Cliente Zeta Group_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-zeta-group-0216.md
+- [[Contingencia_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/contingencia-0139.md
+- [[Contrato Alpha Corp_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-alpha-corp-0141.md
+- [[Contrato Beta Inc_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-beta-inc-0162.md
+- [[Contrato Delta SA_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-delta-sa-0204.md
+- [[Contrato Gamma Ltd_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-gamma-ltd-0063.md
+- [[DANFE_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/danfe-0059.md
+- [[DANFE_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/danfe-0079.md
+- [[DRE Abr 2026_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-abr-2026-0104.md
+- [[DRE Anual 2026_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-anual-2026-0111.md
+- [[DRE Fev 2026_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-fev-2026-0042.md
+- [[DRE Mai 2026_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-mai-2026-0105.md
+- [[DRE Trimestre 4_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-trimestre-4-0090.md
+- [[Deal size medio_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/deal-size-medio-0074.md
+- [[Decisao ADR-001_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/decisao-adr-001-0044.md
+- [[Decision process_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/decision-process-0223.md
+- [[Demo tecnica_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/demo-tecnica-0120.md
+- [[Economic buyer_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/economic-buyer-0121.md
+- [[Estorno_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/estorno-0056.md
+- [[Estorno_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/estorno-0075.md
+- [[FAQ Como alterar plano_16]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-alterar-plano-0244.md
+- [[FAQ Como configurar SSO_20]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-configurar-sso-0334.md
+- [[FAQ Como criar conta_1]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-criar-conta-0041.md
+- [[FAQ Como criar conta_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-criar-conta-0161.md
+- [[FAQ Como criar conta_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-criar-conta-0301.md
+- [[FAQ Como exportar dados_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-exportar-dados-0212.md
+- [[FAQ Como exportar dados_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-exportar-dados-0232.md
+- [[FAQ Como exportar dados_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-exportar-dados-0252.md
+- [[FAQ Como fazer login_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-fazer-login-0262.md
+- [[FAQ Como fazer upload_18]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-fazer-upload-0151.md
+- [[FAQ Como integrar API_20]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-integrar-api-0287.md
+- [[FAQ Como resetar senha_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-resetar-senha-0363.md
+- [[FAQ Como usar SDK_13]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0010.md
+- [[FAQ Como usar SDK]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/en/faq/faq-como-usar-sdk-0030.md
+- [[FAQ Como usar SDK_14]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0070.md
+- [[FAQ Como usar SDK_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/en/faq/faq-como-usar-sdk-0090.md
+- [[FAQ Como usar SDK_15]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0130.md
+- [[FAQ Como usar SDK_16]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0190.md
+- [[FAQ Como usar SDK_17]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0270.md
+- [[FAQ Como usar SDK_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0350.md
+- [[FAQ Como usar SDK_20]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0370.md
+- [[FAQ Como usar SDK_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/en/faq/faq-como-usar-sdk-0030.md
+- [[FAQ Como usar dashboard_17]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-dashboard-0220.md
+- [[FAQ Como usar dashboard_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-dashboard-0380.md
+- [[Fingerprint support]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/mobile-airich/fingerprint-support-0038.md
+- [[Fluxo de aprovacao_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/fluxo-de-aprovacao-0111.md
+- [[Funil de vendas_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/funil-de-vendas-0185.md
+- [[Imagem Paineis Relatorios]] - image - /mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/ai-assistant-airich/content-filtering-0075.md
+- [[Instalacao Ubuntu 24.04_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/09-infraestrutura/servidores/instalacao-ubuntu-24.04-0059.md
+- [[KB Casos de uso]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-casos-de-uso-0019.md
+- [[KB Casos de uso_16]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-casos-de-uso-0319.md
+- [[KB Casos de uso_17]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-casos-de-uso-0339.md
+- [[KB Erros comuns_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-erros-comuns-0054.md
+- [[KB Erros comuns_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-erros-comuns-0234.md
+- [[KB Erros comuns_14]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-erros-comuns-0274.md
+- [[KB Erros comuns_16]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-erros-comuns-0314.md
+- [[KB FAQ negocio]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-faq-negocio-0018.md
+- [[KB FAQ negocio_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-faq-negocio-0078.md
+- [[KB FAQ negocio_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-faq-negocio-0098.md
+- [[KB FAQ negocio_16]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-faq-negocio-0318.md
+- [[KB FAQ negocio_18]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-faq-negocio-0358.md
+- [[KB Guia de migracao_17]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-guia-de-migracao-0327.md
+- [[KB Primeiros passos_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-primeiros-passos-0065.md
+- [[KB Workarounds_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/base-conhecimento/kb-workarounds-0091.md
+- [[LGPD Anonimizacao_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/lgpd/lgpd-anonimizacao-0134.md
+- [[LGPD Compartilhamento_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/lgpd/lgpd-compartilhamento-0036.md
+- [[LGPD Relatorio de impacto_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/lgpd/lgpd-relatorio-de-impacto-0126.md
+- [[Marketing budget_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/marketing-budget-0190.md
+- [[NF-e Abr 2026_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-abr-2026-0004.md
+- [[NF-e Ago 2026_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-ago-2026-0068.md
+- [[NF-e Fev 2026_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-fev-2026-0142.md
+- [[NF-e Fev 2026_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-fev-2026-0162.md
+- [[NF-e Mai 2026_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-mai-2026-0145.md
+- [[NFS-e Servicos_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nfs-e-servicos-0131.md
+- [[OPEX_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/opex-0168.md
+- [[OPEX_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/opex-0188.md
+- [[Orcamento 2026_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/orcamento-2026-0021.md
+- [[Orcamento 2026_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/orcamento-2026-0061.md
+- [[Orcamento 2026_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/orcamento-2026-0121.md
+- [[Orcamento 2027_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/orcamento-2027-0082.md
+- [[PLD_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/compliance/pld-0098.md
+- [[Pipeline Q1 2026_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q1-2026-0141.md
+- [[Pipeline Q3 2026]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q3-2026-0003.md
+- [[Pipeline Q3 2026_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q3-2026-0223.md
+- [[Pipeline Q4 2026_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0044.md
+- [[Pipeline Q4 2026_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0064.md
+- [[Pipeline Q4 2026_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0104.md
+- [[Pipeline Q4 2026_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0144.md
+- [[Pipeline Q4 2026_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0164.md
+- [[Pipeline Q4 2026_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0184.md
+- [[Pipeline Q4 2026_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0224.md
+- [[Pipeline Q4 2026_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/pipeline-q4-2026-0004.md
+- [[Playbook Demo_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-demo-0183.md
+- [[Playbook Onboarding_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-onboarding-0047.md
+- [[Playbook Prospeccao_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-prospeccao-0061.md
+- [[Playbook Qualificacao_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-qualificacao-0222.md
+- [[Playbook Reativacao_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-reativacao-0150.md
+- [[Playbook Sales engineer_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-sales-engineer-0058.md
+- [[Politica de reembolso_13]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/politica-de-reembolso-0004.md
+- [[Politica de reembolso_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/politica-de-reembolso-0175.md
+- [[Politica Viagens_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/politicas/politica-viagens-0123.md
+- [[Post Instagram 001_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/social-media/post-instagram-001-0107.md
+- [[Post Twitter 001_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/social-media/post-twitter-001-0104.md
+- [[Prazo de reembolso_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/prazo-de-reembolso-0150.md
+- [[Processamento de cartão_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/pay-airich/processamento-de-cartão-0048.md
+- [[Proposta Cliente Alpha_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/proposta-cliente-alpha-0061.md
+- [[Proposta Cliente Beta_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/proposta-cliente-beta-0202.md
+- [[Proposta Cliente Delta_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/proposta-cliente-delta-0024.md
+- [[Qualificacao MEDDIC_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/qualificacao-meddic-0238.md
+- [[ROI por produto]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/roi-por-produto-0020.md
+- [[ROI por produto_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/roi-por-produto-0060.md
+- [[Recibo_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/recibo-0160.md
+- [[Reels Tutorial_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/social-media/reels-tutorial-0116.md
+- [[Reembolso equipamento_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-equipamento-0072.md
+- [[Reembolso equipamento_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-equipamento-0110.md
+- [[Reembolso hospedagem_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-hospedagem-0032.md
+- [[Reembolso treinamento_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-treinamento-0185.md
+- [[Reembolso viagem_1]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-viagem-0086.md
+- [[Reembolso Equipe A_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-equipe-a-0001.md
+- [[Relatorio de custos]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-custos-0017.md
+- [[Relatorio de custos_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-custos-0057.md
+- [[Relatorio de custos_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-custos-0077.md
+- [[Relatorio de custos_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-custos-0097.md
+- [[Relatorio de custos_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-custos-0157.md
+- [[Relatorio de custos_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-custos-0017.md
+- [[Relatorio de despesas_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-despesas-0036.md
+- [[Relatorio de despesas_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-despesas-0056.md
+- [[Relatorio de despesas_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-despesas-0096.md
+- [[Relatorio de despesas_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-despesas-0116.md
+- [[Relatorio de receitas_1]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-receitas-0035.md
+- [[Relatorio de receitas_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/relatorio-de-receitas-0155.md
+- [[Renovacao automatica_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/renovacao-automatica-0035.md
+- [[Renovacao automatica_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/renovacao-automatica-0155.md
+- [[Runbook Limpeza de cache]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-limpeza-de-cache-0005.md
+- [[Runbook Restore de backup_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-restore-de-backup-0369.md
+- [[SLA proposto_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/sla-proposto-0218.md
+- [[Script Cold call_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/script-cold-call-0139.md
+- [[Script Cold call_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/script-cold-call-0219.md
+- [[Script Cold email_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/script-cold-email-0120.md
+- [[Script Cold email_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/script-cold-email-0220.md
+- [[Script throughput-test.py_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/diagnostico/script-throughput-test.py-0037.md
+- [[Software licenses_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/software-licenses-0095.md
+- [[Stakeholders mapeados_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/stakeholders-mapeados-0054.md
+- [[TKT-2026-0001 Erro login_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0001-erro-login-0041.md
+- [[TKT-2026-0003 API timeout_16]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0003-api-timeout-0123.md
+- [[TKT-2026-0003 API timeout_17]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0003-api-timeout-0163.md
+- [[TKT-2026-0003 API timeout_18]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0003-api-timeout-0323.md
+- [[TKT-2026-0003 API timeout_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0003-api-timeout-0343.md
+- [[TKT-2026-0011 Mobile crash_14]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0011-mobile-crash-0131.md
+- [[TKT-2026-0016 SSO falhou_15]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0016-sso-falhou-0096.md
+- [[TKT-2026-0016 SSO falhou_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0016-sso-falhou-0356.md
+- [[TKT-2026-0016 SSO falhou_20]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0016-sso-falhou-0376.md
+- [[Template NDA_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/template-nda-0108.md
+- [[Template proposta SaaS_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/template-proposta-saas-0166.md
+- [[Template proposta SaaS_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/template-proposta-saas-0186.md
+- [[Template proposta custom_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/template-proposta-custom-0188.md
+- [[Training budget_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/training-budget-0034.md
+- [[Validade da proposta_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/validade-da-proposta-0136.md
+- [[Validade da proposta_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/validade-da-proposta-0196.md
+- [[Validade da proposta_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/validade-da-proposta-0216.md
+- [[Validade da proposta_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/validade-da-proposta-0236.md
+- [[Validade da proposta_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/validade-da-proposta-0016.md
+- [[Velocidade do pipeline_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/velocidade-do-pipeline-0187.md
+- [[Velocidade do pipeline_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/velocidade-do-pipeline-0227.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Mobile_/_Vendas
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 525 edges to [[_COMMUNITY_CRM  Vendas]]
+- 377 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 261 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 215 edges to [[_COMMUNITY_Plataforma  Produtos]]
+- 206 edges to [[_COMMUNITY_CRM  Produtos]]
+- 136 edges to [[_COMMUNITY_Vendas]]
+- 114 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 105 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 102 edges to [[_COMMUNITY_AI Assistant  Vendas]]
+- 89 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 71 edges to [[_COMMUNITY_Plataforma  Engenharia]]
+- 46 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 24 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 23 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 22 edges to [[_COMMUNITY_Mobile  Suporte]]
+- 22 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 21 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 19 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 15 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 15 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 15 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 14 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 11 edges to [[_COMMUNITY_Plataforma  Engenharia]]
+- 11 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 8 edges to [[_COMMUNITY_Infraestrutura]]
+- 8 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 8 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 7 edges to [[_COMMUNITY_Mobile  Produtos]]
+- 7 edges to [[_COMMUNITY_Analytics  Produtos]]
+- 7 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 7 edges to [[_COMMUNITY_Infraestrutura]]
+- 6 edges to [[_COMMUNITY_AI Assistant  Produtos]]
+- 6 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 6 edges to [[_COMMUNITY_Engenharia]]
+- 5 edges to [[_COMMUNITY_Engenharia]]
+- 5 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 5 edges to [[_COMMUNITY_Suporte]]
+- 4 edges to [[_COMMUNITY_Suporte]]
+- 4 edges to [[_COMMUNITY_Suporte]]
+- 4 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 4 edges to [[_COMMUNITY_CRM  Vendas]]
+- 4 edges to [[_COMMUNITY_Vendas]]
+- 4 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 4 edges to [[_COMMUNITY_Suporte]]
+- 4 edges to [[_COMMUNITY_Suporte]]
+- 4 edges to [[_COMMUNITY_Relatorio de despesas]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Vendas]]
+- 3 edges to [[_COMMUNITY_Vendas]]
+- 3 edges to [[_COMMUNITY_Vendas]]
+- 3 edges to [[_COMMUNITY_Vendas]]
+- 3 edges to [[_COMMUNITY_Vendas]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Analytics  Infraestrutura]]
+- 3 edges to [[_COMMUNITY_Deadline de reembolso]]
+- 3 edges to [[_COMMUNITY_Plataforma  Engenharia]]
+- 3 edges to [[_COMMUNITY_Analytics  Infraestrutura]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Vendas]]
+- 3 edges to [[_COMMUNITY_Community 624]]
+- 2 edges to [[_COMMUNITY_Suporte]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_AloCACao por department]]
+- 2 edges to [[_COMMUNITY_AloCACao por project]]
+- 2 edges to [[_COMMUNITY_R&D budget]]
+- 2 edges to [[_COMMUNITY_DRE Trimestre 1]]
+- 2 edges to [[_COMMUNITY_Analytics  Infraestrutura]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_DANFE]]
+- 2 edges to [[_COMMUNITY_NF-e Fev 2026]]
+- 2 edges to [[_COMMUNITY_OPEX]]
+- 2 edges to [[_COMMUNITY_Estorno]]
+- 2 edges to [[_COMMUNITY_Politica de reembolso]]
+- 2 edges to [[_COMMUNITY_Reembolso equipamento]]
+- 2 edges to [[_COMMUNITY_Relatorio de revenues]]
+- 2 edges to [[_COMMUNITY_ROI por produto]]
+- 1 edge to [[_COMMUNITY_Analytics  Produtos]]
+- 1 edge to [[_COMMUNITY_CRM  Produtos]]
+- 1 edge to [[_COMMUNITY_Pay  Produtos]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Processo Ferias]]
+- 1 edge to [[_COMMUNITY_NF-e Exportacao]]
+- 1 edge to [[_COMMUNITY_NF-e Products]]
+- 1 edge to [[_COMMUNITY_Reels Produto]]
+- 1 edge to [[_COMMUNITY_Mobile  Produtos]]
+- 1 edge to [[_COMMUNITY_Pay  Produtos]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Avaliacao Comportamental]]
+- 1 edge to [[_COMMUNITY_Avaliacao Meritocracia]]
+- 1 edge to [[_COMMUNITY_NF-e Abr 2026]]
+- 1 edge to [[_COMMUNITY_NF-e Ago 2026]]
+- 1 edge to [[_COMMUNITY_CAPEX]]
+- 1 edge to [[_COMMUNITY_Marketing budget]]
+- 1 edge to [[_COMMUNITY_Orcamento 2027]]
+- 1 edge to [[_COMMUNITY_Software licenses]]
+- 1 edge to [[_COMMUNITY_Recibo]]
+- 1 edge to [[_COMMUNITY_Reembolso Equipe A]]
+- 1 edge to [[_COMMUNITY_Community 626]]
+- 1 edge to [[_COMMUNITY_DRE Abr 2026]]
+- 1 edge to [[_COMMUNITY_DRE Anual 2026]]
+- 1 edge to [[_COMMUNITY_DRE Trimestre 4]]
+- 1 edge to [[_COMMUNITY_AloCACao por product]]
+- 1 edge to [[_COMMUNITY_ContingencAI]]
+- 1 edge to [[_COMMUNITY_Reembolso training]]
+- 1 edge to [[_COMMUNITY_Analise de margin]]
+- 1 edge to [[_COMMUNITY_Community 246]]
+- 1 edge to [[_COMMUNITY_LGPD Anonimizacao]]
+- 1 edge to [[_COMMUNITY_LGPD Compartilhamento]]
+- 1 edge to [[_COMMUNITY_LGPD Relatorio de impacto]]
+- 1 edge to [[_COMMUNITY_Post Instagram 001]]
+- 1 edge to [[_COMMUNITY_Post Twitter 001]]
+
+## Top bridge nodes
+- [[Imagem Paineis Relatorios]] - degree 759, connects to 76 communities
+- [[NF-e Ago 2026_9]] - degree 20, connects to 11 communities
+- [[FAQ Como usar SDK_19]] - degree 26, connects to 10 communities
+- [[FAQ Como usar SDK_15]] - degree 20, connects to 10 communities
+- [[FAQ Como usar SDK_17]] - degree 20, connects to 10 communities

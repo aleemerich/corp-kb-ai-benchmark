@@ -1,0 +1,1471 @@
+---
+type: community
+cohesion: 0.01
+members: 775
+---
+
+# Infrastructure
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 775 nodes
+
+## Members
+- [[AB testing de modelos_2]] - document - 01-produtos/ai-assistant-airich/en/a-b-testing-de-modelos-0034.md
+- [[API REST documentação_3]] - document - 01-produtos/plataforma-airich/en/api-rest-documentação-0062.md
+- [[API de pagamentos_4]] - document - 01-produtos/pay-airich/en/api-de-pagamentos-0109.md
+- [[Acoes corretivas_26]] - document - 02-engenharia/incidentes/acoes-corretivas-0336-en.md
+- [[Aditivo_18]] - document - 04-vendas/contratos/en/aditivo-0180.md
+- [[Alert manager_5]] - document - 01-produtos/devops-suite-airich/en/alert-manager-0063.md
+- [[Alert manager_6]] - document - 01-produtos/devops-suite-airich/en/alert-manager-0108.md
+- [[Alerta Backup falhou]] - document - 09-infraestrutura/en/monitoramento/alerta-backup-falhou-0055.md
+- [[Alerta Erro 5xx]] - document - 09-infraestrutura/en/monitoramento/alerta-erro-5xx-0032.md
+- [[Alerta Erro 5xx_2]] - document - 09-infraestrutura/en/monitoramento/alerta-erro-5xx-0116.md
+- [[Alerta Queue depth]] - document - 09-infraestrutura/en/monitoramento/alerta-queue-depth-0015.md
+- [[Alerting strategy_13]] - document - 02-engenharia/arquitetura/alerting-strategy-0159-en.md
+- [[Alerting strategy_18]] - document - 02-engenharia/arquitetura/alerting-strategy-0239-en.md
+- [[Alerting strategy_30]] - document - 02-engenharia/arquitetura/alerting-strategy-0399-en.md
+- [[AloCACao por product_3]] - document - 06-financeiro/en/orcamento/alocacao-por-produto-0066.md
+- [[Analise de causa raiz_3]] - document - 02-engenharia/incidentes/analise-de-causa-raiz-0033-en.md
+- [[Analise de causa raiz_12]] - document - 02-engenharia/incidentes/analise-de-causa-raiz-0133-en.md
+- [[Analise de causa raiz_18]] - document - 02-engenharia/incidentes/analise-de-causa-raiz-0193-en.md
+- [[Analise de causa raiz_31]] - document - 02-engenharia/incidentes/analise-de-causa-raiz-0353-en.md
+- [[Analytics de uso_4]] - document - 01-produtos/mobile-airich/en/analytics-de-uso-0075.md
+- [[Anexo commercAIl]] - document - 04-vendas/propostas/en/anexo-comercial-0060.md
+- [[Anexo commercAIl_2]] - document - 04-vendas/propostas/en/anexo-comercial-0100.md
+- [[Anexo commercAIl_3]] - document - 04-vendas/propostas/en/anexo-comercial-0140.md
+- [[Assinaturas e planos_5]] - document - 01-produtos/pay-airich/en/assinaturas-e-planos-0053.md
+- [[AvalAIcao Bonus]] - document - 05-rh/avaliacoes/avaliacao-bonus-0018-en.md
+- [[AvalAIcao Bonus_5]] - document - 05-rh/avaliacoes/avaliacao-bonus-0165-en.md
+- [[AvalAIcao PotencAIl_4]] - document - 05-rh/avaliacoes/avaliacao-potencial-0096-en.md
+- [[AvalAIcao PotencAIl_5]] - document - 05-rh/avaliacoes/avaliacao-potencial-0117-en.md
+- [[Backlog grooming notes_3]] - document - 02-engenharia/sprints/backlog-grooming-notes-0039-en.md
+- [[Backlog grooming notes_13]] - document - 02-engenharia/sprints/backlog-grooming-notes-0159-en.md
+- [[Backlog grooming notes_21]] - document - 02-engenharia/sprints/backlog-grooming-notes-0239-en.md
+- [[Backlog grooming notes_25]] - document - 02-engenharia/sprints/backlog-grooming-notes-0279-en.md
+- [[Backlog grooming notes_31]] - document - 02-engenharia/sprints/backlog-grooming-notes-0339-en.md
+- [[Backlog grooming notes_36]] - document - 02-engenharia/sprints/backlog-grooming-notes-0399-en.md
+- [[Backup de data]] - document - 01-produtos/analytics-airich/en/backup-de-dados-0043.md
+- [[Badges e conquistas_6]] - document - 01-produtos/edu-airich/en/badges-e-conquistas-0096.md
+- [[Blocker_17]] - document - 04-vendas/clientes/en/blocker-0186.md
+- [[Bot detection_5]] - document - 01-produtos/security-shield-airich/en/bot-detection-0099.md
+- [[CSP headers_5]] - document - 01-produtos/security-shield-airich/en/csp-headers-0106.md
+- [[Campanha Blog SEO_11]] - document - 08-marketing/campanhas/en/campanha-blog-seo-0078.md
+- [[Campanha Blog SEO_12]] - document - 08-marketing/campanhas/en/campanha-blog-seo-0098.md
+- [[Campanha Blog SEO_14]] - document - 08-marketing/campanhas/en/campanha-blog-seo-0138.md
+- [[Campanha Evento virtual_10]] - document - 08-marketing/campanhas/en/campanha-evento-virtual-0040.md
+- [[Campanha Lancamento v3.0_13]] - document - 08-marketing/campanhas/en/campanha-lancamento-v3.0-0081.md
+- [[Campanha Lancamento v3.0_14]] - document - 08-marketing/campanhas/en/campanha-lancamento-v3.0-0101.md
+- [[Campanha Lancamento v3.0_15]] - document - 08-marketing/campanhas/en/campanha-lancamento-v3.0-0121.md
+- [[Campanha Lookalike_11]] - document - 08-marketing/campanhas/en/campanha-lookalike-0111.md
+- [[Campanha Lookalike_12]] - document - 08-marketing/campanhas/en/campanha-lookalike-0131.md
+- [[Campanha Parceiros_12]] - document - 08-marketing/campanhas/en/campanha-parceiros-0069.md
+- [[Campanha Parceiros_13]] - document - 08-marketing/campanhas/en/campanha-parceiros-0089.md
+- [[Campanha Parceiros_15]] - document - 08-marketing/campanhas/en/campanha-parceiros-0129.md
+- [[Campanha Retargeting_11]] - document - 08-marketing/campanhas/en/campanha-retargeting-0090.md
+- [[Campanha Retargeting_12]] - document - 08-marketing/campanhas/en/campanha-retargeting-0110.md
+- [[Campanha Retargeting_13]] - document - 08-marketing/campanhas/en/campanha-retargeting-0130.md
+- [[Campanha Startup Week_10]] - document - 08-marketing/campanhas/en/campanha-startup-week-0005.md
+- [[Campanha Startup Week_13]] - document - 08-marketing/campanhas/en/campanha-startup-week-0105.md
+- [[Campanha Startup Week_14]] - document - 08-marketing/campanhas/en/campanha-startup-week-0125.md
+- [[Campanha Webinar Series_11]] - document - 08-marketing/campanhas/en/campanha-webinar-series-0026.md
+- [[Campanha Webinar Series_14]] - document - 08-marketing/campanhas/en/campanha-webinar-series-0106.md
+- [[Campanha Webinar Series_15]] - document - 08-marketing/campanhas/en/campanha-webinar-series-0126.md
+- [[Campanha YouTube_12]] - document - 08-marketing/campanhas/en/campanha-youtube-0136.md
+- [[Carta de correcao]] - document - 06-financeiro/en/notas-fiscais/carta-de-correcao-0016.md
+- [[Carta de correcao_5]] - document - 06-financeiro/en/notas-fiscais/carta-de-correcao-0116.md
+- [[Carta de correcao_8]] - document - 06-financeiro/en/notas-fiscais/carta-de-correcao-0196.md
+- [[Cash flow statement]] - document - 06-financeiro/en/relatorios/cash-flow-statement-0014.md
+- [[Cash flow statement_3]] - document - 06-financeiro/en/relatorios/cash-flow-statement-0074.md
+- [[Champion_12]] - document - 04-vendas/clientes/en/champion-0017.md
+- [[Changelog v1.0_4]] - document - 01-produtos/edu-airich/en/changelog-v1.0-0040.md
+- [[Changelog v1.0_5]] - document - 01-produtos/edu-airich/en/changelog-v1.0-0082.md
+- [[Changelog v2.0_4]] - document - 01-produtos/ai-assistant-airich/en/changelog-v2.0-0094.md
+- [[Changelog v2.0_9]] - document - 01-produtos/api-gateway-airich/en/changelog-v2.0-0071.md
+- [[Changelog v2.0_10]] - document - 01-produtos/api-gateway-airich/en/changelog-v2.0-0122.md
+- [[Changelog v2.0_15]] - document - 01-produtos/pay-airich/en/changelog-v2.0-0088.md
+- [[Changelog v2.1_6]] - document - 01-produtos/api-gateway-airich/en/changelog-v2.1-0123.md
+- [[Changelog v3.2_4]] - document - 01-produtos/plataforma-airich/en/changelog-v3.2-0019.md
+- [[Changelog v3.2_5]] - document - 01-produtos/plataforma-airich/en/changelog-v3.2-0068.md
+- [[Chaos engineering_3]] - document - 01-produtos/devops-suite-airich/en/chaos-engineering-0113.md
+- [[Ciclo de sales_2]] - document - 04-vendas/pipeline/en/ciclo-de-vendas-0075.md
+- [[Ciclo de sales_4]] - document - 04-vendas/pipeline/en/ciclo-de-vendas-0115.md
+- [[Ciclo de sales_6]] - document - 04-vendas/pipeline/en/ciclo-de-vendas-0175.md
+- [[Clausula de SLA_18]] - document - 04-vendas/contratos/en/clausula-de-sla-0172.md
+- [[Clean architecture]] - document - 02-engenharia/arquitetura/clean-architecture-0014-en.md
+- [[Clean architecture_11]] - document - 02-engenharia/arquitetura/clean-architecture-0134-en.md
+- [[Clean architecture_22]] - document - 02-engenharia/arquitetura/clean-architecture-0294-en.md
+- [[Clean architecture_24]] - document - 02-engenharia/arquitetura/clean-architecture-0314-en.md
+- [[Cliente Beta Inc_16]] - document - 04-vendas/clientes/en/cliente-beta-inc-0086.md
+- [[Cliente Beta Inc_21]] - document - 04-vendas/clientes/en/cliente-beta-inc-0212.md
+- [[Cliente Delta SA_16]] - document - 04-vendas/clientes/en/cliente-delta-sa-0088.md
+- [[Cliente Epsilon LLC_16]] - document - 04-vendas/clientes/en/cliente-epsilon-llc-0110.md
+- [[Cliente Epsilon LLC_20]] - document - 04-vendas/clientes/en/cliente-epsilon-llc-0236.md
+- [[Cliente Eta Solutions_15]] - document - 04-vendas/clientes/en/cliente-eta-solutions-0091.md
+- [[Cliente Eta Solutions_17]] - document - 04-vendas/clientes/en/cliente-eta-solutions-0154.md
+- [[Cliente Eta Solutions_18]] - document - 04-vendas/clientes/en/cliente-eta-solutions-0175.md
+- [[Cliente Eta Solutions_19]] - document - 04-vendas/clientes/en/cliente-eta-solutions-0196.md
+- [[Cliente Eta Solutions_21]] - document - 04-vendas/clientes/en/cliente-eta-solutions-0238.md
+- [[Cliente Iota Digital_15]] - document - 04-vendas/clientes/en/cliente-iota-digital-0114.md
+- [[Cliente Iota Digital_17]] - document - 04-vendas/clientes/en/cliente-iota-digital-0219.md
+- [[Cliente Theta Tech_13]] - document - 04-vendas/clientes/en/cliente-theta-tech-0008.md
+- [[Cliente Theta Tech_17]] - document - 04-vendas/clientes/en/cliente-theta-tech-0113.md
+- [[Cliente Theta Tech_20]] - document - 04-vendas/clientes/en/cliente-theta-tech-0176.md
+- [[Cliente Theta Tech_21]] - document - 04-vendas/clientes/en/cliente-theta-tech-0197.md
+- [[Cliente Zeta Group_13]] - document - 04-vendas/clientes/en/cliente-zeta-group-0006.md
+- [[Cliente Zeta Group_14]] - document - 04-vendas/clientes/en/cliente-zeta-group-0048.md
+- [[Cliente Zeta Group_17]] - document - 04-vendas/clientes/en/cliente-zeta-group-0111.md
+- [[Cliente Zeta Group_20]] - document - 04-vendas/clientes/en/cliente-zeta-group-0195.md
+- [[Cloud ElastiCache Redis_7]] - document - 09-infraestrutura/en/cloud/cloud-elasticache-redis-0029.md
+- [[Cloud KMS_8]] - document - 09-infraestrutura/en/cloud/cloud-kms-0055.md
+- [[Cloud KMS_9]] - document - 09-infraestrutura/en/cloud/cloud-kms-0075.md
+- [[Cloud RDS PostgreSQL_8]] - document - 09-infraestrutura/en/cloud/cloud-rds-postgresql-0088.md
+- [[Coaching tools_4]] - document - 01-produtos/crm-airich/en/coaching-tools-0081.md
+- [[Code review checklist_5]] - document - 01-produtos/mobile-airich/en/code-review-checklist-0149.md
+- [[ComplAInce Marco Civil_2]] - document - 07-juridico/compliance/compliance-marco-civil-0046-en.md
+- [[ComplAInce Marco Civil_3]] - document - 07-juridico/compliance/compliance-marco-civil-0066-en.md
+- [[ComplAInce PCI-DSS_4]] - document - 07-juridico/compliance/compliance-pci-dss-0005-en.md
+- [[ComplAInce PCI-DSS_5]] - document - 07-juridico/compliance/compliance-pci-dss-0025-en.md
+- [[ComplAInce PCI-DSS_8]] - document - 07-juridico/compliance/compliance-pci-dss-0105-en.md
+- [[Condicoes de pagamento_15]] - document - 04-vendas/propostas/en/condicoes-de-pagamento-0075.md
+- [[Condicoes de pagamento_18]] - document - 04-vendas/propostas/en/condicoes-de-pagamento-0175.md
+- [[Condicoes de pagamento_20]] - document - 04-vendas/propostas/en/condicoes-de-pagamento-0235.md
+- [[Configuração de SSO_4]] - document - 01-produtos/plataforma-airich/en/configuração-de-sso-0030.md
+- [[Consulting_2]] - document - 06-financeiro/en/orcamento/consulting-0078.md
+- [[ContingencAI_3]] - document - 06-financeiro/en/orcamento/contingencia-0059.md
+- [[ContingencAI_5]] - document - 06-financeiro/en/orcamento/contingencia-0099.md
+- [[Contrato Europa]] - document - 07-juridico/contratos/contrato-europa-0021-en.md
+- [[Contrato Europa_5]] - document - 07-juridico/contratos/contrato-europa-0063-en.md
+- [[Contrato Europa_9]] - document - 07-juridico/contratos/contrato-europa-0105-en.md
+- [[Contrato internacional]] - document - 07-juridico/contratos/contrato-internacional-0019-en.md
+- [[Contrato internacional_7]] - document - 07-juridico/contratos/contrato-internacional-0103-en.md
+- [[Contrato Alpha Corp_13]] - document - 04-vendas/contratos/en/contrato-alpha-corp-0001.md
+- [[Contrato Alpha Corp_14]] - document - 04-vendas/contratos/en/contrato-alpha-corp-0021.md
+- [[Contrato Alpha Corp_18]] - document - 04-vendas/contratos/en/contrato-alpha-corp-0221.md
+- [[Contrato Beta Inc_16]] - document - 04-vendas/contratos/en/contrato-beta-inc-0082.md
+- [[Contrato Beta Inc_17]] - document - 04-vendas/contratos/en/contrato-beta-inc-0102.md
+- [[Contrato Beta Inc_22]] - document - 04-vendas/contratos/en/contrato-beta-inc-0222.md
+- [[Contrato Cliente Beta_2]] - document - 07-juridico/contratos/contrato-cliente-beta-0026-en.md
+- [[Contrato Cliente Beta_11]] - document - 07-juridico/contratos/contrato-cliente-beta-0131-en.md
+- [[Contrato Cliente Gamma_3]] - document - 07-juridico/contratos/contrato-cliente-gamma-0027-en.md
+- [[Contrato Cliente Gamma_11]] - document - 07-juridico/contratos/contrato-cliente-gamma-0153-en.md
+- [[Contrato Delta SA_14]] - document - 04-vendas/contratos/en/contrato-delta-sa-0024.md
+- [[Contrato Delta SA_16]] - document - 04-vendas/contratos/en/contrato-delta-sa-0064.md
+- [[Contrato Emprestimo_5]] - document - 07-juridico/contratos/contrato-emprestimo-0072-en.md
+- [[Contrato Emprestimo_10]] - document - 07-juridico/contratos/contrato-emprestimo-0135-en.md
+- [[Contrato Epsilon LLC_14]] - document - 04-vendas/contratos/en/contrato-epsilon-llc-0045.md
+- [[Contrato Epsilon LLC_19]] - document - 04-vendas/contratos/en/contrato-epsilon-llc-0205.md
+- [[Contrato Fornecedor A_9]] - document - 07-juridico/contratos/contrato-fornecedor-a-0085-en.md
+- [[Contrato Fornecedor A_11]] - document - 07-juridico/contratos/contrato-fornecedor-a-0106-en.md
+- [[Contrato Fornecedor A_13]] - document - 07-juridico/contratos/contrato-fornecedor-a-0127-en.md
+- [[Contrato Fornecedor C_3]] - document - 07-juridico/contratos/contrato-fornecedor-c-0024-en.md
+- [[Contrato Fornecedor C_5]] - document - 07-juridico/contratos/contrato-fornecedor-c-0045-en.md
+- [[Contrato Fornecedor C_8]] - document - 07-juridico/contratos/contrato-fornecedor-c-0087-en.md
+- [[Contrato Fornecedor C_10]] - document - 07-juridico/contratos/contrato-fornecedor-c-0108-en.md
+- [[Contrato Gamma Ltd_13]] - document - 04-vendas/contratos/en/contrato-gamma-ltd-0003.md
+- [[Contrato Gamma Ltd_15]] - document - 04-vendas/contratos/en/contrato-gamma-ltd-0063.md
+- [[Contrato Gamma Ltd_18]] - document - 04-vendas/contratos/en/contrato-gamma-ltd-0183.md
+- [[Contrato LoCACao_2]] - document - 07-juridico/contratos/contrato-locacao-0031-en.md
+- [[Contrato LoCACao_4]] - document - 07-juridico/contratos/contrato-locacao-0073-en.md
+- [[Contrato Seguro_11]] - document - 07-juridico/contratos/contrato-seguro-0137-en.md
+- [[Cost optimization_3]] - document - 01-produtos/ai-assistant-airich/en/cost-optimization-0083.md
+- [[DANFE_2]] - document - 06-financeiro/en/notas-fiscais/danfe-0039.md
+- [[DANFE_5]] - document - 06-financeiro/en/notas-fiscais/danfe-0139.md
+- [[DANFE_7]] - document - 06-financeiro/en/notas-fiscais/danfe-0179.md
+- [[DAST integration_4]] - document - 01-produtos/devops-suite-airich/en/dast-integration-0027.md
+- [[DNS management_6]] - document - 01-produtos/devops-suite-airich/en/dns-management-0123.md
+- [[DRE Anual 2026_8]] - document - 06-financeiro/en/relatorios/dre-anual-2026-0191.md
+- [[DRE Fev 2026_3]] - document - 06-financeiro/en/relatorios/dre-fev-2026-0062.md
+- [[DRE Fev 2026_4]] - document - 06-financeiro/en/relatorios/dre-fev-2026-0082.md
+- [[DRE Fev 2026_7]] - document - 06-financeiro/en/relatorios/dre-fev-2026-0142.md
+- [[DRE Jan 2026_5]] - document - 06-financeiro/en/relatorios/dre-jan-2026-0101.md
+- [[DRE Jun 2026]] - document - 06-financeiro/en/relatorios/dre-jun-2026-0026.md
+- [[DRE Jun 2026_5]] - document - 06-financeiro/en/relatorios/dre-jun-2026-0186.md
+- [[DRE Trimestre 1_2]] - document - 06-financeiro/en/relatorios/dre-trimestre-1-0067.md
+- [[DRE Trimestre 1_4]] - document - 06-financeiro/en/relatorios/dre-trimestre-1-0107.md
+- [[DRE Trimestre 3_7]] - document - 06-financeiro/en/relatorios/dre-trimestre-3-0169.md
+- [[DRE Trimestre 3_8]] - document - 06-financeiro/en/relatorios/dre-trimestre-3-0189.md
+- [[DRE Trimestre 4_5]] - document - 06-financeiro/en/relatorios/dre-trimestre-4-0190.md
+- [[Dashboard principal_3]] - document - 01-produtos/plataforma-airich/en/dashboard-principal-0054.md
+- [[Dashboard API_2]] - document - 09-infraestrutura/en/monitoramento/dashboard-api-0038.md
+- [[Dashboard API_4]] - document - 09-infraestrutura/en/monitoramento/dashboard-api-0080.md
+- [[Date]] - rationale - 01-produtos/ai-assistant-airich/en/a-b-testing-de-modelos-0034.md
+- [[Decisao ADR-001_15]] - document - 02-engenharia/arquitetura/decisao-adr-001-0184-en.md
+- [[Decisao ADR-002]] - document - 02-engenharia/arquitetura/decisao-adr-002-0005-en.md
+- [[Decisao ADR-002_4]] - document - 02-engenharia/arquitetura/decisao-adr-002-0045-en.md
+- [[Decisao ADR-002_12]] - document - 02-engenharia/arquitetura/decisao-adr-002-0125-en.md
+- [[Decisao ADR-002_19]] - document - 02-engenharia/arquitetura/decisao-adr-002-0205-en.md
+- [[Decisao ADR-002_23]] - document - 02-engenharia/arquitetura/decisao-adr-002-0245-en.md
+- [[Deep linking_4]] - document - 01-produtos/mobile-airich/en/deep-linking-0009.md
+- [[Deep linking_5]] - document - 01-produtos/mobile-airich/en/deep-linking-0109.md
+- [[Deploy v1.5.0 - Analytics_2]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0030-en.md
+- [[Deploy v1.5.0 - Analytics_22]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0270-en.md
+- [[Deploy v1.5.0 - Analytics_29]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0370-en.md
+- [[Deploy v1.5.1 - Analytics_9]] - document - 02-engenharia/deploys/deploy-v1.5.1---analytics-0091-en.md
+- [[Deploy v1.5.1 - Analytics_23]] - document - 02-engenharia/deploys/deploy-v1.5.1---analytics-0271-en.md
+- [[Deploy v1.6.0 - Analytics_11]] - document - 02-engenharia/deploys/deploy-v1.6.0---analytics-0132-en.md
+- [[Deploy v3.1.0 - Plataforma_18]] - document - 02-engenharia/deploys/deploy-v3.1.0---plataforma-0221-en.md
+- [[Deploy v3.1.0 - Plataforma_27]] - document - 02-engenharia/deploys/deploy-v3.1.0---plataforma-0321-en.md
+- [[Deploy v3.1.1 - Plataforma_3]] - document - 02-engenharia/deploys/deploy-v3.1.1---plataforma-0022-en.md
+- [[Deploy v3.1.1 - Plataforma_5]] - document - 02-engenharia/deploys/deploy-v3.1.1---plataforma-0042-en.md
+- [[Deploy v3.1.1 - Plataforma_20]] - document - 02-engenharia/deploys/deploy-v3.1.1---plataforma-0242-en.md
+- [[Deploy v3.1.1 - Plataforma_29]] - document - 02-engenharia/deploys/deploy-v3.1.1---plataforma-0342-en.md
+- [[Deploy v3.2.0 - Plataforma_9]] - document - 02-engenharia/deploys/deploy-v3.2.0---plataforma-0103-en.md
+- [[Deploy v3.2.0 - Plataforma_11]] - document - 02-engenharia/deploys/deploy-v3.2.0---plataforma-0123-en.md
+- [[Deploy v3.2.0 - Plataforma_15]] - document - 02-engenharia/deploys/deploy-v3.2.0---plataforma-0163-en.md
+- [[Deploy v3.2.0 - Plataforma_25]] - document - 02-engenharia/deploys/deploy-v3.2.0---plataforma-0283-en.md
+- [[Deploy v4.0.0 - Mobile]] - document - 02-engenharia/deploys/deploy-v4.0.0---mobile-0007-en.md
+- [[Deploy v4.0.0 - Mobile_4]] - document - 02-engenharia/deploys/deploy-v4.0.0---mobile-0047-en.md
+- [[Deploy v4.0.0 - Mobile_10]] - document - 02-engenharia/deploys/deploy-v4.0.0---mobile-0107-en.md
+- [[Deploy v4.0.0 - Mobile_19]] - document - 02-engenharia/deploys/deploy-v4.0.0---mobile-0207-en.md
+- [[Deploy v4.0.0 - Mobile_25]] - document - 02-engenharia/deploys/deploy-v4.0.0---mobile-0267-en.md
+- [[Deploy v4.0.0 - Mobile_33]] - document - 02-engenharia/deploys/deploy-v4.0.0---mobile-0347-en.md
+- [[Deploy v4.0.1 - Mobile_6]] - document - 02-engenharia/deploys/deploy-v4.0.1---mobile-0088-en.md
+- [[Deploy v4.0.1 - Mobile_8]] - document - 02-engenharia/deploys/deploy-v4.0.1---mobile-0108-en.md
+- [[Deploy v4.0.1 - Mobile_12]] - document - 02-engenharia/deploys/deploy-v4.0.1---mobile-0148-en.md
+- [[Deploy v4.0.1 - Mobile_22]] - document - 02-engenharia/deploys/deploy-v4.0.1---mobile-0268-en.md
+- [[Deploy v4.0.1 - Mobile_29]] - document - 02-engenharia/deploys/deploy-v4.0.1---mobile-0348-en.md
+- [[Deploy v4.1.0 - Mobile_6]] - document - 02-engenharia/deploys/deploy-v4.1.0---mobile-0089-en.md
+- [[Deploy v4.1.0 - Mobile_15]] - document - 02-engenharia/deploys/deploy-v4.1.0---mobile-0189-en.md
+- [[Deploy v4.1.0 - Mobile_33]] - document - 02-engenharia/deploys/deploy-v4.1.0---mobile-0389-en.md
+- [[Deploy v5.0.0 - CRM_18]] - document - 02-engenharia/deploys/deploy-v5.0.0---crm-0196-en.md
+- [[Deploy v5.0.1 - CRM_16]] - document - 02-engenharia/deploys/deploy-v5.0.1---crm-0177-en.md
+- [[Deploy v5.0.1 - CRM_27]] - document - 02-engenharia/deploys/deploy-v5.0.1---crm-0317-en.md
+- [[Deploy v5.0.1 - CRM_32]] - document - 02-engenharia/deploys/deploy-v5.0.1---crm-0377-en.md
+- [[Deploy v5.1.0 - CRM_12]] - document - 02-engenharia/deploys/deploy-v5.1.0---crm-0158-en.md
+- [[Deploy v5.1.0 - CRM_21]] - document - 02-engenharia/deploys/deploy-v5.1.0---crm-0258-en.md
+- [[Deploy v5.1.0 - CRM_29]] - document - 02-engenharia/deploys/deploy-v5.1.0---crm-0338-en.md
+- [[Disaster recovery_8]] - document - 01-produtos/plataforma-airich/en/disaster-recovery-0145.md
+- [[Distributed tracing_3]] - document - 02-engenharia/arquitetura/distributed-tracing-0017-en.md
+- [[Distributed tracing_23]] - document - 02-engenharia/arquitetura/distributed-tracing-0277-en.md
+- [[Domain-driven design_10]] - document - 02-engenharia/arquitetura/domain-driven-design-0133-en.md
+- [[Domain-driven design_14]] - document - 02-engenharia/arquitetura/domain-driven-design-0193-en.md
+- [[Domain-driven design_18]] - document - 02-engenharia/arquitetura/domain-driven-design-0233-en.md
+- [[Domain-driven design_23]] - document - 02-engenharia/arquitetura/domain-driven-design-0293-en.md
+- [[Domain-driven design_30]] - document - 02-engenharia/arquitetura/domain-driven-design-0393-en.md
+- [[Downloads e recursos_5]] - document - 01-produtos/edu-airich/en/downloads-e-recursos-0065.md
+- [[Due diligence_7]] - document - 07-juridico/compliance/due-diligence-0075-en.md
+- [[Due diligence_9]] - document - 07-juridico/compliance/due-diligence-0095-en.md
+- [[Ebook Comparativo_11]] - document - 08-marketing/conteudo/en/ebook-comparativo-0092.md
+- [[Economic buyer_12]] - document - 04-vendas/clientes/en/economic-buyer-0016.md
+- [[Economic buyer_17]] - document - 04-vendas/clientes/en/economic-buyer-0184.md
+- [[Embedding models_4]] - document - 01-produtos/ai-assistant-airich/en/embedding-models-0056.md
+- [[Equipe alocada_13]] - document - 04-vendas/propostas/en/equipe-alocada-0011.md
+- [[Escalation matrix_3]] - document - 02-engenharia/incidentes/escalation-matrix-0040-en.md
+- [[Escalation matrix_7]] - document - 02-engenharia/incidentes/escalation-matrix-0100-en.md
+- [[Escalation matrix_10]] - document - 02-engenharia/incidentes/escalation-matrix-0140-en.md
+- [[Escalation matrix_15]] - document - 02-engenharia/incidentes/escalation-matrix-0200-en.md
+- [[Escalation matrix_17]] - document - 02-engenharia/incidentes/escalation-matrix-0220-en.md
+- [[Escalation matrix_24]] - document - 02-engenharia/incidentes/escalation-matrix-0300-en.md
+- [[Escopo de servicos_15]] - document - 04-vendas/contratos/en/escopo-de-servicos-0057.md
+- [[Escopo de servicos_19]] - document - 04-vendas/contratos/en/escopo-de-servicos-0217.md
+- [[Exemplos de uso_5]] - document - 01-produtos/api-gateway-airich/en/exemplos-de-uso-0069.md
+- [[FAQ Como alterar plano_3]] - document - 03-suporte/en/faq/faq-como-alterar-plano-0064.md
+- [[FAQ Como alterar plano_8]] - document - 03-suporte/en/faq/faq-como-alterar-plano-0184.md
+- [[FAQ Como alterar plano_10]] - document - 03-suporte/en/faq/faq-como-alterar-plano-0224.md
+- [[FAQ Como alterar plano_13]] - document - 03-suporte/en/faq/faq-como-alterar-plano-0344.md
+- [[FAQ Como ativar MFA]] - document - 03-suporte/en/faq/faq-como-ativar-mfa-0015.md
+- [[FAQ Como ativar MFA_6]] - document - 03-suporte/en/faq/faq-como-ativar-mfa-0135.md
+- [[FAQ Como ativar MFA_14]] - document - 03-suporte/en/faq/faq-como-ativar-mfa-0355.md
+- [[FAQ Como cancelar assinatura_2]] - document - 03-suporte/en/faq/faq-como-cancelar-assinatura-0025.md
+- [[FAQ Como cancelar assinatura_5]] - document - 03-suporte/en/faq/faq-como-cancelar-assinatura-0125.md
+- [[FAQ Como cancelar assinatura_6]] - document - 03-suporte/en/faq/faq-como-cancelar-assinatura-0165.md
+- [[FAQ Como cancelar assinatura_8]] - document - 03-suporte/en/faq/faq-como-cancelar-assinatura-0205.md
+- [[FAQ Como configurar SSO_3]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0074.md
+- [[FAQ Como configurar SSO_4]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0094.md
+- [[FAQ Como configurar SSO_5]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0114.md
+- [[FAQ Como configurar SSO_9]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0234.md
+- [[FAQ Como configurar SSO_10]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0254.md
+- [[FAQ Como configurar SSO_13]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0314.md
+- [[FAQ Como configurar SSO_14]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0354.md
+- [[FAQ Como configurar SSO_16]] - document - 03-suporte/en/faq/faq-como-configurar-sso-0394.md
+- [[FAQ Como configurar webhook_3]] - document - 03-suporte/en/faq/faq-como-configurar-webhook-0049.md
+- [[FAQ Como configurar webhook_4]] - document - 03-suporte/en/faq/faq-como-configurar-webhook-0149.md
+- [[FAQ Como configurar webhook_5]] - document - 03-suporte/en/faq/faq-como-configurar-webhook-0169.md
+- [[FAQ Como configurar webhook_8]] - document - 03-suporte/en/faq/faq-como-configurar-webhook-0249.md
+- [[FAQ Como configurar webhook_12]] - document - 03-suporte/en/faq/faq-como-configurar-webhook-0389.md
+- [[FAQ Como crAIr account_4]] - document - 03-suporte/en/faq/faq-como-criar-conta-0121.md
+- [[FAQ Como fazer login_5]] - document - 03-suporte/en/faq/faq-como-fazer-login-0122.md
+- [[FAQ Como fazer login_6]] - document - 03-suporte/en/faq/faq-como-fazer-login-0142.md
+- [[FAQ Como fazer login_7]] - document - 03-suporte/en/faq/faq-como-fazer-login-0162.md
+- [[FAQ Como fazer login_8]] - document - 03-suporte/en/faq/faq-como-fazer-login-0182.md
+- [[FAQ Como fazer login_9]] - document - 03-suporte/en/faq/faq-como-fazer-login-0202.md
+- [[FAQ Como fazer login_10]] - document - 03-suporte/en/faq/faq-como-fazer-login-0242.md
+- [[FAQ Como fazer login_12]] - document - 03-suporte/en/faq/faq-como-fazer-login-0302.md
+- [[FAQ Como fazer login_13]] - document - 03-suporte/en/faq/faq-como-fazer-login-0322.md
+- [[FAQ Como gerar API key_5]] - document - 03-suporte/en/faq/faq-como-gerar-api-key-0168.md
+- [[FAQ Como gerar API key_6]] - document - 03-suporte/en/faq/faq-como-gerar-api-key-0188.md
+- [[FAQ Como gerencAIr permissoes_8]] - document - 03-suporte/en/faq/faq-como-gerenciar-permissoes-0257.md
+- [[FAQ Como gerencAIr permissoes_9]] - document - 03-suporte/en/faq/faq-como-gerenciar-permissoes-0277.md
+- [[FAQ Como integrar API]] - document - 03-suporte/en/faq/faq-como-integrar-api-0007.md
+- [[FAQ Como integrar API_3]] - document - 03-suporte/en/faq/faq-como-integrar-api-0047.md
+- [[FAQ Como integrar API_7]] - document - 03-suporte/en/faq/faq-como-integrar-api-0127.md
+- [[FAQ Como integrar API_11]] - document - 03-suporte/en/faq/faq-como-integrar-api-0207.md
+- [[FAQ Como integrar API_17]] - document - 03-suporte/en/faq/faq-como-integrar-api-0367.md
+- [[FAQ Como solicitar reembolso]] - document - 03-suporte/en/faq/faq-como-solicitar-reembolso-0026.md
+- [[FAQ Como solicitar reembolso_4]] - document - 03-suporte/en/faq/faq-como-solicitar-reembolso-0146.md
+- [[FAQ Como solicitar reembolso_9]] - document - 03-suporte/en/faq/faq-como-solicitar-reembolso-0286.md
+- [[FAQ Como solicitar reembolso_11]] - document - 03-suporte/en/faq/faq-como-solicitar-reembolso-0346.md
+- [[FAQ Como usar SDK_5]] - document - 03-suporte/en/faq/faq-como-usar-sdk-0150.md
+- [[FAQ Como usar dashboard_2]] - document - 03-suporte/en/faq/faq-como-usar-dashboard-0040.md
+- [[FAQ Como usar dashboard_7]] - document - 03-suporte/en/faq/faq-como-usar-dashboard-0140.md
+- [[FAQ Como usar dashboard_14]] - document - 03-suporte/en/faq/faq-como-usar-dashboard-0340.md
+- [[FAQ Como usar dashboard_15]] - document - 03-suporte/en/faq/faq-como-usar-dashboard-0360.md
+- [[Feedback contínuo_6]] - document - 01-produtos/edu-airich/en/feedback-contínuo-0122.md
+- [[Forecast mensal_13]] - document - 04-vendas/pipeline/en/forecast-mensal-0048.md
+- [[Forecast mensal_14]] - document - 04-vendas/pipeline/en/forecast-mensal-0088.md
+- [[Forecast mensal_16]] - document - 04-vendas/pipeline/en/forecast-mensal-0128.md
+- [[Forecast mensal_17]] - document - 04-vendas/pipeline/en/forecast-mensal-0148.md
+- [[Forecast trimestral_17]] - document - 04-vendas/pipeline/en/forecast-trimestral-0109.md
+- [[Gestão de cursos_5]] - document - 01-produtos/edu-airich/en/gestão-de-cursos-0045.md
+- [[Gestão de cursos_6]] - document - 01-produtos/edu-airich/en/gestão-de-cursos-0087.md
+- [[Gestão de leads_5]] - document - 01-produtos/crm-airich/en/gestão-de-leads-0003.md
+- [[GitHub Actions workflow_12]] - document - 02-engenharia/deploys/github-actions-workflow-0140-en.md
+- [[GitHub Actions workflow_16]] - document - 02-engenharia/deploys/github-actions-workflow-0180-en.md
+- [[GitHub Actions workflow_20]] - document - 02-engenharia/deploys/github-actions-workflow-0240-en.md
+- [[GitHub Actions workflow_30]] - document - 02-engenharia/deploys/github-actions-workflow-0380-en.md
+- [[GitHub Actions workflow_32]] - document - 02-engenharia/deploys/github-actions-workflow-0400-en.md
+- [[Hallucination prevention_2]] - document - 01-produtos/ai-assistant-airich/en/hallucination-prevention-0077.md
+- [[Hardware]] - document - 06-financeiro/en/orcamento/hardware-0016.md
+- [[Hardware_6]] - document - 06-financeiro/en/orcamento/hardware-0156.md
+- [[Helm charts_6]] - document - 01-produtos/devops-suite-airich/en/helm-charts-0052.md
+- [[Histórico de interações_7]] - document - 01-produtos/crm-airich/en/histórico-de-interações-0103.md
+- [[IP whitelisting_4]] - document - 01-produtos/api-gateway-airich/en/ip-whitelisting-0080.md
+- [[Image CAChing_1]] - document - 01-produtos/mobile-airich/en/image-caching-0079.md
+- [[Incident response plan_2]] - document - 01-produtos/security-shield-airich/en/incident-response-plan-0124.md
+- [[Index strategies_5]] - document - 01-produtos/analytics-airich/en/index-strategies-0093.md
+- [[Infografico Mercado_9]] - document - 08-marketing/conteudo/en/infografico-mercado-0015.md
+- [[Infografico Mercado_13]] - document - 08-marketing/conteudo/en/infografico-mercado-0135.md
+- [[Infra budget_3]] - document - 06-financeiro/en/orcamento/infra-budget-0071.md
+- [[Infrastructure]] - rationale - 01-produtos/ai-assistant-airich/en/a-b-testing-de-modelos-0034.md
+- [[Integration guides_5]] - document - 01-produtos/analytics-airich/en/integration-guides-0148.md
+- [[Integração com email_5]] - document - 01-produtos/crm-airich/en/integração-com-email-0112.md
+- [[JWT validation_6]] - document - 01-produtos/api-gateway-airich/en/jwt-validation-0107.md
+- [[Jaeger integration_2]] - document - 01-produtos/devops-suite-airich/en/jaeger-integration-0016.md
+- [[KB Casos de uso_24]] - document - 03-suporte/en/base-conhecimento/kb-casos-de-uso-0159.md
+- [[KB Casos de uso_27]] - document - 03-suporte/en/base-conhecimento/kb-casos-de-uso-0279.md
+- [[KB Compatibilidade_22]] - document - 03-suporte/en/base-conhecimento/kb-compatibilidade-0108.md
+- [[KB Compatibilidade_23]] - document - 03-suporte/en/base-conhecimento/kb-compatibilidade-0208.md
+- [[KB Dicas e truques_21]] - document - 03-suporte/en/base-conhecimento/kb-dicas-e-truques-0052.md
+- [[KB Erros comuns_27]] - document - 03-suporte/en/base-conhecimento/kb-erros-comuns-0214.md
+- [[KB Erros comuns_30]] - document - 03-suporte/en/base-conhecimento/kb-erros-comuns-0354.md
+- [[KB FAQ negocio_23]] - document - 03-suporte/en/base-conhecimento/kb-faq-negocio-0118.md
+- [[KB Workarounds_30]] - document - 03-suporte/en/base-conhecimento/kb-workarounds-0231.md
+- [[KB Workarounds_35]] - document - 03-suporte/en/base-conhecimento/kb-workarounds-0351.md
+- [[KYC_6]] - document - 07-juridico/compliance/kyc-0116-en.md
+- [[KYC_8]] - document - 07-juridico/compliance/kyc-0136-en.md
+- [[LGPD Compartilhamento_4]] - document - 07-juridico/lgpd/lgpd-compartilhamento-0056-en.md
+- [[LGPD Incidentes_3]] - document - 07-juridico/lgpd/lgpd-incidentes-0027-en.md
+- [[LGPD Incidentes_9]] - document - 07-juridico/lgpd/lgpd-incidentes-0087-en.md
+- [[LGPD Incidentes_12]] - document - 07-juridico/lgpd/lgpd-incidentes-0127-en.md
+- [[LGPD Legitimo interesse_3]] - document - 07-juridico/lgpd/lgpd-legitimo-interesse-0023-en.md
+- [[LGPD Legitimo interesse_7]] - document - 07-juridico/lgpd/lgpd-legitimo-interesse-0063-en.md
+- [[LGPD Legitimo interesse_9]] - document - 07-juridico/lgpd/lgpd-legitimo-interesse-0083-en.md
+- [[LGPD Minimizacao]] - document - 07-juridico/lgpd/lgpd-minimizacao-0018-en.md
+- [[LGPD Portabilidade_10]] - document - 07-juridico/lgpd/lgpd-portabilidade-0133-en.md
+- [[LGPD Portabilidade_12]] - document - 07-juridico/lgpd/lgpd-portabilidade-0153-en.md
+- [[LGPD Pseudonimizacao]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0015-en.md
+- [[LGPD Pseudonimizacao_13]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0155-en.md
+- [[LGPD RIPD_6]] - document - 07-juridico/lgpd/lgpd-ripd-0065-en.md
+- [[LGPD RIPD_11]] - document - 07-juridico/lgpd/lgpd-ripd-0125-en.md
+- [[LGPD Relatorio de impacto_5]] - document - 07-juridico/lgpd/lgpd-relatorio-de-impacto-0046-en.md
+- [[LGPD Relatorio de impacto_15]] - document - 07-juridico/lgpd/lgpd-relatorio-de-impacto-0166-en.md
+- [[LGPD Titular request_8]] - document - 07-juridico/lgpd/lgpd-titular-request-0089-en.md
+- [[LGPD Treinamento_2]] - document - 07-juridico/lgpd/lgpd-treinamento-0040-en.md
+- [[Language EN]] - rationale - 01-produtos/ai-assistant-airich/en/a-b-testing-de-modelos-0034.md
+- [[Lead scoring_4]] - document - 01-produtos/crm-airich/en/lead-scoring-0030.md
+- [[Lead scoring_5]] - document - 01-produtos/crm-airich/en/lead-scoring-0075.md
+- [[Lead scoring_19]] - document - 04-vendas/pipeline/en/lead-scoring-0076.md
+- [[Lead scoring_23]] - document - 04-vendas/pipeline/en/lead-scoring-0176.md
+- [[Lead scoring_24]] - document - 04-vendas/pipeline/en/lead-scoring-0216.md
+- [[Limites de reembolso]] - document - 06-financeiro/en/reembolsos/limites-de-reembolso-0005.md
+- [[Limites de reembolso_2]] - document - 06-financeiro/en/reembolsos/limites-de-reembolso-0043.md
+- [[Marketing budget_3]] - document - 06-financeiro/en/orcamento/marketing-budget-0050.md
+- [[Marketing budget_7]] - document - 06-financeiro/en/orcamento/marketing-budget-0130.md
+- [[Marketing budget_8]] - document - 06-financeiro/en/orcamento/marketing-budget-0150.md
+- [[Memory system_4]] - document - 01-produtos/ai-assistant-airich/en/memory-system-0108.md
+- [[Metrics collection_2]] - document - 02-engenharia/arquitetura/metrics-collection-0038-en.md
+- [[Metrics collection_4]] - document - 02-engenharia/arquitetura/metrics-collection-0058-en.md
+- [[Metrics collection_6]] - document - 02-engenharia/arquitetura/metrics-collection-0078-en.md
+- [[Metrics collection_29]] - document - 02-engenharia/arquitetura/metrics-collection-0338-en.md
+- [[Metrics collection_33]] - document - 02-engenharia/arquitetura/metrics-collection-0378-en.md
+- [[Monitor Datedog]] - document - 09-infraestrutura/en/monitoramento/monitor-datadog-0003.md
+- [[Monitor Prometheus]] - document - 09-infraestrutura/en/monitoramento/monitor-prometheus-0022.md
+- [[Métricas de negócio_5]] - document - 01-produtos/analytics-airich/en/métricas-de-negócio-0115.md
+- [[NF-e Abr 2026_6]] - document - 06-financeiro/en/notas-fiscais/nf-e-abr-2026-0164.md
+- [[NF-e Ago 2026_6]] - document - 06-financeiro/en/notas-fiscais/nf-e-ago-2026-0168.md
+- [[NF-e Exportacao_5]] - document - 06-financeiro/en/notas-fiscais/nf-e-exportacao-0194.md
+- [[NF-e Fev 2026]] - document - 06-financeiro/en/notas-fiscais/nf-e-fev-2026-0022.md
+- [[NF-e Fev 2026_3]] - document - 06-financeiro/en/notas-fiscais/nf-e-fev-2026-0102.md
+- [[NF-e Fev 2026_5]] - document - 06-financeiro/en/notas-fiscais/nf-e-fev-2026-0182.md
+- [[NF-e Importacao_2]] - document - 06-financeiro/en/notas-fiscais/nf-e-importacao-0133.md
+- [[NF-e Jul 2026_6]] - document - 06-financeiro/en/notas-fiscais/nf-e-jul-2026-0107.md
+- [[NF-e Jul 2026_7]] - document - 06-financeiro/en/notas-fiscais/nf-e-jul-2026-0127.md
+- [[NF-e Jul 2026_8]] - document - 06-financeiro/en/notas-fiscais/nf-e-jul-2026-0167.md
+- [[NF-e Jun 2026_3]] - document - 06-financeiro/en/notas-fiscais/nf-e-jun-2026-0106.md
+- [[NF-e Jun 2026_5]] - document - 06-financeiro/en/notas-fiscais/nf-e-jun-2026-0186.md
+- [[NF-e Mai 2026_3]] - document - 06-financeiro/en/notas-fiscais/nf-e-mai-2026-0065.md
+- [[NF-e Mar 2026_5]] - document - 06-financeiro/en/notas-fiscais/nf-e-mar-2026-0103.md
+- [[NF-e Mar 2026_9]] - document - 06-financeiro/en/notas-fiscais/nf-e-mar-2026-0183.md
+- [[NF-e Out 2026_5]] - document - 06-financeiro/en/notas-fiscais/nf-e-out-2026-0090.md
+- [[NF-e Set 2026_5]] - document - 06-financeiro/en/notas-fiscais/nf-e-set-2026-0089.md
+- [[NFS-e Servicos_3]] - document - 06-financeiro/en/notas-fiscais/nfs-e-servicos-0051.md
+- [[NFS-e Servicos_7]] - document - 06-financeiro/en/notas-fiscais/nfs-e-servicos-0151.md
+- [[NFS-e Servicos_8]] - document - 06-financeiro/en/notas-fiscais/nfs-e-servicos-0171.md
+- [[NPS eduCACional]] - document - 01-produtos/edu-airich/en/nps-educacional-0079.md
+- [[Network layer_4]] - document - 01-produtos/mobile-airich/en/network-layer-0030.md
+- [[Nota fiscal reembolso_5]] - document - 06-financeiro/en/reembolsos/nota-fiscal-reembolso-0159.md
+- [[OPEX_3]] - document - 06-financeiro/en/orcamento/opex-0048.md
+- [[Offline mode_4]] - document - 01-produtos/crm-airich/en/offline-mode-0083.md
+- [[Onboarding Checklist Gestor_13]] - document - 05-rh/onboarding/onboarding-checklist-gestor-0188-en.md
+- [[Onboarding Checklist RH_3]] - document - 05-rh/onboarding/onboarding-checklist-rh-0027-en.md
+- [[Onboarding Checklist RH_5]] - document - 05-rh/onboarding/onboarding-checklist-rh-0047-en.md
+- [[Onboarding Checklist RH_12]] - document - 05-rh/onboarding/onboarding-checklist-rh-0127-en.md
+- [[Onboarding Checklist TI]] - document - 05-rh/onboarding/onboarding-checklist-ti-0006-en.md
+- [[Onboarding Cultura AIRich_16]] - document - 05-rh/onboarding/onboarding-cultura-airich-0172-en.md
+- [[Onboarding Feedback 30d]] - document - 05-rh/onboarding/onboarding-feedback-30d-0017-en.md
+- [[Onboarding Feedback 30d_6]] - document - 05-rh/onboarding/onboarding-feedback-30d-0077-en.md
+- [[Onboarding Feedback 30d_9]] - document - 05-rh/onboarding/onboarding-feedback-30d-0117-en.md
+- [[Onboarding Feedback 60d_12]] - document - 05-rh/onboarding/onboarding-feedback-60d-0158-en.md
+- [[Onboarding Mes 1_5]] - document - 05-rh/onboarding/onboarding-mes-1-0063-en.md
+- [[Onboarding Mes 1_7]] - document - 05-rh/onboarding/onboarding-mes-1-0083-en.md
+- [[Onboarding Mes 1_11]] - document - 05-rh/onboarding/onboarding-mes-1-0143-en.md
+- [[Onboarding Mes 2_4]] - document - 05-rh/onboarding/onboarding-mes-2-0044-en.md
+- [[Onboarding Mes 2_11]] - document - 05-rh/onboarding/onboarding-mes-2-0124-en.md
+- [[Onboarding Mes 2_13]] - document - 05-rh/onboarding/onboarding-mes-2-0144-en.md
+- [[Onboarding Organograma]] - document - 05-rh/onboarding/onboarding-organograma-0014-en.md
+- [[Onboarding Organograma_4]] - document - 05-rh/onboarding/onboarding-organograma-0054-en.md
+- [[Onboarding Semana 1_5]] - document - 05-rh/onboarding/onboarding-semana-1-0081-en.md
+- [[Onboarding Semana 1_7]] - document - 05-rh/onboarding/onboarding-semana-1-0101-en.md
+- [[Onboarding Semana 1_9]] - document - 05-rh/onboarding/onboarding-semana-1-0121-en.md
+- [[Onboarding Semana 2_11]] - document - 05-rh/onboarding/onboarding-semana-2-0122-en.md
+- [[Orcamento 2026_4]] - document - 06-financeiro/en/orcamento/orcamento-2026-0141.md
+- [[Orcamento 2027]] - document - 06-financeiro/en/orcamento/orcamento-2027-0002.md
+- [[Orcamento 2027_2]] - document - 06-financeiro/en/orcamento/orcamento-2027-0022.md
+- [[Otimização de performance_2]] - document - 01-produtos/plataforma-airich/en/otimização-de-performance-0138.md
+- [[Padroes de design_7]] - document - 02-engenharia/arquitetura/padroes-de-design-0083-en.md
+- [[Padroes de design_9]] - document - 02-engenharia/arquitetura/padroes-de-design-0103-en.md
+- [[Padroes de design_15]] - document - 02-engenharia/arquitetura/padroes-de-design-0163-en.md
+- [[Padroes de design_17]] - document - 02-engenharia/arquitetura/padroes-de-design-0183-en.md
+- [[Padroes de design_23]] - document - 02-engenharia/arquitetura/padroes-de-design-0263-en.md
+- [[Padroes de design_32]] - document - 02-engenharia/arquitetura/padroes-de-design-0383-en.md
+- [[Pipeline CICD overview_4]] - document - 02-engenharia/deploys/pipeline-ci-cd-overview-0059-en.md
+- [[Pipeline CICD overview_8]] - document - 02-engenharia/deploys/pipeline-ci-cd-overview-0099-en.md
+- [[Pipeline CICD overview_10]] - document - 02-engenharia/deploys/pipeline-ci-cd-overview-0119-en.md
+- [[Pipeline Q2 2026_14]] - document - 04-vendas/pipeline/en/pipeline-q2-2026-0042.md
+- [[Pipeline Q2 2026_21]] - document - 04-vendas/pipeline/en/pipeline-q2-2026-0222.md
+- [[Pipeline Q3 2026_15]] - document - 04-vendas/pipeline/en/pipeline-q3-2026-0083.md
+- [[Pipeline Q3 2026_16]] - document - 04-vendas/pipeline/en/pipeline-q3-2026-0103.md
+- [[Pipeline Q3 2026_20]] - document - 04-vendas/pipeline/en/pipeline-q3-2026-0183.md
+- [[Pipeline Q4 2026_14]] - document - 04-vendas/pipeline/en/pipeline-q4-2026-0024.md
+- [[Plano orcamentario_3]] - document - 06-financeiro/en/orcamento/plano-orcamentario-0043.md
+- [[Playbook AE_14]] - document - 04-vendas/playbooks/en/playbook-ae-0036.md
+- [[Playbook AE_20]] - document - 04-vendas/playbooks/en/playbook-ae-0196.md
+- [[Playbook AE_21]] - document - 04-vendas/playbooks/en/playbook-ae-0216.md
+- [[Playbook Fechamento_13]] - document - 04-vendas/playbooks/en/playbook-fechamento-0006.md
+- [[Playbook Fechamento_15]] - document - 04-vendas/playbooks/en/playbook-fechamento-0046.md
+- [[Playbook Fechamento_17]] - document - 04-vendas/playbooks/en/playbook-fechamento-0106.md
+- [[Playbook Inside sales_14]] - document - 04-vendas/playbooks/en/playbook-inside-sales-0112.md
+- [[Playbook Inside sales_15]] - document - 04-vendas/playbooks/en/playbook-inside-sales-0132.md
+- [[Playbook Inside sales_17]] - document - 04-vendas/playbooks/en/playbook-inside-sales-0172.md
+- [[Playbook Parceiros_15]] - document - 04-vendas/playbooks/en/playbook-parceiros-0091.md
+- [[Playbook Parceiros_20]] - document - 04-vendas/playbooks/en/playbook-parceiros-0211.md
+- [[Playbook Proposta_14]] - document - 04-vendas/playbooks/en/playbook-proposta-0024.md
+- [[Playbook Proposta_17]] - document - 04-vendas/playbooks/en/playbook-proposta-0084.md
+- [[Playbook Proposta_21]] - document - 04-vendas/playbooks/en/playbook-proposta-0184.md
+- [[Playbook Proposta_22]] - document - 04-vendas/playbooks/en/playbook-proposta-0204.md
+- [[Playbook Prospeccao_14]] - document - 04-vendas/playbooks/en/playbook-prospeccao-0021.md
+- [[Playbook Prospeccao_15]] - document - 04-vendas/playbooks/en/playbook-prospeccao-0101.md
+- [[Playbook Prospeccao_16]] - document - 04-vendas/playbooks/en/playbook-prospeccao-0121.md
+- [[Playbook Prospeccao_18]] - document - 04-vendas/playbooks/en/playbook-prospeccao-0221.md
+- [[Playbook Reativacao_17]] - document - 04-vendas/playbooks/en/playbook-reativacao-0130.md
+- [[Playbook Retencao_17]] - document - 04-vendas/playbooks/en/playbook-retencao-0129.md
+- [[Playbook Retencao_19]] - document - 04-vendas/playbooks/en/playbook-retencao-0169.md
+- [[Politica de reembolso_4]] - document - 06-financeiro/en/reembolsos/politica-de-reembolso-0061.md
+- [[Politica Assedio_5]] - document - 05-rh/politicas/politica-assedio-0053-en.md
+- [[Politica Codigo de conduta_3]] - document - 05-rh/politicas/politica-codigo-de-conduta-0056-en.md
+- [[Politica Codigo de conduta_9]] - document - 05-rh/politicas/politica-codigo-de-conduta-0136-en.md
+- [[Politica Codigo de conduta_11]] - document - 05-rh/politicas/politica-codigo-de-conduta-0156-en.md
+- [[Politica Conflito de interesse_10]] - document - 05-rh/politicas/politica-conflito-de-interesse-0130-en.md
+- [[Politica Diversidade]] - document - 05-rh/politicas/politica-diversidade-0012-en.md
+- [[Politica Diversidade_5]] - document - 05-rh/politicas/politica-diversidade-0052-en.md
+- [[Politica Diversidade_10]] - document - 05-rh/politicas/politica-diversidade-0112-en.md
+- [[Politica EPI_15]] - document - 05-rh/politicas/politica-epi-0197-en.md
+- [[Politica Equipamentos_18]] - document - 05-rh/politicas/politica-equipamentos-0185-en.md
+- [[Politica Home office_3]] - document - 05-rh/politicas/politica-home-office-0021-en.md
+- [[Politica Home office_7]] - document - 05-rh/politicas/politica-home-office-0061-en.md
+- [[Politica Home office_10]] - document - 05-rh/politicas/politica-home-office-0101-en.md
+- [[Politica Home office_16]] - document - 05-rh/politicas/politica-home-office-0181-en.md
+- [[Politica Horario flexivel_4]] - document - 05-rh/politicas/politica-horario-flexivel-0042-en.md
+- [[Politica Horario flexivel_10]] - document - 05-rh/politicas/politica-horario-flexivel-0102-en.md
+- [[Politica LGPD interna_18]] - document - 05-rh/politicas/politica-lgpd-interna-0195-en.md
+- [[Politica Licenca parental]] - document - 05-rh/politicas/politica-licenca-parental-0019-en.md
+- [[Politica Presentes_9]] - document - 05-rh/politicas/politica-presentes-0129-en.md
+- [[Politica Presentes_13]] - document - 05-rh/politicas/politica-presentes-0169-en.md
+- [[Politica Redes socAIis_6]] - document - 05-rh/politicas/politica-redes-sociais-0168-en.md
+- [[Politica Reembolso_2]] - document - 05-rh/politicas/politica-reembolso-0024-en.md
+- [[Politica Reembolso_6]] - document - 05-rh/politicas/politica-reembolso-0064-en.md
+- [[Politica Reembolso_14]] - document - 05-rh/politicas/politica-reembolso-0144-en.md
+- [[Politica Uso de internet_7]] - document - 05-rh/politicas/politica-uso-de-internet-0087-en.md
+- [[Politica VoluntarAIdo_3]] - document - 05-rh/politicas/politica-voluntariado-0160-en.md
+- [[Post-mortem Q1 2026_7]] - document - 02-engenharia/incidentes/post-mortem-q1-2026-0091-en.md
+- [[Post-mortem Q1 2026_10]] - document - 02-engenharia/incidentes/post-mortem-q1-2026-0131-en.md
+- [[Post Blog 001_11]] - document - 08-marketing/conteudo/en/post-blog-001-0021.md
+- [[Post Blog 001_13]] - document - 08-marketing/conteudo/en/post-blog-001-0081.md
+- [[Post Blog 001_16]] - document - 08-marketing/conteudo/en/post-blog-001-0161.md
+- [[Post Blog 002_10]] - document - 08-marketing/conteudo/en/post-blog-002-0002.md
+- [[Post Blog 002_11]] - document - 08-marketing/conteudo/en/post-blog-002-0022.md
+- [[Post Blog 002_14]] - document - 08-marketing/conteudo/en/post-blog-002-0122.md
+- [[Post Blog 004_10]] - document - 08-marketing/conteudo/en/post-blog-004-0004.md
+- [[Post Blog 004_11]] - document - 08-marketing/conteudo/en/post-blog-004-0024.md
+- [[Post Blog 005_11]] - document - 08-marketing/conteudo/en/post-blog-005-0025.md
+- [[Post Blog 005_15]] - document - 08-marketing/conteudo/en/post-blog-005-0125.md
+- [[Post Blog 006_10]] - document - 08-marketing/conteudo/en/post-blog-006-0006.md
+- [[Post Blog 006_15]] - document - 08-marketing/conteudo/en/post-blog-006-0166.md
+- [[Post Blog 008_13]] - document - 08-marketing/conteudo/en/post-blog-008-0088.md
+- [[Post Blog 008_14]] - document - 08-marketing/conteudo/en/post-blog-008-0108.md
+- [[Post Blog 009_10]] - document - 08-marketing/conteudo/en/post-blog-009-0029.md
+- [[Post Blog 010_9]] - document - 08-marketing/conteudo/en/post-blog-010-0010.md
+- [[Post Blog 010_11]] - document - 08-marketing/conteudo/en/post-blog-010-0050.md
+- [[Post Blog 010_12]] - document - 08-marketing/conteudo/en/post-blog-010-0070.md
+- [[Post Blog 010_13]] - document - 08-marketing/conteudo/en/post-blog-010-0090.md
+- [[Post Blog 010_14]] - document - 08-marketing/conteudo/en/post-blog-010-0130.md
+- [[Post Blog 010_15]] - document - 08-marketing/conteudo/en/post-blog-010-0150.md
+- [[Post Facebook 002_11]] - document - 08-marketing/social-media/en/post-facebook-002-0071.md
+- [[Post Facebook 002_13]] - document - 08-marketing/social-media/en/post-facebook-002-0111.md
+- [[Post Facebook 002_14]] - document - 08-marketing/social-media/en/post-facebook-002-0131.md
+- [[Post Instagram 001_10]] - document - 08-marketing/social-media/en/post-instagram-001-0027.md
+- [[Post Instagram 001_14]] - document - 08-marketing/social-media/en/post-instagram-001-0147.md
+- [[Post Instagram 003_10]] - document - 08-marketing/social-media/en/post-instagram-003-0049.md
+- [[Post Twitter 001_10]] - document - 08-marketing/social-media/en/post-twitter-001-0004.md
+- [[Post Twitter 001_13]] - document - 08-marketing/social-media/en/post-twitter-001-0064.md
+- [[Post Twitter 002_14]] - document - 08-marketing/social-media/en/post-twitter-002-0125.md
+- [[Post Twitter 003_10]] - document - 08-marketing/social-media/en/post-twitter-003-0026.md
+- [[Postman collection_3]] - document - 01-produtos/api-gateway-airich/en/postman-collection-0049.md
+- [[PrecifiCACao de licenses]] - document - 04-vendas/propostas/en/precificacao-de-licencas-0012.md
+- [[PrecifiCACao de licenses_4]] - document - 04-vendas/propostas/en/precificacao-de-licencas-0112.md
+- [[PrecifiCACao de servicos_5]] - document - 04-vendas/propostas/en/precificacao-de-servicos-0193.md
+- [[PrecifiCACao de servicos_6]] - document - 04-vendas/propostas/en/precificacao-de-servicos-0213.md
+- [[Pricing table_4]] - document - 01-produtos/pay-airich/en/pricing-table-0028.md
+- [[Pricing table_6]] - document - 01-produtos/pay-airich/en/pricing-table-0118.md
+- [[Procedure]] - rationale - 01-produtos/ai-assistant-airich/en/a-b-testing-de-modelos-0034.md
+- [[Processo Afastamento_11]] - document - 05-rh/processos/processo-afastamento-0134-en.md
+- [[Processo Beneficios]] - document - 05-rh/processos/processo-beneficios-0012-en.md
+- [[Processo Beneficios_7]] - document - 05-rh/processos/processo-beneficios-0072-en.md
+- [[Processo DeSLIgamento]] - document - 05-rh/processos/processo-desligamento-0017-en.md
+- [[Processo DeSLIgamento_4]] - document - 05-rh/processos/processo-desligamento-0137-en.md
+- [[Processo DeSLIgamento_5]] - document - 05-rh/processos/processo-desligamento-0177-en.md
+- [[Processo Disciplinar]] - document - 05-rh/processos/processo-disciplinar-0016-en.md
+- [[Processo Disciplinar_5]] - document - 05-rh/processos/processo-disciplinar-0056-en.md
+- [[Processo Externo_16]] - document - 05-rh/processos/processo-externo-0179-en.md
+- [[Processo Externo_18]] - document - 05-rh/processos/processo-externo-0199-en.md
+- [[Processo Feedback_2]] - document - 05-rh/processos/processo-feedback-0028-en.md
+- [[Processo Feedback_8]] - document - 05-rh/processos/processo-feedback-0088-en.md
+- [[Processo Feedback_11]] - document - 05-rh/processos/processo-feedback-0128-en.md
+- [[Processo Feedback_13]] - document - 05-rh/processos/processo-feedback-0148-en.md
+- [[Processo Folha de pagamento_7]] - document - 05-rh/processos/processo-folha-de-pagamento-0071-en.md
+- [[Processo Folha de pagamento_18]] - document - 05-rh/processos/processo-folha-de-pagamento-0191-en.md
+- [[Processo Interno_6]] - document - 05-rh/processos/processo-interno-0080-en.md
+- [[Processo Offboarding_3]] - document - 05-rh/processos/processo-offboarding-0044-en.md
+- [[Processo Offboarding_7]] - document - 05-rh/processos/processo-offboarding-0104-en.md
+- [[Processo Offboarding_10]] - document - 05-rh/processos/processo-offboarding-0144-en.md
+- [[Processo Onboarding_2]] - document - 05-rh/processos/processo-onboarding-0023-en.md
+- [[Processo Onboarding_10]] - document - 05-rh/processos/processo-onboarding-0123-en.md
+- [[Processo Onboarding_14]] - document - 05-rh/processos/processo-onboarding-0163-en.md
+- [[Processo Promocao]] - document - 05-rh/processos/processo-promocao-0005-en.md
+- [[Processo Recrutamento]] - document - 05-rh/processos/processo-recrutamento-0001-en.md
+- [[Processo Recrutamento_3]] - document - 05-rh/processos/processo-recrutamento-0021-en.md
+- [[Processo Recrutamento_5]] - document - 05-rh/processos/processo-recrutamento-0041-en.md
+- [[Processo Recrutamento_9]] - document - 05-rh/processos/processo-recrutamento-0081-en.md
+- [[Processo Recrutamento_15]] - document - 05-rh/processos/processo-recrutamento-0161-en.md
+- [[Processo Selecao_11]] - document - 05-rh/processos/processo-selecao-0142-en.md
+- [[Processo TransferencAI_4]] - document - 05-rh/processos/processo-transferencia-0066-en.md
+- [[Processo Treinamento_9]] - document - 05-rh/processos/processo-treinamento-0090-en.md
+- [[Programa de integridade]] - document - 07-juridico/compliance/programa-de-integridade-0010-en.md
+- [[Proposta Cliente Alpha_13]] - document - 04-vendas/propostas/en/proposta-cliente-alpha-0001.md
+- [[Proposta Cliente Alpha_15]] - document - 04-vendas/propostas/en/proposta-cliente-alpha-0041.md
+- [[Proposta Cliente Alpha_16]] - document - 04-vendas/propostas/en/proposta-cliente-alpha-0061.md
+- [[Proposta Cliente Alpha_17]] - document - 04-vendas/propostas/en/proposta-cliente-alpha-0081.md
+- [[Proposta Cliente Delta_14]] - document - 04-vendas/propostas/en/proposta-cliente-delta-0044.md
+- [[Proposta Cliente Delta_16]] - document - 04-vendas/propostas/en/proposta-cliente-delta-0124.md
+- [[Proposta Cliente Delta_17]] - document - 04-vendas/propostas/en/proposta-cliente-delta-0144.md
+- [[Proposta Cliente Delta_19]] - document - 04-vendas/propostas/en/proposta-cliente-delta-0184.md
+- [[Proposta Cliente Gamma_13]] - document - 04-vendas/propostas/en/proposta-cliente-gamma-0003.md
+- [[Proposta Cliente Gamma_14]] - document - 04-vendas/propostas/en/proposta-cliente-gamma-0023.md
+- [[Proposta Cliente Gamma_15]] - document - 04-vendas/propostas/en/proposta-cliente-gamma-0083.md
+- [[Push notifications_4]] - document - 01-produtos/mobile-airich/en/push-notifications-0058.md
+- [[QualifiCACao BANT_1]] - document - 04-vendas/pipeline/en/qualificacao-bant-0057.md
+- [[QualifiCACao BANT_7]] - document - 04-vendas/pipeline/en/qualificacao-bant-0237.md
+- [[Quota management_5]] - document - 01-produtos/crm-airich/en/quota-management-0122.md
+- [[R&D budget]] - document - 06-financeiro/en/orcamento/r&d-budget-0032.md
+- [[R&D budget_2]] - document - 06-financeiro/en/orcamento/r&d-budget-0072.md
+- [[R&D budget_4]] - document - 06-financeiro/en/orcamento/r&d-budget-0152.md
+- [[Recibo]] - document - 06-financeiro/en/reembolsos/recibo-0008.md
+- [[Recibo_5]] - document - 06-financeiro/en/reembolsos/recibo-0141.md
+- [[Recomendação de cursos_5]] - document - 01-produtos/edu-airich/en/recomendação-de-cursos-0016.md
+- [[Rede CDN config_2]] - document - 09-infraestrutura/en/redes/rede-cdn-config-0068.md
+- [[Rede DNS externo]] - document - 09-infraestrutura/en/redes/rede-dns-externo-0030.md
+- [[Rede DNS externo_2]] - document - 09-infraestrutura/en/redes/rede-dns-externo-0070.md
+- [[Rede DNS externo_3]] - document - 09-infraestrutura/en/redes/rede-dns-externo-0090.md
+- [[Rede DNS interno_2]] - document - 09-infraestrutura/en/redes/rede-dns-interno-0029.md
+- [[Rede Direct connect]] - document - 09-infraestrutura/en/redes/rede-direct-connect-0017.md
+- [[Rede Internet gateway]] - document - 09-infraestrutura/en/redes/rede-internet-gateway-0014.md
+- [[Rede Load balancer]] - document - 09-infraestrutura/en/redes/rede-load-balancer-0007.md
+- [[Rede Load balancer_4]] - document - 09-infraestrutura/en/redes/rede-load-balancer-0087.md
+- [[Rede Subnet DB_3]] - document - 09-infraestrutura/en/redes/rede-subnet-db-0064.md
+- [[Rede Subnet DB_5]] - document - 09-infraestrutura/en/redes/rede-subnet-db-0124.md
+- [[Rede VLANs_2]] - document - 09-infraestrutura/en/redes/rede-vlans-0040.md
+- [[Rede VLANs_4]] - document - 09-infraestrutura/en/redes/rede-vlans-0120.md
+- [[Rede VPN remote access]] - document - 09-infraestrutura/en/redes/rede-vpn-remote-access-0006.md
+- [[Reembolso alimentacao_8]] - document - 06-financeiro/en/reembolsos/reembolso-alimentacao-0163.md
+- [[Reembolso equipamento]] - document - 06-financeiro/en/reembolsos/reembolso-equipamento-0015.md
+- [[Reembolso equipamento_7]] - document - 06-financeiro/en/reembolsos/reembolso-equipamento-0186.md
+- [[Reembolso transporte]] - document - 06-financeiro/en/reembolsos/reembolso-transporte-0050.md
+- [[Reembolso transporte_2]] - document - 06-financeiro/en/reembolsos/reembolso-transporte-0069.md
+- [[Reembolso transporte_3]] - document - 06-financeiro/en/reembolsos/reembolso-transporte-0107.md
+- [[Reembolso Equipe B]] - document - 06-financeiro/en/reembolsos/reembolso-equipe-b-0040.md
+- [[Reembolso Equipe C_2]] - document - 06-financeiro/en/reembolsos/reembolso-equipe-c-0022.md
+- [[Reembolso Equipe C_6]] - document - 06-financeiro/en/reembolsos/reembolso-equipe-c-0117.md
+- [[Relatorio de despesas_5]] - document - 06-financeiro/en/relatorios/relatorio-de-despesas-0176.md
+- [[Relatorio de despesas_6]] - document - 06-financeiro/en/relatorios/relatorio-de-despesas-0196.md
+- [[Renovacao automatica_14]] - document - 04-vendas/contratos/en/renovacao-automatica-0035.md
+- [[Request logging_5]] - document - 01-produtos/api-gateway-airich/en/request-logging-0139.md
+- [[Response CAChing]] - document - 01-produtos/api-gateway-airich/en/response-caching-0078.md
+- [[Retry policies_4]] - document - 01-produtos/api-gateway-airich/en/retry-policies-0061.md
+- [[Retry policies_5]] - document - 01-produtos/api-gateway-airich/en/retry-policies-0112.md
+- [[Risco legal]] - document - 07-juridico/compliance/risco-legal-0014-en.md
+- [[Roadmap CRM_4]] - document - 01-produtos/crm-airich/en/roadmap-crm-0134.md
+- [[Roadmap Q3 2026_4]] - document - 01-produtos/plataforma-airich/en/roadmap-q3-2026-0069.md
+- [[Roadmap analytics_3]] - document - 01-produtos/analytics-airich/en/roadmap-analytics-0050.md
+- [[Roadmap edu_4]] - document - 01-produtos/edu-airich/en/roadmap-edu-0083.md
+- [[Roadmap edu_5]] - document - 01-produtos/edu-airich/en/roadmap-edu-0125.md
+- [[Roadmap payments_4]] - document - 01-produtos/pay-airich/en/roadmap-payments-0089.md
+- [[Runbook Backup completo_2]] - document - 02-engenharia/runbooks/runbook-backup-completo-0028-en.md
+- [[Runbook Backup completo_13]] - document - 02-engenharia/runbooks/runbook-backup-completo-0168-en.md
+- [[Runbook Backup completo_16]] - document - 02-engenharia/runbooks/runbook-backup-completo-0208-en.md
+- [[Runbook Load test_5]] - document - 02-engenharia/runbooks/runbook-load-test-0057-en.md
+- [[Runbook Load test_32]] - document - 02-engenharia/runbooks/runbook-load-test-0337-en.md
+- [[Runbook Load test_38]] - document - 02-engenharia/runbooks/runbook-load-test-0397-en.md
+- [[Runbook Security patch_6]] - document - 02-engenharia/runbooks/runbook-security-patch-0079-en.md
+- [[Runbook Security patch_13]] - document - 02-engenharia/runbooks/runbook-security-patch-0159-en.md
+- [[Runbook Security patch_21]] - document - 02-engenharia/runbooks/runbook-security-patch-0259-en.md
+- [[SAST integration_4]] - document - 01-produtos/devops-suite-airich/en/sast-integration-0071.md
+- [[SDK Python_4]] - document - 01-produtos/plataforma-airich/en/sdk-python-0015.md
+- [[SLA proposto_14]] - document - 04-vendas/propostas/en/sla-proposto-0038.md
+- [[SLA proposto_17]] - document - 04-vendas/propostas/en/sla-proposto-0098.md
+- [[SLO definition]] - document - 02-engenharia/arquitetura/slo-definition-0020-en.md
+- [[SLO definition_4]] - document - 02-engenharia/arquitetura/slo-definition-0060-en.md
+- [[SLO definition_16]] - document - 02-engenharia/arquitetura/slo-definition-0200-en.md
+- [[SLO definition_19]] - document - 02-engenharia/arquitetura/slo-definition-0240-en.md
+- [[SLO definition_34]] - document - 02-engenharia/arquitetura/slo-definition-0400-en.md
+- [[Saga pattern_9]] - document - 02-engenharia/arquitetura/saga-pattern-0092-en.md
+- [[Saga pattern_18]] - document - 02-engenharia/arquitetura/saga-pattern-0192-en.md
+- [[Saga pattern_20]] - document - 02-engenharia/arquitetura/saga-pattern-0212-en.md
+- [[Saga pattern_23]] - document - 02-engenharia/arquitetura/saga-pattern-0252-en.md
+- [[Saldo e saques_5]] - document - 01-produtos/pay-airich/en/saldo-e-saques-0070.md
+- [[Scheduled reports_5]] - document - 01-produtos/analytics-airich/en/scheduled-reports-0129.md
+- [[Script Cold email_16]] - document - 04-vendas/playbooks/en/script-cold-email-0120.md
+- [[Script NPS-report.py]] - document - 10-scripts/relatorios/script-nps-report.py-0006-en.md
+- [[Script auto-archive.sh_2]] - document - 10-scripts/automacao/script-auto-archive.sh-0024-en.md
+- [[Script auto-archive.sh_4]] - document - 10-scripts/automacao/script-auto-archive.sh-0044-en.md
+- [[Script check-SSL-cert.sh_1]] - document - 10-scripts/diagnostico/script-check-ssl-cert.sh-0045-en.md
+- [[Script config-reload.sh_2]] - document - 10-scripts/deploy/script-config-reload.sh-0037-en.md
+- [[Script cost-report.py_5]] - document - 10-scripts/relatorios/script-cost-report.py-0036-en.md
+- [[Script daily-report.py_7]] - document - 10-scripts/relatorios/script-daily-report.py-0039-en.md
+- [[Script db-rollback.sh_2]] - document - 10-scripts/deploy/script-db-rollback.sh-0035-en.md
+- [[Script deploy-API.sh_2]] - document - 10-scripts/deploy/script-deploy-api.sh-0042-en.md
+- [[Script deploy-ai.sh]] - document - 10-scripts/deploy/script-deploy-ai.sh-0005-en.md
+- [[Script deploy-ai.sh_3]] - document - 10-scripts/deploy/script-deploy-ai.sh-0025-en.md
+- [[Script deploy-ai.sh_5]] - document - 10-scripts/deploy/script-deploy-ai.sh-0045-en.md
+- [[Script export-data.py_2]] - document - 10-scripts/automacao/script-export-data.py-0038-en.md
+- [[Script health-check.sh_2]] - document - 10-scripts/deploy/script-health-check.sh-0040-en.md
+- [[Script import-data.py_2]] - document - 10-scripts/automacao/script-import-data.py-0037-en.md
+- [[Script incident-report.py]] - document - 10-scripts/relatorios/script-incident-report.py-0008-en.md
+- [[Script monthly-report.py_4]] - document - 10-scripts/relatorios/script-monthly-report.py-0029-en.md
+- [[Script provision-db.sh_2]] - document - 10-scripts/automacao/script-provision-db.sh-0028-en.md
+- [[Script revenue-report.py_3]] - document - 10-scripts/relatorios/script-revenue-report.py-0030-en.md
+- [[Script transform-data.py]] - document - 10-scripts/automacao/script-transform-data.py-0020-en.md
+- [[Script validate-data.py]] - document - 10-scripts/automacao/script-validate-data.py-0019-en.md
+- [[Secure stoRAGe]] - document - 01-produtos/mobile-airich/en/secure-storage-0034.md
+- [[Service mesh_4]] - document - 01-produtos/devops-suite-airich/en/service-mesh-0034.md
+- [[Servidor API-01_3]] - document - 09-infraestrutura/en/servidores/servidor-api-01-0064.md
+- [[Servidor API-01_4]] - document - 09-infraestrutura/en/servidores/servidor-api-01-0104.md
+- [[Servidor API-02_2]] - document - 09-infraestrutura/en/servidores/servidor-api-02-0025.md
+- [[Servidor CAChe-01_3]] - document - 09-infraestrutura/en/servidores/servidor-cache-01-0070.md
+- [[Servidor CAChe-02]] - document - 09-infraestrutura/en/servidores/servidor-cache-02-0011.md
+- [[Servidor backup-01]] - document - 09-infraestrutura/en/servidores/servidor-backup-01-0018.md
+- [[Servidor backup-01_2]] - document - 09-infraestrutura/en/servidores/servidor-backup-01-0118.md
+- [[Servidor log-01]] - document - 09-infraestrutura/en/servidores/servidor-log-01-0037.md
+- [[Servidor log-01_5]] - document - 09-infraestrutura/en/servidores/servidor-log-01-0117.md
+- [[Servidor queue-01_4]] - document - 09-infraestrutura/en/servidores/servidor-queue-01-0072.md
+- [[Servidor queue-02_3]] - document - 09-infraestrutura/en/servidores/servidor-queue-02-0113.md
+- [[Servidor web-01_3]] - document - 09-infraestrutura/en/servidores/servidor-web-01-0081.md
+- [[Servidor web-03_3]] - document - 09-infraestrutura/en/servidores/servidor-web-03-0083.md
+- [[Servidor worker-01]] - document - 09-infraestrutura/en/servidores/servidor-worker-01-0014.md
+- [[Software licenses_2]] - document - 06-financeiro/en/orcamento/software-licenses-0075.md
+- [[Software licenses_3]] - document - 06-financeiro/en/orcamento/software-licenses-0155.md
+- [[Split de pagamentos_6]] - document - 01-produtos/pay-airich/en/split-de-pagamentos-0099.md
+- [[Sprint 26.01 - Review]] - document - 02-engenharia/sprints/sprint-26.01---review-0002-en.md
+- [[Sprint 26.01 - Review_26]] - document - 02-engenharia/sprints/sprint-26.01---review-0322-en.md
+- [[Sprint 26.01 - Review_31]] - document - 02-engenharia/sprints/sprint-26.01---review-0382-en.md
+- [[Sprint 26.02 - Review]] - document - 02-engenharia/sprints/sprint-26.02---review-0005-en.md
+- [[Sprint 26.02 - Review_20]] - document - 02-engenharia/sprints/sprint-26.02---review-0245-en.md
+- [[Sprint 26.02 - Review_22]] - document - 02-engenharia/sprints/sprint-26.02---review-0265-en.md
+- [[Sprint 26.02 - Review_28]] - document - 02-engenharia/sprints/sprint-26.02---review-0325-en.md
+- [[Sprint 26.04 - Review_11]] - document - 02-engenharia/sprints/sprint-26.04---review-0151-en.md
+- [[Sprint 26.04 - Review_17]] - document - 02-engenharia/sprints/sprint-26.04---review-0231-en.md
+- [[Sprint 26.05 - Review_10]] - document - 02-engenharia/sprints/sprint-26.05---review-0134-en.md
+- [[Sprint 26.05 - Review_28]] - document - 02-engenharia/sprints/sprint-26.05---review-0354-en.md
+- [[Sprint 26.06 - Review_9]] - document - 02-engenharia/sprints/sprint-26.06---review-0137-en.md
+- [[Sprint 26.06 - Review_13]] - document - 02-engenharia/sprints/sprint-26.06---review-0177-en.md
+- [[Sprint 26.06 - Review_19]] - document - 02-engenharia/sprints/sprint-26.06---review-0237-en.md
+- [[Sprint 26.06 - Review_26]] - document - 02-engenharia/sprints/sprint-26.06---review-0317-en.md
+- [[Sprint goal setting_8]] - document - 02-engenharia/sprints/sprint-goal-setting-0120-en.md
+- [[Stories Bastidores_12]] - document - 08-marketing/social-media/en/stories-bastidores-0154.md
+- [[Stories Lancamento_12]] - document - 08-marketing/social-media/en/stories-lancamento-0073.md
+- [[Stories Lancamento_15]] - document - 08-marketing/social-media/en/stories-lancamento-0133.md
+- [[TKT-2026-0001 Erro login]] - document - 03-suporte/en/tickets/tkt-2026-0001-erro-login-0001.md
+- [[TKT-2026-0001 Erro login_2]] - document - 03-suporte/en/tickets/tkt-2026-0001-erro-login-0021.md
+- [[TKT-2026-0001 Erro login_6]] - document - 03-suporte/en/tickets/tkt-2026-0001-erro-login-0161.md
+- [[TKT-2026-0001 Erro login_7]] - document - 03-suporte/en/tickets/tkt-2026-0001-erro-login-0221.md
+- [[TKT-2026-0003 API timeout_7]] - document - 03-suporte/en/tickets/tkt-2026-0003-api-timeout-0183.md
+- [[TKT-2026-0003 API timeout_9]] - document - 03-suporte/en/tickets/tkt-2026-0003-api-timeout-0223.md
+- [[TKT-2026-0011 Mobile crash]] - document - 03-suporte/en/tickets/tkt-2026-0011-mobile-crash-0011.md
+- [[TKT-2026-0011 Mobile crash_8]] - document - 03-suporte/en/tickets/tkt-2026-0011-mobile-crash-0251.md
+- [[TKT-2026-0016 SSO falhou_9]] - document - 03-suporte/en/tickets/tkt-2026-0016-sso-falhou-0256.md
+- [[TKT-2026-0016 SSO falhou_10]] - document - 03-suporte/en/tickets/tkt-2026-0016-sso-falhou-0276.md
+- [[TKT-2026-0016 SSO falhou_11]] - document - 03-suporte/en/tickets/tkt-2026-0016-sso-falhou-0316.md
+- [[Taxa de conclusão_5]] - document - 01-produtos/edu-airich/en/taxa-de-conclusão-0078.md
+- [[Taxa de conversao_14]] - document - 04-vendas/pipeline/en/taxa-de-conversao-0046.md
+- [[Tech stack decision_3]] - document - 02-engenharia/arquitetura/tech-stack-decision-0035-en.md
+- [[Tech stack decision_11]] - document - 02-engenharia/arquitetura/tech-stack-decision-0115-en.md
+- [[Tech stack decision_18]] - document - 02-engenharia/arquitetura/tech-stack-decision-0195-en.md
+- [[Tech stack decision_21]] - document - 02-engenharia/arquitetura/tech-stack-decision-0235-en.md
+- [[Tech stack decision_36]] - document - 02-engenharia/arquitetura/tech-stack-decision-0395-en.md
+- [[Technical buyer_17]] - document - 04-vendas/clientes/en/technical-buyer-0162.md
+- [[Template DPA_15]] - document - 04-vendas/contratos/en/template-dpa-0049.md
+- [[Template DPA_18]] - document - 04-vendas/contratos/en/template-dpa-0109.md
+- [[Template DPA_23]] - document - 04-vendas/contratos/en/template-dpa-0209.md
+- [[Template MSA_14]] - document - 04-vendas/contratos/en/template-msa-0071.md
+- [[Template MSA_18]] - document - 04-vendas/contratos/en/template-msa-0211.md
+- [[Template MSA_19]] - document - 04-vendas/contratos/en/template-msa-0231.md
+- [[Template SOW_13]] - document - 04-vendas/contratos/en/template-sow-0010.md
+- [[Template Trabalho_3]] - document - 07-juridico/contratos/template-trabalho-0039-en.md
+- [[Template Trabalho_9]] - document - 07-juridico/contratos/template-trabalho-0123-en.md
+- [[Templates de email_4]] - document - 01-produtos/crm-airich/en/templates-de-email-0020.md
+- [[Termo de uso_6]] - document - 07-juridico/compliance/termo-de-uso-0079-en.md
+- [[Termos e condicoes_15]] - document - 04-vendas/propostas/en/termos-e-condicoes-0097.md
+- [[Termos e condicoes_17]] - document - 04-vendas/propostas/en/termos-e-condicoes-0157.md
+- [[Termos e condicoes_19]] - document - 04-vendas/propostas/en/termos-e-condicoes-0197.md
+- [[Timeline do incidente_2]] - document - 02-engenharia/incidentes/timeline-do-incidente-0034-en.md
+- [[Timeline do incidente_8]] - document - 02-engenharia/incidentes/timeline-do-incidente-0094-en.md
+- [[Timeline do incidente_30]] - document - 02-engenharia/incidentes/timeline-do-incidente-0334-en.md
+- [[Tokenização de cartões_4]] - document - 01-produtos/pay-airich/en/tokenização-de-cartões-0031.md
+- [[Travel budget_3]] - document - 06-financeiro/en/orcamento/travel-budget-0093.md
+- [[Travel budget_4]] - document - 06-financeiro/en/orcamento/travel-budget-0113.md
+- [[Treinamento complAInce]] - document - 07-juridico/compliance/treinamento-compliance-0012-en.md
+- [[Treinamento complAInce_2]] - document - 07-juridico/compliance/treinamento-compliance-0052-en.md
+- [[Treinamento complAInce_5]] - document - 07-juridico/compliance/treinamento-compliance-0112-en.md
+- [[Trilhas de aprendizado_5]] - document - 01-produtos/edu-airich/en/trilhas-de-aprendizado-0055.md
+- [[Trilhas de aprendizado_6]] - document - 01-produtos/edu-airich/en/trilhas-de-aprendizado-0139.md
+- [[UTM tracking_4]] - document - 01-produtos/analytics-airich/en/utm-tracking-0021.md
+- [[Velocidade do pipeline_13]] - document - 04-vendas/pipeline/en/velocidade-do-pipeline-0007.md
+- [[Velocidade do pipeline_16]] - document - 04-vendas/pipeline/en/velocidade-do-pipeline-0067.md
+- [[Velocidade do pipeline_20]] - document - 04-vendas/pipeline/en/velocidade-do-pipeline-0167.md
+- [[Velocidade do pipeline_22]] - document - 04-vendas/pipeline/en/velocidade-do-pipeline-0227.md
+- [[Video Demo_11]] - document - 08-marketing/conteudo/en/video-demo-0078.md
+- [[Video Demo_13]] - document - 08-marketing/conteudo/en/video-demo-0138.md
+- [[Visão geral AIRich Edu_7]] - document - 01-produtos/edu-airich/en/visão-geral-airich-edu-0085.md
+- [[Visão geral AIRich Edu_8]] - document - 01-produtos/edu-airich/en/visão-geral-airich-edu-0127.md
+- [[Visão geral AIRich Pay_5]] - document - 01-produtos/pay-airich/en/visão-geral-airich-pay-0001.md
+- [[Visão geral do Gateway_2]] - document - 01-produtos/api-gateway-airich/en/visão-geral-do-gateway-0001.md
+- [[Wallet system_5]] - document - 01-produtos/pay-airich/en/wallet-system-0069.md
+- [[Wallet system_6]] - document - 01-produtos/pay-airich/en/wallet-system-0114.md
+- [[WhatsApp integration_4]] - document - 01-produtos/crm-airich/en/whatsapp-integration-0025.md
+- [[Whitepaper ROI_10]] - document - 08-marketing/conteudo/en/whitepaper-roi-0114.md
+- [[Win rate_14]] - document - 04-vendas/pipeline/en/win-rate-0053.md
+- [[XSS prevention_3]] - document - 01-produtos/security-shield-airich/en/xss-prevention-0017.md
+- [[xAPI integration_4]] - document - 01-produtos/edu-airich/en/xapi-integration-0033.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Infrastructure
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 2595 edges to [[_COMMUNITY_Architecture]]
+- 2107 edges to [[_COMMUNITY_Community 1]]
+- 1716 edges to [[_COMMUNITY_Acoes preventivas]]
+- 749 edges to [[_COMMUNITY_Ambiente de staging]]
+- 653 edges to [[_COMMUNITY_AIRich AI Assistant  Produtos]]
+- 369 edges to [[_COMMUNITY_Community 0]]
+- 86 edges to [[_COMMUNITY_Licoes aprendidas]]
+- 73 edges to [[_COMMUNITY_KB FAQ technical]]
+- 68 edges to [[_COMMUNITY_Anexo technical]]
+- 65 edges to [[_COMMUNITY_Community 13]]
+- 63 edges to [[_COMMUNITY_Engenharia]]
+- 60 edges to [[_COMMUNITY_Impacto no client]]
+- 60 edges to [[_COMMUNITY_Reels Depoimento]]
+- 55 edges to [[_COMMUNITY_Metrics de incidente]]
+- 51 edges to [[_COMMUNITY_FAQ Como fazer upload]]
+- 48 edges to [[_COMMUNITY_FAQ Como adicionar users]]
+- 48 edges to [[_COMMUNITY_FAQ Como configurar alertas]]
+- 48 edges to [[_COMMUNITY_FAQ Como ver reports]]
+- 47 edges to [[_COMMUNITY_Modelo de data]]
+- 45 edges to [[_COMMUNITY_Community 14]]
+- 44 edges to [[_COMMUNITY_FAQ Como exportar data]]
+- 43 edges to [[_COMMUNITY_Anexo de precos]]
+- 40 edges to [[_COMMUNITY_Deploy v2.1.0 - AI Assistant]]
+- 40 edges to [[_COMMUNITY_TKT-2026-0020 Backup falhou]]
+- 36 edges to [[_COMMUNITY_Health score]]
+- 36 edges to [[_COMMUNITY_Playbook Demo]]
+- 36 edges to [[_COMMUNITY_Playbook NegocAIcao]]
+- 36 edges to [[_COMMUNITY_Playbook Upsell]]
+- 32 edges to [[_COMMUNITY_Community 11]]
+- 32 edges to [[_COMMUNITY_FAQ Como resetar password]]
+- 32 edges to [[_COMMUNITY_Expansion potentAIl]]
+- 32 edges to [[_COMMUNITY_Template contract SaaS]]
+- 32 edges to [[_COMMUNITY_Analise de perda]]
+- 32 edges to [[_COMMUNITY_Discovery call]]
+- 32 edges to [[_COMMUNITY_Playbook Field sales]]
+- 32 edges to [[_COMMUNITY_Escopo do project]]
+- 32 edges to [[_COMMUNITY_AvalAIcao Ciclo 2026-2]]
+- 32 edges to [[_COMMUNITY_Politica Saude mental]]
+- 32 edges to [[_COMMUNITY_NF-e Jan 2026]]
+- 32 edges to [[_COMMUNITY_Fluxo de aprovacao]]
+- 32 edges to [[_COMMUNITY_DRE Trimestre 2]]
+- 32 edges to [[_COMMUNITY_Post Blog 007]]
+- 31 edges to [[_COMMUNITY_Deal size medio]]
+- 31 edges to [[_COMMUNITY_Playbook CSM]]
+- 31 edges to [[_COMMUNITY_Cancelamento NF-e]]
+- 31 edges to [[_COMMUNITY_Reembolso vAIgem]]
+- 30 edges to [[_COMMUNITY_XML armazenado]]
+- 29 edges to [[_COMMUNITY_Clausula de rescisao]]
+- 28 edges to [[_COMMUNITY_FAQ Como importar data]]
+- 28 edges to [[_COMMUNITY_Cliente Gamma Ltd]]
+- 28 edges to [[_COMMUNITY_Cliente Kappa Systems]]
+- 28 edges to [[_COMMUNITY_Perfil do client]]
+- 28 edges to [[_COMMUNITY_Ajuste de precos]]
+- 28 edges to [[_COMMUNITY_Playbook Sales engineer]]
+- 28 edges to [[_COMMUNITY_Playbook SDR]]
+- 28 edges to [[_COMMUNITY_Proposta Cliente Epsilon]]
+- 28 edges to [[_COMMUNITY_AvalAIcao Pares]]
+- 28 edges to [[_COMMUNITY_Onboarding MentorAI]]
+- 28 edges to [[_COMMUNITY_Onboarding Primeiro project]]
+- 28 edges to [[_COMMUNITY_Contrato EUA]]
+- 28 edges to [[_COMMUNITY_LGPD Acesso a data]]
+- 28 edges to [[_COMMUNITY_LGPD NotifiCACao ANPD]]
+- 27 edges to [[_COMMUNITY_Alert manager]]
+- 27 edges to [[_COMMUNITY_Qualificacao MEDDIC]]
+- 27 edges to [[_COMMUNITY_CAPEX]]
+- 27 edges to [[_COMMUNITY_Contrato Fornecedor B]]
+- 26 edges to [[_COMMUNITY_Campanha Ano Novo]]
+- 24 edges to [[_COMMUNITY_ComplAInce SOC2]]
+- 24 edges to [[_COMMUNITY_Community 18]]
+- 24 edges to [[_COMMUNITY_Funil de sales]]
+- 24 edges to [[_COMMUNITY_Goal de sales]]
+- 24 edges to [[_COMMUNITY_AvalAIcao Ciclo 2026-1]]
+- 24 edges to [[_COMMUNITY_AvalAIcao CompetencAIs]]
+- 24 edges to [[_COMMUNITY_AvalAIcao Gestor]]
+- 24 edges to [[_COMMUNITY_AvalAIcao KPIs individuais]]
+- 24 edges to [[_COMMUNITY_AvalAIcao Promocao]]
+- 24 edges to [[_COMMUNITY_AvalAIcao Sucessao]]
+- 24 edges to [[_COMMUNITY_Politica Anticorrupcao]]
+- 24 edges to [[_COMMUNITY_Headcount budget]]
+- 24 edges to [[_COMMUNITY_DRE Mar 2026]]
+- 24 edges to [[_COMMUNITY_Fluxo de caixa]]
+- 24 edges to [[_COMMUNITY_ComplAInce CVM]]
+- 24 edges to [[_COMMUNITY_Politica de privacidade]]
+- 24 edges to [[_COMMUNITY_Contrato Parceiro X]]
+- 24 edges to [[_COMMUNITY_LGPD DPO]]
+- 24 edges to [[_COMMUNITY_LGPD Security]]
+- 24 edges to [[_COMMUNITY_Campanha Google Ads]]
+- 24 edges to [[_COMMUNITY_Campanha Podcast]]
+- 24 edges to [[_COMMUNITY_Infografico Product]]
+- 24 edges to [[_COMMUNITY_Video Depoimento]]
+- 24 edges to [[_COMMUNITY_Post Facebook 001]]
+- 24 edges to [[_COMMUNITY_Post LinkedIn 001]]
+- 23 edges to [[_COMMUNITY_Validade da proposal]]
+- 23 edges to [[_COMMUNITY_Processo PDI]]
+- 23 edges to [[_COMMUNITY_Reels Product]]
+- 23 edges to [[_COMMUNITY_Rede Transit gateway]]
+- 22 edges to [[_COMMUNITY_AloCACao por project]]
+- 20 edges to [[_COMMUNITY_ComplAInce ISO27001]]
+- 20 edges to [[_COMMUNITY_DAIgrama de deployment]]
+- 20 edges to [[_COMMUNITY_Community 36]]
+- 20 edges to [[_COMMUNITY_Community 44]]
+- 20 edges to [[_COMMUNITY_Desconto commercAIl]]
+- 20 edges to [[_COMMUNITY_AvalAIcao PDI acompanhamento]]
+- 20 edges to [[_COMMUNITY_AvalAIcao PDI crAIcao]]
+- 20 edges to [[_COMMUNITY_AvalAIcao Tecnica]]
+- 20 edges to [[_COMMUNITY_Politica DenuncAIs]]
+- 20 edges to [[_COMMUNITY_Processo Retorno]]
+- 20 edges to [[_COMMUNITY_Reembolso hospedagem]]
+- 20 edges to [[_COMMUNITY_Reembolso training]]
+- 20 edges to [[_COMMUNITY_ComplAInce GDPR]]
+- 20 edges to [[_COMMUNITY_Contrato Parceiro Y]]
+- 20 edges to [[_COMMUNITY_Template Compra e sale]]
+- 20 edges to [[_COMMUNITY_Campanha Goal Ads]]
+- 20 edges to [[_COMMUNITY_Video TutorAIl]]
+- 20 edges to [[_COMMUNITY_Post Facebook 003]]
+- 20 edges to [[_COMMUNITY_Reels TutorAIl]]
+- 20 edges to [[_COMMUNITY_Rede VPN site-to-site]]
+- 20 edges to [[_COMMUNITY_Servidor web-02]]
+- 19 edges to [[_COMMUNITY_DAIgrama de sequencAI]]
+- 19 edges to [[_COMMUNITY_NF-e Products]]
+- 19 edges to [[_COMMUNITY_Balanco patrimonAIl]]
+- 19 edges to [[_COMMUNITY_Cloud AWS account dev]]
+- 19 edges to [[_COMMUNITY_Rede Subnet publica]]
+- 18 edges to [[_COMMUNITY_Template proposal costm]]
+- 17 edges to [[_COMMUNITY_Contrato Seguro]]
+- 16 edges to [[_COMMUNITY_Pipeline de sales]]
+- 16 edges to [[_COMMUNITY_Certificados digitais]]
+- 16 edges to [[_COMMUNITY_Extrato de transações]]
+- 16 edges to [[_COMMUNITY_ComplAInce LGPD]]
+- 16 edges to [[_COMMUNITY_Community 210]]
+- 16 edges to [[_COMMUNITY_NPS do client]]
+- 16 edges to [[_COMMUNITY_AvalAIcao Autoevaluation]]
+- 16 edges to [[_COMMUNITY_AvalAIcao AvalAIcao]]
+- 16 edges to [[_COMMUNITY_AvalAIcao Comportamental]]
+- 16 edges to [[_COMMUNITY_AvalAIcao OKRs]]
+- 16 edges to [[_COMMUNITY_Onboarding Treinamento product]]
+- 16 edges to [[_COMMUNITY_Processo FerAIs]]
+- 16 edges to [[_COMMUNITY_Relatorio de costs]]
+- 16 edges to [[_COMMUNITY_AuditorAI complAInce]]
+- 16 edges to [[_COMMUNITY_ComplAInce BACEN]]
+- 16 edges to [[_COMMUNITY_Template LicencAImento]]
+- 16 edges to [[_COMMUNITY_Template ParcerAI]]
+- 16 edges to [[_COMMUNITY_LGPD Correcao de data]]
+- 16 edges to [[_COMMUNITY_Whitepaper Trends]]
+- 16 edges to [[_COMMUNITY_Cloud Azure DR]]
+- 16 edges to [[_COMMUNITY_Cloud CloudTrail]]
+- 16 edges to [[_COMMUNITY_Cloud Route53]]
+- 16 edges to [[_COMMUNITY_Cloud Savings plans]]
+- 15 edges to [[_COMMUNITY_Community 17]]
+- 15 edges to [[_COMMUNITY_Analise de margin]]
+- 15 edges to [[_COMMUNITY_LGPD Consentimento]]
+- 15 edges to [[_COMMUNITY_Cloud CloudFront]]
+- 15 edges to [[_COMMUNITY_Cloud GCP backup]]
+- 15 edges to [[_COMMUNITY_Cloud S3 buckets]]
+- 15 edges to [[_COMMUNITY_Rede Subnet privada]]
+- 15 edges to [[_COMMUNITY_Rede WiFi corporativo]]
+- 14 edges to [[_COMMUNITY_Deploy v2.0.1 - AI Assistant]]
+- 14 edges to [[_COMMUNITY_Community 75]]
+- 14 edges to [[_COMMUNITY_Training budget]]
+- 14 edges to [[_COMMUNITY_Cloud IAM policies]]
+- 14 edges to [[_COMMUNITY_Vendas]]
+- 13 edges to [[_COMMUNITY_Community 20]]
+- 13 edges to [[_COMMUNITY_Community 23]]
+- 12 edges to [[_COMMUNITY_Campaign management]]
+- 12 edges to [[_COMMUNITY_Email tracking]]
+- 12 edges to [[_COMMUNITY_Changelog v3.0]]
+- 12 edges to [[_COMMUNITY_AvalAIções e reviews]]
+- 12 edges to [[_COMMUNITY_CrAIção de conteúdo]]
+- 12 edges to [[_COMMUNITY_Changelog v4.0]]
+- 12 edges to [[_COMMUNITY_Behavioral analysis]]
+- 12 edges to [[_COMMUNITY_Link de pagamento]]
+- 12 edges to [[_COMMUNITY_SLA definição]]
+- 12 edges to [[_COMMUNITY_Community 43]]
+- 12 edges to [[_COMMUNITY_Community 89]]
+- 12 edges to [[_COMMUNITY_Community 74]]
+- 12 edges to [[_COMMUNITY_Community 72]]
+- 12 edges to [[_COMMUNITY_Community 54]]
+- 12 edges to [[_COMMUNITY_Runbook Analise de memorAI]]
+- 12 edges to [[_COMMUNITY_Runbook Disaster recovery]]
+- 12 edges to [[_COMMUNITY_Community 68]]
+- 12 edges to [[_COMMUNITY_AvalAIcao Calibracao]]
+- 12 edges to [[_COMMUNITY_Onboarding Apresentacao equipe]]
+- 12 edges to [[_COMMUNITY_Politica Security]]
+- 12 edges to [[_COMMUNITY_Deadline de reembolso]]
+- 12 edges to [[_COMMUNITY_Politica de complAInce]]
+- 12 edges to [[_COMMUNITY_Contrato ConsultorAI]]
+- 12 edges to [[_COMMUNITY_Template ConfidencAIlidade]]
+- 12 edges to [[_COMMUNITY_Rede NAT gateway]]
+- 12 edges to [[_COMMUNITY_Rede VPC principal]]
+- 12 edges to [[_COMMUNITY_Script setup-monitoring.sh]]
+- 12 edges to [[_COMMUNITY_Script deploy-analytics.sh]]
+- 12 edges to [[_COMMUNITY_Script deploy-edu.sh]]
+- 12 edges to [[_COMMUNITY_Script churn-report.py]]
+- 12 edges to [[_COMMUNITY_Script uptime-report.py]]
+- 12 edges to [[_COMMUNITY_Script usage-report.py]]
+- 12 edges to [[_COMMUNITY_Script weekly-report.py]]
+- 12 edges to [[_COMMUNITY_Community 33]]
+- 11 edges to [[_COMMUNITY_Community 24]]
+- 11 edges to [[_COMMUNITY_Ebook GuAI completo]]
+- 11 edges to [[_COMMUNITY_Script auto-archive.sh]]
+- 11 edges to [[_COMMUNITY_Script capacity-report.py]]
+- 11 edges to [[_COMMUNITY_Juridico]]
+- 10 edges to [[_COMMUNITY_Community 50]]
+- 10 edges to [[_COMMUNITY_Community 53]]
+- 10 edges to [[_COMMUNITY_Cloud CloudWatch]]
+- 10 edges to [[_COMMUNITY_Financeiro]]
+- 9 edges to [[_COMMUNITY_Community 57]]
+- 9 edges to [[_COMMUNITY_Community 77]]
+- 9 edges to [[_COMMUNITY_Community 64]]
+- 9 edges to [[_COMMUNITY_Community 32]]
+- 8 edges to [[_COMMUNITY_Code generation]]
+- 8 edges to [[_COMMUNITY_Roadmap AI]]
+- 8 edges to [[_COMMUNITY_Date governance]]
+- 8 edges to [[_COMMUNITY_Event streaming]]
+- 8 edges to [[_COMMUNITY_Automação de sales]]
+- 8 edges to [[_COMMUNITY_Forecast de sales]]
+- 8 edges to [[_COMMUNITY_Tarefas e follow-ups]]
+- 8 edges to [[_COMMUNITY_ELK stack]]
+- 8 edges to [[_COMMUNITY_MelhorAIs de UX]]
+- 8 edges to [[_COMMUNITY_MentorAI e tutorAI]]
+- 8 edges to [[_COMMUNITY_Modo noturno]]
+- 8 edges to [[_COMMUNITY_Webinars gravados]]
+- 8 edges to [[_COMMUNITY_Biometric auth]]
+- 8 edges to [[_COMMUNITY_Changelog v4.1]]
+- 8 edges to [[_COMMUNITY_Configurações do app]]
+- 8 edges to [[_COMMUNITY_GuAI de contribuição]]
+- 8 edges to [[_COMMUNITY_In-app updates]]
+- 8 edges to [[_COMMUNITY_Sincronização de data]]
+- 8 edges to [[_COMMUNITY_Testes E2E com Detox]]
+- 8 edges to [[_COMMUNITY_Device fingerprinting]]
+- 8 edges to [[_COMMUNITY_Refund policies]]
+- 8 edges to [[_COMMUNITY_SDK de pagamentos]]
+- 8 edges to [[_COMMUNITY_FAQ técnico]]
+- 8 edges to [[_COMMUNITY_SDK Java]]
+- 8 edges to [[_COMMUNITY_SDK JavaScript]]
+- 8 edges to [[_COMMUNITY_Testes de carga]]
+- 8 edges to [[_COMMUNITY_Validação de data]]
+- 8 edges to [[_COMMUNITY_API design guidelines]]
+- 8 edges to [[_COMMUNITY_Community 91]]
+- 8 edges to [[_COMMUNITY_Runbook Escala horizontal]]
+- 8 edges to [[_COMMUNITY_Sprint 26.01 - Retrospectiva]]
+- 8 edges to [[_COMMUNITY_Sprint 26.06 - Planejamento]]
+- 8 edges to [[_COMMUNITY_Community 46]]
+- 8 edges to [[_COMMUNITY_Cronograma de implementation]]
+- 8 edges to [[_COMMUNITY_AvalAIcao Ajuste salarAIl]]
+- 8 edges to [[_COMMUNITY_Aprovacao de reembolso]]
+- 8 edges to [[_COMMUNITY_ROI por product]]
+- 8 edges to [[_COMMUNITY_Campanha ReferencAI Beta]]
+- 8 edges to [[_COMMUNITY_Script auto-cleanup.sh]]
+- 8 edges to [[_COMMUNITY_Script auto-notify.sh]]
+- 8 edges to [[_COMMUNITY_Script auto-remedAIte.sh]]
+- 8 edges to [[_COMMUNITY_Script provision-server.sh]]
+- 8 edges to [[_COMMUNITY_Script sync-data.sh]]
+- 8 edges to [[_COMMUNITY_Script cert-renew.sh]]
+- 8 edges to [[_COMMUNITY_Script deploy-platform.sh]]
+- 8 edges to [[_COMMUNITY_Script deploy-security.sh]]
+- 8 edges to [[_COMMUNITY_Script rollback.sh]]
+- 8 edges to [[_COMMUNITY_Script check-redis.sh]]
+- 8 edges to [[_COMMUNITY_Script smoke-test.sh]]
+- 8 edges to [[_COMMUNITY_FAQ Como configurar SSO]]
+- 8 edges to [[_COMMUNITY_FAQ Como fazer login]]
+- 8 edges to [[_COMMUNITY_Infraestrutura]]
+- 7 edges to [[_COMMUNITY_Roadmap Q4 2026]]
+- 7 edges to [[_COMMUNITY_Script errorr-rate.py]]
+- 7 edges to [[_COMMUNITY_Scripts]]
+- 6 edges to [[_COMMUNITY_Suporte]]
+- 6 edges to [[_COMMUNITY_Community 92]]
+- 6 edges to [[_COMMUNITY_Community 55]]
+- 6 edges to [[_COMMUNITY_RH]]
+- 6 edges to [[_COMMUNITY_Community 22]]
+- 6 edges to [[_COMMUNITY_Deploy v4.0.0 - Mobile]]
+- 6 edges to [[_COMMUNITY_Backlog grooming notes]]
+- 6 edges to [[_COMMUNITY_Community 52]]
+- 6 edges to [[_COMMUNITY_Community 42]]
+- 6 edges to [[_COMMUNITY_Post Blog 010]]
+- 5 edges to [[_COMMUNITY_AB testing de modelos]]
+- 5 edges to [[_COMMUNITY_API security]]
+- 5 edges to [[_COMMUNITY_Offline mode]]
+- 5 edges to [[_COMMUNITY_Service mesh]]
+- 5 edges to [[_COMMUNITY_ReconcilAIção financeira]]
+- 5 edges to [[_COMMUNITY_Community 106]]
+- 5 edges to [[_COMMUNITY_Ambiente de produção]]
+- 5 edges to [[_COMMUNITY_Lead scoring]]
+- 5 edges to [[_COMMUNITY_Arquitetura mobile]]
+- 5 edges to [[_COMMUNITY_Metrics collection]]
+- 5 edges to [[_COMMUNITY_Tech stack decision]]
+- 5 edges to [[_COMMUNITY_Community 123]]
+- 5 edges to [[_COMMUNITY_Community 40]]
+- 5 edges to [[_COMMUNITY_FAQ Como integrar API]]
+- 5 edges to [[_COMMUNITY_Processo Recrutamento]]
+- 5 edges to [[_COMMUNITY_Marketing]]
+- 4 edges to [[_COMMUNITY_API call generation]]
+- 4 edges to [[_COMMUNITY_Batch inference]]
+- 4 edges to [[_COMMUNITY_Chunking strategies]]
+- 4 edges to [[_COMMUNITY_Conversation history]]
+- 4 edges to [[_COMMUNITY_Deployment pipeline]]
+- 4 edges to [[_COMMUNITY_Feedback loop]]
+- 4 edges to [[_COMMUNITY_Fine-tuning process]]
+- 4 edges to [[_COMMUNITY_Language detection]]
+- 4 edges to [[_COMMUNITY_Model versioning]]
+- 4 edges to [[_COMMUNITY_Multi-turn dAIlogues]]
+- 4 edges to [[_COMMUNITY_Portuguese NLP models]]
+- 4 edges to [[_COMMUNITY_Prompt engineering guidelines]]
+- 4 edges to [[_COMMUNITY_Retrieval optimization]]
+- 4 edges to [[_COMMUNITY_Sentiment analysis]]
+- 4 edges to [[_COMMUNITY_Tool use framework]]
+- 4 edges to [[_COMMUNITY_Architecture de data]]
+- 4 edges to [[_COMMUNITY_Changelog v1.5]]
+- 4 edges to [[_COMMUNITY_Dashboard templates]]
+- 4 edges to [[_COMMUNITY_Dashboards operacionais]]
+- 4 edges to [[_COMMUNITY_Date warehouse schema]]
+- 4 edges to [[_COMMUNITY_ETL com Apache Spark]]
+- 4 edges to [[_COMMUNITY_Event tracking schema]]
+- 4 edges to [[_COMMUNITY_Exportação de data]]
+- 4 edges to [[_COMMUNITY_Glossary de métricas]]
+- 4 edges to [[_COMMUNITY_Privacy complAInce]]
+- 4 edges to [[_COMMUNITY_Real-time analytics]]
+- 4 edges to [[_COMMUNITY_Relatórios costmizáveis]]
+- 4 edges to [[_COMMUNITY_Stream processing com Kafka]]
+- 4 edges to [[_COMMUNITY_Visualização de data]]
+- 4 edges to [[_COMMUNITY_Visão geral do Analytics]]
+- 4 edges to [[_COMMUNITY_Alertas de anomalAI]]
+- 4 edges to [[_COMMUNITY_Architecture de proxy reverso]]
+- 4 edges to [[_COMMUNITY_Circuit breaker pattern]]
+- 4 edges to [[_COMMUNITY_Documentação OpenAPI 3.0]]
+- 4 edges to [[_COMMUNITY_Especificação de plugins]]
+- 4 edges to [[_COMMUNITY_Failover procedures]]
+- 4 edges to [[_COMMUNITY_Health checks]]
+- 4 edges to [[_COMMUNITY_Multi-region deployment]]
+- 4 edges to [[_COMMUNITY_OAuth2 flow completo]]
+- 4 edges to [[_COMMUNITY_Performance benchmarks]]
+- 4 edges to [[_COMMUNITY_Rate limiting policies]]
+- 4 edges to [[_COMMUNITY_Roadmap do Gateway]]
+- 4 edges to [[_COMMUNITY_Schema validation]]
+- 4 edges to [[_COMMUNITY_Timeout configuration]]
+- 4 edges to [[_COMMUNITY_Transformação de requests]]
+- 4 edges to [[_COMMUNITY_Troubleshooting comum]]
+- 4 edges to [[_COMMUNITY_Webhook delivery system]]
+- 4 edges to [[_COMMUNITY_Integração com calendário]]
+- 4 edges to [[_COMMUNITY_Integração com telefonAI]]
+- 4 edges to [[_COMMUNITY_SequêncAIs de nurturing]]
+- 4 edges to [[_COMMUNITY_Best practices guide]]
+- 4 edges to [[_COMMUNITY_Blue-green deployment]]
+- 4 edges to [[_COMMUNITY_Canary releases]]
+- 4 edges to [[_COMMUNITY_Container scanning]]
+- 4 edges to [[_COMMUNITY_Docker accountinerization]]
+- 4 edges to [[_COMMUNITY_GitHub Actions workflows]]
+- 4 edges to [[_COMMUNITY_GitLab CI integration]]
+- 4 edges to [[_COMMUNITY_Infrastructure as Code]]
+- 4 edges to [[_COMMUNITY_Istio configuration]]
+- 4 edges to [[_COMMUNITY_SLOSLI definitions]]
+- 4 edges to [[_COMMUNITY_Terraform modules]]
+- 4 edges to [[_COMMUNITY_Visão geral DevOps Suite]]
+- 4 edges to [[_COMMUNITY_CategorAIs de cursos]]
+- 4 edges to [[_COMMUNITY_Onboarding de instrutores]]
+- 4 edges to [[_COMMUNITY_Acessibilidade a11y]]
+- 4 edges to [[_COMMUNITY_Distribuição vAI App Store]]
+- 4 edges to [[_COMMUNITY_Distribuição vAI TestFlight]]
+- 4 edges to [[_COMMUNITY_Internacionalização i18n]]
+- 4 edges to [[_COMMUNITY_Local storage]]
+- 4 edges to [[_COMMUNITY_Offline-first architecture]]
+- 4 edges to [[_COMMUNITY_Roadmap mobile]]
+- 4 edges to [[_COMMUNITY_Architecture de pagamentos]]
+- 4 edges to [[_COMMUNITY_Documentação de deploy]]
+- 4 edges to [[_COMMUNITY_Módulo de audit]]
+- 4 edges to [[_COMMUNITY_Políticas de retenção de data]]
+- 4 edges to [[_COMMUNITY_Sistema de busca interna]]
+- 4 edges to [[_COMMUNITY_Sistema de feature flags]]
+- 4 edges to [[_COMMUNITY_Architecture de segurança]]
+- 4 edges to [[_COMMUNITY_Authentication security]]
+- 4 edges to [[_COMMUNITY_CSRF protection]]
+- 4 edges to [[_COMMUNITY_Forensics procedures]]
+- 4 edges to [[_COMMUNITY_Intrusion detection]]
+- 4 edges to [[_COMMUNITY_IP reputation]]
+- 4 edges to [[_COMMUNITY_Output encoding]]
+- 4 edges to [[_COMMUNITY_Penetration testing]]
+- 4 edges to [[_COMMUNITY_Roadmap security]]
+- 4 edges to [[_COMMUNITY_Security checklist]]
+- 4 edges to [[_COMMUNITY_Security monitoring]]
+- 4 edges to [[_COMMUNITY_Threat modeling]]
+- 4 edges to [[_COMMUNITY_Vulnerability management]]
+- 4 edges to [[_COMMUNITY_Zero trust architecture]]
+- 4 edges to [[_COMMUNITY_Community 125]]
+- 4 edges to [[_COMMUNITY_Community 199]]
+- 4 edges to [[_COMMUNITY_Community 30]]
+- 4 edges to [[_COMMUNITY_KB Architecture basica]]
+- 4 edges to [[_COMMUNITY_KB Configuracao inicAIl]]
+- 4 edges to [[_COMMUNITY_KB GuAI de migration]]
+- 4 edges to [[_COMMUNITY_KB Visao geral do product]]
+- 4 edges to [[_COMMUNITY_Runbook Migracao de data]]
+- 4 edges to [[_COMMUNITY_Runbook Onboarding novo client]]
+- 4 edges to [[_COMMUNITY_Runbook Primeiro accountto]]
+- 4 edges to [[_COMMUNITY_Runbook Renovacao de contract]]
+- 4 edges to [[_COMMUNITY_Runbook Treinamento client]]
+- 4 edges to [[_COMMUNITY_Runbook TrAIgem de tickets]]
+- 4 edges to [[_COMMUNITY_Script Analisar logs error]]
+- 4 edges to [[_COMMUNITY_Script Monitorar memorAI]]
+- 4 edges to [[_COMMUNITY_Script Testar latencAI banco]]
+- 4 edges to [[_COMMUNITY_Script Verificar certificate SSL]]
+- 4 edges to [[_COMMUNITY_Template contract enterprise]]
+- 4 edges to [[_COMMUNITY_Template proposal enterprise]]
+- 4 edges to [[_COMMUNITY_AvalAIcao MeritocracAI]]
+- 4 edges to [[_COMMUNITY_Community 102]]
+- 4 edges to [[_COMMUNITY_AloCACao por department]]
+- 4 edges to [[_COMMUNITY_Campanha DAI do Programador]]
+- 4 edges to [[_COMMUNITY_Campanha Evento presencAIl]]
+- 4 edges to [[_COMMUNITY_Calendario editorAIl Fev]]
+- 4 edges to [[_COMMUNITY_Calendario editorAIl Jan]]
+- 4 edges to [[_COMMUNITY_Cloud AWS account principal]]
+- 4 edges to [[_COMMUNITY_Alerta Disco cheio]]
+- 4 edges to [[_COMMUNITY_Alerta LatencAI alta]]
+- 4 edges to [[_COMMUNITY_Alerta MemorAI alta]]
+- 4 edges to [[_COMMUNITY_Alerta Replication lag]]
+- 4 edges to [[_COMMUNITY_Alerta SSL expirando]]
+- 4 edges to [[_COMMUNITY_Dashboard Datebase]]
+- 4 edges to [[_COMMUNITY_Dashboard Overview]]
+- 4 edges to [[_COMMUNITY_Instalacao Ubuntu 24.04]]
+- 4 edges to [[_COMMUNITY_Script db-migrate.sh]]
+- 4 edges to [[_COMMUNITY_Script parse-access-log.py]]
+- 4 edges to [[_COMMUNITY_Script performance-report.py]]
+- 4 edges to [[_COMMUNITY_Clean architecture]]
+- 4 edges to [[_COMMUNITY_Saga pattern]]
+- 4 edges to [[_COMMUNITY_Community 63]]
+- 4 edges to [[_COMMUNITY_Sprint 26.06 - Review]]
+- 4 edges to [[_COMMUNITY_FAQ Como alterar plano]]
+- 4 edges to [[_COMMUNITY_Community 81]]
+- 4 edges to [[_COMMUNITY_Community 137]]
+- 4 edges to [[_COMMUNITY_Cliente Theta Tech]]
+- 4 edges to [[_COMMUNITY_Cliente Zeta Group]]
+- 4 edges to [[_COMMUNITY_Community 56]]
+- 4 edges to [[_COMMUNITY_Community 94]]
+- 4 edges to [[_COMMUNITY_Community 35]]
+- 4 edges to [[_COMMUNITY_Playbook Proposta]]
+- 4 edges to [[_COMMUNITY_Proposta Cliente Alpha]]
+- 4 edges to [[_COMMUNITY_Politica Home office]]
+- 4 edges to [[_COMMUNITY_Processo Feedback]]
+- 4 edges to [[_COMMUNITY_Contrato Fornecedor C]]
+- 3 edges to [[_COMMUNITY_Batch processing]]
+- 3 edges to [[_COMMUNITY_Real-time inference]]
+- 3 edges to [[_COMMUNITY_Dependency scanning]]
+- 3 edges to [[_COMMUNITY_Integração com API Gateway]]
+- 3 edges to [[_COMMUNITY_Phishing awareness]]
+- 3 edges to [[_COMMUNITY_ComplAInce PCI-DSS]]
+- 3 edges to [[_COMMUNITY_Deploy v4.1.0 - Mobile]]
+- 3 edges to [[_COMMUNITY_Community 47]]
+- 3 edges to [[_COMMUNITY_Deploy v5.1.0 - CRM]]
+- 3 edges to [[_COMMUNITY_Timeline do incidente]]
+- 3 edges to [[_COMMUNITY_Community 108]]
+- 3 edges to [[_COMMUNITY_Runbook Load test]]
+- 3 edges to [[_COMMUNITY_Runbook Security patch]]
+- 3 edges to [[_COMMUNITY_Community 58]]
+- 3 edges to [[_COMMUNITY_FAQ Como ativar MFA]]
+- 3 edges to [[_COMMUNITY_TKT-2026-0016 SSO falhou]]
+- 3 edges to [[_COMMUNITY_Contrato Beta Inc]]
+- 3 edges to [[_COMMUNITY_Template DPA]]
+- 3 edges to [[_COMMUNITY_Ciclo de sales]]
+- 3 edges to [[_COMMUNITY_Community 78]]
+- 3 edges to [[_COMMUNITY_Playbook Fechamento]]
+- 3 edges to [[_COMMUNITY_Termos e condicoes]]
+- 3 edges to [[_COMMUNITY_Anexo commercAIl]]
+- 3 edges to [[_COMMUNITY_Community 61]]
+- 3 edges to [[_COMMUNITY_Onboarding Mes 1]]
+- 3 edges to [[_COMMUNITY_Onboarding Mes 2]]
+- 3 edges to [[_COMMUNITY_Onboarding Semana 1]]
+- 3 edges to [[_COMMUNITY_Politica Codigo de conduta]]
+- 3 edges to [[_COMMUNITY_Politica Diversidade]]
+- 3 edges to [[_COMMUNITY_Politica Reembolso]]
+- 3 edges to [[_COMMUNITY_Processo Onboarding]]
+- 3 edges to [[_COMMUNITY_Community 76]]
+- 3 edges to [[_COMMUNITY_DANFE]]
+- 3 edges to [[_COMMUNITY_Community 117]]
+- 3 edges to [[_COMMUNITY_NF-e Jul 2026]]
+- 3 edges to [[_COMMUNITY_Community 73]]
+- 3 edges to [[_COMMUNITY_Marketing budget]]
+- 3 edges to [[_COMMUNITY_Reembolso transporte]]
+- 3 edges to [[_COMMUNITY_DRE Fev 2026]]
+- 3 edges to [[_COMMUNITY_Treinamento complAInce]]
+- 3 edges to [[_COMMUNITY_Contrato Europa]]
+- 3 edges to [[_COMMUNITY_Contrato Fornecedor A]]
+- 3 edges to [[_COMMUNITY_Community 84]]
+- 3 edges to [[_COMMUNITY_LGPD Legitimo interesse]]
+- 3 edges to [[_COMMUNITY_Campanha Blog SEO]]
+- 3 edges to [[_COMMUNITY_Campanha Parceiros]]
+- 3 edges to [[_COMMUNITY_Campanha Retargeting]]
+- 3 edges to [[_COMMUNITY_Campanha Startup Week]]
+- 3 edges to [[_COMMUNITY_Campanha Webinar Series]]
+- 3 edges to [[_COMMUNITY_Post Blog 001]]
+- 3 edges to [[_COMMUNITY_Post Blog 002]]
+- 3 edges to [[_COMMUNITY_Post Facebook 002]]
+- 2 edges to [[_COMMUNITY_Distributed tracing]]
+- 2 edges to [[_COMMUNITY_Changelog v1.0]]
+- 2 edges to [[_COMMUNITY_Trilhas de aprendizado]]
+- 2 edges to [[_COMMUNITY_Visão geral AIRich Edu]]
+- 2 edges to [[_COMMUNITY_Changelog v3.2]]
+- 2 edges to [[_COMMUNITY_Community 37]]
+- 2 edges to [[_COMMUNITY_Post-mortem Q1 2026]]
+- 2 edges to [[_COMMUNITY_Sprint 26.04 - Review]]
+- 2 edges to [[_COMMUNITY_Community 88]]
+- 2 edges to [[_COMMUNITY_KB Workarounds]]
+- 2 edges to [[_COMMUNITY_FAQ Como gerar API key]]
+- 2 edges to [[_COMMUNITY_FAQ Como gerencAIr permissoes]]
+- 2 edges to [[_COMMUNITY_TKT-2026-0003 API timeout]]
+- 2 edges to [[_COMMUNITY_Cliente Beta Inc]]
+- 2 edges to [[_COMMUNITY_Cliente Epsilon LLC]]
+- 2 edges to [[_COMMUNITY_Economic buyer]]
+- 2 edges to [[_COMMUNITY_Community 109]]
+- 2 edges to [[_COMMUNITY_Escopo de servicos]]
+- 2 edges to [[_COMMUNITY_Pipeline Q2 2026]]
+- 2 edges to [[_COMMUNITY_Playbook Retencao]]
+- 2 edges to [[_COMMUNITY_Precificacao de servicos]]
+- 2 edges to [[_COMMUNITY_SLA proposto]]
+- 2 edges to [[_COMMUNITY_PrecifiCACao de licenses]]
+- 2 edges to [[_COMMUNITY_AvalAIcao Bonus]]
+- 2 edges to [[_COMMUNITY_AvalAIcao PotencAIl]]
+- 2 edges to [[_COMMUNITY_Onboarding Organograma]]
+- 2 edges to [[_COMMUNITY_Politica Horario flexivel]]
+- 2 edges to [[_COMMUNITY_Politica Presentes]]
+- 2 edges to [[_COMMUNITY_Processo Beneficios]]
+- 2 edges to [[_COMMUNITY_Processo Disciplinar]]
+- 2 edges to [[_COMMUNITY_Processo Externo]]
+- 2 edges to [[_COMMUNITY_Processo Folha de pagamento]]
+- 2 edges to [[_COMMUNITY_Community 59]]
+- 2 edges to [[_COMMUNITY_NF-e Mar 2026]]
+- 2 edges to [[_COMMUNITY_ContingencAI]]
+- 2 edges to [[_COMMUNITY_Hardware]]
+- 2 edges to [[_COMMUNITY_Orcamento 2027]]
+- 2 edges to [[_COMMUNITY_Recibo]]
+- 2 edges to [[_COMMUNITY_Reembolso Equipe C]]
+- 2 edges to [[_COMMUNITY_Community 25]]
+- 2 edges to [[_COMMUNITY_Community 121]]
+- 2 edges to [[_COMMUNITY_DRE Trimestre 3]]
+- 2 edges to [[_COMMUNITY_Community 90]]
+- 2 edges to [[_COMMUNITY_ComplAInce Marco Civil]]
+- 2 edges to [[_COMMUNITY_Due diligence]]
+- 2 edges to [[_COMMUNITY_Community 293]]
+- 2 edges to [[_COMMUNITY_Contrato Cliente Beta]]
+- 2 edges to [[_COMMUNITY_Contrato Cliente Gamma]]
+- 2 edges to [[_COMMUNITY_Community 49]]
+- 2 edges to [[_COMMUNITY_Community 80]]
+- 2 edges to [[_COMMUNITY_Campanha Lookalike]]
+- 2 edges to [[_COMMUNITY_Post Blog 005]]
+- 2 edges to [[_COMMUNITY_Post Blog 006]]
+- 2 edges to [[_COMMUNITY_Post Blog 008]]
+- 2 edges to [[_COMMUNITY_Video Demo]]
+- 2 edges to [[_COMMUNITY_Post Instagram 001]]
+- 2 edges to [[_COMMUNITY_Post Twitter 001]]
+- 2 edges to [[_COMMUNITY_Stories Lancamento]]
+- 2 edges to [[_COMMUNITY_Alerta Erro 5xx]]
+- 2 edges to [[_COMMUNITY_Dashboard API]]
+- 2 edges to [[_COMMUNITY_Rede Load balancer]]
+- 2 edges to [[_COMMUNITY_Rede Subnet DB]]
+- 2 edges to [[_COMMUNITY_Servidor API-01]]
+- 2 edges to [[_COMMUNITY_Servidor backup-01]]
+- 2 edges to [[_COMMUNITY_Servidor log-01]]
+- 1 edge to [[_COMMUNITY_Métricas de negócio]]
+- 1 edge to [[_COMMUNITY_Roadmap analytics]]
+- 1 edge to [[_COMMUNITY_Scheduled reports]]
+- 1 edge to [[_COMMUNITY_UTM tracking]]
+- 1 edge to [[_COMMUNITY_Backup de data]]
+- 1 edge to [[_COMMUNITY_Exemplos de uso]]
+- 1 edge to [[_COMMUNITY_JWT validation]]
+- 1 edge to [[_COMMUNITY_Postman collection]]
+- 1 edge to [[_COMMUNITY_Histórico de interações]]
+- 1 edge to [[_COMMUNITY_Integração com email]]
+- 1 edge to [[_COMMUNITY_Roadmap CRM]]
+- 1 edge to [[_COMMUNITY_WhatsApp integration]]
+- 1 edge to [[_COMMUNITY_DAST integration]]
+- 1 edge to [[_COMMUNITY_Disaster recovery]]
+- 1 edge to [[_COMMUNITY_Helm charts]]
+- 1 edge to [[_COMMUNITY_SAST integration]]
+- 1 edge to [[_COMMUNITY_Badges e conquistas]]
+- 1 edge to [[_COMMUNITY_Downloads e recursos]]
+- 1 edge to [[_COMMUNITY_NPS educacional]]
+- 1 edge to [[_COMMUNITY_Recomendação de cursos]]
+- 1 edge to [[_COMMUNITY_Taxa de conclusão]]
+- 1 edge to [[_COMMUNITY_xAPI integration]]
+- 1 edge to [[_COMMUNITY_Image caching]]
+- 1 edge to [[_COMMUNITY_Network layer]]
+- 1 edge to [[_COMMUNITY_API de pagamentos]]
+- 1 edge to [[_COMMUNITY_Assinaturas e planos]]
+- 1 edge to [[_COMMUNITY_Roadmap payments]]
+- 1 edge to [[_COMMUNITY_Saldo e saques]]
+- 1 edge to [[_COMMUNITY_Tokenização de cartões]]
+- 1 edge to [[_COMMUNITY_Visão geral AIRich Pay]]
+- 1 edge to [[_COMMUNITY_Configuração de SSO]]
+- 1 edge to [[_COMMUNITY_SDK Python]]
+- 1 edge to [[_COMMUNITY_Decisao ADR-001]]
+- 1 edge to [[_COMMUNITY_Deploy v5.0.0 - CRM]]
+- 1 edge to [[_COMMUNITY_Acoes corretivas]]
+- 1 edge to [[_COMMUNITY_KB FAQ negocio]]
+- 1 edge to [[_COMMUNITY_FAQ Como crAIr account]]
+- 1 edge to [[_COMMUNITY_Blocker]]
+- 1 edge to [[_COMMUNITY_Champion]]
+- 1 edge to [[_COMMUNITY_Cliente Delta SA]]
+- 1 edge to [[_COMMUNITY_Technical buyer]]
+- 1 edge to [[_COMMUNITY_Aditivo]]
+- 1 edge to [[_COMMUNITY_Community 60]]
+- 1 edge to [[_COMMUNITY_Template SOW]]
+- 1 edge to [[_COMMUNITY_Forecast trimestral]]
+- 1 edge to [[_COMMUNITY_Win rate]]
+- 1 edge to [[_COMMUNITY_Playbook Reativacao]]
+- 1 edge to [[_COMMUNITY_Community 48]]
+- 1 edge to [[_COMMUNITY_Community 65]]
+- 1 edge to [[_COMMUNITY_Onboarding Checklist TI]]
+- 1 edge to [[_COMMUNITY_Onboarding Cultura AIRich]]
+- 1 edge to [[_COMMUNITY_Onboarding Feedback 60d]]
+- 1 edge to [[_COMMUNITY_Politica Assedio]]
+- 1 edge to [[_COMMUNITY_Politica Conflito de interesse]]
+- 1 edge to [[_COMMUNITY_Politica EPI]]
+- 1 edge to [[_COMMUNITY_Politica Equipamentos]]
+- 1 edge to [[_COMMUNITY_Politica LGPD interna]]
+- 1 edge to [[_COMMUNITY_Community 31]]
+- 1 edge to [[_COMMUNITY_Politica Redes socAIis]]
+- 1 edge to [[_COMMUNITY_Politica VoluntarAIdo]]
+- 1 edge to [[_COMMUNITY_Processo Afastamento]]
+- 1 edge to [[_COMMUNITY_Processo Interno]]
+- 1 edge to [[_COMMUNITY_Community 111]]
+- 1 edge to [[_COMMUNITY_Processo Selecao]]
+- 1 edge to [[_COMMUNITY_Processo TransferencAI]]
+- 1 edge to [[_COMMUNITY_Processo Treinamento]]
+- 1 edge to [[_COMMUNITY_NF-e Abr 2026]]
+- 1 edge to [[_COMMUNITY_Community 107]]
+- 1 edge to [[_COMMUNITY_NF-e Out 2026]]
+- 1 edge to [[_COMMUNITY_NF-e Set 2026]]
+- 1 edge to [[_COMMUNITY_AloCACao por product]]
+- 1 edge to [[_COMMUNITY_Consulting]]
+- 1 edge to [[_COMMUNITY_Infra budget]]
+- 1 edge to [[_COMMUNITY_Community 96]]
+- 1 edge to [[_COMMUNITY_Nota fiscal reembolso]]
+- 1 edge to [[_COMMUNITY_Reembolso alimentacao]]
+- 1 edge to [[_COMMUNITY_Reembolso Equipe B]]
+- 1 edge to [[_COMMUNITY_Community 62]]
+- 1 edge to [[_COMMUNITY_DRE Jan 2026]]
+- 1 edge to [[_COMMUNITY_DRE Trimestre 4]]
+- 1 edge to [[_COMMUNITY_Risco legal]]
+- 1 edge to [[_COMMUNITY_Termo de uso]]
+- 1 edge to [[_COMMUNITY_LGPD Titular request]]
+- 1 edge to [[_COMMUNITY_Campanha Evento virtual]]
+- 1 edge to [[_COMMUNITY_Campanha YouTube]]
+- 1 edge to [[_COMMUNITY_Ebook Comparativo]]
+- 1 edge to [[_COMMUNITY_Post Blog 009]]
+- 1 edge to [[_COMMUNITY_Whitepaper ROI]]
+- 1 edge to [[_COMMUNITY_Post Instagram 003]]
+- 1 edge to [[_COMMUNITY_Post Twitter 002]]
+- 1 edge to [[_COMMUNITY_Post Twitter 003]]
+- 1 edge to [[_COMMUNITY_Stories Bastidores]]
+- 1 edge to [[_COMMUNITY_Cloud RDS PostgreSQL]]
+- 1 edge to [[_COMMUNITY_Monitor Datedog]]
+- 1 edge to [[_COMMUNITY_Rede Direct connect]]
+- 1 edge to [[_COMMUNITY_Rede DNS interno]]
+- 1 edge to [[_COMMUNITY_Rede Internet gateway]]
+- 1 edge to [[_COMMUNITY_Cloud AWS conta principal]]
+- 1 edge to [[_COMMUNITY_Servidor API-02]]
+- 1 edge to [[_COMMUNITY_Servidor CAChe-01]]
+- 1 edge to [[_COMMUNITY_Servidor CAChe-02]]
+- 1 edge to [[_COMMUNITY_Servidor queue-01]]
+- 1 edge to [[_COMMUNITY_Servidor queue-02]]
+- 1 edge to [[_COMMUNITY_Servidor web-01]]
+- 1 edge to [[_COMMUNITY_Servidor web-03]]
+- 1 edge to [[_COMMUNITY_Servidor worker-01]]
+- 1 edge to [[_COMMUNITY_Script provision-db.sh]]
+- 1 edge to [[_COMMUNITY_Script transform-data.py]]
+- 1 edge to [[_COMMUNITY_Script validate-data.py]]
+- 1 edge to [[_COMMUNITY_Script check-ssl-cert.sh]]
+- 1 edge to [[_COMMUNITY_Script cost-report.py]]
+- 1 edge to [[_COMMUNITY_Script incident-report.py]]
+- 1 edge to [[_COMMUNITY_Script NPS-report.py]]
+- 1 edge to [[_COMMUNITY_Script revenue-report.py]]
+
+## Top bridge nodes
+- [[Infrastructure]] - degree 4085, connects to 397 communities
+- [[Procedure]] - degree 3840, connects to 397 communities
+- [[Language EN]] - degree 4081, connects to 394 communities
+- [[Date]] - degree 3945, connects to 389 communities
+- [[Cost optimization_3]] - degree 7, connects to 3 communities

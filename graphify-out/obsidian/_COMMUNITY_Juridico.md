@@ -1,0 +1,240 @@
+---
+type: community
+cohesion: 0.03
+members: 96
+---
+
+# Juridico
+
+**Cohesion:** 0.03 - loosely connected
+**Members:** 96 nodes
+
+## Members
+- [[Compliance SOC2_1]] - rationale - 01-produtos/security-shield-airich/compliance-soc2-0037.md
+- [[Compliance BACEN]] - document - 07-juridico/compliance/compliance-bacen-0008.md
+- [[Compliance BACEN_2]] - document - 07-juridico/compliance/compliance-bacen-0028.md
+- [[Compliance BACEN_3]] - document - 07-juridico/compliance/compliance-bacen-0048.md
+- [[Compliance BACEN_4]] - document - 07-juridico/compliance/compliance-bacen-0068.md
+- [[Compliance BACEN_7]] - document - 07-juridico/compliance/compliance-bacen-0128.md
+- [[Compliance BACEN_8]] - document - 07-juridico/compliance/compliance-bacen-0148.md
+- [[Compliance BACEN_1]] - rationale - 07-juridico/compliance/compliance-bacen-0008.md
+- [[Compliance GDPR]] - document - 07-juridico/compliance/compliance-gdpr-0002.md
+- [[Compliance GDPR_3]] - document - 07-juridico/compliance/compliance-gdpr-0042.md
+- [[Compliance GDPR_4]] - document - 07-juridico/compliance/compliance-gdpr-0062.md
+- [[Compliance GDPR_5]] - document - 07-juridico/compliance/compliance-gdpr-0082.md
+- [[Compliance GDPR_6]] - document - 07-juridico/compliance/compliance-gdpr-0102.md
+- [[Compliance GDPR_7]] - document - 07-juridico/compliance/compliance-gdpr-0122.md
+- [[Compliance GDPR_8]] - document - 07-juridico/compliance/compliance-gdpr-0142.md
+- [[Compliance GDPR_1]] - rationale - 07-juridico/compliance/compliance-gdpr-0002.md
+- [[Compliance SOC2_3]] - document - 07-juridico/compliance/compliance-soc2-0023.md
+- [[Compliance SOC2_4]] - document - 07-juridico/compliance/compliance-soc2-0043.md
+- [[Compliance SOC2_5]] - document - 07-juridico/compliance/compliance-soc2-0063.md
+- [[Compliance SOC2_6]] - document - 07-juridico/compliance/compliance-soc2-0083.md
+- [[Compliance SOC2_8]] - document - 07-juridico/compliance/compliance-soc2-0123.md
+- [[Compliance SOC2_10]] - document - 07-juridico/compliance/compliance-soc2-0163.md
+- [[Contrato internacional_2]] - document - 07-juridico/contratos/contrato-internacional-0019.md
+- [[Contrato internacional_3]] - document - 07-juridico/contratos/contrato-internacional-0040.md
+- [[Contrato internacional_6]] - document - 07-juridico/contratos/contrato-internacional-0082.md
+- [[Contrato internacional_8]] - document - 07-juridico/contratos/contrato-internacional-0103.md
+- [[Contrato internacional_11]] - document - 07-juridico/contratos/contrato-internacional-0145.md
+- [[Contrato internacional_1]] - rationale - 07-juridico/contratos/contrato-internacional-0019-en.md
+- [[Contrato Fornecedor B_15]] - document - 07-juridico/contratos/contrato-fornecedor-b-0149.md
+- [[Contrato LoCACao_6]] - document - 07-juridico/contratos/contrato-locacao-0136-en.md
+- [[Contrato LoCACao_7]] - document - 07-juridico/contratos/contrato-locacao-0157-en.md
+- [[Contrato LoCACao_1]] - rationale - 07-juridico/contratos/contrato-locacao-0010-en.md
+- [[Contrato Locacao]] - document - 07-juridico/contratos/contrato-locacao-0010.md
+- [[Contrato Locacao_1]] - document - 07-juridico/contratos/contrato-locacao-0031.md
+- [[Contrato Locacao_3]] - document - 07-juridico/contratos/contrato-locacao-0073.md
+- [[Contrato Locacao_4]] - document - 07-juridico/contratos/contrato-locacao-0094.md
+- [[Contrato Locacao_5]] - document - 07-juridico/contratos/contrato-locacao-0115.md
+- [[Contrato Locacao_6]] - document - 07-juridico/contratos/contrato-locacao-0136.md
+- [[Contrato Locacao_7]] - document - 07-juridico/contratos/contrato-locacao-0157.md
+- [[Contrato Parceiro X_7]] - document - 07-juridico/contratos/contrato-parceiro-x-0070.md
+- [[Contrato Parceiro Y_6]] - document - 07-juridico/contratos/contrato-parceiro-y-0050.md
+- [[Juridico]] - rationale - 07-juridico/compliance/aml-0017.md
+- [[LGPD Acesso a dados]] - document - 07-juridico/lgpd/lgpd-acesso-a-dados-0010.md
+- [[LGPD Acesso a dados_2]] - document - 07-juridico/lgpd/lgpd-acesso-a-dados-0030.md
+- [[LGPD Acesso a dados_5]] - document - 07-juridico/lgpd/lgpd-acesso-a-dados-0090.md
+- [[LGPD Acesso a dados_6]] - document - 07-juridico/lgpd/lgpd-acesso-a-dados-0110.md
+- [[LGPD Acesso a dados_8]] - document - 07-juridico/lgpd/lgpd-acesso-a-dados-0150.md
+- [[LGPD Acesso a dados_1]] - rationale - 07-juridico/lgpd/lgpd-acesso-a-dados-0010.md
+- [[LGPD Consentimento]] - document - 07-juridico/lgpd/lgpd-consentimento-0002.md
+- [[LGPD Consentimento_9]] - document - 07-juridico/lgpd/lgpd-consentimento-0102.md
+- [[LGPD Correcao de dados]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0011.md
+- [[LGPD Correcao de dados_2]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0031.md
+- [[LGPD Correcao de dados_3]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0051.md
+- [[LGPD Correcao de dados_4]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0071.md
+- [[LGPD Correcao de dados_5]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0091.md
+- [[LGPD Correcao de dados_6]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0111.md
+- [[LGPD Correcao de dados_7]] - document - 07-juridico/lgpd/lgpd-correcao-de-dados-0131.md
+- [[LGPD Correcao de dados_1]] - rationale - 07-juridico/lgpd/lgpd-correcao-de-dados-0011.md
+- [[LGPD Minimizacao_2]] - document - 07-juridico/lgpd/lgpd-minimizacao-0018.md
+- [[LGPD Minimizacao_3]] - document - 07-juridico/lgpd/lgpd-minimizacao-0038.md
+- [[LGPD Minimizacao_5]] - document - 07-juridico/lgpd/lgpd-minimizacao-0058.md
+- [[LGPD Minimizacao_6]] - document - 07-juridico/lgpd/lgpd-minimizacao-0078.md
+- [[LGPD Minimizacao_7]] - document - 07-juridico/lgpd/lgpd-minimizacao-0098.md
+- [[LGPD Minimizacao_12]] - document - 07-juridico/lgpd/lgpd-minimizacao-0158-en.md
+- [[LGPD Minimizacao_13]] - document - 07-juridico/lgpd/lgpd-minimizacao-0158.md
+- [[LGPD Minimizacao_1]] - rationale - 07-juridico/lgpd/lgpd-minimizacao-0018-en.md
+- [[LGPD Pseudonimizacao_2]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0015.md
+- [[LGPD Pseudonimizacao_3]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0035.md
+- [[LGPD Pseudonimizacao_8]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0095.md
+- [[LGPD Pseudonimizacao_9]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0115-en.md
+- [[LGPD Pseudonimizacao_10]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0115.md
+- [[LGPD Pseudonimizacao_12]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0135.md
+- [[LGPD Pseudonimizacao_14]] - document - 07-juridico/lgpd/lgpd-pseudonimizacao-0155.md
+- [[LGPD Pseudonimizacao_1]] - rationale - 07-juridico/lgpd/lgpd-pseudonimizacao-0015-en.md
+- [[Template Compra e venda]] - document - 07-juridico/contratos/template-compra-e-venda-0014.md
+- [[Template Compra e venda_2]] - document - 07-juridico/contratos/template-compra-e-venda-0035.md
+- [[Template Compra e venda_3]] - document - 07-juridico/contratos/template-compra-e-venda-0056.md
+- [[Template Compra e venda_4]] - document - 07-juridico/contratos/template-compra-e-venda-0077.md
+- [[Template Compra e venda_5]] - document - 07-juridico/contratos/template-compra-e-venda-0098.md
+- [[Template Compra e venda_6]] - document - 07-juridico/contratos/template-compra-e-venda-0119.md
+- [[Template Compra e venda_7]] - document - 07-juridico/contratos/template-compra-e-venda-0140.md
+- [[Template Compra e venda_1]] - rationale - 07-juridico/contratos/template-compra-e-venda-0014.md
+- [[Template Licenciamento]] - document - 07-juridico/contratos/template-licenciamento-0015.md
+- [[Template Licenciamento_3]] - document - 07-juridico/contratos/template-licenciamento-0057.md
+- [[Template Licenciamento_5]] - document - 07-juridico/contratos/template-licenciamento-0099.md
+- [[Template Licenciamento_6]] - document - 07-juridico/contratos/template-licenciamento-0120.md
+- [[Template Licenciamento_7]] - document - 07-juridico/contratos/template-licenciamento-0141.md
+- [[Template Licenciamento_8]] - document - 07-juridico/contratos/template-licenciamento-0162.md
+- [[Template Licenciamento_1]] - rationale - 07-juridico/contratos/template-licenciamento-0015.md
+- [[Template Trabalho_2]] - document - 07-juridico/contratos/template-trabalho-0018.md
+- [[Template Trabalho_4]] - document - 07-juridico/contratos/template-trabalho-0039.md
+- [[Template Trabalho_5]] - document - 07-juridico/contratos/template-trabalho-0060.md
+- [[Template Trabalho_6]] - document - 07-juridico/contratos/template-trabalho-0081.md
+- [[Template Trabalho_8]] - document - 07-juridico/contratos/template-trabalho-0102.md
+- [[Template Trabalho_10]] - document - 07-juridico/contratos/template-trabalho-0123.md
+- [[Template Trabalho_1]] - rationale - 07-juridico/contratos/template-trabalho-0018-en.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Juridico
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 136 edges to [[_COMMUNITY_Community 0]]
+- 105 edges to [[_COMMUNITY_Community 1]]
+- 86 edges to [[_COMMUNITY_Contrato Seguro]]
+- 69 edges to [[_COMMUNITY_Acoes preventivas]]
+- 68 edges to [[_COMMUNITY_Community 30]]
+- 67 edges to [[_COMMUNITY_Alert manager]]
+- 31 edges to [[_COMMUNITY_Ambiente de produção]]
+- 25 edges to [[_COMMUNITY_Community 14]]
+- 24 edges to [[_COMMUNITY_Ambiente de staging]]
+- 23 edges to [[_COMMUNITY_API security]]
+- 22 edges to [[_COMMUNITY_Community 11]]
+- 15 edges to [[_COMMUNITY_Community 24]]
+- 14 edges to [[_COMMUNITY_Community 18]]
+- 13 edges to [[_COMMUNITY_Community 20]]
+- 12 edges to [[_COMMUNITY_Community 17]]
+- 11 edges to [[_COMMUNITY_Infrastructure]]
+- 10 edges to [[_COMMUNITY_Community 31]]
+- 10 edges to [[_COMMUNITY_Community 13]]
+- 10 edges to [[_COMMUNITY_Community 23]]
+- 10 edges to [[_COMMUNITY_Engenharia]]
+- 9 edges to [[_COMMUNITY_Community 25]]
+- 9 edges to [[_COMMUNITY_Community 75]]
+- 8 edges to [[_COMMUNITY_Community 46]]
+- 6 edges to [[_COMMUNITY_Community 93]]
+- 6 edges to [[_COMMUNITY_Community 82]]
+- 6 edges to [[_COMMUNITY_Community 84]]
+- 5 edges to [[_COMMUNITY_Community 22]]
+- 5 edges to [[_COMMUNITY_Community 72]]
+- 5 edges to [[_COMMUNITY_Community 32]]
+- 5 edges to [[_COMMUNITY_Community 293]]
+- 5 edges to [[_COMMUNITY_Community 68]]
+- 5 edges to [[_COMMUNITY_Community 49]]
+- 5 edges to [[_COMMUNITY_Community 33]]
+- 5 edges to [[_COMMUNITY_PLD]]
+- 5 edges to [[_COMMUNITY_Contrato Cliente Beta]]
+- 5 edges to [[_COMMUNITY_Contrato Fornecedor C]]
+- 5 edges to [[_COMMUNITY_Architecture]]
+- 4 edges to [[_COMMUNITY_Community 80]]
+- 4 edges to [[_COMMUNITY_Community 43]]
+- 4 edges to [[_COMMUNITY_Community 65]]
+- 4 edges to [[_COMMUNITY_Community 108]]
+- 4 edges to [[_COMMUNITY_Arquitetura mobile]]
+- 4 edges to [[_COMMUNITY_Contrato Europa]]
+- 4 edges to [[_COMMUNITY_Contrato Fornecedor A]]
+- 4 edges to [[_COMMUNITY_Contrato Parceiro X]]
+- 4 edges to [[_COMMUNITY_Template Parceria]]
+- 4 edges to [[_COMMUNITY_LGPD Consentimento]]
+- 3 edges to [[_COMMUNITY_AB testing de modelos]]
+- 3 edges to [[_COMMUNITY_Community 54]]
+- 3 edges to [[_COMMUNITY_Community 317]]
+- 3 edges to [[_COMMUNITY_Community 57]]
+- 3 edges to [[_COMMUNITY_Community 52]]
+- 3 edges to [[_COMMUNITY_Community 63]]
+- 3 edges to [[_COMMUNITY_Community 96]]
+- 3 edges to [[_COMMUNITY_Community 92]]
+- 3 edges to [[_COMMUNITY_Community 106]]
+- 3 edges to [[_COMMUNITY_Auditoria compliance]]
+- 3 edges to [[_COMMUNITY_Canal de etica]]
+- 3 edges to [[_COMMUNITY_Compliance ISO27001]]
+- 3 edges to [[_COMMUNITY_Due diligence]]
+- 3 edges to [[_COMMUNITY_Termo de uso]]
+- 3 edges to [[_COMMUNITY_Contrato Cliente Gamma]]
+- 3 edges to [[_COMMUNITY_Template ConfidencAIlidade]]
+- 3 edges to [[_COMMUNITY_LGPD DPO]]
+- 3 edges to [[_COMMUNITY_LGPD Legitimo interesse]]
+- 2 edges to [[_COMMUNITY_Community 42]]
+- 2 edges to [[_COMMUNITY_Community 36]]
+- 2 edges to [[_COMMUNITY_Community 61]]
+- 2 edges to [[_COMMUNITY_Community 136]]
+- 2 edges to [[_COMMUNITY_Community 102]]
+- 2 edges to [[_COMMUNITY_Community 111]]
+- 2 edges to [[_COMMUNITY_Community 74]]
+- 2 edges to [[_COMMUNITY_Community 117]]
+- 2 edges to [[_COMMUNITY_Community 94]]
+- 2 edges to [[_COMMUNITY_Community 95]]
+- 2 edges to [[_COMMUNITY_Community 50]]
+- 2 edges to [[_COMMUNITY_Community 97]]
+- 2 edges to [[_COMMUNITY_Community 199]]
+- 2 edges to [[_COMMUNITY_Community 44]]
+- 2 edges to [[_COMMUNITY_Community 154]]
+- 2 edges to [[_COMMUNITY_Community 64]]
+- 2 edges to [[_COMMUNITY_Community 410]]
+- 2 edges to [[_COMMUNITY_Community 56]]
+- 2 edges to [[_COMMUNITY_Community 37]]
+- 2 edges to [[_COMMUNITY_Community 172]]
+- 2 edges to [[_COMMUNITY_Community 48]]
+- 2 edges to [[_COMMUNITY_Contrato Parceiro Y]]
+- 2 edges to [[_COMMUNITY_LGPD NotifiCACao ANPD]]
+- 2 edges to [[_COMMUNITY_LGPD Titular request]]
+- 1 edge to [[_COMMUNITY_Batch processing]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_AIRich AI Assistant  Produtos]]
+- 1 edge to [[_COMMUNITY_Community 40]]
+- 1 edge to [[_COMMUNITY_Community 35]]
+- 1 edge to [[_COMMUNITY_Community 137]]
+- 1 edge to [[_COMMUNITY_Community 91]]
+- 1 edge to [[_COMMUNITY_Community 277]]
+- 1 edge to [[_COMMUNITY_Community 88]]
+- 1 edge to [[_COMMUNITY_Community 73]]
+- 1 edge to [[_COMMUNITY_Community 335]]
+- 1 edge to [[_COMMUNITY_Community 124]]
+- 1 edge to [[_COMMUNITY_Community 77]]
+- 1 edge to [[_COMMUNITY_Community 71]]
+- 1 edge to [[_COMMUNITY_Community 89]]
+- 1 edge to [[_COMMUNITY_Community 122]]
+- 1 edge to [[_COMMUNITY_Community 121]]
+- 1 edge to [[_COMMUNITY_Community 79]]
+- 1 edge to [[_COMMUNITY_Community 55]]
+- 1 edge to [[_COMMUNITY_Community 210]]
+- 1 edge to [[_COMMUNITY_Community 58]]
+- 1 edge to [[_COMMUNITY_Community 81]]
+- 1 edge to [[_COMMUNITY_Community 47]]
+- 1 edge to [[_COMMUNITY_Community 123]]
+- 1 edge to [[_COMMUNITY_Community 53]]
+- 1 edge to [[_COMMUNITY_Politica de privacidade]]
+- 1 edge to [[_COMMUNITY_Contrato Fornecedor B]]
+
+## Top bridge nodes
+- [[Juridico]] - degree 554, connects to 110 communities
+- [[Contrato internacional_11]] - degree 16, connects to 10 communities
+- [[Template Compra e venda_4]] - degree 16, connects to 10 communities
+- [[Compliance SOC2_4]] - degree 14, connects to 8 communities
+- [[Contrato internacional_3]] - degree 14, connects to 8 communities

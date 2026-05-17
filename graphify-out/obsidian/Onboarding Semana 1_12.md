@@ -1,0 +1,17 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/onboarding/onboarding-semana-1-0141.md"
+type: "document"
+community: "Onboarding: Semana 1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Onboarding_Semana_1
+---
+
+# Onboarding: Semana 1
+
+## Connections
+- [[Idioma PT]] - `written_in` [EXTRACTED]
+- [[Onboarding Semana 1_1]] - `covers_topic` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Onboarding_Semana_1

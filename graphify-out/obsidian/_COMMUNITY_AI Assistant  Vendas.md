@@ -1,0 +1,378 @@
+---
+type: community
+cohesion: 0.04
+members: 91
+---
+
+# AI Assistant / Vendas
+
+**Cohesion:** 0.04 - loosely connected
+**Members:** 91 nodes
+
+## Members
+- [[Acoes preventivas_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/incidentes/acoes-preventivas-0037.md
+- [[Acoes preventivas_14]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/incidentes/acoes-preventivas-0177.md
+- [[Aditivo_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/aditivo-0100.md
+- [[Alerta Backup falhou_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/09-infraestrutura/monitoramento/alerta-backup-falhou-0034.md
+- [[Alocacao por produto_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/alocacao-por-produto-0126.md
+- [[Avaliacao Ajuste salarial_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-ajuste-salarial-0185.md
+- [[Avaliacao Bonus_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-bonus-0102.md
+- [[Avaliacao PDI criacao_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-pdi-criacao-0082.md
+- [[Avaliacao PDI criacao_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-pdi-criacao-0166.md
+- [[Avaliacao PDI criacao_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-pdi-criacao-0187.md
+- [[Avaliacao PDI criacao_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/avaliacoes/avaliacao-pdi-criacao-0019.md
+- [[Blocker_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/blocker-0102.md
+- [[Calendario editorial Jan_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/social-media/calendario-editorial-jan-0139.md
+- [[Campanha Evento presencial]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/campanhas/campanha-evento-presencial-0019.md
+- [[Campanha Evento presencial_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/campanhas/campanha-evento-presencial-0139.md
+- [[Campanha Evento presencial_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/campanhas/campanha-evento-presencial-0019.md
+- [[Campanha YouTube_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/campanhas/campanha-youtube-0076.md
+- [[Cash flow statement_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/cash-flow-statement-0054.md
+- [[Clean architecture_14]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/clean-architecture-0174.md
+- [[Cliente Iota Digital_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/cliente-iota-digital-0240.md
+- [[Compliance GDPR_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/compliance/compliance-gdpr-0042.md
+- [[Contrato Alpha Corp_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-alpha-corp-0081.md
+- [[Contrato Alpha Corp_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-alpha-corp-0181.md
+- [[Contrato Cliente Alpha_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/contratos/contrato-cliente-alpha-0025.md
+- [[Contrato Delta SA_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/contratos/contrato-delta-sa-0104.md
+- [[DRE Trimestre 1_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-trimestre-1-0007.md
+- [[DRE Trimestre 2_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/relatorios/dre-trimestre-2-0168.md
+- [[Dashboard Database_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/09-infraestrutura/monitoramento/dashboard-database-0102.md
+- [[Decisao ADR-001_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/decisao-adr-001-0064.md
+- [[Decisao ADR-001_32]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/decisao-adr-001-0364.md
+- [[Deploy v5.1.0 - CRM_35]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/deploys/deploy-v5.1.0---crm-0398.md
+- [[Diagrama de componentes_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/diagrama-de-componentes-0162.md
+- [[Discovery call_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/discovery-call-0159.md
+- [[Discovery call_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/discovery-call-0179.md
+- [[Domain-driven design_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/domain-driven-design-0153.md
+- [[Ebook Guia completo]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/conteudo/ebook-guia-completo-0011.md
+- [[Ebook Guia completo_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/conteudo/ebook-guia-completo-0131.md
+- [[Ebook Guia completo_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/conteudo/ebook-guia-completo-0011.md
+- [[Escalation matrix_23]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/incidentes/escalation-matrix-0280.md
+- [[FAQ Como configurar SSO_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-configurar-sso-0174.md
+- [[FAQ Como fazer upload_19]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-fazer-upload-0171.md
+- [[FAQ Como usar SDK_18]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-usar-sdk-0310.md
+- [[FAQ Como ver relatorios_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/faq/faq-como-ver-relatorios-0358.md
+- [[Forecast mensal_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/forecast-mensal-0028.md
+- [[GitHub Actions workflow_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/deploys/github-actions-workflow-0080.md
+- [[Imagem Rbac Permissoes]] - image - /mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/ai-assistant-airich/model-evaluation-metrics-0129.md
+- [[Imagem Topologia Rede]] - image - /mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/ai-assistant-airich/a-b-testing-de-modelos-0034.md
+- [[Imagem Uptime Mensal]] - image - /mnt/d/Dev/corp-kb-ai-benchmark/documents/01-produtos/ai-assistant-airich/confidence-scoring-0126.md
+- [[Infografico Produto_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/conteudo/infografico-produto-0036.md
+- [[LGPD Minimizacao_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/07-juridico/lgpd/lgpd-minimizacao-0098.md
+- [[Limites de reembolso_9]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/limites-de-reembolso-0138.md
+- [[Meta de vendas_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/meta-de-vendas-0050.md
+- [[Meta de vendas_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/meta-de-vendas-0070.md
+- [[Meta de vendas_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/meta-de-vendas-0110.md
+- [[Meta de vendas_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/meta-de-vendas-0010.md
+- [[Metrics collection_22]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/metrics-collection-0258.md
+- [[NF-e Jun 2026_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-jun-2026-0146.md
+- [[NF-e Mai 2026_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/notas-fiscais/nf-e-mai-2026-0025.md
+- [[NPS do cliente_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/clientes/nps-do-cliente-0146.md
+- [[Onboarding Checklist TI_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/onboarding/onboarding-checklist-ti-0066.md
+- [[Onboarding Feedback 60d]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/onboarding/onboarding-feedback-60d-0018.md
+- [[Playbook CSM_11]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-csm-0217.md
+- [[Playbook Proposta_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-proposta-0124.md
+- [[Playbook Reativacao_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-reativacao-0090.md
+- [[Playbook Sales engineer_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/playbooks/playbook-sales-engineer-0078.md
+- [[Politica Denuncias_4]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/politicas/politica-denuncias-0074.md
+- [[Politica Horario flexivel_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/politicas/politica-horario-flexivel-0142.md
+- [[Politica Seguranca_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/05-rh/politicas/politica-seguranca-0106.md
+- [[Post Blog 002_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/conteudo/post-blog-002-0102.md
+- [[Post Blog 009_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/conteudo/post-blog-009-0149.md
+- [[Post LinkedIn 001_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/social-media/post-linkedin-001-0141.md
+- [[Post Twitter 003_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/08-marketing/social-media/post-twitter-003-0086.md
+- [[Proposta Cliente Beta_6]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/proposta-cliente-beta-0102.md
+- [[Qualificacao MEDDIC_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/pipeline/qualificacao-meddic-0038.md
+- [[Reembolso transporte_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/reembolsos/reembolso-transporte-0126.md
+- [[Runbook Debug de CPU alta_15]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-debug-de-cpu-alta-0293.md
+- [[Runbook Escala horizontal_10]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-escala-horizontal-0183.md
+- [[Runbook Limpeza de cache_5]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-limpeza-de-cache-0125.md
+- [[Runbook Limpeza de cache_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-limpeza-de-cache-0225.md
+- [[SLA proposto_8]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/sla-proposto-0158.md
+- [[SLA proposto_12]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/04-vendas/propostas/sla-proposto-0238.md
+- [[Script check-disk-usage.sh_2]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/diagnostico/script-check-disk-usage.sh-0023.md
+- [[Script check-k8s-pods.sh]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/diagnostico/script-check-k8s-pods.sh-0010.md
+- [[Script check-k8s-pods.sh_3]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/diagnostico/script-check-k8s-pods.sh-0050.md
+- [[Script check-k8s-pods.sh_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/diagnostico/script-check-k8s-pods.sh-0010.md
+- [[Script db-migrate.sh]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/deploy/script-db-migrate.sh-0014.md
+- [[Script db-rollback.sh]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/deploy/script-db-rollback.sh-0015.md
+- [[Script db-rollback.sh_1]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/10-scripts/deploy/script-db-rollback.sh-0015.md
+- [[TKT-2026-0011 Mobile crash_13]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/03-suporte/tickets/tkt-2026-0011-mobile-crash-0031.md
+- [[Training budget_7]] - document - /mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/orcamento/training-budget-0074.md
+- [[Data 2026-03-18]] - rationale - /mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/arquitetura/diagrama-de-componentes-0102.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/AI_Assistant_/_Vendas
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 311 edges to [[_COMMUNITY_CRM  Vendas]]
+- 181 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 121 edges to [[_COMMUNITY_CRM  Produtos]]
+- 102 edges to [[_COMMUNITY_Mobile  Vendas]]
+- 98 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 86 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 85 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 70 edges to [[_COMMUNITY_Plataforma  Produtos]]
+- 58 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 51 edges to [[_COMMUNITY_Analytics  Produtos]]
+- 44 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 36 edges to [[_COMMUNITY_Infraestrutura]]
+- 34 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 29 edges to [[_COMMUNITY_Plataforma  Engenharia]]
+- 29 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 29 edges to [[_COMMUNITY_Vendas]]
+- 28 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 26 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 25 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 22 edges to [[_COMMUNITY_AI Assistant  Engenharia]]
+- 19 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 18 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 16 edges to [[_COMMUNITY_AI Assistant  Produtos]]
+- 14 edges to [[_COMMUNITY_Plataforma  Engenharia]]
+- 12 edges to [[_COMMUNITY_Mobile  Suporte]]
+- 11 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 10 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 10 edges to [[_COMMUNITY_Engenharia]]
+- 10 edges to [[_COMMUNITY_Analytics  Infraestrutura]]
+- 8 edges to [[_COMMUNITY_Engenharia]]
+- 8 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 8 edges to [[_COMMUNITY_Mobile  Engenharia]]
+- 8 edges to [[_COMMUNITY_Analytics  Infraestrutura]]
+- 6 edges to [[_COMMUNITY_API Gateway  Engenharia]]
+- 6 edges to [[_COMMUNITY_Engenharia]]
+- 6 edges to [[_COMMUNITY_Engenharia]]
+- 6 edges to [[_COMMUNITY_Engenharia]]
+- 6 edges to [[_COMMUNITY_Infraestrutura]]
+- 6 edges to [[_COMMUNITY_Engenharia]]
+- 6 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 5 edges to [[_COMMUNITY_Pay  Produtos]]
+- 5 edges to [[_COMMUNITY_Suporte]]
+- 5 edges to [[_COMMUNITY_Engenharia]]
+- 4 edges to [[_COMMUNITY_Engenharia]]
+- 4 edges to [[_COMMUNITY_Engenharia]]
+- 4 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 4 edges to [[_COMMUNITY_Engenharia]]
+- 4 edges to [[_COMMUNITY_Suporte]]
+- 4 edges to [[_COMMUNITY_Mobile  Produtos]]
+- 3 edges to [[_COMMUNITY_CRM  Produtos]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Suporte]]
+- 3 edges to [[_COMMUNITY_Analytics  Engenharia]]
+- 3 edges to [[_COMMUNITY_Avaliacao Ciclo 2026-1]]
+- 3 edges to [[_COMMUNITY_Engenharia]]
+- 3 edges to [[_COMMUNITY_Reembolso Equipe B]]
+- 3 edges to [[_COMMUNITY_Contrato Cliente Alpha]]
+- 3 edges to [[_COMMUNITY_Calendario editorial Jan]]
+- 2 edges to [[_COMMUNITY_Analytics  Produtos]]
+- 2 edges to [[_COMMUNITY_CRM  Produtos]]
+- 2 edges to [[_COMMUNITY_DevOps Suite  Engenharia]]
+- 2 edges to [[_COMMUNITY_Edu  Produtos]]
+- 2 edges to [[_COMMUNITY_Pay  Produtos]]
+- 2 edges to [[_COMMUNITY_Pay  Produtos]]
+- 2 edges to [[_COMMUNITY_Produtos]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Suporte]]
+- 2 edges to [[_COMMUNITY_CRM  Engenharia]]
+- 2 edges to [[_COMMUNITY_CRM  Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_CRM  Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Avaliacao Ajuste salarial]]
+- 2 edges to [[_COMMUNITY_Avaliacao Competencias]]
+- 2 edges to [[_COMMUNITY_Avaliacao Meritocracia]]
+- 2 edges to [[_COMMUNITY_Onboarding Feedback 60d]]
+- 2 edges to [[_COMMUNITY_Onboarding Mes 2]]
+- 2 edges to [[_COMMUNITY_Processo Ferias]]
+- 2 edges to [[_COMMUNITY_AloCACao por product]]
+- 2 edges to [[_COMMUNITY_CAPEX]]
+- 2 edges to [[_COMMUNITY_OPEX]]
+- 2 edges to [[_COMMUNITY_Recibo]]
+- 2 edges to [[_COMMUNITY_DRE Jun 2026]]
+- 2 edges to [[_COMMUNITY_Community 192]]
+- 2 edges to [[_COMMUNITY_LGPD Consentimento]]
+- 2 edges to [[_COMMUNITY_Campanha Lancamento v3.0]]
+- 2 edges to [[_COMMUNITY_Campanha Referencia Beta]]
+- 2 edges to [[_COMMUNITY_Ebook Comparativo]]
+- 2 edges to [[_COMMUNITY_Whitepaper Tendencias]]
+- 2 edges to [[_COMMUNITY_Post LinkedIn 002]]
+- 2 edges to [[_COMMUNITY_Post Twitter 003]]
+- 2 edges to [[_COMMUNITY_Infraestrutura]]
+- 2 edges to [[_COMMUNITY_Script check-nginx.sh]]
+- 2 edges to [[_COMMUNITY_Script cost-report.py]]
+- 2 edges to [[_COMMUNITY_Script nps-report.py]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Engenharia]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 2 edges to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_AI Assistant  Produtos]]
+- 1 edge to [[_COMMUNITY_API Gateway  Produtos]]
+- 1 edge to [[_COMMUNITY_CRM  Produtos]]
+- 1 edge to [[_COMMUNITY_CRM  Produtos]]
+- 1 edge to [[_COMMUNITY_CRM  Produtos]]
+- 1 edge to [[_COMMUNITY_DevOps Suite  Produtos]]
+- 1 edge to [[_COMMUNITY_Edu  Produtos]]
+- 1 edge to [[_COMMUNITY_Edu  Produtos]]
+- 1 edge to [[_COMMUNITY_Edu  Produtos]]
+- 1 edge to [[_COMMUNITY_Mobile  Produtos]]
+- 1 edge to [[_COMMUNITY_Mobile  Produtos]]
+- 1 edge to [[_COMMUNITY_Pay  Produtos]]
+- 1 edge to [[_COMMUNITY_Plataforma  Produtos]]
+- 1 edge to [[_COMMUNITY_Plataforma  Produtos]]
+- 1 edge to [[_COMMUNITY_Plataforma  Produtos]]
+- 1 edge to [[_COMMUNITY_Produtos]]
+- 1 edge to [[_COMMUNITY_Produtos]]
+- 1 edge to [[_COMMUNITY_Produtos]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Avaliacao Calibracao]]
+- 1 edge to [[_COMMUNITY_Avaliacao Comportamental]]
+- 1 edge to [[_COMMUNITY_Avaliacao Promocao]]
+- 1 edge to [[_COMMUNITY_Avaliacao Tecnica]]
+- 1 edge to [[_COMMUNITY_Onboarding Mes 1]]
+- 1 edge to [[_COMMUNITY_Politica Presentes]]
+- 1 edge to [[_COMMUNITY_Politica Redes sociais]]
+- 1 edge to [[_COMMUNITY_Politica Reembolso]]
+- 1 edge to [[_COMMUNITY_Politica Uso de internet]]
+- 1 edge to [[_COMMUNITY_Processo Disciplinar]]
+- 1 edge to [[_COMMUNITY_Processo Selecao]]
+- 1 edge to [[_COMMUNITY_NF-e Abr 2026]]
+- 1 edge to [[_COMMUNITY_NF-e Importacao]]
+- 1 edge to [[_COMMUNITY_NF-e Jul 2026]]
+- 1 edge to [[_COMMUNITY_NF-e Set 2026]]
+- 1 edge to [[_COMMUNITY_AloCACao por department]]
+- 1 edge to [[_COMMUNITY_Reserva estrategica]]
+- 1 edge to [[_COMMUNITY_Software licenses]]
+- 1 edge to [[_COMMUNITY_Nota fiscal reembolso]]
+- 1 edge to [[_COMMUNITY_Politica de reembolso]]
+- 1 edge to [[_COMMUNITY_DRE Anual 2026]]
+- 1 edge to [[_COMMUNITY_DRE Trimestre 3]]
+- 1 edge to [[_COMMUNITY_ROI por produto]]
+- 1 edge to [[_COMMUNITY_Auditoria compliance]]
+- 1 edge to [[_COMMUNITY_Compliance Marco Civil]]
+- 1 edge to [[_COMMUNITY_Politica de compliance]]
+- 1 edge to [[_COMMUNITY_Programa de integridade]]
+- 1 edge to [[_COMMUNITY_Template ConfidencAIlidade]]
+- 1 edge to [[_COMMUNITY_Template Parceria]]
+- 1 edge to [[_COMMUNITY_LGPD Anonimizacao]]
+- 1 edge to [[_COMMUNITY_LGPD Base legal]]
+- 1 edge to [[_COMMUNITY_LGPD Legitimo interesse]]
+- 1 edge to [[_COMMUNITY_LGPD Pseudonimizacao]]
+- 1 edge to [[_COMMUNITY_LGPD Titular request]]
+- 1 edge to [[_COMMUNITY_Campanha Email nurturing]]
+- 1 edge to [[_COMMUNITY_Video Tutorial]]
+- 1 edge to [[_COMMUNITY_Whitepaper ROI]]
+- 1 edge to [[_COMMUNITY_Post Facebook 001]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Analytics  Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Script export-data.py]]
+- 1 edge to [[_COMMUNITY_Community 659]]
+- 1 edge to [[_COMMUNITY_Script check-memory.sh]]
+- 1 edge to [[_COMMUNITY_Community 660]]
+- 1 edge to [[_COMMUNITY_Community 661]]
+- 1 edge to [[_COMMUNITY_AI Assistant  Produtos]]
+- 1 edge to [[_COMMUNITY_AI Assistant  Produtos]]
+- 1 edge to [[_COMMUNITY_Community 655]]
+- 1 edge to [[_COMMUNITY_Analytics  Produtos]]
+- 1 edge to [[_COMMUNITY_AI Assistant  Produtos]]
+- 1 edge to [[_COMMUNITY_Mobile  Produtos]]
+- 1 edge to [[_COMMUNITY_Mobile  Produtos]]
+- 1 edge to [[_COMMUNITY_Pay  Produtos]]
+- 1 edge to [[_COMMUNITY_Produtos]]
+- 1 edge to [[_COMMUNITY_Community 627]]
+- 1 edge to [[_COMMUNITY_LGPD Incidentes]]
+- 1 edge to [[_COMMUNITY_AI Assistant  Produtos]]
+- 1 edge to [[_COMMUNITY_Edu  Produtos]]
+- 1 edge to [[_COMMUNITY_Pay  Produtos]]
+- 1 edge to [[_COMMUNITY_Mobile  Engenharia]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Politica Anticorrupcao]]
+- 1 edge to [[_COMMUNITY_Politica Diversidade]]
+- 1 edge to [[_COMMUNITY_Processo Afastamento]]
+- 1 edge to [[_COMMUNITY_Processo Promocao]]
+- 1 edge to [[_COMMUNITY_NF-e Mar 2026]]
+- 1 edge to [[_COMMUNITY_Estorno]]
+- 1 edge to [[_COMMUNITY_Contrato Seguro]]
+- 1 edge to [[_COMMUNITY_LGPD Compartilhamento]]
+- 1 edge to [[_COMMUNITY_Post Blog 004]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_Engenharia]]
+- 1 edge to [[_COMMUNITY_Orcamento 2027]]
+- 1 edge to [[_COMMUNITY_Infraestrutura]]
+- 1 edge to [[_COMMUNITY_CRM  Engenharia]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Suporte]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Vendas]]
+- 1 edge to [[_COMMUNITY_Avaliacao Bonus]]
+- 1 edge to [[_COMMUNITY_Onboarding Checklist TI]]
+- 1 edge to [[_COMMUNITY_Politica Denuncias]]
+- 1 edge to [[_COMMUNITY_Politica Horario flexivel]]
+- 1 edge to [[_COMMUNITY_Seguranca]]
+- 1 edge to [[_COMMUNITY_DRE Trimestre 1]]
+- 1 edge to [[_COMMUNITY_Compliance GDPR]]
+- 1 edge to [[_COMMUNITY_LGPD Minimizacao]]
+- 1 edge to [[_COMMUNITY_Infografico Produto]]
+- 1 edge to [[_COMMUNITY_Post Blog 002]]
+- 1 edge to [[_COMMUNITY_Post Blog 009]]
+- 1 edge to [[_COMMUNITY_Post LinkedIn 001]]
+- 1 edge to [[_COMMUNITY_Community 605]]
+
+## Top bridge nodes
+- [[Imagem Topologia Rede]] - degree 962, connects to 196 communities
+- [[Imagem Rbac Permissoes]] - degree 181, connects to 64 communities
+- [[Imagem Uptime Mensal]] - degree 119, connects to 39 communities
+- [[Data 2026-03-18]] - degree 43, connects to 18 communities
+- [[FAQ Como configurar SSO_19]] - degree 20, connects to 11 communities

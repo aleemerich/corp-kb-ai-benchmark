@@ -1,0 +1,25 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/06-financeiro/en/notas-fiscais/nf-e-fev-2026-0022.md"
+type: "rationale"
+community: "NF-e: Fev 2026"
+tags:
+  - graphify/rationale
+  - graphify/EXTRACTED
+  - community/NF-e_Fev_2026
+---
+
+# NF-e: Fev 2026
+
+## Connections
+- [[NF-e Fev 2026]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_2]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_3]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_4]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_5]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_6]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_7]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_8]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_9]] - `covers_topic` [EXTRACTED]
+- [[NF-e Fev 2026_10]] - `covers_topic` [EXTRACTED]
+
+#graphify/rationale #graphify/EXTRACTED #community/NF-e_Fev_2026

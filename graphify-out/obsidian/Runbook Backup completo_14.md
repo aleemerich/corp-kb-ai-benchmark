@@ -1,0 +1,24 @@
+---
+source_file: "/mnt/d/Dev/corp-kb-ai-benchmark/documents/02-engenharia/runbooks/runbook-backup-completo-0168.md"
+type: "document"
+community: "AI Assistant / Engenharia"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Assistant_/_Engenharia
+---
+
+# Runbook: Backup completo
+
+## Connections
+- [[0.1%]] - `measures` [EXTRACTED]
+- [[Disponibilidade]] - `measures` [EXTRACTED]
+- [[Engenharia]] - `about_product` [EXTRACTED]
+- [[Idioma PT]] - `written_in` [EXTRACTED]
+- [[Infraestrutura]] - `has_section` [EXTRACTED]
+- [[Procedimento]] - `has_section` [EXTRACTED]
+- [[Runbook Backup completo_1]] - `covers_topic` [EXTRACTED]
+- [[Visão Geral]] - `has_section` [EXTRACTED]
+- [[Data 2026-06-28]] - `belongs_to_dept` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_Assistant_/_Engenharia

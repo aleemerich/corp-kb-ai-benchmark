@@ -1,0 +1,690 @@
+---
+type: community
+cohesion: 0.02
+members: 128
+---
+
+# Alert manager
+
+**Cohesion:** 0.02 - loosely connected
+**Members:** 128 nodes
+
+## Members
+- [[API REST documentação_2]] - document - 01-produtos/plataforma-airich/api-rest-documentação-0111.md
+- [[API REST documentação_1]] - rationale - 01-produtos/plataforma-airich/api-rest-documentação-0013.md
+- [[Alert manager_2]] - document - 01-produtos/devops-suite-airich/alert-manager-0063.md
+- [[Alert manager_3]] - document - 01-produtos/devops-suite-airich/alert-manager-0108.md
+- [[Alert manager_1]] - rationale - 01-produtos/devops-suite-airich/alert-manager-0018.md
+- [[Analytics de uso]] - document - 01-produtos/mobile-airich/analytics-de-uso-0025.md
+- [[Analytics de uso_2]] - document - 01-produtos/mobile-airich/analytics-de-uso-0075.md
+- [[Analytics de uso_1]] - rationale - 01-produtos/mobile-airich/analytics-de-uso-0025.md
+- [[Biblioteca digital_4]] - document - 01-produtos/edu-airich/biblioteca-digital-0150.md
+- [[CSP headers_2]] - document - 01-produtos/security-shield-airich/csp-headers-0061.md
+- [[CSP headers_3]] - document - 01-produtos/security-shield-airich/csp-headers-0106.md
+- [[CSP headers_1]] - rationale - 01-produtos/security-shield-airich/csp-headers-0016.md
+- [[Campaign management_2]] - document - 01-produtos/crm-airich/campaign-management-0074.md
+- [[Certificados digitais_2]] - document - 01-produtos/edu-airich/certificados-digitais-0050.md
+- [[Changelog v2.0]] - document - 01-produtos/ai-assistant-airich/changelog-v2.0-0046.md
+- [[Changelog v2.0_2]] - document - 01-produtos/ai-assistant-airich/changelog-v2.0-0094.md
+- [[Changelog v2.0_6]] - document - 01-produtos/api-gateway-airich/changelog-v2.0-0020.md
+- [[Changelog v2.0_7]] - document - 01-produtos/api-gateway-airich/changelog-v2.0-0071.md
+- [[Changelog v2.0_8]] - document - 01-produtos/api-gateway-airich/changelog-v2.0-0122.md
+- [[Changelog v2.0_12]] - document - 01-produtos/pay-airich/changelog-v2.0-0088.md
+- [[Changelog v2.0_1]] - rationale - 01-produtos/ai-assistant-airich/changelog-v2.0-0046.md
+- [[Changelog v2.1_3]] - document - 01-produtos/api-gateway-airich/changelog-v2.1-0123.md
+- [[Changelog v4.0_2]] - document - 01-produtos/mobile-airich/changelog-v4.0-0095.md
+- [[Chaos engineering_2]] - document - 01-produtos/devops-suite-airich/chaos-engineering-0113.md
+- [[Chaos engineering_1]] - rationale - 01-produtos/devops-suite-airich/chaos-engineering-0023.md
+- [[Coaching tools_2]] - document - 01-produtos/crm-airich/coaching-tools-0081.md
+- [[Coaching tools_3]] - document - 01-produtos/crm-airich/coaching-tools-0126.md
+- [[Coaching tools_1]] - rationale - 01-produtos/crm-airich/coaching-tools-0036.md
+- [[Code review checklist_2]] - document - 01-produtos/mobile-airich/code-review-checklist-0099.md
+- [[Code review checklist_3]] - document - 01-produtos/mobile-airich/code-review-checklist-0149.md
+- [[Code review checklist_1]] - rationale - 01-produtos/mobile-airich/code-review-checklist-0049.md
+- [[Confidence scoring]] - document - 01-produtos/ai-assistant-airich/confidence-scoring-0030.md
+- [[Confidence scoring_1]] - rationale - 01-produtos/ai-assistant-airich/confidence-scoring-0030.md
+- [[Cost optimization]] - document - 01-produtos/ai-assistant-airich/cost-optimization-0035.md
+- [[Cost optimization_2]] - document - 01-produtos/ai-assistant-airich/cost-optimization-0131.md
+- [[Cost optimization_1]] - rationale - 01-produtos/ai-assistant-airich/cost-optimization-0035.md
+- [[Dashboard principal_2]] - document - 01-produtos/plataforma-airich/dashboard-principal-0103.md
+- [[Dashboard principal_1]] - rationale - 01-produtos/plataforma-airich/dashboard-principal-0005.md
+- [[Decisao ADR-001_6]] - document - 02-engenharia/arquitetura/decisao-adr-001-0064.md
+- [[Deep linking]] - document - 01-produtos/mobile-airich/deep-linking-0009.md
+- [[Deep linking_2]] - document - 01-produtos/mobile-airich/deep-linking-0059.md
+- [[Deep linking_3]] - document - 01-produtos/mobile-airich/deep-linking-0109.md
+- [[Deep linking_1]] - rationale - 01-produtos/mobile-airich/deep-linking-0009.md
+- [[Email tracking]] - document - 01-produtos/crm-airich/email-tracking-0014.md
+- [[Extrato de transações_3]] - document - 01-produtos/pay-airich/extrato-de-transações-0104.md
+- [[FAQ técnico_3]] - document - 01-produtos/plataforma-airich/faq-técnico-0125.md
+- [[Feedback contínuo]] - document - 01-produtos/edu-airich/feedback-contínuo-0038.md
+- [[Feedback contínuo_3]] - document - 01-produtos/edu-airich/feedback-contínuo-0122.md
+- [[Feedback contínuo_1]] - rationale - 01-produtos/edu-airich/feedback-contínuo-0038.md
+- [[Firewall rules]] - document - 01-produtos/security-shield-airich/firewall-rules-0030.md
+- [[Firewall rules_1]] - rationale - 01-produtos/security-shield-airich/firewall-rules-0030.md
+- [[Gestão de leads]] - document - 01-produtos/crm-airich/gestão-de-leads-0003.md
+- [[Gestão de leads_2]] - document - 01-produtos/crm-airich/gestão-de-leads-0048.md
+- [[Gestão de leads_3]] - document - 01-produtos/crm-airich/gestão-de-leads-0093.md
+- [[Gestão de leads_4]] - document - 01-produtos/crm-airich/gestão-de-leads-0138.md
+- [[Gestão de leads_1]] - rationale - 01-produtos/crm-airich/gestão-de-leads-0003.md
+- [[HSTS configuration]] - document - 01-produtos/security-shield-airich/hsts-configuration-0015.md
+- [[HSTS configuration_1]] - rationale - 01-produtos/security-shield-airich/hsts-configuration-0015.md
+- [[Headcount budget_11]] - document - 06-financeiro/orcamento/headcount-budget-0069.md
+- [[Image uptime-mensal.png]] - image - 01-produtos/ai-assistant-airich/confidence-scoring-0126.md
+- [[Incident response plan]] - document - 01-produtos/security-shield-airich/incident-response-plan-0034.md
+- [[Incident response plan_1]] - rationale - 01-produtos/security-shield-airich/incident-response-plan-0034.md
+- [[Internacionalização i18n_3]] - document - 01-produtos/mobile-airich/internacionalização-i18n-0116.md
+- [[ML models em produção]] - document - 01-produtos/analytics-airich/ml-models-em-produção-0024.md
+- [[ML models em produção_2]] - document - 01-produtos/analytics-airich/ml-models-em-produção-0075.md
+- [[ML models em produção_3]] - document - 01-produtos/analytics-airich/ml-models-em-produção-0126.md
+- [[ML models em produção_1]] - rationale - 01-produtos/analytics-airich/ml-models-em-produção-0024.md
+- [[Módulo de autenticação]] - document - 01-produtos/plataforma-airich/módulo-de-autenticação-0003.md
+- [[Módulo de billing]] - document - 01-produtos/plataforma-airich/módulo-de-billing-0011.md
+- [[Módulo de billing_3]] - document - 01-produtos/plataforma-airich/módulo-de-billing-0109.md
+- [[Módulo de billing_1]] - rationale - 01-produtos/plataforma-airich/módulo-de-billing-0011.md
+- [[Módulo de perfil]] - document - 01-produtos/mobile-airich/módulo-de-perfil-0013.md
+- [[Módulo de templates]] - document - 01-produtos/plataforma-airich/módulo-de-templates-0033.md
+- [[Módulo de templates_2]] - document - 01-produtos/plataforma-airich/módulo-de-templates-0082.md
+- [[Módulo de templates_3]] - document - 01-produtos/plataforma-airich/módulo-de-templates-0131.md
+- [[Módulo de templates_1]] - rationale - 01-produtos/plataforma-airich/módulo-de-templates-0033.md
+- [[Pipeline de vendas]] - document - 01-produtos/crm-airich/pipeline-de-vendas-0002.md
+- [[Pipeline de vendas_4]] - document - 01-produtos/crm-airich/pipeline-de-vendas-0137.md
+- [[Pipeline de vendas_1]] - rationale - 01-produtos/crm-airich/pipeline-de-vendas-0002.md
+- [[Politica Saude mental_9]] - document - 05-rh/politicas/politica-saude-mental-0098.md
+- [[Pricing table]] - document - 01-produtos/pay-airich/pricing-table-0028.md
+- [[Pricing table_3]] - document - 01-produtos/pay-airich/pricing-table-0118.md
+- [[Pricing table_1]] - rationale - 01-produtos/pay-airich/pricing-table-0028.md
+- [[Procedimento]] - rationale - 01-produtos/ai-assistant-airich/a-b-testing-de-modelos-0034.md
+- [[Prometheus setup]] - document - 01-produtos/devops-suite-airich/prometheus-setup-0012.md
+- [[Prometheus setup_2]] - document - 01-produtos/devops-suite-airich/prometheus-setup-0057.md
+- [[Prometheus setup_3]] - document - 01-produtos/devops-suite-airich/prometheus-setup-0102.md
+- [[Prometheus setup_1]] - rationale - 01-produtos/devops-suite-airich/prometheus-setup-0012.md
+- [[Proposta Cliente Beta_6]] - document - 04-vendas/propostas/proposta-cliente-beta-0102.md
+- [[Push notifications]] - document - 01-produtos/mobile-airich/push-notifications-0008.md
+- [[Push notifications_2]] - document - 01-produtos/mobile-airich/push-notifications-0058.md
+- [[Push notifications_3]] - document - 01-produtos/mobile-airich/push-notifications-0108.md
+- [[Push notifications_1]] - rationale - 01-produtos/mobile-airich/push-notifications-0008.md
+- [[Quota management_3]] - document - 01-produtos/crm-airich/quota-management-0122.md
+- [[RLHF process_3]] - document - 01-produtos/ai-assistant-airich/rlhf-process-0128.md
+- [[Rate limiting AI_2]] - document - 01-produtos/ai-assistant-airich/rate-limiting-ai-0085.md
+- [[Real-time analytics_3]] - document - 01-produtos/analytics-airich/real-time-analytics-0136.md
+- [[Relatórios fiscais_2]] - document - 01-produtos/pay-airich/relatórios-fiscais-0060.md
+- [[Response caching_2]] - document - 01-produtos/api-gateway-airich/response-caching-0078.md
+- [[Retry policies]] - document - 01-produtos/api-gateway-airich/retry-policies-0010.md
+- [[Retry policies_2]] - document - 01-produtos/api-gateway-airich/retry-policies-0061.md
+- [[Retry policies_3]] - document - 01-produtos/api-gateway-airich/retry-policies-0112.md
+- [[Retry policies_1]] - rationale - 01-produtos/api-gateway-airich/retry-policies-0010.md
+- [[Roadmap Q3 2026]] - document - 01-produtos/plataforma-airich/roadmap-q3-2026-0020.md
+- [[Roadmap Q3 2026_2]] - document - 01-produtos/plataforma-airich/roadmap-q3-2026-0069.md
+- [[Roadmap Q3 2026_1]] - rationale - 01-produtos/plataforma-airich/roadmap-q3-2026-0020.md
+- [[Roadmap Q4 2026_3]] - document - 01-produtos/plataforma-airich/roadmap-q4-2026-0119.md
+- [[SDK JavaScript]] - document - 01-produtos/plataforma-airich/sdk-javascript-0014.md
+- [[SDK de pagamentos_2]] - document - 01-produtos/pay-airich/sdk-de-pagamentos-0065.md
+- [[SLA definição]] - document - 01-produtos/plataforma-airich/sla-definição-0048.md
+- [[SLA definição_2]] - document - 01-produtos/plataforma-airich/sla-definição-0097.md
+- [[Secure storage_3]] - document - 01-produtos/mobile-airich/secure-storage-0134.md
+- [[Security audit_2]] - document - 01-produtos/security-shield-airich/security-audit-0126.md
+- [[Sessões ao vivo]] - document - 01-produtos/edu-airich/sessões-ao-vivo-0020.md
+- [[Sessões ao vivo_2]] - document - 01-produtos/edu-airich/sessões-ao-vivo-0062.md
+- [[Sessões ao vivo_3]] - document - 01-produtos/edu-airich/sessões-ao-vivo-0104.md
+- [[Sessões ao vivo_4]] - document - 01-produtos/edu-airich/sessões-ao-vivo-0146.md
+- [[Sessões ao vivo_1]] - rationale - 01-produtos/edu-airich/sessões-ao-vivo-0020.md
+- [[Sistema de webhooks]] - document - 01-produtos/plataforma-airich/sistema-de-webhooks-0012.md
+- [[Star schema design]] - document - 01-produtos/analytics-airich/star-schema-design-0006.md
+- [[Star schema design_2]] - document - 01-produtos/analytics-airich/star-schema-design-0057.md
+- [[Star schema design_1]] - rationale - 01-produtos/analytics-airich/star-schema-design-0006.md
+- [[Testes E2E com Detox]] - document - 01-produtos/mobile-airich/testes-e2e-com-detox-0019.md
+- [[Wallet system_4]] - document - 01-produtos/pay-airich/en/wallet-system-0024.md
+- [[Wallet system]] - document - 01-produtos/pay-airich/wallet-system-0024.md
+- [[Wallet system_2]] - document - 01-produtos/pay-airich/wallet-system-0069.md
+- [[Wallet system_3]] - document - 01-produtos/pay-airich/wallet-system-0114.md
+- [[Wallet system_1]] - rationale - 01-produtos/pay-airich/wallet-system-0024.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Alert_manager
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 1618 edges to [[_COMMUNITY_Community 0]]
+- 640 edges to [[_COMMUNITY_AIRich AI Assistant  Produtos]]
+- 387 edges to [[_COMMUNITY_Community 1]]
+- 145 edges to [[_COMMUNITY_Community 30]]
+- 118 edges to [[_COMMUNITY_Acoes preventivas]]
+- 106 edges to [[_COMMUNITY_Contrato Seguro]]
+- 75 edges to [[_COMMUNITY_Vendas]]
+- 74 edges to [[_COMMUNITY_Ambiente de produção]]
+- 73 edges to [[_COMMUNITY_Community 14]]
+- 71 edges to [[_COMMUNITY_Engenharia]]
+- 70 edges to [[_COMMUNITY_Community 11]]
+- 69 edges to [[_COMMUNITY_Community 17]]
+- 67 edges to [[_COMMUNITY_Juridico]]
+- 62 edges to [[_COMMUNITY_Community 13]]
+- 57 edges to [[_COMMUNITY_Community 25]]
+- 54 edges to [[_COMMUNITY_Community 18]]
+- 52 edges to [[_COMMUNITY_RH]]
+- 50 edges to [[_COMMUNITY_Financeiro]]
+- 47 edges to [[_COMMUNITY_Suporte]]
+- 47 edges to [[_COMMUNITY_Community 20]]
+- 44 edges to [[_COMMUNITY_Infraestrutura]]
+- 42 edges to [[_COMMUNITY_Ambiente de staging]]
+- 42 edges to [[_COMMUNITY_Community 31]]
+- 41 edges to [[_COMMUNITY_Batch processing]]
+- 41 edges to [[_COMMUNITY_Community 22]]
+- 40 edges to [[_COMMUNITY_API security]]
+- 39 edges to [[_COMMUNITY_Community 24]]
+- 38 edges to [[_COMMUNITY_Community 32]]
+- 38 edges to [[_COMMUNITY_Community 23]]
+- 36 edges to [[_COMMUNITY_Community 33]]
+- 34 edges to [[_COMMUNITY_Community 35]]
+- 33 edges to [[_COMMUNITY_Community 36]]
+- 33 edges to [[_COMMUNITY_Marketing]]
+- 29 edges to [[_COMMUNITY_Community 43]]
+- 28 edges to [[_COMMUNITY_Community 41]]
+- 28 edges to [[_COMMUNITY_Community 37]]
+- 27 edges to [[_COMMUNITY_Infrastructure]]
+- 26 edges to [[_COMMUNITY_AB testing de modelos]]
+- 26 edges to [[_COMMUNITY_Community 44]]
+- 26 edges to [[_COMMUNITY_Community 42]]
+- 25 edges to [[_COMMUNITY_Architecture]]
+- 25 edges to [[_COMMUNITY_Community 50]]
+- 24 edges to [[_COMMUNITY_Community 46]]
+- 23 edges to [[_COMMUNITY_Deploy v2.0.1 - AI Assistant]]
+- 23 edges to [[_COMMUNITY_Community 54]]
+- 23 edges to [[_COMMUNITY_Community 40]]
+- 22 edges to [[_COMMUNITY_Community 48]]
+- 21 edges to [[_COMMUNITY_Community 47]]
+- 21 edges to [[_COMMUNITY_Scripts]]
+- 20 edges to [[_COMMUNITY_Arquitetura mobile]]
+- 19 edges to [[_COMMUNITY_Community 52]]
+- 19 edges to [[_COMMUNITY_Cloud AWS conta principal]]
+- 18 edges to [[_COMMUNITY_Community 49]]
+- 18 edges to [[_COMMUNITY_Community 53]]
+- 17 edges to [[_COMMUNITY_Community 55]]
+- 17 edges to [[_COMMUNITY_Community 61]]
+- 16 edges to [[_COMMUNITY_Community 56]]
+- 16 edges to [[_COMMUNITY_Community 58]]
+- 16 edges to [[_COMMUNITY_Community 65]]
+- 15 edges to [[_COMMUNITY_Community 59]]
+- 15 edges to [[_COMMUNITY_Community 64]]
+- 15 edges to [[_COMMUNITY_Community 68]]
+- 15 edges to [[_COMMUNITY_Community 73]]
+- 14 edges to [[_COMMUNITY_Community 57]]
+- 14 edges to [[_COMMUNITY_Community 84]]
+- 14 edges to [[_COMMUNITY_Community 75]]
+- 14 edges to [[_COMMUNITY_Community 93]]
+- 13 edges to [[_COMMUNITY_Community 79]]
+- 13 edges to [[_COMMUNITY_Community 82]]
+- 13 edges to [[_COMMUNITY_Community 72]]
+- 13 edges to [[_COMMUNITY_Community 97]]
+- 13 edges to [[_COMMUNITY_Community 103]]
+- 12 edges to [[_COMMUNITY_Community 63]]
+- 12 edges to [[_COMMUNITY_Community 78]]
+- 11 edges to [[_COMMUNITY_Community 62]]
+- 11 edges to [[_COMMUNITY_Community 111]]
+- 11 edges to [[_COMMUNITY_Community 94]]
+- 11 edges to [[_COMMUNITY_Community 76]]
+- 11 edges to [[_COMMUNITY_Community 60]]
+- 10 edges to [[_COMMUNITY_API de pagamentos]]
+- 10 edges to [[_COMMUNITY_Community 110]]
+- 10 edges to [[_COMMUNITY_Community 74]]
+- 10 edges to [[_COMMUNITY_Community 95]]
+- 10 edges to [[_COMMUNITY_Community 122]]
+- 10 edges to [[_COMMUNITY_Community 102]]
+- 10 edges to [[_COMMUNITY_Community 109]]
+- 10 edges to [[_COMMUNITY_Deploy v2.1.0 - AI Assistant]]
+- 10 edges to [[_COMMUNITY_Community 80]]
+- 9 edges to [[_COMMUNITY_Community 108]]
+- 9 edges to [[_COMMUNITY_Community 89]]
+- 9 edges to [[_COMMUNITY_Community 91]]
+- 9 edges to [[_COMMUNITY_Community 172]]
+- 9 edges to [[_COMMUNITY_Community 121]]
+- 9 edges to [[_COMMUNITY_Community 90]]
+- 9 edges to [[_COMMUNITY_Community 199]]
+- 9 edges to [[_COMMUNITY_Community 117]]
+- 8 edges to [[_COMMUNITY_Community 88]]
+- 8 edges to [[_COMMUNITY_Community 125]]
+- 8 edges to [[_COMMUNITY_Community 107]]
+- 8 edges to [[_COMMUNITY_Community 138]]
+- 8 edges to [[_COMMUNITY_Community 96]]
+- 8 edges to [[_COMMUNITY_Playbook Reativacao]]
+- 8 edges to [[_COMMUNITY_Proposta Cliente Alpha]]
+- 7 edges to [[_COMMUNITY_Community 136]]
+- 7 edges to [[_COMMUNITY_Community 124]]
+- 7 edges to [[_COMMUNITY_Community 71]]
+- 7 edges to [[_COMMUNITY_Community 277]]
+- 7 edges to [[_COMMUNITY_Community 301]]
+- 7 edges to [[_COMMUNITY_Community 92]]
+- 7 edges to [[_COMMUNITY_Community 123]]
+- 7 edges to [[_COMMUNITY_Community 317]]
+- 7 edges to [[_COMMUNITY_Community 137]]
+- 7 edges to [[_COMMUNITY_Processo Recrutamento]]
+- 6 edges to [[_COMMUNITY_Community 335]]
+- 6 edges to [[_COMMUNITY_Community 77]]
+- 6 edges to [[_COMMUNITY_Community 210]]
+- 6 edges to [[_COMMUNITY_Licoes aprendidas]]
+- 6 edges to [[_COMMUNITY_Community 81]]
+- 6 edges to [[_COMMUNITY_Community 106]]
+- 6 edges to [[_COMMUNITY_Template SOW]]
+- 6 edges to [[_COMMUNITY_Avaliacao Ajuste salarial]]
+- 6 edges to [[_COMMUNITY_Avaliacao Ciclo 2026-2]]
+- 6 edges to [[_COMMUNITY_Avaliacao Competencias]]
+- 6 edges to [[_COMMUNITY_Avaliacao PDI criacao]]
+- 6 edges to [[_COMMUNITY_Politica Codigo de conduta]]
+- 6 edges to [[_COMMUNITY_Politica Presentes]]
+- 6 edges to [[_COMMUNITY_Processo Feedback]]
+- 6 edges to [[_COMMUNITY_Processo Onboarding]]
+- 6 edges to [[_COMMUNITY_Alocacao por produto]]
+- 6 edges to [[_COMMUNITY_Post Blog 002]]
+- 6 edges to [[_COMMUNITY_Post Blog 010]]
+- 6 edges to [[_COMMUNITY_Script auto-archive.sh]]
+- 5 edges to [[_COMMUNITY_DAIgrama de deployment]]
+- 5 edges to [[_COMMUNITY_DAIgrama de sequencAI]]
+- 5 edges to [[_COMMUNITY_Community 410]]
+- 5 edges to [[_COMMUNITY_Runbook Escala horizontal]]
+- 5 edges to [[_COMMUNITY_FAQ Como configurar alertas]]
+- 5 edges to [[_COMMUNITY_Community 154]]
+- 5 edges to [[_COMMUNITY_TKT-2026-0016 SSO falhou]]
+- 5 edges to [[_COMMUNITY_Reels Depoimento]]
+- 5 edges to [[_COMMUNITY_Avaliacao Autoavaliacao]]
+- 5 edges to [[_COMMUNITY_Avaliacao Avaliacao]]
+- 5 edges to [[_COMMUNITY_Avaliacao Bonus]]
+- 5 edges to [[_COMMUNITY_Avaliacao KPIs individuais]]
+- 5 edges to [[_COMMUNITY_Onboarding Mes 2]]
+- 5 edges to [[_COMMUNITY_Onboarding Organograma]]
+- 5 edges to [[_COMMUNITY_Politica Denuncias]]
+- 5 edges to [[_COMMUNITY_Politica Home office]]
+- 5 edges to [[_COMMUNITY_Politica Horario flexivel]]
+- 5 edges to [[_COMMUNITY_Politica Reembolso]]
+- 5 edges to [[_COMMUNITY_DANFE]]
+- 5 edges to [[_COMMUNITY_Contingencia]]
+- 5 edges to [[_COMMUNITY_Marketing budget]]
+- 5 edges to [[_COMMUNITY_Aprovacao de reembolso]]
+- 5 edges to [[_COMMUNITY_Recibo]]
+- 5 edges to [[_COMMUNITY_Reembolso alimentacao]]
+- 5 edges to [[_COMMUNITY_Reembolso transporte]]
+- 5 edges to [[_COMMUNITY_Balanco patrimonial]]
+- 5 edges to [[_COMMUNITY_DRE Fev 2026]]
+- 5 edges to [[_COMMUNITY_PLD]]
+- 5 edges to [[_COMMUNITY_Contrato Cliente Beta]]
+- 5 edges to [[_COMMUNITY_Contrato Fornecedor C]]
+- 5 edges to [[_COMMUNITY_Campanha Parceiros]]
+- 5 edges to [[_COMMUNITY_Post Facebook 002]]
+- 5 edges to [[_COMMUNITY_Post Twitter 001]]
+- 5 edges to [[_COMMUNITY_Stories Bastidores]]
+- 5 edges to [[_COMMUNITY_Cloud RDS PostgreSQL]]
+- 5 edges to [[_COMMUNITY_Servidor queue-02]]
+- 4 edges to [[_COMMUNITY_Lead scoring]]
+- 4 edges to [[_COMMUNITY_Distributed tracing]]
+- 4 edges to [[_COMMUNITY_Changelog v1.0]]
+- 4 edges to [[_COMMUNITY_Webinars gravados]]
+- 4 edges to [[_COMMUNITY_Timeline do incidente]]
+- 4 edges to [[_COMMUNITY_Runbook Security patch]]
+- 4 edges to [[_COMMUNITY_FAQ Como ver relatorios]]
+- 4 edges to [[_COMMUNITY_TKT-2026-0020 Backup falhou]]
+- 4 edges to [[_COMMUNITY_Blocker]]
+- 4 edges to [[_COMMUNITY_Health score]]
+- 4 edges to [[_COMMUNITY_NPS do cliente]]
+- 4 edges to [[_COMMUNITY_Contrato Beta Inc]]
+- 4 edges to [[_COMMUNITY_Pipeline Q2 2026]]
+- 4 edges to [[_COMMUNITY_Playbook Proposta]]
+- 4 edges to [[_COMMUNITY_Proposta Cliente Epsilon]]
+- 4 edges to [[_COMMUNITY_SLA proposto]]
+- 4 edges to [[_COMMUNITY_Template proposta SaaS]]
+- 4 edges to [[_COMMUNITY_Avaliacao Pares]]
+- 4 edges to [[_COMMUNITY_Avaliacao Potencial]]
+- 4 edges to [[_COMMUNITY_Avaliacao Promocao]]
+- 4 edges to [[_COMMUNITY_Onboarding Mes 1]]
+- 4 edges to [[_COMMUNITY_Onboarding Primeiro projeto]]
+- 4 edges to [[_COMMUNITY_Onboarding Semana 1]]
+- 4 edges to [[_COMMUNITY_Onboarding Treinamento product]]
+- 4 edges to [[_COMMUNITY_Politica Conflito de interesse]]
+- 4 edges to [[_COMMUNITY_Politica Diversidade]]
+- 4 edges to [[_COMMUNITY_Politica Viagens]]
+- 4 edges to [[_COMMUNITY_Processo Disciplinar]]
+- 4 edges to [[_COMMUNITY_Processo Selecao]]
+- 4 edges to [[_COMMUNITY_Processo Treinamento]]
+- 4 edges to [[_COMMUNITY_NF-e Jan 2026]]
+- 4 edges to [[_COMMUNITY_Headcount budget]]
+- 4 edges to [[_COMMUNITY_Orcamento 2027]]
+- 4 edges to [[_COMMUNITY_Prazo de reembolso]]
+- 4 edges to [[_COMMUNITY_Reembolso treinamento]]
+- 4 edges to [[_COMMUNITY_Fluxo de caixa]]
+- 4 edges to [[_COMMUNITY_Community 293]]
+- 4 edges to [[_COMMUNITY_Contrato Europa]]
+- 4 edges to [[_COMMUNITY_Contrato Fornecedor A]]
+- 4 edges to [[_COMMUNITY_Template Parceria]]
+- 4 edges to [[_COMMUNITY_Campanha Email nurturing]]
+- 4 edges to [[_COMMUNITY_Campanha Referencia Beta]]
+- 4 edges to [[_COMMUNITY_Campanha Retargeting]]
+- 4 edges to [[_COMMUNITY_Campanha Startup Week]]
+- 4 edges to [[_COMMUNITY_Campanha Webinar Series]]
+- 4 edges to [[_COMMUNITY_Campanha YouTube]]
+- 4 edges to [[_COMMUNITY_Post Blog 001]]
+- 4 edges to [[_COMMUNITY_Post Blog 005]]
+- 4 edges to [[_COMMUNITY_Post Blog 008]]
+- 4 edges to [[_COMMUNITY_Post Blog 009]]
+- 4 edges to [[_COMMUNITY_Video Demo]]
+- 4 edges to [[_COMMUNITY_Video Depoimento]]
+- 4 edges to [[_COMMUNITY_Whitepaper Tendencias]]
+- 4 edges to [[_COMMUNITY_Alerta Erro 5xx]]
+- 4 edges to [[_COMMUNITY_Monitor Datadog]]
+- 4 edges to [[_COMMUNITY_Rede Subnet DB]]
+- 4 edges to [[_COMMUNITY_Servidor API-01]]
+- 4 edges to [[_COMMUNITY_Servidor CAChe-01]]
+- 4 edges to [[_COMMUNITY_Servidor web-03]]
+- 4 edges to [[_COMMUNITY_Servidor worker-01]]
+- 3 edges to [[_COMMUNITY_Email tracking]]
+- 3 edges to [[_COMMUNITY_Mobile CRM]]
+- 3 edges to [[_COMMUNITY_Internacionalização i18n]]
+- 3 edges to [[_COMMUNITY_Network layer]]
+- 3 edges to [[_COMMUNITY_SDK JavaScript]]
+- 3 edges to [[_COMMUNITY_SLA definição]]
+- 3 edges to [[_COMMUNITY_API design guidelines]]
+- 3 edges to [[_COMMUNITY_Acoes corretivas]]
+- 3 edges to [[_COMMUNITY_Runbook Analise de memorAI]]
+- 3 edges to [[_COMMUNITY_Runbook Disaster recovery]]
+- 3 edges to [[_COMMUNITY_Sprint 26.06 - Planejamento]]
+- 3 edges to [[_COMMUNITY_Sprint 26.06 - Review]]
+- 3 edges to [[_COMMUNITY_FAQ Como gerar API key]]
+- 3 edges to [[_COMMUNITY_FAQ Como integrar API]]
+- 3 edges to [[_COMMUNITY_Cliente Delta SA]]
+- 3 edges to [[_COMMUNITY_Cliente Epsilon LLC]]
+- 3 edges to [[_COMMUNITY_Cliente Kappa Systems]]
+- 3 edges to [[_COMMUNITY_Cliente Theta Tech]]
+- 3 edges to [[_COMMUNITY_Cliente Zeta Group]]
+- 3 edges to [[_COMMUNITY_Economic buyer]]
+- 3 edges to [[_COMMUNITY_Ajuste de precos]]
+- 3 edges to [[_COMMUNITY_Anexo de precos]]
+- 3 edges to [[_COMMUNITY_Pipeline Q1 2026]]
+- 3 edges to [[_COMMUNITY_Qualificacao MEDDIC]]
+- 3 edges to [[_COMMUNITY_Playbook Field sales]]
+- 3 edges to [[_COMMUNITY_Playbook Retencao]]
+- 3 edges to [[_COMMUNITY_Playbook Sales engineer]]
+- 3 edges to [[_COMMUNITY_Precificacao de servicos]]
+- 3 edges to [[_COMMUNITY_Avaliacao 360 graus]]
+- 3 edges to [[_COMMUNITY_Onboarding Apresentacao equipe]]
+- 3 edges to [[_COMMUNITY_Onboarding Avaliacao]]
+- 3 edges to [[_COMMUNITY_Onboarding Checklist TI]]
+- 3 edges to [[_COMMUNITY_Politica Equipamentos]]
+- 3 edges to [[_COMMUNITY_Processo Externo]]
+- 3 edges to [[_COMMUNITY_Processo Interno]]
+- 3 edges to [[_COMMUNITY_NF-e Abr 2026]]
+- 3 edges to [[_COMMUNITY_NF-e Mar 2026]]
+- 3 edges to [[_COMMUNITY_NF-e Set 2026]]
+- 3 edges to [[_COMMUNITY_Hardware]]
+- 3 edges to [[_COMMUNITY_Infra budget]]
+- 3 edges to [[_COMMUNITY_Estorno]]
+- 3 edges to [[_COMMUNITY_Nota fiscal reembolso]]
+- 3 edges to [[_COMMUNITY_Reembolso Equipe B]]
+- 3 edges to [[_COMMUNITY_Analise de margem]]
+- 3 edges to [[_COMMUNITY_DRE Trimestre 2]]
+- 3 edges to [[_COMMUNITY_DRE Trimestre 3]]
+- 3 edges to [[_COMMUNITY_DRE Trimestre 4]]
+- 3 edges to [[_COMMUNITY_Relatorio de receitas]]
+- 3 edges to [[_COMMUNITY_Auditoria compliance]]
+- 3 edges to [[_COMMUNITY_Canal de etica]]
+- 3 edges to [[_COMMUNITY_Compliance ISO27001]]
+- 3 edges to [[_COMMUNITY_Due diligence]]
+- 3 edges to [[_COMMUNITY_Termo de uso]]
+- 3 edges to [[_COMMUNITY_Contrato Cliente Gamma]]
+- 3 edges to [[_COMMUNITY_Contrato Parceiro X]]
+- 3 edges to [[_COMMUNITY_Template ConfidencAIlidade]]
+- 3 edges to [[_COMMUNITY_LGPD DPO]]
+- 3 edges to [[_COMMUNITY_LGPD Legitimo interesse]]
+- 3 edges to [[_COMMUNITY_Campanha Blog SEO]]
+- 3 edges to [[_COMMUNITY_Ebook Comparativo]]
+- 3 edges to [[_COMMUNITY_Post Blog 007]]
+- 3 edges to [[_COMMUNITY_Whitepaper ROI]]
+- 3 edges to [[_COMMUNITY_Post Instagram 001]]
+- 3 edges to [[_COMMUNITY_Post LinkedIn 002]]
+- 3 edges to [[_COMMUNITY_Post Twitter 003]]
+- 3 edges to [[_COMMUNITY_Reels Produto]]
+- 3 edges to [[_COMMUNITY_Cloud CloudTrail]]
+- 3 edges to [[_COMMUNITY_Rede Firewall rules]]
+- 3 edges to [[_COMMUNITY_Rede Internet gateway]]
+- 3 edges to [[_COMMUNITY_Rede Load balancer]]
+- 3 edges to [[_COMMUNITY_Rede NAT gateway]]
+- 3 edges to [[_COMMUNITY_Servidor API-03]]
+- 3 edges to [[_COMMUNITY_Servidor backup-01]]
+- 2 edges to [[_COMMUNITY_Drift detection]]
+- 2 edges to [[_COMMUNITY_Chart types reference]]
+- 2 edges to [[_COMMUNITY_Dashboard templates]]
+- 2 edges to [[_COMMUNITY_Real-time analytics]]
+- 2 edges to [[_COMMUNITY_Schema validation]]
+- 2 edges to [[_COMMUNITY_Campaign management]]
+- 2 edges to [[_COMMUNITY_Tarefas e follow-ups]]
+- 2 edges to [[_COMMUNITY_Error budgets]]
+- 2 edges to [[_COMMUNITY_Helm charts]]
+- 2 edges to [[_COMMUNITY_Certificados digitais]]
+- 2 edges to [[_COMMUNITY_Mentoria e tutoria]]
+- 2 edges to [[_COMMUNITY_Taxa de conclusão]]
+- 2 edges to [[_COMMUNITY_Trilhas de aprendizado]]
+- 2 edges to [[_COMMUNITY_Visão geral AIRich Edu]]
+- 2 edges to [[_COMMUNITY_xAPI integration]]
+- 2 edges to [[_COMMUNITY_Changelog v4.1]]
+- 2 edges to [[_COMMUNITY_Testes E2E com Detox]]
+- 2 edges to [[_COMMUNITY_Extrato de transações]]
+- 2 edges to [[_COMMUNITY_SDK de pagamentos]]
+- 2 edges to [[_COMMUNITY_Changelog v3.2]]
+- 2 edges to [[_COMMUNITY_FAQ técnico]]
+- 2 edges to [[_COMMUNITY_Roadmap Q4 2026]]
+- 2 edges to [[_COMMUNITY_SDK Java]]
+- 2 edges to [[_COMMUNITY_Security monitoring]]
+- 2 edges to [[_COMMUNITY_CQRS pattern]]
+- 2 edges to [[_COMMUNITY_Saga pattern]]
+- 2 edges to [[_COMMUNITY_Deploy v4.1.0 - Mobile]]
+- 2 edges to [[_COMMUNITY_Deploy v5.1.0 - CRM]]
+- 2 edges to [[_COMMUNITY_Sprint 26.01 - Retrospectiva]]
+- 2 edges to [[_COMMUNITY_KB Workarounds]]
+- 2 edges to [[_COMMUNITY_FAQ Como alterar plano]]
+- 2 edges to [[_COMMUNITY_FAQ Como ativar MFA]]
+- 2 edges to [[_COMMUNITY_TKT-2026-0003 API timeout]]
+- 2 edges to [[_COMMUNITY_Cliente Beta Inc]]
+- 2 edges to [[_COMMUNITY_Cliente Gamma Ltd]]
+- 2 edges to [[_COMMUNITY_Aditivo]]
+- 2 edges to [[_COMMUNITY_Clausula de penalidade]]
+- 2 edges to [[_COMMUNITY_Escopo de servicos]]
+- 2 edges to [[_COMMUNITY_Template contrato SaaS]]
+- 2 edges to [[_COMMUNITY_Analise de perda]]
+- 2 edges to [[_COMMUNITY_Atingimento de meta]]
+- 2 edges to [[_COMMUNITY_Deal size medio]]
+- 2 edges to [[_COMMUNITY_Playbook Qualificacao]]
+- 2 edges to [[_COMMUNITY_Onboarding Feedback 60d]]
+- 2 edges to [[_COMMUNITY_Processo Afastamento]]
+- 2 edges to [[_COMMUNITY_Processo PDI]]
+- 2 edges to [[_COMMUNITY_Processo Retorno]]
+- 2 edges to [[_COMMUNITY_NF-e Produtos]]
+- 2 edges to [[_COMMUNITY_CAPEX]]
+- 2 edges to [[_COMMUNITY_Reembolso hospedagem]]
+- 2 edges to [[_COMMUNITY_DRE Jan 2026]]
+- 2 edges to [[_COMMUNITY_DRE Mar 2026]]
+- 2 edges to [[_COMMUNITY_LGPD Consentimento]]
+- 2 edges to [[_COMMUNITY_LGPD NotifiCACao ANPD]]
+- 2 edges to [[_COMMUNITY_LGPD Titular request]]
+- 2 edges to [[_COMMUNITY_Campanha Ano Novo]]
+- 2 edges to [[_COMMUNITY_Post Blog 003]]
+- 2 edges to [[_COMMUNITY_Post LinkedIn 001]]
+- 2 edges to [[_COMMUNITY_Cloud Azure DR]]
+- 2 edges to [[_COMMUNITY_Cloud CloudFront]]
+- 2 edges to [[_COMMUNITY_Cloud Reserved instances]]
+- 2 edges to [[_COMMUNITY_Cloud Route53]]
+- 2 edges to [[_COMMUNITY_Cloud Security groups]]
+- 2 edges to [[_COMMUNITY_Dashboard API]]
+- 2 edges to [[_COMMUNITY_Monitor Grafana]]
+- 2 edges to [[_COMMUNITY_Rede Direct connect]]
+- 2 edges to [[_COMMUNITY_Rede SD-WAN]]
+- 2 edges to [[_COMMUNITY_Rede VPC principal]]
+- 2 edges to [[_COMMUNITY_Rede VPN site-to-site]]
+- 2 edges to [[_COMMUNITY_Hardening Linux]]
+- 2 edges to [[_COMMUNITY_Servidor CAChe-02]]
+- 2 edges to [[_COMMUNITY_Servidor queue-01]]
+- 2 edges to [[_COMMUNITY_Servidor worker-02]]
+- 2 edges to [[_COMMUNITY_Script provision-db.sh]]
+- 2 edges to [[_COMMUNITY_Script deploy-mobile.sh]]
+- 2 edges to [[_COMMUNITY_Script check-DNS.sh]]
+- 2 edges to [[_COMMUNITY_Script check-redis.sh]]
+- 2 edges to [[_COMMUNITY_Script parse-access-log.py]]
+- 2 edges to [[_COMMUNITY_Script cost-report.py]]
+- 2 edges to [[_COMMUNITY_Script incident-report.py]]
+- 2 edges to [[_COMMUNITY_Script NPS-report.py]]
+- 2 edges to [[_COMMUNITY_Script revenue-report.py]]
+- 1 edge to [[_COMMUNITY_Batch inference]]
+- 1 edge to [[_COMMUNITY_Code generation]]
+- 1 edge to [[_COMMUNITY_Conversation history]]
+- 1 edge to [[_COMMUNITY_Feedback loop]]
+- 1 edge to [[_COMMUNITY_Function calling]]
+- 1 edge to [[_COMMUNITY_Model versioning]]
+- 1 edge to [[_COMMUNITY_Multi-turn dialogues]]
+- 1 edge to [[_COMMUNITY_Roadmap AI]]
+- 1 edge to [[_COMMUNITY_Alertas automáticos]]
+- 1 edge to [[_COMMUNITY_Arquitetura de dados]]
+- 1 edge to [[_COMMUNITY_Backup de dados]]
+- 1 edge to [[_COMMUNITY_Changelog v1.5]]
+- 1 edge to [[_COMMUNITY_ETL com Apache Spark]]
+- 1 edge to [[_COMMUNITY_Glossary de métricas]]
+- 1 edge to [[_COMMUNITY_Métricas de negócio]]
+- 1 edge to [[_COMMUNITY_Roadmap analytics]]
+- 1 edge to [[_COMMUNITY_Scheduled reports]]
+- 1 edge to [[_COMMUNITY_UTM tracking]]
+- 1 edge to [[_COMMUNITY_Visualização de dados]]
+- 1 edge to [[_COMMUNITY_Especificação de plugins]]
+- 1 edge to [[_COMMUNITY_Event streaming]]
+- 1 edge to [[_COMMUNITY_Guia de integração]]
+- 1 edge to [[_COMMUNITY_Health checks]]
+- 1 edge to [[_COMMUNITY_JWT validation]]
+- 1 edge to [[_COMMUNITY_OAuth2 flow completo]]
+- 1 edge to [[_COMMUNITY_Postman collection]]
+- 1 edge to [[_COMMUNITY_Roadmap do Gateway]]
+- 1 edge to [[_COMMUNITY_Transformação de requests]]
+- 1 edge to [[_COMMUNITY_Webhook delivery system]]
+- 1 edge to [[_COMMUNITY_WebSocket support]]
+- 1 edge to [[_COMMUNITY_Changelog v5.0]]
+- 1 edge to [[_COMMUNITY_Gamification]]
+- 1 edge to [[_COMMUNITY_Histórico de interações]]
+- 1 edge to [[_COMMUNITY_Integração com calendário]]
+- 1 edge to [[_COMMUNITY_Integração com email]]
+- 1 edge to [[_COMMUNITY_Offline mode]]
+- 1 edge to [[_COMMUNITY_Roadmap CRM]]
+- 1 edge to [[_COMMUNITY_WhatsApp integration]]
+- 1 edge to [[_COMMUNITY_Canary releases]]
+- 1 edge to [[_COMMUNITY_Container scanning]]
+- 1 edge to [[_COMMUNITY_DAST integration]]
+- 1 edge to [[_COMMUNITY_ELK stack]]
+- 1 edge to [[_COMMUNITY_SAST integration]]
+- 1 edge to [[_COMMUNITY_Service mesh]]
+- 1 edge to [[_COMMUNITY_Terraform modules]]
+- 1 edge to [[_COMMUNITY_Analytics educacional]]
+- 1 edge to [[_COMMUNITY_Badges e conquistas]]
+- 1 edge to [[_COMMUNITY_Busca de conteúdo]]
+- 1 edge to [[_COMMUNITY_Categorias de cursos]]
+- 1 edge to [[_COMMUNITY_Criação de conteúdo]]
+- 1 edge to [[_COMMUNITY_Downloads e recursos]]
+- 1 edge to [[_COMMUNITY_Melhorias de UX]]
+- 1 edge to [[_COMMUNITY_Modo noturno]]
+- 1 edge to [[_COMMUNITY_NPS educacional]]
+- 1 edge to [[_COMMUNITY_Onboarding de instrutores]]
+- 1 edge to [[_COMMUNITY_Recomendação de cursos]]
+- 1 edge to [[_COMMUNITY_Acessibilidade a11y]]
+- 1 edge to [[_COMMUNITY_Biometric auth]]
+- 1 edge to [[_COMMUNITY_Configurações do app]]
+- 1 edge to [[_COMMUNITY_Image caching]]
+- 1 edge to [[_COMMUNITY_In-app updates]]
+- 1 edge to [[_COMMUNITY_Local storage]]
+- 1 edge to [[_COMMUNITY_Otimização de bundle]]
+- 1 edge to [[_COMMUNITY_Roadmap mobile]]
+- 1 edge to [[_COMMUNITY_Tela principal do dashboard]]
+- 1 edge to [[_COMMUNITY_Visão geral do app]]
+- 1 edge to [[_COMMUNITY_Assinaturas e planos]]
+- 1 edge to [[_COMMUNITY_Device fingerprinting]]
+- 1 edge to [[_COMMUNITY_Integração com adquirentes]]
+- 1 edge to [[_COMMUNITY_Link de pagamento]]
+- 1 edge to [[_COMMUNITY_Nota fiscal eletrônica]]
+- 1 edge to [[_COMMUNITY_Refund policies]]
+- 1 edge to [[_COMMUNITY_Roadmap payments]]
+- 1 edge to [[_COMMUNITY_Saldo e saques]]
+- 1 edge to [[_COMMUNITY_Tokenização de cartões]]
+- 1 edge to [[_COMMUNITY_Visão geral AIRich Pay]]
+- 1 edge to [[_COMMUNITY_Configuração de SSO]]
+- 1 edge to [[_COMMUNITY_SDK Python]]
+- 1 edge to [[_COMMUNITY_Sistema de feature flags]]
+- 1 edge to [[_COMMUNITY_Testes de carga]]
+- 1 edge to [[_COMMUNITY_CSRF protection]]
+- 1 edge to [[_COMMUNITY_IP reputation]]
+- 1 edge to [[_COMMUNITY_Threat modeling]]
+- 1 edge to [[_COMMUNITY_Metrics collection]]
+- 1 edge to [[_COMMUNITY_Deploy v5.0.0 - CRM]]
+- 1 edge to [[_COMMUNITY_Sprint 26.04 - Review]]
+- 1 edge to [[_COMMUNITY_KB FAQ negocio]]
+- 1 edge to [[_COMMUNITY_FAQ Como configurar SSO]]
+- 1 edge to [[_COMMUNITY_FAQ Como fazer upload]]
+- 1 edge to [[_COMMUNITY_Clausula de rescisao]]
+- 1 edge to [[_COMMUNITY_Discovery call]]
+- 1 edge to [[_COMMUNITY_Win rate]]
+- 1 edge to [[_COMMUNITY_Playbook CSM]]
+- 1 edge to [[_COMMUNITY_Playbook Demo]]
+- 1 edge to [[_COMMUNITY_Playbook SDR]]
+- 1 edge to [[_COMMUNITY_Playbook Upsell]]
+- 1 edge to [[_COMMUNITY_Onboarding Cultura AIRich]]
+- 1 edge to [[_COMMUNITY_Politica Anticorrupcao]]
+- 1 edge to [[_COMMUNITY_Politica EPI]]
+- 1 edge to [[_COMMUNITY_Politica LGPD interna]]
+- 1 edge to [[_COMMUNITY_Processo Avaliacao]]
+- 1 edge to [[_COMMUNITY_Processo Transferencia]]
+- 1 edge to [[_COMMUNITY_Cancelamento NF-e]]
+- 1 edge to [[_COMMUNITY_XML armazenado]]
+- 1 edge to [[_COMMUNITY_Training budget]]
+- 1 edge to [[_COMMUNITY_Politica de privacidade]]
+- 1 edge to [[_COMMUNITY_Contrato Parceiro Y]]
+- 1 edge to [[_COMMUNITY_Campanha Google Ads]]
+- 1 edge to [[_COMMUNITY_Post Facebook 003]]
+- 1 edge to [[_COMMUNITY_Post LinkedIn 003]]
+- 1 edge to [[_COMMUNITY_Cloud CloudWatch]]
+- 1 edge to [[_COMMUNITY_Cloud GCP backup]]
+- 1 edge to [[_COMMUNITY_Cloud IAM policies]]
+- 1 edge to [[_COMMUNITY_Cloud S3 buckets]]
+- 1 edge to [[_COMMUNITY_Cloud Savings plans]]
+- 1 edge to [[_COMMUNITY_Rede Subnet privada]]
+- 1 edge to [[_COMMUNITY_Rede Transit gateway]]
+- 1 edge to [[_COMMUNITY_Rede WiFi corporativo]]
+- 1 edge to [[_COMMUNITY_Servidor db-master]]
+- 1 edge to [[_COMMUNITY_Servidor web-02]]
+- 1 edge to [[_COMMUNITY_Script auto-cleanup.sh]]
+- 1 edge to [[_COMMUNITY_Script auto-notify.sh]]
+- 1 edge to [[_COMMUNITY_Script auto-remediate.sh]]
+- 1 edge to [[_COMMUNITY_Script auto-scale.sh]]
+- 1 edge to [[_COMMUNITY_Script provision-CAChe.sh]]
+- 1 edge to [[_COMMUNITY_Script provision-server.sh]]
+- 1 edge to [[_COMMUNITY_Script setup-monitoring.sh]]
+- 1 edge to [[_COMMUNITY_Script transform-data.py]]
+- 1 edge to [[_COMMUNITY_Script validate-data.py]]
+- 1 edge to [[_COMMUNITY_Script blue-green-deploy.sh]]
+- 1 edge to [[_COMMUNITY_Script CAChe-flush.sh]]
+- 1 edge to [[_COMMUNITY_Script canary-deploy.sh]]
+- 1 edge to [[_COMMUNITY_Script cert-renew.sh]]
+- 1 edge to [[_COMMUNITY_Script db-migrate.sh]]
+- 1 edge to [[_COMMUNITY_Script deploy-crm.sh]]
+- 1 edge to [[_COMMUNITY_Script deploy-edu.sh]]
+- 1 edge to [[_COMMUNITY_Script deploy-pay.sh]]
+- 1 edge to [[_COMMUNITY_Script deploy-platform.sh]]
+- 1 edge to [[_COMMUNITY_Script deploy-security.sh]]
+- 1 edge to [[_COMMUNITY_Script rollback.sh]]
+- 1 edge to [[_COMMUNITY_Script check-ssl-cert.sh]]
+- 1 edge to [[_COMMUNITY_Script smoke-test.sh]]
+- 1 edge to [[_COMMUNITY_Script capacity-report.py]]
+- 1 edge to [[_COMMUNITY_Script churn-report.py]]
+- 1 edge to [[_COMMUNITY_Script performance-report.py]]
+- 1 edge to [[_COMMUNITY_Script usage-report.py]]
+- 1 edge to [[_COMMUNITY_Script weekly-report.py]]
+- 1 edge to [[_COMMUNITY_Changelog v4.0]]
+- 1 edge to [[_COMMUNITY_Relatórios fiscais]]
+- 1 edge to [[_COMMUNITY_Decisao ADR-001]]
+- 1 edge to [[_COMMUNITY_Politica Saude mental]]
+
+## Top bridge nodes
+- [[Procedimento]] - degree 5884, connects to 529 communities
+- [[Image uptime-mensal.png]] - degree 119, connects to 54 communities
+- [[Politica Saude mental_9]] - degree 16, connects to 10 communities
+- [[Headcount budget_11]] - degree 16, connects to 10 communities
+- [[HSTS configuration]] - degree 17, connects to 9 communities

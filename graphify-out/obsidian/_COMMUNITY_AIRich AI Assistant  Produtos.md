@@ -1,0 +1,1028 @@
+---
+type: community
+cohesion: 0.01
+members: 752
+---
+
+# AIRich AI Assistant / Produtos
+
+**Cohesion:** 0.01 - loosely connected
+**Members:** 752 nodes
+
+## Members
+- [[3D Secure_2]] - document - 01-produtos/pay-airich/3d-secure-0077.md
+- [[3D Secure_5]] - document - 01-produtos/pay-airich/en/3d-secure-0077.md
+- [[AB testing]] - document - 01-produtos/mobile-airich/a-b-testing-0044.md
+- [[AB testing_3]] - document - 01-produtos/mobile-airich/a-b-testing-0144.md
+- [[AB testing_1]] - rationale - 01-produtos/mobile-airich/a-b-testing-0044.md
+- [[AIRich AI Assistant]] - rationale - 01-produtos/ai-assistant-airich/a-b-testing-de-modelos-0034.md
+- [[AIRich API Gateway]] - rationale - 01-produtos/api-gateway-airich/alertas-de-anomalia-0015.md
+- [[AIRich Analytics]] - rationale - 01-produtos/analytics-airich/alertas-automáticos-0077.md
+- [[AIRich CRM]] - rationale - 01-produtos/crm-airich/api-do-crm-0045.md
+- [[AIRich DevOps Suite]] - rationale - 01-produtos/devops-suite-airich/alert-manager-0018.md
+- [[AIRich Edu]] - rationale - 01-produtos/edu-airich/acessibilidade-educacional-0028.md
+- [[AIRich Mobile]] - rationale - 01-produtos/mobile-airich/a-b-testing-0044.md
+- [[AIRich Pay]] - rationale - 01-produtos/pay-airich/3d-secure-0077.md
+- [[AIRich Platform]] - rationale - 01-produtos/plataforma-airich/ambiente-de-produção-0044.md
+- [[AIRich Security Shield]] - rationale - 01-produtos/security-shield-airich/api-security-0027.md
+- [[API REST documentação]] - document - 01-produtos/plataforma-airich/api-rest-documentação-0013.md
+- [[API call generation]] - document - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[API de queries]] - document - 01-produtos/analytics-airich/api-de-queries-0029.md
+- [[API de queries_2]] - document - 01-produtos/analytics-airich/api-de-queries-0080.md
+- [[API de queries_4]] - document - 01-produtos/analytics-airich/en/api-de-queries-0029.md
+- [[API de queries_5]] - document - 01-produtos/analytics-airich/en/api-de-queries-0080.md
+- [[API deprecation policy]] - document - 01-produtos/api-gateway-airich/api-deprecation-policy-0046.md
+- [[API do CRM]] - document - 01-produtos/crm-airich/api-do-crm-0045.md
+- [[API do CRM_3]] - document - 01-produtos/crm-airich/api-do-crm-0135.md
+- [[API do CRM_4]] - document - 01-produtos/crm-airich/en/api-do-crm-0045.md
+- [[API do CRM_5]] - document - 01-produtos/crm-airich/en/api-do-crm-0135.md
+- [[API do CRM_1]] - rationale - 01-produtos/crm-airich/api-do-crm-0045.md
+- [[API gateway config]] - document - 01-produtos/devops-suite-airich/api-gateway-config-0036.md
+- [[API gateway config_2]] - document - 01-produtos/devops-suite-airich/en/api-gateway-config-0036.md
+- [[API gateway config_1]] - rationale - 01-produtos/devops-suite-airich/api-gateway-config-0036.md
+- [[Acessibilidade a11y_2]] - document - 01-produtos/mobile-airich/acessibilidade-a11y-0067.md
+- [[Acessibilidade eduCACional]] - document - 01-produtos/edu-airich/en/acessibilidade-educacional-0028.md
+- [[Acessibilidade educacional]] - document - 01-produtos/edu-airich/acessibilidade-educacional-0028.md
+- [[Acessibilidade educacional_2]] - document - 01-produtos/edu-airich/acessibilidade-educacional-0112.md
+- [[Acessibilidade educacional_1]] - rationale - 01-produtos/edu-airich/acessibilidade-educacional-0028.md
+- [[Alert manager]] - document - 01-produtos/devops-suite-airich/alert-manager-0018.md
+- [[Ambiente de produção]] - document - 01-produtos/plataforma-airich/ambiente-de-produção-0044.md
+- [[Ambiente de staging_2]] - document - 01-produtos/plataforma-airich/ambiente-de-staging-0141.md
+- [[Analytics de uso_3]] - document - 01-produtos/mobile-airich/analytics-de-uso-0125.md
+- [[Analytics de uso_5]] - document - 01-produtos/mobile-airich/en/analytics-de-uso-0125.md
+- [[Analytics educacional_3]] - document - 01-produtos/edu-airich/analytics-educacional-0118.md
+- [[Anomaly detection]] - document - 01-produtos/analytics-airich/anomaly-detection-0025.md
+- [[Anomaly detection_2]] - document - 01-produtos/analytics-airich/anomaly-detection-0076.md
+- [[Anomaly detection_3]] - document - 01-produtos/analytics-airich/anomaly-detection-0127.md
+- [[Anomaly detection_4]] - document - 01-produtos/analytics-airich/en/anomaly-detection-0025.md
+- [[Anomaly detection_5]] - document - 01-produtos/analytics-airich/en/anomaly-detection-0076.md
+- [[Anomaly detection_6]] - document - 01-produtos/analytics-airich/en/anomaly-detection-0127.md
+- [[Anomaly detection_1]] - rationale - 01-produtos/analytics-airich/anomaly-detection-0025.md
+- [[Ansible playbooks]] - document - 01-produtos/devops-suite-airich/ansible-playbooks-0010.md
+- [[Antifraude]] - document - 01-produtos/pay-airich/antifraude-0011.md
+- [[Antifraude_2]] - document - 01-produtos/pay-airich/antifraude-0056.md
+- [[App lifecycle]] - document - 01-produtos/mobile-airich/app-lifecycle-0039.md
+- [[App lifecycle_4]] - document - 01-produtos/mobile-airich/en/app-lifecycle-0039.md
+- [[App lifecycle_1]] - rationale - 01-produtos/mobile-airich/app-lifecycle-0039.md
+- [[Architecture de microsserviços]] - document - 01-produtos/plataforma-airich/en/arquitetura-de-microsserviços-0051.md
+- [[Architecture de microsserviços_1]] - rationale - 01-produtos/plataforma-airich/en/arquitetura-de-microsserviços-0051.md
+- [[Architecture do modelo]] - document - 01-produtos/ai-assistant-airich/en/arquitetura-do-modelo-0002.md
+- [[Architecture do modelo_1]] - rationale - 01-produtos/ai-assistant-airich/en/arquitetura-do-modelo-0002.md
+- [[Arquitetura de dados]] - document - 01-produtos/analytics-airich/arquitetura-de-dados-0002.md
+- [[Arquitetura de microsserviços]] - document - 01-produtos/plataforma-airich/arquitetura-de-microsserviços-0002.md
+- [[Arquitetura de microsserviços_1]] - rationale - 01-produtos/plataforma-airich/arquitetura-de-microsserviços-0002.md
+- [[Arquitetura de pagamentos]] - document - 01-produtos/pay-airich/arquitetura-de-pagamentos-0002.md
+- [[Arquitetura de proxy reverso]] - document - 01-produtos/api-gateway-airich/arquitetura-de-proxy-reverso-0002.md
+- [[Arquitetura de proxy reverso_1]] - rationale - 01-produtos/api-gateway-airich/arquitetura-de-proxy-reverso-0002.md
+- [[Arquitetura de segurança]] - document - 01-produtos/security-shield-airich/arquitetura-de-segurança-0002.md
+- [[Arquitetura de segurança_1]] - rationale - 01-produtos/security-shield-airich/arquitetura-de-segurança-0002.md
+- [[Arquitetura do modelo]] - document - 01-produtos/ai-assistant-airich/arquitetura-do-modelo-0002.md
+- [[Arquitetura do modelo_1]] - rationale - 01-produtos/ai-assistant-airich/arquitetura-do-modelo-0002.md
+- [[Arquitetura mobile_2]] - document - 01-produtos/mobile-airich/arquitetura-mobile-0052.md
+- [[Assinaturas e planos]] - document - 01-produtos/pay-airich/assinaturas-e-planos-0008.md
+- [[Assinaturas e planos_3]] - document - 01-produtos/pay-airich/assinaturas-e-planos-0098.md
+- [[Attribution modeling]] - document - 01-produtos/analytics-airich/attribution-modeling-0022.md
+- [[Attribution modeling_2]] - document - 01-produtos/analytics-airich/attribution-modeling-0124.md
+- [[Attribution modeling_3]] - document - 01-produtos/analytics-airich/en/attribution-modeling-0022.md
+- [[Attribution modeling_1]] - rationale - 01-produtos/analytics-airich/attribution-modeling-0022.md
+- [[Audit trail]] - document - 01-produtos/api-gateway-airich/audit-trail-0038.md
+- [[Audit trail_2]] - document - 01-produtos/api-gateway-airich/audit-trail-0089.md
+- [[Audit trail_3]] - document - 01-produtos/api-gateway-airich/audit-trail-0140.md
+- [[Audit trail_5]] - document - 01-produtos/api-gateway-airich/en/audit-trail-0089.md
+- [[Audit trail_6]] - document - 01-produtos/api-gateway-airich/en/audit-trail-0140.md
+- [[Audit trail_1]] - rationale - 01-produtos/api-gateway-airich/audit-trail-0038.md
+- [[Autenticação via API Key]] - document - 01-produtos/api-gateway-airich/autenticação-via-api-key-0004.md
+- [[Autenticação via API Key_1]] - rationale - 01-produtos/api-gateway-airich/autenticação-via-api-key-0004.md
+- [[Authentication security]] - document - 01-produtos/security-shield-airich/authentication-security-0022.md
+- [[Automação de vendas]] - document - 01-produtos/crm-airich/automação-de-vendas-0018.md
+- [[Automação de vendas_2]] - document - 01-produtos/crm-airich/automação-de-vendas-0063.md
+- [[Automação de vendas_3]] - document - 01-produtos/crm-airich/automação-de-vendas-0108.md
+- [[Automação de vendas_1]] - rationale - 01-produtos/crm-airich/automação-de-vendas-0018.md
+- [[Avaliações e reviews]] - document - 01-produtos/edu-airich/avaliações-e-reviews-0017.md
+- [[Avaliações e reviews_3]] - document - 01-produtos/edu-airich/avaliações-e-reviews-0101.md
+- [[Avaliações e reviews_4]] - document - 01-produtos/edu-airich/avaliações-e-reviews-0143.md
+- [[Avaliações e reviews_1]] - rationale - 01-produtos/edu-airich/avaliações-e-reviews-0017.md
+- [[Background tasks]] - document - 01-produtos/mobile-airich/background-tasks-0040.md
+- [[Background tasks_3]] - document - 01-produtos/mobile-airich/background-tasks-0140.md
+- [[Background tasks_5]] - document - 01-produtos/mobile-airich/en/background-tasks-0140.md
+- [[Backup automation]] - document - 01-produtos/devops-suite-airich/backup-automation-0041.md
+- [[Backup automation_2]] - document - 01-produtos/devops-suite-airich/backup-automation-0131.md
+- [[Backup automation_3]] - document - 01-produtos/devops-suite-airich/en/backup-automation-0041.md
+- [[Backup automation_1]] - rationale - 01-produtos/devops-suite-airich/backup-automation-0041.md
+- [[Backup e restore]] - document - 01-produtos/plataforma-airich/backup-e-restore-0046.md
+- [[Batch inference_2]] - document - 01-produtos/ai-assistant-airich/batch-inference-0087.md
+- [[Behavioral analysis]] - document - 01-produtos/pay-airich/behavioral-analysis-0038.md
+- [[Behavioral analysis_3]] - document - 01-produtos/pay-airich/behavioral-analysis-0128.md
+- [[Biblioteca digital]] - document - 01-produtos/edu-airich/biblioteca-digital-0024.md
+- [[Biblioteca digital_2]] - document - 01-produtos/edu-airich/biblioteca-digital-0066.md
+- [[Biblioteca digital_5]] - document - 01-produtos/edu-airich/en/biblioteca-digital-0024.md
+- [[Biblioteca digital_6]] - document - 01-produtos/edu-airich/en/biblioteca-digital-0066.md
+- [[Biblioteca digital_1]] - rationale - 01-produtos/edu-airich/biblioteca-digital-0024.md
+- [[Biometric auth]] - document - 01-produtos/mobile-airich/biometric-auth-0036.md
+- [[Biometric auth_3]] - document - 01-produtos/mobile-airich/biometric-auth-0136.md
+- [[Biometric auth_6]] - document - 01-produtos/mobile-airich/en/biometric-auth-0136.md
+- [[Blue-green deployment]] - document - 01-produtos/devops-suite-airich/blue-green-deployment-0037.md
+- [[Boleto bancário_2]] - document - 01-produtos/pay-airich/boleto-bancário-0050.md
+- [[Boleto bancário_4]] - document - 01-produtos/pay-airich/boleto-bancário-0140.md
+- [[Boleto bancário_5]] - document - 01-produtos/pay-airich/en/boleto-bancário-0140.md
+- [[Boleto bancário_1]] - rationale - 01-produtos/pay-airich/boleto-bancário-0005.md
+- [[Bug bounty program]] - document - 01-produtos/security-shield-airich/bug-bounty-program-0006.md
+- [[Bug bounty program_2]] - document - 01-produtos/security-shield-airich/en/bug-bounty-program-0096.md
+- [[Bug bounty program_1]] - rationale - 01-produtos/security-shield-airich/bug-bounty-program-0006.md
+- [[CICD mobile_2]] - document - 01-produtos/mobile-airich/ci-cd-mobile-0070.md
+- [[CICD mobile_3]] - document - 01-produtos/mobile-airich/ci-cd-mobile-0120.md
+- [[CICD mobile_4]] - document - 01-produtos/mobile-airich/en/ci-cd-mobile-0070.md
+- [[CICD mobile_5]] - document - 01-produtos/mobile-airich/en/ci-cd-mobile-0120.md
+- [[CICD mobile_1]] - rationale - 01-produtos/mobile-airich/ci-cd-mobile-0020.md
+- [[CORS configuration]] - document - 01-produtos/api-gateway-airich/cors-configuration-0028.md
+- [[CORS configuration_2]] - document - 01-produtos/api-gateway-airich/cors-configuration-0130.md
+- [[CORS configuration_3]] - document - 01-produtos/api-gateway-airich/en/cors-configuration-0028.md
+- [[CORS configuration_1]] - rationale - 01-produtos/api-gateway-airich/cors-configuration-0028.md
+- [[CSP headers]] - document - 01-produtos/security-shield-airich/csp-headers-0016.md
+- [[Call logging_2]] - document - 01-produtos/crm-airich/call-logging-0060.md
+- [[Call logging_3]] - document - 01-produtos/crm-airich/call-logging-0105.md
+- [[Canary releases]] - document - 01-produtos/devops-suite-airich/canary-releases-0038.md
+- [[Categorias de cursos_3]] - document - 01-produtos/edu-airich/categorias-de-cursos-0098.md
+- [[Causas possíveis]] - rationale - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[Certificados digitais_4]] - document - 01-produtos/edu-airich/certificados-digitais-0134.md
+- [[Certificate rotation]] - document - 01-produtos/security-shield-airich/certificate-rotation-0014.md
+- [[Certificate rotation_1]] - rationale - 01-produtos/security-shield-airich/certificate-rotation-0014.md
+- [[Changelog v1.5]] - document - 01-produtos/analytics-airich/changelog-v1.5-0049.md
+- [[Changelog v2.0_3]] - document - 01-produtos/ai-assistant-airich/changelog-v2.0-0142.md
+- [[Changelog v2.0_5]] - document - 01-produtos/ai-assistant-airich/en/changelog-v2.0-0142.md
+- [[Changelog v2.0_11]] - document - 01-produtos/pay-airich/changelog-v2.0-0043.md
+- [[Changelog v2.0_13]] - document - 01-produtos/pay-airich/changelog-v2.0-0133.md
+- [[Changelog v2.1_2]] - document - 01-produtos/api-gateway-airich/changelog-v2.1-0072.md
+- [[Changelog v3.0]] - document - 01-produtos/devops-suite-airich/changelog-v3.0-0043.md
+- [[Changelog v3.0_2]] - document - 01-produtos/devops-suite-airich/changelog-v3.0-0088.md
+- [[Changelog v3.0_3]] - document - 01-produtos/devops-suite-airich/changelog-v3.0-0133.md
+- [[Changelog v4.0]] - document - 01-produtos/mobile-airich/changelog-v4.0-0045.md
+- [[Changelog v4.0_3]] - document - 01-produtos/mobile-airich/changelog-v4.0-0145.md
+- [[Changelog v4.1]] - document - 01-produtos/mobile-airich/changelog-v4.1-0046.md
+- [[Changelog v5.0_2]] - document - 01-produtos/crm-airich/changelog-v5.0-0088.md
+- [[Chaos engineering]] - document - 01-produtos/devops-suite-airich/chaos-engineering-0023.md
+- [[Chargeback management]] - document - 01-produtos/pay-airich/chargeback-management-0012.md
+- [[Chargeback management_3]] - document - 01-produtos/pay-airich/chargeback-management-0102.md
+- [[Chargeback management_5]] - document - 01-produtos/pay-airich/en/chargeback-management-0012.md
+- [[Chargeback representment_2]] - document - 01-produtos/pay-airich/chargeback-representment-0087.md
+- [[Chargeback representment_3]] - document - 01-produtos/pay-airich/chargeback-representment-0132.md
+- [[Chargeback representment_4]] - document - 01-produtos/pay-airich/en/chargeback-representment-0042.md
+- [[Chargeback representment_5]] - document - 01-produtos/pay-airich/en/chargeback-representment-0132.md
+- [[Chargeback representment_1]] - rationale - 01-produtos/pay-airich/chargeback-representment-0042.md
+- [[Chat integration]] - document - 01-produtos/crm-airich/chat-integration-0026.md
+- [[Chat integration_2]] - document - 01-produtos/crm-airich/chat-integration-0071.md
+- [[Chat integration_4]] - document - 01-produtos/crm-airich/en/chat-integration-0071.md
+- [[Chat integration_1]] - rationale - 01-produtos/crm-airich/chat-integration-0026.md
+- [[Checkout integration]] - document - 01-produtos/pay-airich/checkout-integration-0021.md
+- [[Checkout integration_2]] - document - 01-produtos/pay-airich/checkout-integration-0066.md
+- [[Checkout integration_3]] - document - 01-produtos/pay-airich/checkout-integration-0111.md
+- [[Checkout integration_4]] - document - 01-produtos/pay-airich/en/checkout-integration-0021.md
+- [[Checkout integration_5]] - document - 01-produtos/pay-airich/en/checkout-integration-0066.md
+- [[Checkout integration_6]] - document - 01-produtos/pay-airich/en/checkout-integration-0111.md
+- [[Checkout integration_1]] - rationale - 01-produtos/pay-airich/checkout-integration-0021.md
+- [[Chunking strategies]] - document - 01-produtos/ai-assistant-airich/chunking-strategies-0009.md
+- [[Circuit breaker pattern]] - document - 01-produtos/api-gateway-airich/circuit-breaker-pattern-0009.md
+- [[Client libraries]] - document - 01-produtos/api-gateway-airich/client-libraries-0048.md
+- [[Client libraries_2]] - document - 01-produtos/api-gateway-airich/client-libraries-0099.md
+- [[Client libraries_4]] - document - 01-produtos/api-gateway-airich/en/client-libraries-0099.md
+- [[Coaching tools]] - document - 01-produtos/crm-airich/coaching-tools-0036.md
+- [[Code Review]] - rationale - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[Code review checklist]] - document - 01-produtos/mobile-airich/code-review-checklist-0049.md
+- [[ComplAInce PCI-DSS_3]] - document - 01-produtos/pay-airich/en/compliance-pci-dss-0120.md
+- [[Compliance ISO27001]] - document - 01-produtos/security-shield-airich/compliance-iso27001-0038.md
+- [[Compliance PCI-DSS_3]] - document - 01-produtos/pay-airich/compliance-pci-dss-0120.md
+- [[Compliance SOC2]] - document - 01-produtos/security-shield-airich/compliance-soc2-0037.md
+- [[Compliance docs_3]] - document - 01-produtos/api-gateway-airich/compliance-docs-0141.md
+- [[Configuração de CDN_3]] - document - 01-produtos/plataforma-airich/configuração-de-cdn-0137.md
+- [[Configuração de SSO_2]] - document - 01-produtos/plataforma-airich/configuração-de-sso-0079.md
+- [[Configurações de tenant]] - document - 01-produtos/plataforma-airich/configurações-de-tenant-0009.md
+- [[Configurações de tenant_2]] - document - 01-produtos/plataforma-airich/en/configurações-de-tenant-0009.md
+- [[Configurações de tenant_1]] - rationale - 01-produtos/plataforma-airich/configurações-de-tenant-0009.md
+- [[Configurações do app_2]] - document - 01-produtos/mobile-airich/configurações-do-app-0064.md
+- [[Configurações do app_3]] - document - 01-produtos/mobile-airich/configurações-do-app-0114.md
+- [[Content filtering]] - document - 01-produtos/ai-assistant-airich/content-filtering-0027.md
+- [[Content filtering_2]] - document - 01-produtos/ai-assistant-airich/content-filtering-0123.md
+- [[Content filtering_3]] - document - 01-produtos/ai-assistant-airich/en/content-filtering-0027.md
+- [[Content filtering_1]] - rationale - 01-produtos/ai-assistant-airich/content-filtering-0027.md
+- [[Context window management]] - document - 01-produtos/ai-assistant-airich/context-window-management-0011.md
+- [[Context window management_2]] - document - 01-produtos/ai-assistant-airich/en/context-window-management-0011.md
+- [[Context window management_1]] - rationale - 01-produtos/ai-assistant-airich/context-window-management-0011.md
+- [[Contratos comerciais]] - document - 01-produtos/pay-airich/contratos-comerciais-0029.md
+- [[Criação de conteúdo_2]] - document - 01-produtos/edu-airich/criação-de-conteúdo-0046.md
+- [[Criação de conteúdo_4]] - document - 01-produtos/edu-airich/criação-de-conteúdo-0130.md
+- [[DAST integration_3]] - document - 01-produtos/devops-suite-airich/dast-integration-0117.md
+- [[DDoS protection]] - document - 01-produtos/security-shield-airich/ddos-protection-0008.md
+- [[DDoS protection_2]] - document - 01-produtos/security-shield-airich/en/ddos-protection-0053.md
+- [[DDoS protection_1]] - rationale - 01-produtos/security-shield-airich/ddos-protection-0008.md
+- [[DNS management]] - document - 01-produtos/devops-suite-airich/dns-management-0033.md
+- [[DNS management_4]] - document - 01-produtos/devops-suite-airich/en/dns-management-0033.md
+- [[Dashboard comercial_3]] - document - 01-produtos/crm-airich/dashboard-comercial-0100.md
+- [[Dashboard commercAIl_2]] - document - 01-produtos/crm-airich/en/dashboard-comercial-0100.md
+- [[Dashboards executivos]] - document - 01-produtos/analytics-airich/dashboards-executivos-0010.md
+- [[Dashboards executivos_2]] - document - 01-produtos/analytics-airich/en/dashboards-executivos-0061.md
+- [[Dashboards executivos_1]] - rationale - 01-produtos/analytics-airich/dashboards-executivos-0010.md
+- [[Data deduplication]] - document - 01-produtos/crm-airich/data-deduplication-0041.md
+- [[Data export]] - document - 01-produtos/crm-airich/data-export-0040.md
+- [[Data governance]] - document - 01-produtos/analytics-airich/data-governance-0037.md
+- [[Data governance_2]] - document - 01-produtos/analytics-airich/data-governance-0088.md
+- [[Data governance_3]] - document - 01-produtos/analytics-airich/data-governance-0139.md
+- [[Data governance_1]] - rationale - 01-produtos/analytics-airich/data-governance-0037.md
+- [[Data import_3]] - document - 01-produtos/crm-airich/data-import-0129.md
+- [[Data import_1]] - rationale - 01-produtos/crm-airich/data-import-0039.md
+- [[Data quality checks_2]] - document - 01-produtos/analytics-airich/data-quality-checks-0087.md
+- [[Data quality checks_3]] - document - 01-produtos/analytics-airich/data-quality-checks-0138.md
+- [[Data quality checks_1]] - rationale - 01-produtos/analytics-airich/data-quality-checks-0036.md
+- [[Data warehouse schema]] - document - 01-produtos/analytics-airich/data-warehouse-schema-0004.md
+- [[Data warehouse schema_1]] - rationale - 01-produtos/analytics-airich/data-warehouse-schema-0004.md
+- [[Database migrations]] - document - 01-produtos/devops-suite-airich/database-migrations-0040.md
+- [[Database migrations_1]] - rationale - 01-produtos/devops-suite-airich/database-migrations-0040.md
+- [[Date import]] - document - 01-produtos/crm-airich/en/data-import-0129.md
+- [[Date import_1]] - rationale - 01-produtos/crm-airich/en/data-import-0129.md
+- [[Date quality checks]] - document - 01-produtos/analytics-airich/en/data-quality-checks-0036.md
+- [[Date quality checks_1]] - rationale - 01-produtos/analytics-airich/en/data-quality-checks-0036.md
+- [[Datebase migrations]] - document - 01-produtos/devops-suite-airich/en/database-migrations-0040.md
+- [[Datebase migrations_1]] - rationale - 01-produtos/devops-suite-airich/en/database-migrations-0040.md
+- [[Dependency scanning]] - document - 01-produtos/devops-suite-airich/dependency-scanning-0028.md
+- [[Deploy]] - rationale - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[Desenvolvimento]] - rationale - 01-produtos/ai-assistant-airich/arquitetura-do-modelo-0098.md
+- [[Device fingerprinting]] - document - 01-produtos/pay-airich/device-fingerprinting-0037.md
+- [[Disaster recovery]] - document - 01-produtos/devops-suite-airich/disaster-recovery-0042.md
+- [[Disaster recovery_3]] - document - 01-produtos/devops-suite-airich/en/disaster-recovery-0042.md
+- [[Disaster recovery data]] - document - 01-produtos/analytics-airich/disaster-recovery-data-0044.md
+- [[Disaster recovery data_1]] - rationale - 01-produtos/analytics-airich/disaster-recovery-data-0044.md
+- [[Dispute resolution_2]] - document - 01-produtos/pay-airich/dispute-resolution-0085.md
+- [[Dispute resolution_3]] - document - 01-produtos/pay-airich/dispute-resolution-0130.md
+- [[Dispute resolution_5]] - document - 01-produtos/pay-airich/en/dispute-resolution-0085.md
+- [[Dispute resolution_6]] - document - 01-produtos/pay-airich/en/dispute-resolution-0130.md
+- [[Dispute resolution_1]] - rationale - 01-produtos/pay-airich/dispute-resolution-0040.md
+- [[Distribuição vAI Play Store]] - document - 01-produtos/mobile-airich/en/distribuição-via-play-store-0022.md
+- [[Distribuição vAI Play Store_1]] - rationale - 01-produtos/mobile-airich/en/distribuição-via-play-store-0022.md
+- [[Distribuição via App Store]] - document - 01-produtos/mobile-airich/distribuição-via-app-store-0023.md
+- [[Distribuição via App Store_1]] - rationale - 01-produtos/mobile-airich/distribuição-via-app-store-0023.md
+- [[Distribuição via Play Store]] - document - 01-produtos/mobile-airich/distribuição-via-play-store-0022.md
+- [[Distribuição via Play Store_1]] - rationale - 01-produtos/mobile-airich/distribuição-via-play-store-0022.md
+- [[Distributed tracing_2]] - document - 01-produtos/devops-suite-airich/en/distributed-tracing-0060.md
+- [[Docker containerization]] - document - 01-produtos/devops-suite-airich/docker-containerization-0005.md
+- [[Docker containerization_1]] - rationale - 01-produtos/devops-suite-airich/docker-containerization-0005.md
+- [[Documentação OpenAPI 3.0]] - document - 01-produtos/api-gateway-airich/documentação-openapi-3.0-0007.md
+- [[Documentação de deploy]] - document - 01-produtos/plataforma-airich/documentação-de-deploy-0042.md
+- [[Downloads e recursos_4]] - document - 01-produtos/edu-airich/downloads-e-recursos-0149.md
+- [[Drift detection_3]] - document - 01-produtos/ai-assistant-airich/drift-detection-0140.md
+- [[ELK stack_2]] - document - 01-produtos/devops-suite-airich/elk-stack-0059.md
+- [[ELK stack_3]] - document - 01-produtos/devops-suite-airich/elk-stack-0104.md
+- [[ETL com Apache Spark]] - document - 01-produtos/analytics-airich/etl-com-apache-spark-0007.md
+- [[Entity extraction_3]] - document - 01-produtos/ai-assistant-airich/en/entity-extraction-0016.md
+- [[Entity extraction]] - document - 01-produtos/ai-assistant-airich/entity-extraction-0016.md
+- [[Entity extraction_2]] - document - 01-produtos/ai-assistant-airich/entity-extraction-0112.md
+- [[Entity extraction_1]] - rationale - 01-produtos/ai-assistant-airich/entity-extraction-0016.md
+- [[Error handling]] - document - 01-produtos/mobile-airich/error-handling-0031.md
+- [[Especificação de feature flags_2]] - document - 01-produtos/plataforma-airich/en/especificação-de-feature-flags-0022.md
+- [[Especificação de feature flags]] - document - 01-produtos/plataforma-airich/especificação-de-feature-flags-0022.md
+- [[Especificação de feature flags_1]] - rationale - 01-produtos/plataforma-airich/especificação-de-feature-flags-0022.md
+- [[Estágios do pipeline_5]] - document - 01-produtos/crm-airich/en/estágios-do-pipeline-0007.md
+- [[Estágios do pipeline]] - document - 01-produtos/crm-airich/estágios-do-pipeline-0007.md
+- [[Estágios do pipeline_2]] - document - 01-produtos/crm-airich/estágios-do-pipeline-0052.md
+- [[Estágios do pipeline_4]] - document - 01-produtos/crm-airich/estágios-do-pipeline-0142.md
+- [[Estágios do pipeline_1]] - rationale - 01-produtos/crm-airich/estágios-do-pipeline-0007.md
+- [[Ethics guidelines_3]] - document - 01-produtos/ai-assistant-airich/en/ethics-guidelines-0048.md
+- [[Ethics guidelines]] - document - 01-produtos/ai-assistant-airich/ethics-guidelines-0048.md
+- [[Ethics guidelines_1]] - rationale - 01-produtos/ai-assistant-airich/ethics-guidelines-0048.md
+- [[Event streaming_3]] - document - 01-produtos/api-gateway-airich/event-streaming-0134.md
+- [[Exemplos de uso_6]] - document - 01-produtos/api-gateway-airich/en/exemplos-de-uso-0120.md
+- [[Exemplos de uso_3]] - document - 01-produtos/api-gateway-airich/exemplos-de-uso-0120.md
+- [[Exportação de dados_3]] - document - 01-produtos/analytics-airich/exportação-de-dados-0130.md
+- [[Extrato de transações_2]] - document - 01-produtos/pay-airich/extrato-de-transações-0059.md
+- [[Extrato de transações_4]] - document - 01-produtos/pay-airich/extrato-de-transações-0149.md
+- [[FAQ técnico]] - document - 01-produtos/plataforma-airich/faq-técnico-0027.md
+- [[Face ID support_6]] - document - 01-produtos/mobile-airich/en/face-id-support-0137.md
+- [[Face ID support_3]] - document - 01-produtos/mobile-airich/face-id-support-0137.md
+- [[Feedback contínuo_5]] - document - 01-produtos/edu-airich/en/feedback-contínuo-0080.md
+- [[Feedback contínuo_2]] - document - 01-produtos/edu-airich/feedback-contínuo-0080.md
+- [[Fine-tuning process]] - document - 01-produtos/ai-assistant-airich/fine-tuning-process-0005.md
+- [[Fingerprint support_5]] - document - 01-produtos/mobile-airich/en/fingerprint-support-0138.md
+- [[Fingerprint support_3]] - document - 01-produtos/mobile-airich/fingerprint-support-0138.md
+- [[Firewall rules_2]] - document - 01-produtos/security-shield-airich/firewall-rules-0120.md
+- [[Forecast de vendas]] - document - 01-produtos/crm-airich/forecast-de-vendas-0008.md
+- [[Forecast de vendas_3]] - document - 01-produtos/crm-airich/forecast-de-vendas-0098.md
+- [[Forecast de vendas_4]] - document - 01-produtos/crm-airich/forecast-de-vendas-0143.md
+- [[Forecast de vendas_1]] - rationale - 01-produtos/crm-airich/forecast-de-vendas-0008.md
+- [[Forensics procedures]] - document - 01-produtos/security-shield-airich/forensics-procedures-0035.md
+- [[Formulários web_4]] - document - 01-produtos/crm-airich/en/formulários-web-0117.md
+- [[Formulários web]] - document - 01-produtos/crm-airich/formulários-web-0027.md
+- [[Formulários web_2]] - document - 01-produtos/crm-airich/formulários-web-0072.md
+- [[Formulários web_3]] - document - 01-produtos/crm-airich/formulários-web-0117.md
+- [[Formulários web_1]] - rationale - 01-produtos/crm-airich/formulários-web-0027.md
+- [[Fraud detection ML_2]] - document - 01-produtos/pay-airich/fraud-detection-ml-0079.md
+- [[Funnel analysis_2]] - document - 01-produtos/analytics-airich/funnel-analysis-0066.md
+- [[Funnel analysis_3]] - document - 01-produtos/analytics-airich/funnel-analysis-0117.md
+- [[Fóruns de discussão_5]] - document - 01-produtos/edu-airich/en/fóruns-de-discussão-0018.md
+- [[Fóruns de discussão]] - document - 01-produtos/edu-airich/fóruns-de-discussão-0018.md
+- [[Fóruns de discussão_3]] - document - 01-produtos/edu-airich/fóruns-de-discussão-0102.md
+- [[Fóruns de discussão_1]] - rationale - 01-produtos/edu-airich/fóruns-de-discussão-0018.md
+- [[GDPR complAInce]] - document - 01-produtos/crm-airich/en/gdpr-compliance-0087.md
+- [[GDPR compliance_2]] - document - 01-produtos/crm-airich/gdpr-compliance-0087.md
+- [[Gamificação educacional]] - document - 01-produtos/edu-airich/gamificação-educacional-0010.md
+- [[Gamificação educacional_2]] - document - 01-produtos/edu-airich/gamificação-educacional-0052.md
+- [[Gamificação educacional_4]] - document - 01-produtos/edu-airich/gamificação-educacional-0136.md
+- [[Geo-blocking security_2]] - document - 01-produtos/security-shield-airich/en/geo-blocking-security-0102.md
+- [[Geo-blocking security]] - document - 01-produtos/security-shield-airich/geo-blocking-security-0012.md
+- [[Geo-blocking security_1]] - rationale - 01-produtos/security-shield-airich/geo-blocking-security-0012.md
+- [[Gestão de empresas]] - document - 01-produtos/crm-airich/gestão-de-empresas-0012.md
+- [[Gestão de oportunidades_5]] - document - 01-produtos/crm-airich/en/gestão-de-oportunidades-0006.md
+- [[Gestão de oportunidades_6]] - document - 01-produtos/crm-airich/en/gestão-de-oportunidades-0096.md
+- [[Gestão de oportunidades]] - document - 01-produtos/crm-airich/gestão-de-oportunidades-0006.md
+- [[Gestão de oportunidades_3]] - document - 01-produtos/crm-airich/gestão-de-oportunidades-0096.md
+- [[Gestão de oportunidades_1]] - rationale - 01-produtos/crm-airich/gestão-de-oportunidades-0006.md
+- [[GitLab CI integration]] - document - 01-produtos/devops-suite-airich/gitlab-ci-integration-0004.md
+- [[Glossary de métricas_2]] - document - 01-produtos/analytics-airich/glossary-de-métricas-0102.md
+- [[GraphQL proxy_4]] - document - 01-produtos/api-gateway-airich/en/graphql-proxy-0034.md
+- [[GraphQL proxy_5]] - document - 01-produtos/api-gateway-airich/en/graphql-proxy-0136.md
+- [[GraphQL proxy]] - document - 01-produtos/api-gateway-airich/graphql-proxy-0034.md
+- [[GraphQL proxy_3]] - document - 01-produtos/api-gateway-airich/graphql-proxy-0136.md
+- [[GraphQL proxy_1]] - rationale - 01-produtos/api-gateway-airich/graphql-proxy-0034.md
+- [[GuAI de migração v2 para v3]] - document - 01-produtos/plataforma-airich/en/guia-de-migração-v2-para-v3-0017.md
+- [[GuAI de migração v2 para v3_1]] - rationale - 01-produtos/plataforma-airich/en/guia-de-migração-v2-para-v3-0017.md
+- [[Guia de contribuição]] - document - 01-produtos/mobile-airich/guia-de-contribuição-0048.md
+- [[Guia de contribuição_3]] - document - 01-produtos/mobile-airich/guia-de-contribuição-0148.md
+- [[Guia de contribuição_1]] - rationale - 01-produtos/mobile-airich/guia-de-contribuição-0048.md
+- [[Guia de migração v2 para v3]] - document - 01-produtos/plataforma-airich/guia-de-migração-v2-para-v3-0017.md
+- [[Guia de migração v2 para v3_1]] - rationale - 01-produtos/plataforma-airich/guia-de-migração-v2-para-v3-0017.md
+- [[Guia de troubleshooting]] - document - 01-produtos/plataforma-airich/guia-de-troubleshooting-0026.md
+- [[Guia de troubleshooting_1]] - rationale - 01-produtos/plataforma-airich/guia-de-troubleshooting-0026.md
+- [[Health checks_3]] - document - 01-produtos/api-gateway-airich/health-checks-0115.md
+- [[Helm charts_4]] - document - 01-produtos/devops-suite-airich/helm-charts-0142.md
+- [[Histórico de interações_4]] - document - 01-produtos/crm-airich/histórico-de-interações-0148.md
+- [[Image caching]] - document - 01-produtos/mobile-airich/image-caching-0029.md
+- [[In-app updates_2]] - document - 01-produtos/mobile-airich/in-app-updates-0092.md
+- [[Index strategies_2]] - document - 01-produtos/analytics-airich/index-strategies-0093.md
+- [[Index strategies_3]] - document - 01-produtos/analytics-airich/index-strategies-0144.md
+- [[Index strategies_1]] - rationale - 01-produtos/analytics-airich/index-strategies-0042.md
+- [[Input validation_2]] - document - 01-produtos/security-shield-airich/en/input-validation-0020.md
+- [[Input validation]] - document - 01-produtos/security-shield-airich/input-validation-0020.md
+- [[Input validation_1]] - rationale - 01-produtos/security-shield-airich/input-validation-0020.md
+- [[Integration guide_4]] - document - 01-produtos/pay-airich/en/integration-guide-0090.md
+- [[Integration guide_5]] - document - 01-produtos/pay-airich/en/integration-guide-0135.md
+- [[Integration guide]] - document - 01-produtos/pay-airich/integration-guide-0045.md
+- [[Integration guide_2]] - document - 01-produtos/pay-airich/integration-guide-0090.md
+- [[Integration guide_3]] - document - 01-produtos/pay-airich/integration-guide-0135.md
+- [[Integration guide_1]] - rationale - 01-produtos/pay-airich/integration-guide-0045.md
+- [[Integration guides_4]] - document - 01-produtos/analytics-airich/en/integration-guides-0046.md
+- [[Integration guides]] - document - 01-produtos/analytics-airich/integration-guides-0046.md
+- [[Integration guides_2]] - document - 01-produtos/analytics-airich/integration-guides-0097.md
+- [[Integration guides_1]] - rationale - 01-produtos/analytics-airich/integration-guides-0046.md
+- [[Integração LMS_4]] - document - 01-produtos/edu-airich/en/integração-lms-0073.md
+- [[Integração LMS_2]] - document - 01-produtos/edu-airich/integração-lms-0073.md
+- [[Integração OAuth2_5]] - document - 01-produtos/plataforma-airich/en/integração-oauth2-0081.md
+- [[Integração OAuth2_6]] - document - 01-produtos/plataforma-airich/en/integração-oauth2-0130.md
+- [[Integração OAuth2_2]] - document - 01-produtos/plataforma-airich/integração-oauth2-0081.md
+- [[Integração OAuth2_3]] - document - 01-produtos/plataforma-airich/integração-oauth2-0130.md
+- [[Integração OAuth2_1]] - rationale - 01-produtos/plataforma-airich/integração-oauth2-0032.md
+- [[Integração SAML_4]] - document - 01-produtos/plataforma-airich/en/integração-saml-0031.md
+- [[Integração SAML_6]] - document - 01-produtos/plataforma-airich/en/integração-saml-0129.md
+- [[Integração SAML]] - document - 01-produtos/plataforma-airich/integração-saml-0031.md
+- [[Integração SAML_3]] - document - 01-produtos/plataforma-airich/integração-saml-0129.md
+- [[Integração com API Gateway]] - document - 01-produtos/plataforma-airich/integração-com-api-gateway-0006.md
+- [[Integração com calendário_3]] - document - 01-produtos/crm-airich/integração-com-calendário-0113.md
+- [[Integração contábil_4]] - document - 01-produtos/pay-airich/en/integração-contábil-0062.md
+- [[Integração contábil_5]] - document - 01-produtos/pay-airich/en/integração-contábil-0107.md
+- [[Integração contábil]] - document - 01-produtos/pay-airich/integração-contábil-0017.md
+- [[Integração contábil_2]] - document - 01-produtos/pay-airich/integração-contábil-0062.md
+- [[Integração contábil_3]] - document - 01-produtos/pay-airich/integração-contábil-0107.md
+- [[Integração contábil_1]] - rationale - 01-produtos/pay-airich/integração-contábil-0017.md
+- [[Intent classification_2]] - document - 01-produtos/ai-assistant-airich/en/intent-classification-0015.md
+- [[Intent classification]] - document - 01-produtos/ai-assistant-airich/intent-classification-0015.md
+- [[Intent classification_1]] - rationale - 01-produtos/ai-assistant-airich/intent-classification-0015.md
+- [[Intrusion detection]] - document - 01-produtos/security-shield-airich/intrusion-detection-0031.md
+- [[Istio configuration]] - document - 01-produtos/devops-suite-airich/istio-configuration-0035.md
+- [[JWT validation_5]] - document - 01-produtos/api-gateway-airich/en/jwt-validation-0056.md
+- [[JWT validation_2]] - document - 01-produtos/api-gateway-airich/jwt-validation-0056.md
+- [[KPIs principais_3]] - document - 01-produtos/analytics-airich/kpis-principais-0116.md
+- [[Keychain integration]] - document - 01-produtos/mobile-airich/keychain-integration-0035.md
+- [[Keychain integration_2]] - document - 01-produtos/mobile-airich/keychain-integration-0085.md
+- [[Keychain integration_3]] - document - 01-produtos/mobile-airich/keychain-integration-0135.md
+- [[Keychain integration_1]] - rationale - 01-produtos/mobile-airich/keychain-integration-0035.md
+- [[Kickoff]] - rationale - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[Kubernetes orchestration_2]] - document - 01-produtos/devops-suite-airich/en/kubernetes-orchestration-0096.md
+- [[Kubernetes orchestration]] - document - 01-produtos/devops-suite-airich/kubernetes-orchestration-0006.md
+- [[Kubernetes orchestration_1]] - rationale - 01-produtos/devops-suite-airich/kubernetes-orchestration-0006.md
+- [[Language detection]] - document - 01-produtos/ai-assistant-airich/language-detection-0018.md
+- [[Lazy loading_3]] - document - 01-produtos/mobile-airich/lazy-loading-0128.md
+- [[Leaderboard_4]] - document - 01-produtos/crm-airich/en/leaderboard-0035.md
+- [[Leaderboard]] - document - 01-produtos/crm-airich/leaderboard-0035.md
+- [[Leaderboard_1]] - rationale - 01-produtos/crm-airich/leaderboard-0035.md
+- [[Leaderboard eduCACional]] - document - 01-produtos/edu-airich/en/leaderboard-educacional-0053.md
+- [[Leaderboard eduCACional_1]] - document - 01-produtos/edu-airich/en/leaderboard-educacional-0095.md
+- [[Leaderboard educacional_2]] - document - 01-produtos/edu-airich/leaderboard-educacional-0053.md
+- [[Leaderboard educacional_3]] - document - 01-produtos/edu-airich/leaderboard-educacional-0095.md
+- [[Leaderboard educacional_4]] - document - 01-produtos/edu-airich/leaderboard-educacional-0137.md
+- [[Leaderboard educacional_1]] - rationale - 01-produtos/edu-airich/leaderboard-educacional-0011.md
+- [[Legendas e transcrições]] - document - 01-produtos/edu-airich/legendas-e-transcrições-0029.md
+- [[Link de pagamento]] - document - 01-produtos/pay-airich/link-de-pagamento-0022.md
+- [[Load balancing_3]] - document - 01-produtos/api-gateway-airich/load-balancing-0114.md
+- [[Load testing_4]] - document - 01-produtos/devops-suite-airich/en/load-testing-0114.md
+- [[Load testing_3]] - document - 01-produtos/devops-suite-airich/load-testing-0114.md
+- [[Load testing_1]] - rationale - 01-produtos/devops-suite-airich/load-testing-0024.md
+- [[Log aggregation_4]] - document - 01-produtos/devops-suite-airich/en/log-aggregation-0017.md
+- [[Log aggregation]] - document - 01-produtos/devops-suite-airich/log-aggregation-0017.md
+- [[Logs e monitoramento]] - document - 01-produtos/plataforma-airich/logs-e-monitoramento-0025.md
+- [[Logs e monitoramento_1]] - rationale - 01-produtos/plataforma-airich/logs-e-monitoramento-0025.md
+- [[Logs e monitoring]] - document - 01-produtos/plataforma-airich/en/logs-e-monitoramento-0025.md
+- [[Logs e monitoring_1]] - rationale - 01-produtos/plataforma-airich/en/logs-e-monitoramento-0025.md
+- [[MFA implementation_2]] - document - 01-produtos/security-shield-airich/en/mfa-implementation-0068.md
+- [[MFA implementation]] - document - 01-produtos/security-shield-airich/mfa-implementation-0023.md
+- [[MFA implementation_1]] - rationale - 01-produtos/security-shield-airich/mfa-implementation-0023.md
+- [[Manual review queue_4]] - document - 01-produtos/pay-airich/en/manual-review-queue-0084.md
+- [[Manual review queue_2]] - document - 01-produtos/pay-airich/manual-review-queue-0084.md
+- [[Marketplace payments_5]] - document - 01-produtos/pay-airich/en/marketplace-payments-0010.md
+- [[Marketplace payments_6]] - document - 01-produtos/pay-airich/en/marketplace-payments-0055.md
+- [[Marketplace payments]] - document - 01-produtos/pay-airich/marketplace-payments-0010.md
+- [[Marketplace payments_2]] - document - 01-produtos/pay-airich/marketplace-payments-0055.md
+- [[MaterAIl complementar_2]] - document - 01-produtos/edu-airich/en/material-complementar-0106.md
+- [[Material complementar_2]] - document - 01-produtos/edu-airich/material-complementar-0064.md
+- [[Material complementar_3]] - document - 01-produtos/edu-airich/material-complementar-0106.md
+- [[Melhorias de UX]] - document - 01-produtos/edu-airich/melhorias-de-ux-0039.md
+- [[Middleware pipeline_2]] - document - 01-produtos/api-gateway-airich/en/middleware-pipeline-0025.md
+- [[Middleware pipeline]] - document - 01-produtos/api-gateway-airich/middleware-pipeline-0025.md
+- [[Middleware pipeline_1]] - rationale - 01-produtos/api-gateway-airich/middleware-pipeline-0025.md
+- [[Migration guides_4]] - document - 01-produtos/api-gateway-airich/en/migration-guides-0098.md
+- [[Migration guides_5]] - document - 01-produtos/api-gateway-airich/en/migration-guides-0149.md
+- [[Migration guides_2]] - document - 01-produtos/api-gateway-airich/migration-guides-0098.md
+- [[Migration guides_3]] - document - 01-produtos/api-gateway-airich/migration-guides-0149.md
+- [[Migration guides_1]] - rationale - 01-produtos/api-gateway-airich/migration-guides-0047.md
+- [[Model evaluation metrics_2]] - document - 01-produtos/ai-assistant-airich/en/model-evaluation-metrics-0033.md
+- [[Model evaluation metrics]] - document - 01-produtos/ai-assistant-airich/model-evaluation-metrics-0033.md
+- [[Model evaluation metrics_1]] - rationale - 01-produtos/ai-assistant-airich/model-evaluation-metrics-0033.md
+- [[Model versioning]] - document - 01-produtos/ai-assistant-airich/model-versioning-0041.md
+- [[Modelagem dimensional]] - document - 01-produtos/analytics-airich/modelagem-dimensional-0005.md
+- [[Modelagem dimensional_1]] - rationale - 01-produtos/analytics-airich/modelagem-dimensional-0005.md
+- [[Modo noturno_3]] - document - 01-produtos/edu-airich/modo-noturno-0111.md
+- [[Monitoramento]] - rationale - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[Monitoring stack_5]] - document - 01-produtos/devops-suite-airich/en/monitoring-stack-0011.md
+- [[Monitoring stack]] - document - 01-produtos/devops-suite-airich/monitoring-stack-0011.md
+- [[Monitoring stack_3]] - document - 01-produtos/devops-suite-airich/monitoring-stack-0101.md
+- [[Monitoring stack_1]] - rationale - 01-produtos/devops-suite-airich/monitoring-stack-0011.md
+- [[Multi-region deployment]] - document - 01-produtos/api-gateway-airich/multi-region-deployment-0044.md
+- [[Métricas de uptime]] - document - 01-produtos/plataforma-airich/métricas-de-uptime-0049.md
+- [[Métricas e analytics_2]] - document - 01-produtos/api-gateway-airich/en/métricas-e-analytics-0065.md
+- [[Métricas e analytics]] - document - 01-produtos/api-gateway-airich/métricas-e-analytics-0014.md
+- [[Métricas e analytics_1]] - rationale - 01-produtos/api-gateway-airich/métricas-e-analytics-0014.md
+- [[Módulo de auditoria]] - document - 01-produtos/plataforma-airich/módulo-de-auditoria-0024.md
+- [[Módulo de auditoria_3]] - document - 01-produtos/plataforma-airich/módulo-de-auditoria-0122.md
+- [[Módulo de auditoria_1]] - rationale - 01-produtos/plataforma-airich/módulo-de-auditoria-0024.md
+- [[Módulo de autenticação_3]] - document - 01-produtos/plataforma-airich/en/módulo-de-autenticação-0052.md
+- [[Módulo de autenticação_2]] - document - 01-produtos/plataforma-airich/módulo-de-autenticação-0101.md
+- [[Módulo de autenticação_1]] - rationale - 01-produtos/plataforma-airich/módulo-de-autenticação-0003.md
+- [[Módulo de billing_5]] - document - 01-produtos/plataforma-airich/en/módulo-de-billing-0060.md
+- [[Módulo de billing_2]] - document - 01-produtos/plataforma-airich/módulo-de-billing-0060.md
+- [[Módulo de exportação de dados]] - document - 01-produtos/plataforma-airich/módulo-de-exportação-de-dados-0035.md
+- [[Módulo de exportação de dados_1]] - rationale - 01-produtos/plataforma-airich/módulo-de-exportação-de-dados-0035.md
+- [[Módulo de perfil_4]] - document - 01-produtos/mobile-airich/en/módulo-de-perfil-0113.md
+- [[Módulo de perfil_2]] - document - 01-produtos/mobile-airich/módulo-de-perfil-0063.md
+- [[Módulo de perfil_3]] - document - 01-produtos/mobile-airich/módulo-de-perfil-0113.md
+- [[Módulo de perfil_1]] - rationale - 01-produtos/mobile-airich/módulo-de-perfil-0013.md
+- [[Módulo de relatórios_3]] - document - 01-produtos/plataforma-airich/módulo-de-relatórios-0106.md
+- [[NPS educacional_3]] - document - 01-produtos/edu-airich/nps-educacional-0121.md
+- [[Navegação e roteamento_4]] - document - 01-produtos/mobile-airich/en/navegação-e-roteamento-0004.md
+- [[Navegação e roteamento]] - document - 01-produtos/mobile-airich/navegação-e-roteamento-0004.md
+- [[Network segmentation_2]] - document - 01-produtos/security-shield-airich/en/network-segmentation-0029.md
+- [[Network segmentation]] - document - 01-produtos/security-shield-airich/network-segmentation-0029.md
+- [[Network segmentation_1]] - rationale - 01-produtos/security-shield-airich/network-segmentation-0029.md
+- [[Offline access_4]] - document - 01-produtos/edu-airich/en/offline-access-0026.md
+- [[Offline access_5]] - document - 01-produtos/edu-airich/en/offline-access-0068.md
+- [[Offline access]] - document - 01-produtos/edu-airich/offline-access-0026.md
+- [[Offline access_2]] - document - 01-produtos/edu-airich/offline-access-0068.md
+- [[Offline access_3]] - document - 01-produtos/edu-airich/offline-access-0110.md
+- [[Offline access_1]] - rationale - 01-produtos/edu-airich/offline-access-0026.md
+- [[Onboarding de instrutores_2]] - document - 01-produtos/edu-airich/onboarding-de-instrutores-0084.md
+- [[Onboarding de novos clientes]] - document - 01-produtos/plataforma-airich/onboarding-de-novos-clientes-0010.md
+- [[Onboarding de novos clientes_1]] - rationale - 01-produtos/plataforma-airich/onboarding-de-novos-clientes-0010.md
+- [[Onboarding de novos clients]] - document - 01-produtos/plataforma-airich/en/onboarding-de-novos-clientes-0010.md
+- [[Onboarding de novos clients_1]] - rationale - 01-produtos/plataforma-airich/en/onboarding-de-novos-clientes-0010.md
+- [[Onboarding flow_5]] - document - 01-produtos/mobile-airich/en/onboarding-flow-0061.md
+- [[Onboarding flow]] - document - 01-produtos/mobile-airich/onboarding-flow-0011.md
+- [[Onboarding flow_2]] - document - 01-produtos/mobile-airich/onboarding-flow-0061.md
+- [[Onboarding flow_3]] - document - 01-produtos/mobile-airich/onboarding-flow-0111.md
+- [[Onboarding flow_1]] - rationale - 01-produtos/mobile-airich/onboarding-flow-0011.md
+- [[Pagamentos recorrentes_5]] - document - 01-produtos/pay-airich/en/pagamentos-recorrentes-0007.md
+- [[Pagamentos recorrentes_6]] - document - 01-produtos/pay-airich/en/pagamentos-recorrentes-0052.md
+- [[Pagamentos recorrentes]] - document - 01-produtos/pay-airich/pagamentos-recorrentes-0007.md
+- [[Pagamentos recorrentes_2]] - document - 01-produtos/pay-airich/pagamentos-recorrentes-0052.md
+- [[Pagamentos recorrentes_3]] - document - 01-produtos/pay-airich/pagamentos-recorrentes-0097.md
+- [[Pagamentos recorrentes_1]] - rationale - 01-produtos/pay-airich/pagamentos-recorrentes-0007.md
+- [[PagerDuty integration_2]] - document - 01-produtos/devops-suite-airich/en/pagerduty-integration-0064.md
+- [[PagerDuty integration]] - document - 01-produtos/devops-suite-airich/pagerduty-integration-0019.md
+- [[PagerDuty integration_1]] - rationale - 01-produtos/devops-suite-airich/pagerduty-integration-0019.md
+- [[Penetration test results_2]] - document - 01-produtos/api-gateway-airich/en/penetration-test-results-0092.md
+- [[Penetration test results]] - document - 01-produtos/api-gateway-airich/penetration-test-results-0041.md
+- [[Penetration test results_1]] - rationale - 01-produtos/api-gateway-airich/penetration-test-results-0041.md
+- [[Penetration testing]] - document - 01-produtos/security-shield-airich/penetration-testing-0005.md
+- [[Performance benchmarks]] - document - 01-produtos/api-gateway-airich/performance-benchmarks-0042.md
+- [[Performance tuning_4]] - document - 01-produtos/analytics-airich/en/performance-tuning-0040.md
+- [[Performance tuning_5]] - document - 01-produtos/analytics-airich/en/performance-tuning-0142.md
+- [[Performance tuning_2]] - document - 01-produtos/analytics-airich/performance-tuning-0091.md
+- [[Performance tuning_3]] - document - 01-produtos/analytics-airich/performance-tuning-0142.md
+- [[Performance tuning_1]] - rationale - 01-produtos/analytics-airich/performance-tuning-0040.md
+- [[Pipeline ETL]] - document - 01-produtos/analytics-airich/pipeline-etl-0003.md
+- [[Pipeline de vendas_2]] - document - 01-produtos/crm-airich/pipeline-de-vendas-0047.md
+- [[Plataforma de aprendizado_2]] - document - 01-produtos/edu-airich/plataforma-de-aprendizado-0044.md
+- [[Player de vídeo_4]] - document - 01-produtos/edu-airich/player-de-vídeo-0132.md
+- [[Políticas de retenção de dados]] - document - 01-produtos/plataforma-airich/políticas-de-retenção-de-dados-0029.md
+- [[Políticas de retenção de dados_1]] - rationale - 01-produtos/plataforma-airich/políticas-de-retenção-de-dados-0029.md
+- [[Portuguese NLP models]] - document - 01-produtos/ai-assistant-airich/portuguese-nlp-models-0019.md
+- [[Predictive analytics]] - document - 01-produtos/analytics-airich/predictive-analytics-0023.md
+- [[Pricing table_5]] - document - 01-produtos/pay-airich/en/pricing-table-0073.md
+- [[Pricing table_2]] - document - 01-produtos/pay-airich/pricing-table-0073.md
+- [[Privacy compliance]] - document - 01-produtos/analytics-airich/privacy-compliance-0038.md
+- [[Produtos]] - rationale - 01-produtos/ai-assistant-airich/a-b-testing-de-modelos-0034.md
+- [[Progresso do aluno_5]] - document - 01-produtos/edu-airich/en/progresso-do-aluno-0009.md
+- [[Progresso do aluno_7]] - document - 01-produtos/edu-airich/en/progresso-do-aluno-0135.md
+- [[Progresso do aluno]] - document - 01-produtos/edu-airich/progresso-do-aluno-0009.md
+- [[Progresso do aluno_3]] - document - 01-produtos/edu-airich/progresso-do-aluno-0093.md
+- [[Progresso do aluno_4]] - document - 01-produtos/edu-airich/progresso-do-aluno-0135.md
+- [[Progresso do aluno_1]] - rationale - 01-produtos/edu-airich/progresso-do-aluno-0009.md
+- [[QR Code payments_5]] - document - 01-produtos/pay-airich/en/qr-code-payments-0068.md
+- [[QR Code payments_2]] - document - 01-produtos/pay-airich/qr-code-payments-0068.md
+- [[QR Code payments_3]] - document - 01-produtos/pay-airich/qr-code-payments-0113.md
+- [[QR Code payments_1]] - rationale - 01-produtos/pay-airich/qr-code-payments-0023.md
+- [[Qualificação de leads_2]] - document - 01-produtos/crm-airich/qualificação-de-leads-0049.md
+- [[Qualificação de leads_4]] - document - 01-produtos/crm-airich/qualificação-de-leads-0139.md
+- [[Quota management_4]] - document - 01-produtos/crm-airich/en/quota-management-0032.md
+- [[Quota management]] - document - 01-produtos/crm-airich/quota-management-0032.md
+- [[Quota management_2]] - document - 01-produtos/crm-airich/quota-management-0077.md
+- [[Quota management_1]] - rationale - 01-produtos/crm-airich/quota-management-0032.md
+- [[RAG architecture_5]] - document - 01-produtos/ai-assistant-airich/en/rag-architecture-0006.md
+- [[RAG architecture]] - document - 01-produtos/ai-assistant-airich/rag-architecture-0006.md
+- [[RAG architecture_3]] - document - 01-produtos/ai-assistant-airich/rag-architecture-0102.md
+- [[RAG architecture_1]] - rationale - 01-produtos/ai-assistant-airich/rag-architecture-0006.md
+- [[RLHF process]] - document - 01-produtos/ai-assistant-airich/rlhf-process-0032.md
+- [[RLHF process_2]] - document - 01-produtos/ai-assistant-airich/rlhf-process-0080.md
+- [[RLHF process_1]] - rationale - 01-produtos/ai-assistant-airich/rlhf-process-0032.md
+- [[Rate limiting AI_4]] - document - 01-produtos/ai-assistant-airich/en/rate-limiting-ai-0133.md
+- [[Rate limiting AI]] - document - 01-produtos/ai-assistant-airich/rate-limiting-ai-0037.md
+- [[Rate limiting AI_3]] - document - 01-produtos/ai-assistant-airich/rate-limiting-ai-0133.md
+- [[Rate limiting AI_1]] - rationale - 01-produtos/ai-assistant-airich/rate-limiting-ai-0037.md
+- [[Rate limiting policies]] - document - 01-produtos/api-gateway-airich/rate-limiting-policies-0003.md
+- [[Rate limiting security_2]] - document - 01-produtos/security-shield-airich/en/rate-limiting-security-0010.md
+- [[Rate limiting security]] - document - 01-produtos/security-shield-airich/rate-limiting-security-0010.md
+- [[Rate limiting security_1]] - rationale - 01-produtos/security-shield-airich/rate-limiting-security-0010.md
+- [[Real-time inference]] - document - 01-produtos/ai-assistant-airich/real-time-inference-0040.md
+- [[Recomendação de cursos_3]] - document - 01-produtos/edu-airich/recomendação-de-cursos-0100.md
+- [[Reconciliação financeira_2]] - document - 01-produtos/pay-airich/reconciliação-financeira-0058.md
+- [[Relatórios customizáveis]] - document - 01-produtos/analytics-airich/relatórios-customizáveis-0012.md
+- [[Relatórios customizáveis_1]] - rationale - 01-produtos/analytics-airich/relatórios-customizáveis-0012.md
+- [[Relatórios de engajamento_4]] - document - 01-produtos/edu-airich/en/relatórios-de-engajamento-0035.md
+- [[Relatórios de engajamento]] - document - 01-produtos/edu-airich/relatórios-de-engajamento-0035.md
+- [[Relatórios fiscais_3]] - document - 01-produtos/pay-airich/relatórios-fiscais-0105.md
+- [[Release process_4]] - document - 01-produtos/mobile-airich/en/release-process-0050.md
+- [[Release process]] - document - 01-produtos/mobile-airich/release-process-0050.md
+- [[Release process_1]] - rationale - 01-produtos/mobile-airich/release-process-0050.md
+- [[Request logging_4]] - document - 01-produtos/api-gateway-airich/en/request-logging-0088.md
+- [[Request logging_2]] - document - 01-produtos/api-gateway-airich/request-logging-0088.md
+- [[Response CAChing_1]] - document - 01-produtos/api-gateway-airich/en/response-caching-0129.md
+- [[Response caching]] - document - 01-produtos/api-gateway-airich/response-caching-0027.md
+- [[Response caching_3]] - document - 01-produtos/api-gateway-airich/response-caching-0129.md
+- [[Response caching_1]] - rationale - 01-produtos/api-gateway-airich/response-caching-0027.md
+- [[Retention analysis_4]] - document - 01-produtos/analytics-airich/en/retention-analysis-0017.md
+- [[Retention analysis]] - document - 01-produtos/analytics-airich/retention-analysis-0017.md
+- [[Revenue analytics_2]] - document - 01-produtos/analytics-airich/revenue-analytics-0069.md
+- [[Risk scoring_4]] - document - 01-produtos/pay-airich/en/risk-scoring-0035.md
+- [[Risk scoring]] - document - 01-produtos/pay-airich/risk-scoring-0035.md
+- [[Roadmap AI]] - document - 01-produtos/ai-assistant-airich/roadmap-ai-0047.md
+- [[Roadmap CRM]] - document - 01-produtos/crm-airich/roadmap-crm-0044.md
+- [[Roadmap DevOps_3]] - document - 01-produtos/devops-suite-airich/roadmap-devops-0134.md
+- [[Roadmap Q3 2026_3]] - document - 01-produtos/plataforma-airich/roadmap-q3-2026-0118.md
+- [[Roadmap payments_3]] - document - 01-produtos/pay-airich/roadmap-payments-0134.md
+- [[Roadmap security]] - document - 01-produtos/security-shield-airich/roadmap-security-0044.md
+- [[Rollback procedures]] - document - 01-produtos/plataforma-airich/rollback-procedures-0045.md
+- [[Rollback procedures_2]] - document - 01-produtos/plataforma-airich/rollback-procedures-0143.md
+- [[Rollback procedures_1]] - rationale - 01-produtos/plataforma-airich/rollback-procedures-0045.md
+- [[SCORM compliance]] - document - 01-produtos/edu-airich/scorm-compliance-0032.md
+- [[SDK Python_3]] - document - 01-produtos/plataforma-airich/sdk-python-0113.md
+- [[SDK de integração_5]] - document - 01-produtos/api-gateway-airich/en/sdk-de-integração-0119.md
+- [[SDK de integração_3]] - document - 01-produtos/api-gateway-airich/sdk-de-integração-0119.md
+- [[SLOSLI definitions]] - document - 01-produtos/devops-suite-airich/slo-sli-definitions-0021.md
+- [[SQL query builder_4]] - document - 01-produtos/analytics-airich/en/sql-query-builder-0081.md
+- [[SQL query builder]] - document - 01-produtos/analytics-airich/sql-query-builder-0030.md
+- [[SQL query builder_2]] - document - 01-produtos/analytics-airich/sql-query-builder-0081.md
+- [[SQL query builder_1]] - rationale - 01-produtos/analytics-airich/sql-query-builder-0030.md
+- [[SSLTLS management_2]] - document - 01-produtos/security-shield-airich/en/ssl-tls-management-0013.md
+- [[SSLTLS management]] - document - 01-produtos/security-shield-airich/ssl-tls-management-0013.md
+- [[SSLTLS management_1]] - rationale - 01-produtos/security-shield-airich/ssl-tls-management-0013.md
+- [[Safety guardrails_3]] - document - 01-produtos/ai-assistant-airich/en/safety-guardrails-0026.md
+- [[Safety guardrails]] - document - 01-produtos/ai-assistant-airich/safety-guardrails-0026.md
+- [[Safety guardrails_1]] - rationale - 01-produtos/ai-assistant-airich/safety-guardrails-0026.md
+- [[Scaling analytics_4]] - document - 01-produtos/analytics-airich/en/scaling-analytics-0045.md
+- [[Scaling analytics_5]] - document - 01-produtos/analytics-airich/en/scaling-analytics-0147.md
+- [[Scaling analytics]] - document - 01-produtos/analytics-airich/scaling-analytics-0045.md
+- [[Scaling analytics_2]] - document - 01-produtos/analytics-airich/scaling-analytics-0096.md
+- [[Scaling analytics_3]] - document - 01-produtos/analytics-airich/scaling-analytics-0147.md
+- [[Scaling analytics_1]] - rationale - 01-produtos/analytics-airich/scaling-analytics-0045.md
+- [[Scaling guidelines_3]] - document - 01-produtos/api-gateway-airich/en/scaling-guidelines-0043.md
+- [[Scaling guidelines]] - document - 01-produtos/api-gateway-airich/scaling-guidelines-0043.md
+- [[Scaling guidelines_2]] - document - 01-produtos/api-gateway-airich/scaling-guidelines-0145.md
+- [[Scaling guidelines_1]] - rationale - 01-produtos/api-gateway-airich/scaling-guidelines-0043.md
+- [[Scheduled reports_2]] - document - 01-produtos/analytics-airich/scheduled-reports-0078.md
+- [[Score de leads_2]] - document - 01-produtos/crm-airich/score-de-leads-0050.md
+- [[Secure stoRAGe_1]] - document - 01-produtos/mobile-airich/en/secure-storage-0084.md
+- [[Secure storage]] - document - 01-produtos/mobile-airich/secure-storage-0034.md
+- [[Secure storage_2]] - document - 01-produtos/mobile-airich/secure-storage-0084.md
+- [[Secure storage_1]] - rationale - 01-produtos/mobile-airich/secure-storage-0034.md
+- [[Security audit_3]] - document - 01-produtos/security-shield-airich/en/security-audit-0081.md
+- [[Security audit]] - document - 01-produtos/security-shield-airich/security-audit-0036.md
+- [[Security audit_1]] - rationale - 01-produtos/security-shield-airich/security-audit-0036.md
+- [[Security checklist]] - document - 01-produtos/security-shield-airich/security-checklist-0042.md
+- [[Security glossary_2]] - document - 01-produtos/security-shield-airich/en/security-glossary-0045.md
+- [[Security glossary]] - document - 01-produtos/security-shield-airich/security-glossary-0045.md
+- [[Security glossary_1]] - rationale - 01-produtos/security-shield-airich/security-glossary-0045.md
+- [[Security hardening]] - document - 01-produtos/api-gateway-airich/security-hardening-0040.md
+- [[Security hardening_2]] - document - 01-produtos/api-gateway-airich/security-hardening-0142.md
+- [[Security hardening_1]] - rationale - 01-produtos/api-gateway-airich/security-hardening-0040.md
+- [[Security scanning_3]] - document - 01-produtos/devops-suite-airich/en/security-scanning-0025.md
+- [[Security scanning]] - document - 01-produtos/devops-suite-airich/security-scanning-0025.md
+- [[Security scanning_2]] - document - 01-produtos/devops-suite-airich/security-scanning-0115.md
+- [[Security scanning_1]] - rationale - 01-produtos/devops-suite-airich/security-scanning-0025.md
+- [[Security training]] - document - 01-produtos/security-shield-airich/security-training-0040.md
+- [[Security training_1]] - rationale - 01-produtos/security-shield-airich/security-training-0040.md
+- [[Sentiment analysis]] - document - 01-produtos/ai-assistant-airich/sentiment-analysis-0017.md
+- [[Sequências de nurturing]] - document - 01-produtos/crm-airich/sequências-de-nurturing-0021.md
+- [[Sequências de nurturing_3]] - document - 01-produtos/crm-airich/sequências-de-nurturing-0111.md
+- [[Sequências de nurturing_1]] - rationale - 01-produtos/crm-airich/sequências-de-nurturing-0021.md
+- [[Session management_2]] - document - 01-produtos/security-shield-airich/en/session-management-0025.md
+- [[Session management]] - document - 01-produtos/security-shield-airich/session-management-0025.md
+- [[Session management_1]] - rationale - 01-produtos/security-shield-airich/session-management-0025.md
+- [[Sincronização de dados_2]] - document - 01-produtos/mobile-airich/sincronização-de-dados-0057.md
+- [[Sincronização de dados_3]] - document - 01-produtos/mobile-airich/sincronização-de-dados-0107.md
+- [[Sincronização de dados_1]] - rationale - 01-produtos/mobile-airich/sincronização-de-dados-0007.md
+- [[Sistema de CAChe]] - document - 01-produtos/plataforma-airich/en/sistema-de-cache-0087.md
+- [[Sistema de busca interna]] - document - 01-produtos/plataforma-airich/sistema-de-busca-interna-0034.md
+- [[Sistema de cache_2]] - document - 01-produtos/plataforma-airich/sistema-de-cache-0087.md
+- [[Sistema de cache_1]] - rationale - 01-produtos/plataforma-airich/sistema-de-cache-0038.md
+- [[Sistema de notificações_2]] - document - 01-produtos/plataforma-airich/en/sistema-de-notificações-0056.md
+- [[Sistema de notificações]] - document - 01-produtos/plataforma-airich/sistema-de-notificações-0007.md
+- [[Sistema de notificações_1]] - rationale - 01-produtos/plataforma-airich/sistema-de-notificações-0007.md
+- [[Sistema de permissões RBAC_2]] - document - 01-produtos/plataforma-airich/en/sistema-de-permissões-rbac-0004.md
+- [[Sistema de permissões RBAC]] - document - 01-produtos/plataforma-airich/sistema-de-permissões-rbac-0004.md
+- [[Sistema de permissões RBAC_1]] - rationale - 01-produtos/plataforma-airich/sistema-de-permissões-rbac-0004.md
+- [[Sistema de plugins_3]] - document - 01-produtos/api-gateway-airich/en/sistema-de-plugins-0024.md
+- [[Sistema de plugins]] - document - 01-produtos/api-gateway-airich/sistema-de-plugins-0024.md
+- [[Sistema de plugins_1]] - rationale - 01-produtos/api-gateway-airich/sistema-de-plugins-0024.md
+- [[Sistema de webhooks_3]] - document - 01-produtos/plataforma-airich/en/sistema-de-webhooks-0012.md
+- [[Sistema de webhooks_2]] - document - 01-produtos/plataforma-airich/sistema-de-webhooks-0110.md
+- [[Sistema de webhooks_1]] - rationale - 01-produtos/plataforma-airich/sistema-de-webhooks-0012.md
+- [[Slack integration_6]] - document - 01-produtos/analytics-airich/en/slack-integration-0150.md
+- [[Slack integration_2]] - document - 01-produtos/analytics-airich/slack-integration-0099.md
+- [[Slack integration_3]] - document - 01-produtos/analytics-airich/slack-integration-0150.md
+- [[Split de pagamentos_5]] - document - 01-produtos/pay-airich/en/split-de-pagamentos-0009.md
+- [[Split de pagamentos]] - document - 01-produtos/pay-airich/split-de-pagamentos-0009.md
+- [[Split de pagamentos_4]] - document - 01-produtos/pay-airich/split-de-pagamentos-0144.md
+- [[Split de pagamentos_1]] - rationale - 01-produtos/pay-airich/split-de-pagamentos-0009.md
+- [[Stack tecnológico React Native_2]] - document - 01-produtos/mobile-airich/en/stack-tecnológico-react-native-0053.md
+- [[Stack tecnológico React Native]] - document - 01-produtos/mobile-airich/stack-tecnológico-react-native-0003.md
+- [[Stack tecnológico React Native_1]] - rationale - 01-produtos/mobile-airich/stack-tecnológico-react-native-0003.md
+- [[Star schema design_3]] - document - 01-produtos/analytics-airich/star-schema-design-0108.md
+- [[Stream processing com Kafka]] - document - 01-produtos/analytics-airich/stream-processing-com-kafka-0008.md
+- [[Strong Customer Authentication]] - document - 01-produtos/pay-airich/strong-customer-authentication-0033.md
+- [[Strong Customer Authentication_1]] - rationale - 01-produtos/pay-airich/strong-customer-authentication-0033.md
+- [[Taxas e tarifas_4]] - document - 01-produtos/pay-airich/en/taxas-e-tarifas-0027.md
+- [[Taxas e tarifas_5]] - document - 01-produtos/pay-airich/en/taxas-e-tarifas-0117.md
+- [[Taxas e tarifas]] - document - 01-produtos/pay-airich/taxas-e-tarifas-0027.md
+- [[Taxas e tarifas_2]] - document - 01-produtos/pay-airich/taxas-e-tarifas-0072.md
+- [[Taxas e tarifas_3]] - document - 01-produtos/pay-airich/taxas-e-tarifas-0117.md
+- [[Taxas e tarifas_1]] - rationale - 01-produtos/pay-airich/taxas-e-tarifas-0027.md
+- [[Team performance_4]] - document - 01-produtos/crm-airich/en/team-performance-0033.md
+- [[Team performance_5]] - document - 01-produtos/crm-airich/en/team-performance-0078.md
+- [[Team performance_6]] - document - 01-produtos/crm-airich/en/team-performance-0123.md
+- [[Team performance]] - document - 01-produtos/crm-airich/team-performance-0033.md
+- [[Team performance_2]] - document - 01-produtos/crm-airich/team-performance-0078.md
+- [[Team performance_3]] - document - 01-produtos/crm-airich/team-performance-0123.md
+- [[Team performance_1]] - rationale - 01-produtos/crm-airich/team-performance-0033.md
+- [[Templates de email_2]] - document - 01-produtos/crm-airich/templates-de-email-0065.md
+- [[Templates de email_3]] - document - 01-produtos/crm-airich/templates-de-email-0110.md
+- [[Templates de email_1]] - rationale - 01-produtos/crm-airich/templates-de-email-0020.md
+- [[Terraform modules]] - document - 01-produtos/devops-suite-airich/terraform-modules-0008.md
+- [[Territory management_4]] - document - 01-produtos/crm-airich/en/territory-management-0076.md
+- [[Territory management]] - document - 01-produtos/crm-airich/territory-management-0031.md
+- [[Territory management_2]] - document - 01-produtos/crm-airich/territory-management-0076.md
+- [[Territory management_3]] - document - 01-produtos/crm-airich/territory-management-0121.md
+- [[Territory management_1]] - rationale - 01-produtos/crm-airich/territory-management-0031.md
+- [[Testes]] - rationale - 01-produtos/ai-assistant-airich/api-call-generation-0023.md
+- [[Testes unitários]] - document - 01-produtos/mobile-airich/testes-unitários-0018.md
+- [[Timeout configuration]] - document - 01-produtos/api-gateway-airich/timeout-configuration-0011.md
+- [[User behavior tracking_2]] - document - 01-produtos/analytics-airich/en/user-behavior-tracking-0121.md
+- [[User behavior tracking]] - document - 01-produtos/analytics-airich/user-behavior-tracking-0019.md
+- [[User behavior tracking_1]] - rationale - 01-produtos/analytics-airich/user-behavior-tracking-0019.md
+- [[Validação de dados_2]] - document - 01-produtos/plataforma-airich/validação-de-dados-0086.md
+- [[Validação de dados_3]] - document - 01-produtos/plataforma-airich/validação-de-dados-0135.md
+- [[Validação de dados_1]] - rationale - 01-produtos/plataforma-airich/validação-de-dados-0037.md
+- [[Vault integration_3]] - document - 01-produtos/devops-suite-airich/en/vault-integration-0076.md
+- [[Vault integration]] - document - 01-produtos/devops-suite-airich/vault-integration-0031.md
+- [[Vault integration_2]] - document - 01-produtos/devops-suite-airich/vault-integration-0121.md
+- [[Vault integration_1]] - rationale - 01-produtos/devops-suite-airich/vault-integration-0031.md
+- [[Vector database setup]] - document - 01-produtos/ai-assistant-airich/vector-database-setup-0007.md
+- [[Velocity checks_4]] - document - 01-produtos/pay-airich/en/velocity-checks-0081.md
+- [[Velocity checks_2]] - document - 01-produtos/pay-airich/velocity-checks-0081.md
+- [[Velocity checks_3]] - document - 01-produtos/pay-airich/velocity-checks-0126.md
+- [[Velocity checks_1]] - rationale - 01-produtos/pay-airich/velocity-checks-0036.md
+- [[Versionamento de APIs_2]] - document - 01-produtos/api-gateway-airich/en/versionamento-de-apis-0008.md
+- [[Versionamento de APIs]] - document - 01-produtos/api-gateway-airich/versionamento-de-apis-0008.md
+- [[Versionamento de APIs_1]] - rationale - 01-produtos/api-gateway-airich/versionamento-de-apis-0008.md
+- [[Videoaulas e streaming_2]] - document - 01-produtos/edu-airich/videoaulas-e-streaming-0047.md
+- [[Visão geral AIRich Edu_6]] - document - 01-produtos/edu-airich/en/visão-geral-airich-edu-0043.md
+- [[Visão geral AIRich Edu_2]] - document - 01-produtos/edu-airich/visão-geral-airich-edu-0043.md
+- [[Visão geral AIRich Pay_4]] - document - 01-produtos/pay-airich/visão-geral-airich-pay-0136.md
+- [[Visão geral DevOps Suite]] - document - 01-produtos/devops-suite-airich/visão-geral-devops-suite-0001.md
+- [[Visão geral Security Shield_2]] - document - 01-produtos/security-shield-airich/en/visão-geral-security-shield-0046.md
+- [[Visão geral Security Shield]] - document - 01-produtos/security-shield-airich/visão-geral-security-shield-0001.md
+- [[Visão geral Security Shield_1]] - rationale - 01-produtos/security-shield-airich/visão-geral-security-shield-0001.md
+- [[Visão geral da plataforma]] - document - 01-produtos/plataforma-airich/visão-geral-da-plataforma-0001.md
+- [[Visão geral da plataforma_1]] - rationale - 01-produtos/plataforma-airich/visão-geral-da-plataforma-0001.md
+- [[Visão geral do Analytics]] - document - 01-produtos/analytics-airich/visão-geral-do-analytics-0001.md
+- [[Visão geral do CRM_5]] - document - 01-produtos/crm-airich/en/visão-geral-do-crm-0001.md
+- [[Visão geral do CRM_6]] - document - 01-produtos/crm-airich/en/visão-geral-do-crm-0091.md
+- [[Visão geral do CRM]] - document - 01-produtos/crm-airich/visão-geral-do-crm-0001.md
+- [[Visão geral do CRM_3]] - document - 01-produtos/crm-airich/visão-geral-do-crm-0091.md
+- [[Visão geral do CRM_4]] - document - 01-produtos/crm-airich/visão-geral-do-crm-0136.md
+- [[Visão geral do CRM_1]] - rationale - 01-produtos/crm-airich/visão-geral-do-crm-0001.md
+- [[WebSocket support_2]] - document - 01-produtos/api-gateway-airich/websocket-support-0084.md
+- [[Webhook de pagamentos_3]] - document - 01-produtos/pay-airich/webhook-de-pagamentos-0108.md
+- [[Webhook events_4]] - document - 01-produtos/analytics-airich/en/webhook-events-0047.md
+- [[Webhook events_5]] - document - 01-produtos/analytics-airich/en/webhook-events-0098.md
+- [[Webhook events]] - document - 01-produtos/analytics-airich/webhook-events-0047.md
+- [[Webhook events_2]] - document - 01-produtos/analytics-airich/webhook-events-0098.md
+- [[Webhook events_1]] - rationale - 01-produtos/analytics-airich/webhook-events-0047.md
+- [[WhatsApp integration_2]] - document - 01-produtos/crm-airich/whatsapp-integration-0070.md
+- [[Workflows automáticos_4]] - document - 01-produtos/crm-airich/en/workflows-automáticos-0019.md
+- [[Workflows automáticos_5]] - document - 01-produtos/crm-airich/en/workflows-automáticos-0064.md
+- [[Workflows automáticos_6]] - document - 01-produtos/crm-airich/en/workflows-automáticos-0109.md
+- [[Workflows automáticos]] - document - 01-produtos/crm-airich/workflows-automáticos-0019.md
+- [[Workflows automáticos_2]] - document - 01-produtos/crm-airich/workflows-automáticos-0064.md
+- [[Workflows automáticos_3]] - document - 01-produtos/crm-airich/workflows-automáticos-0109.md
+- [[Workflows automáticos_1]] - rationale - 01-produtos/crm-airich/workflows-automáticos-0019.md
+- [[Zero trust architecture]] - document - 01-produtos/security-shield-airich/zero-trust-architecture-0028.md
+- [[gRPC proxy]] - document - 01-produtos/api-gateway-airich/grpc-proxy-0035.md
+- [[gRPC proxy_3]] - document - 01-produtos/api-gateway-airich/grpc-proxy-0137.md
+- [[gRPC proxy_1]] - rationale - 01-produtos/api-gateway-airich/grpc-proxy-0035.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/AIRich_AI_Assistant_/_Produtos
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 3045 edges to [[_COMMUNITY_Community 0]]
+- 766 edges to [[_COMMUNITY_Ambiente de staging]]
+- 653 edges to [[_COMMUNITY_Infrastructure]]
+- 640 edges to [[_COMMUNITY_Alert manager]]
+- 592 edges to [[_COMMUNITY_Acoes preventivas]]
+- 545 edges to [[_COMMUNITY_Community 1]]
+- 462 edges to [[_COMMUNITY_Community 30]]
+- 449 edges to [[_COMMUNITY_Contrato Seguro]]
+- 293 edges to [[_COMMUNITY_Architecture]]
+- 287 edges to [[_COMMUNITY_Ambiente de produção]]
+- 103 edges to [[_COMMUNITY_Batch processing]]
+- 95 edges to [[_COMMUNITY_Deploy v2.0.1 - AI Assistant]]
+- 59 edges to [[_COMMUNITY_API security]]
+- 42 edges to [[_COMMUNITY_AB testing de modelos]]
+- 29 edges to [[_COMMUNITY_API de pagamentos]]
+- 29 edges to [[_COMMUNITY_Arquitetura mobile]]
+- 16 edges to [[_COMMUNITY_Chart types reference]]
+- 12 edges to [[_COMMUNITY_Community 25]]
+- 11 edges to [[_COMMUNITY_Changelog v4.1]]
+- 11 edges to [[_COMMUNITY_Extrato de transações]]
+- 10 edges to [[_COMMUNITY_ETL com Apache Spark]]
+- 9 edges to [[_COMMUNITY_Distributed tracing]]
+- 9 edges to [[_COMMUNITY_Modo noturno]]
+- 9 edges to [[_COMMUNITY_Onboarding de instrutores]]
+- 8 edges to [[_COMMUNITY_Glossary de métricas]]
+- 8 edges to [[_COMMUNITY_Changelog v1.0]]
+- 7 edges to [[_COMMUNITY_Sentiment analysis]]
+- 7 edges to [[_COMMUNITY_Date governance]]
+- 7 edges to [[_COMMUNITY_Forecast de sales]]
+- 7 edges to [[_COMMUNITY_GuAI de contribuição]]
+- 7 edges to [[_COMMUNITY_Módulo de audit]]
+- 7 edges to [[_COMMUNITY_Penetration testing]]
+- 6 edges to [[_COMMUNITY_Lead scoring]]
+- 6 edges to [[_COMMUNITY_Visão geral AIRich Edu]]
+- 6 edges to [[_COMMUNITY_Webinars gravados]]
+- 6 edges to [[_COMMUNITY_Biometric auth]]
+- 6 edges to [[_COMMUNITY_Architecture de data]]
+- 6 edges to [[_COMMUNITY_Date warehouse schema]]
+- 6 edges to [[_COMMUNITY_AvalAIções e reviews]]
+- 6 edges to [[_COMMUNITY_Políticas de retenção de data]]
+- 6 edges to [[_COMMUNITY_Changelog v3.0]]
+- 5 edges to [[_COMMUNITY_Dashboard templates]]
+- 5 edges to [[_COMMUNITY_Schema validation]]
+- 5 edges to [[_COMMUNITY_ELK stack]]
+- 5 edges to [[_COMMUNITY_Helm charts]]
+- 5 edges to [[_COMMUNITY_Configurações do app]]
+- 5 edges to [[_COMMUNITY_Portuguese NLP models]]
+- 5 edges to [[_COMMUNITY_Authentication security]]
+- 4 edges to [[_COMMUNITY_Batch inference]]
+- 4 edges to [[_COMMUNITY_Feedback loop]]
+- 4 edges to [[_COMMUNITY_Roadmap AI]]
+- 4 edges to [[_COMMUNITY_Changelog v1.5]]
+- 4 edges to [[_COMMUNITY_JWT validation]]
+- 4 edges to [[_COMMUNITY_Roadmap do Gateway]]
+- 4 edges to [[_COMMUNITY_Email tracking]]
+- 4 edges to [[_COMMUNITY_Integração com calendário]]
+- 4 edges to [[_COMMUNITY_Mobile CRM]]
+- 4 edges to [[_COMMUNITY_Offline mode]]
+- 4 edges to [[_COMMUNITY_Tarefas e follow-ups]]
+- 4 edges to [[_COMMUNITY_Error budgets]]
+- 4 edges to [[_COMMUNITY_Service mesh]]
+- 4 edges to [[_COMMUNITY_Terraform modules]]
+- 4 edges to [[_COMMUNITY_Certificados digitais]]
+- 4 edges to [[_COMMUNITY_Criação de conteúdo]]
+- 4 edges to [[_COMMUNITY_Mentoria e tutoria]]
+- 4 edges to [[_COMMUNITY_Taxa de conclusão]]
+- 4 edges to [[_COMMUNITY_Trilhas de aprendizado]]
+- 4 edges to [[_COMMUNITY_xAPI integration]]
+- 4 edges to [[_COMMUNITY_Internacionalização i18n]]
+- 4 edges to [[_COMMUNITY_Local storage]]
+- 4 edges to [[_COMMUNITY_Network layer]]
+- 4 edges to [[_COMMUNITY_Roadmap mobile]]
+- 4 edges to [[_COMMUNITY_Assinaturas e planos]]
+- 4 edges to [[_COMMUNITY_Device fingerprinting]]
+- 4 edges to [[_COMMUNITY_Link de pagamento]]
+- 4 edges to [[_COMMUNITY_Changelog v3.2]]
+- 4 edges to [[_COMMUNITY_SDK Java]]
+- 4 edges to [[_COMMUNITY_SDK JavaScript]]
+- 4 edges to [[_COMMUNITY_IP reputation]]
+- 4 edges to [[_COMMUNITY_Changelog v4.0]]
+- 4 edges to [[_COMMUNITY_Behavioral analysis]]
+- 4 edges to [[_COMMUNITY_API de queries]]
+- 4 edges to [[_COMMUNITY_Marketplace payments]]
+- 4 edges to [[_COMMUNITY_Integração SAML]]
+- 3 edges to [[_COMMUNITY_Drift detection]]
+- 3 edges to [[_COMMUNITY_Model versioning]]
+- 3 edges to [[_COMMUNITY_Arquitetura de dados]]
+- 3 edges to [[_COMMUNITY_Real-time analytics]]
+- 3 edges to [[_COMMUNITY_Scheduled reports]]
+- 3 edges to [[_COMMUNITY_Visualização de dados]]
+- 3 edges to [[_COMMUNITY_Event streaming]]
+- 3 edges to [[_COMMUNITY_Health checks]]
+- 3 edges to [[_COMMUNITY_WebSocket support]]
+- 3 edges to [[_COMMUNITY_Changelog v5.0]]
+- 3 edges to [[_COMMUNITY_Histórico de interações]]
+- 3 edges to [[_COMMUNITY_Roadmap CRM]]
+- 3 edges to [[_COMMUNITY_WhatsApp integration]]
+- 3 edges to [[_COMMUNITY_Canary releases]]
+- 3 edges to [[_COMMUNITY_DAST integration]]
+- 3 edges to [[_COMMUNITY_Analytics educacional]]
+- 3 edges to [[_COMMUNITY_Categorias de cursos]]
+- 3 edges to [[_COMMUNITY_Downloads e recursos]]
+- 3 edges to [[_COMMUNITY_Melhorias de UX]]
+- 3 edges to [[_COMMUNITY_NPS educacional]]
+- 3 edges to [[_COMMUNITY_Recomendação de cursos]]
+- 3 edges to [[_COMMUNITY_Acessibilidade a11y]]
+- 3 edges to [[_COMMUNITY_Image caching]]
+- 3 edges to [[_COMMUNITY_In-app updates]]
+- 3 edges to [[_COMMUNITY_Roadmap payments]]
+- 3 edges to [[_COMMUNITY_Visão geral AIRich Pay]]
+- 3 edges to [[_COMMUNITY_Configuração de SSO]]
+- 3 edges to [[_COMMUNITY_FAQ técnico]]
+- 3 edges to [[_COMMUNITY_Roadmap Q4 2026]]
+- 3 edges to [[_COMMUNITY_SDK Python]]
+- 3 edges to [[_COMMUNITY_Slack integration]]
+- 3 edges to [[_COMMUNITY_Client libraries]]
+- 3 edges to [[_COMMUNITY_Gamificação educacional]]
+- 3 edges to [[_COMMUNITY_Background tasks]]
+- 3 edges to [[_COMMUNITY_Chargeback management]]
+- 2 edges to [[_COMMUNITY_Code generation]]
+- 2 edges to [[_COMMUNITY_Conversation history]]
+- 2 edges to [[_COMMUNITY_Function calling]]
+- 2 edges to [[_COMMUNITY_Multi-turn dialogues]]
+- 2 edges to [[_COMMUNITY_Alertas automáticos]]
+- 2 edges to [[_COMMUNITY_Backup de dados]]
+- 2 edges to [[_COMMUNITY_Métricas de negócio]]
+- 2 edges to [[_COMMUNITY_Roadmap analytics]]
+- 2 edges to [[_COMMUNITY_UTM tracking]]
+- 2 edges to [[_COMMUNITY_Especificação de plugins]]
+- 2 edges to [[_COMMUNITY_Guia de integração]]
+- 2 edges to [[_COMMUNITY_OAuth2 flow completo]]
+- 2 edges to [[_COMMUNITY_Postman collection]]
+- 2 edges to [[_COMMUNITY_Transformação de requests]]
+- 2 edges to [[_COMMUNITY_Webhook delivery system]]
+- 2 edges to [[_COMMUNITY_Campaign management]]
+- 2 edges to [[_COMMUNITY_Gamification]]
+- 2 edges to [[_COMMUNITY_Integração com email]]
+- 2 edges to [[_COMMUNITY_Container scanning]]
+- 2 edges to [[_COMMUNITY_SAST integration]]
+- 2 edges to [[_COMMUNITY_Badges e conquistas]]
+- 2 edges to [[_COMMUNITY_Busca de conteúdo]]
+- 2 edges to [[_COMMUNITY_Otimização de bundle]]
+- 2 edges to [[_COMMUNITY_Tela principal do dashboard]]
+- 2 edges to [[_COMMUNITY_Testes E2E com Detox]]
+- 2 edges to [[_COMMUNITY_Visão geral do app]]
+- 2 edges to [[_COMMUNITY_Integração com adquirentes]]
+- 2 edges to [[_COMMUNITY_Nota fiscal eletrônica]]
+- 2 edges to [[_COMMUNITY_Refund policies]]
+- 2 edges to [[_COMMUNITY_Saldo e saques]]
+- 2 edges to [[_COMMUNITY_SDK de pagamentos]]
+- 2 edges to [[_COMMUNITY_Tokenização de cartões]]
+- 2 edges to [[_COMMUNITY_Sistema de feature flags]]
+- 2 edges to [[_COMMUNITY_SLA definição]]
+- 2 edges to [[_COMMUNITY_Testes de carga]]
+- 2 edges to [[_COMMUNITY_CSRF protection]]
+- 2 edges to [[_COMMUNITY_Security monitoring]]
+- 2 edges to [[_COMMUNITY_Threat modeling]]
+- 2 edges to [[_COMMUNITY_Chunking strategies]]
+- 2 edges to [[_COMMUNITY_Fine-tuning process]]
+- 2 edges to [[_COMMUNITY_Language detection]]
+- 2 edges to [[_COMMUNITY_Stream processing com Kafka]]
+- 2 edges to [[_COMMUNITY_Performance benchmarks]]
+- 2 edges to [[_COMMUNITY_Timeout configuration]]
+- 2 edges to [[_COMMUNITY_Automação de sales]]
+- 2 edges to [[_COMMUNITY_Blue-green deployment]]
+- 2 edges to [[_COMMUNITY_Dependency scanning]]
+- 2 edges to [[_COMMUNITY_Istio configuration]]
+- 2 edges to [[_COMMUNITY_SLOSLI definitions]]
+- 2 edges to [[_COMMUNITY_Visão geral DevOps Suite]]
+- 2 edges to [[_COMMUNITY_CrAIção de conteúdo]]
+- 2 edges to [[_COMMUNITY_Documentação de deploy]]
+- 2 edges to [[_COMMUNITY_Integração com API Gateway]]
+- 2 edges to [[_COMMUNITY_Sistema de busca interna]]
+- 2 edges to [[_COMMUNITY_Intrusion detection]]
+- 2 edges to [[_COMMUNITY_Zero trust architecture]]
+- 2 edges to [[_COMMUNITY_Alerta Erro 5xx]]
+- 2 edges to [[_COMMUNITY_Funnel analysis]]
+- 2 edges to [[_COMMUNITY_Exemplos de uso]]
+- 2 edges to [[_COMMUNITY_SDK de integração]]
+- 2 edges to [[_COMMUNITY_Call logging]]
+- 2 edges to [[_COMMUNITY_Qualificação de leads]]
+- 2 edges to [[_COMMUNITY_Disaster recovery]]
+- 2 edges to [[_COMMUNITY_Relatórios de engajamento]]
+- 2 edges to [[_COMMUNITY_Face ID support]]
+- 2 edges to [[_COMMUNITY_Fingerprint support]]
+- 2 edges to [[_COMMUNITY_Navegação e roteamento]]
+- 2 edges to [[_COMMUNITY_3D Secure]]
+- 2 edges to [[_COMMUNITY_Antifraude]]
+- 2 edges to [[_COMMUNITY_Manual review queue]]
+- 1 edge to [[_COMMUNITY_API call generation]]
+- 1 edge to [[_COMMUNITY_Deployment pipeline]]
+- 1 edge to [[_COMMUNITY_Prompt engineering guidelines]]
+- 1 edge to [[_COMMUNITY_Tool use framework]]
+- 1 edge to [[_COMMUNITY_Dashboards operacionais]]
+- 1 edge to [[_COMMUNITY_Event tracking schema]]
+- 1 edge to [[_COMMUNITY_Relatórios costmizáveis]]
+- 1 edge to [[_COMMUNITY_Visualização de data]]
+- 1 edge to [[_COMMUNITY_Troubleshooting comum]]
+- 1 edge to [[_COMMUNITY_Best practices guide]]
+- 1 edge to [[_COMMUNITY_Docker accountinerization]]
+- 1 edge to [[_COMMUNITY_MelhorAIs de UX]]
+- 1 edge to [[_COMMUNITY_Distribuição vAI App Store]]
+- 1 edge to [[_COMMUNITY_Offline-first architecture]]
+- 1 edge to [[_COMMUNITY_Architecture de pagamentos]]
+- 1 edge to [[_COMMUNITY_Validação de data]]
+- 1 edge to [[_COMMUNITY_Architecture de segurança]]
+- 1 edge to [[_COMMUNITY_ComplAInce ISO27001]]
+- 1 edge to [[_COMMUNITY_Output encoding]]
+- 1 edge to [[_COMMUNITY_Vulnerability management]]
+- 1 edge to [[_COMMUNITY_Real-time inference]]
+- 1 edge to [[_COMMUNITY_Vector database setup]]
+- 1 edge to [[_COMMUNITY_Pipeline ETL]]
+- 1 edge to [[_COMMUNITY_Predictive analytics]]
+- 1 edge to [[_COMMUNITY_Revenue analytics]]
+- 1 edge to [[_COMMUNITY_Visão geral do Analytics]]
+- 1 edge to [[_COMMUNITY_API deprecation policy]]
+- 1 edge to [[_COMMUNITY_Circuit breaker pattern]]
+- 1 edge to [[_COMMUNITY_Documentação OpenAPI 3.0]]
+- 1 edge to [[_COMMUNITY_Load balancing]]
+- 1 edge to [[_COMMUNITY_Multi-region deployment]]
+- 1 edge to [[_COMMUNITY_Rate limiting policies]]
+- 1 edge to [[_COMMUNITY_Dashboard comercial]]
+- 1 edge to [[_COMMUNITY_Data export]]
+- 1 edge to [[_COMMUNITY_Dashboard commercAIl]]
+- 1 edge to [[_COMMUNITY_GDPR complAInce]]
+- 1 edge to [[_COMMUNITY_Ansible playbooks]]
+- 1 edge to [[_COMMUNITY_GitLab CI integration]]
+- 1 edge to [[_COMMUNITY_Roadmap DevOps]]
+- 1 edge to [[_COMMUNITY_Player de vídeo]]
+- 1 edge to [[_COMMUNITY_MaterAIl complementar]]
+- 1 edge to [[_COMMUNITY_Error handling]]
+- 1 edge to [[_COMMUNITY_Lazy loading]]
+- 1 edge to [[_COMMUNITY_Testes unitários]]
+- 1 edge to [[_COMMUNITY_Community 82]]
+- 1 edge to [[_COMMUNITY_Contratos comerciais]]
+- 1 edge to [[_COMMUNITY_Fraud detection ML]]
+- 1 edge to [[_COMMUNITY_Reconciliação financeira]]
+- 1 edge to [[_COMMUNITY_Relatórios fiscais]]
+- 1 edge to [[_COMMUNITY_Webhook de pagamentos]]
+- 1 edge to [[_COMMUNITY_ComplAInce PCI-DSS]]
+- 1 edge to [[_COMMUNITY_Backup e restore]]
+- 1 edge to [[_COMMUNITY_Configuração de CDN]]
+- 1 edge to [[_COMMUNITY_Métricas de uptime]]
+- 1 edge to [[_COMMUNITY_Compliance ISO27001]]
+- 1 edge to [[_COMMUNITY_Juridico]]
+- 1 edge to [[_COMMUNITY_Forensics procedures]]
+- 1 edge to [[_COMMUNITY_Roadmap security]]
+- 1 edge to [[_COMMUNITY_Security checklist]]
+
+## Top bridge nodes
+- [[Produtos]] - degree 937, connects to 131 communities
+- [[Causas possíveis]] - degree 568, connects to 76 communities
+- [[Monitoramento]] - degree 438, connects to 30 communities
+- [[Kickoff]] - degree 431, connects to 30 communities
+- [[Deploy]] - degree 387, connects to 30 communities

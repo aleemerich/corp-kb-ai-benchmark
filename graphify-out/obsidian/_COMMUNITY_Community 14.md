@@ -1,0 +1,211 @@
+---
+type: community
+cohesion: 0.04
+members: 100
+---
+
+# Community 14
+
+**Cohesion:** 0.04 - loosely connected
+**Members:** 100 nodes
+
+## Members
+- [[Deploy v1.5.0 - Analytics]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0010.md
+- [[Deploy v1.5.0 - Analytics_3]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0030.md
+- [[Deploy v1.5.0 - Analytics_5]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0050.md
+- [[Deploy v1.5.0 - Analytics_10]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0110.md
+- [[Deploy v1.5.0 - Analytics_14]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0150.md
+- [[Deploy v1.5.0 - Analytics_17]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0190.md
+- [[Deploy v1.5.0 - Analytics_20]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0230.md
+- [[Deploy v1.5.0 - Analytics_23]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0270.md
+- [[Deploy v1.5.0 - Analytics_24]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0290.md
+- [[Deploy v1.5.0 - Analytics_25]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0310.md
+- [[Deploy v1.5.0 - Analytics_32]] - document - 02-engenharia/deploys/deploy-v1.5.0---analytics-0390.md
+- [[Deploy v1.5.0 - Analytics_1]] - rationale - 02-engenharia/deploys/deploy-v1.5.0---analytics-0010.md
+- [[Deploy v5.1.0 - CRM_6]] - document - 02-engenharia/deploys/deploy-v5.1.0---crm-0078.md
+- [[Deploy v5.1.0 - CRM_11]] - document - 02-engenharia/deploys/deploy-v5.1.0---crm-0138.md
+- [[Event-driven architecture]] - document - 02-engenharia/arquitetura/event-driven-architecture-0010.md
+- [[Event-driven architecture_1]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0010.md
+- [[FAQ Como fazer login_29]] - document - 03-suporte/faq/faq-como-fazer-login-0262.md
+- [[FAQ Como fazer login_31]] - document - 03-suporte/faq/faq-como-fazer-login-0302.md
+- [[FAQ Como usar SDK_13]] - document - 03-suporte/faq/faq-como-usar-sdk-0010.md
+- [[FAQ Como usar SDK_18]] - document - 03-suporte/faq/faq-como-usar-sdk-0110.md
+- [[FAQ Como usar SDK_19]] - document - 03-suporte/faq/faq-como-usar-sdk-0130.md
+- [[FAQ Como usar SDK_20]] - document - 03-suporte/faq/faq-como-usar-sdk-0150.md
+- [[FAQ Como usar SDK_21]] - document - 03-suporte/faq/faq-como-usar-sdk-0170.md
+- [[FAQ Como usar SDK_22]] - document - 03-suporte/faq/faq-como-usar-sdk-0190.md
+- [[FAQ Como usar SDK_25]] - document - 03-suporte/faq/faq-como-usar-sdk-0250.md
+- [[FAQ Como usar SDK_26]] - document - 03-suporte/faq/faq-como-usar-sdk-0270.md
+- [[FAQ Como usar SDK_28]] - document - 03-suporte/faq/faq-como-usar-sdk-0310.md
+- [[FAQ Como usar SDK_29]] - document - 03-suporte/faq/faq-como-usar-sdk-0330.md
+- [[FAQ Como usar SDK_31]] - document - 03-suporte/faq/faq-como-usar-sdk-0370.md
+- [[FAQ Como usar SDK_32]] - document - 03-suporte/faq/faq-como-usar-sdk-0390.md
+- [[FAQ Como usar SDK_1]] - rationale - 03-suporte/en/faq/faq-como-usar-sdk-0030.md
+- [[FAQ Como ver relatorios]] - document - 03-suporte/faq/faq-como-ver-relatorios-0018.md
+- [[FAQ Como ver relatorios_2]] - document - 03-suporte/faq/faq-como-ver-relatorios-0038.md
+- [[FAQ Como ver relatorios_3]] - document - 03-suporte/faq/faq-como-ver-relatorios-0058.md
+- [[Incidente 2026-010 Falha de DNS]] - document - 02-engenharia/incidentes/incidente-2026-010-falha-de-dns-0010-en.md
+- [[Incidente 2026-010 Falha de DNS_1]] - rationale - 02-engenharia/incidentes/incidente-2026-010-falha-de-dns-0010-en.md
+- [[KB FAQ negocio]] - document - 03-suporte/base-conhecimento/kb-faq-negocio-0018.md
+- [[KB FAQ negocio_2]] - document - 03-suporte/base-conhecimento/kb-faq-negocio-0038.md
+- [[KB FAQ negocio_4]] - document - 03-suporte/base-conhecimento/kb-faq-negocio-0078.md
+- [[KB FAQ negocio_5]] - document - 03-suporte/base-conhecimento/kb-faq-negocio-0098.md
+- [[KB Limitacoes conhecidas]] - document - 03-suporte/base-conhecimento/kb-limitacoes-conhecidas-0010.md
+- [[KB Limitacoes conhecidas_1]] - rationale - 03-suporte/base-conhecimento/kb-limitacoes-conhecidas-0010.md
+- [[Licoes aprendidas_3]] - document - 02-engenharia/incidentes/licoes-aprendidas-0038.md
+- [[Licoes aprendidas_7]] - document - 02-engenharia/incidentes/licoes-aprendidas-0098.md
+- [[Licoes aprendidas_11]] - document - 02-engenharia/incidentes/licoes-aprendidas-0138.md
+- [[Manifestacao do destinatario_2]] - document - 06-financeiro/notas-fiscais/manifestacao-do-destinatario-0018.md
+- [[Manifestacao do destinatario_1]] - rationale - 06-financeiro/en/notas-fiscais/manifestacao-do-destinatario-0018.md
+- [[Metrics collection]] - document - 02-engenharia/arquitetura/metrics-collection-0018.md
+- [[Metrics collection_3]] - document - 02-engenharia/arquitetura/metrics-collection-0038.md
+- [[Metrics collection_5]] - document - 02-engenharia/arquitetura/metrics-collection-0058.md
+- [[Metrics collection_7]] - document - 02-engenharia/arquitetura/metrics-collection-0078.md
+- [[Onboarding Treinamento produto_2]] - document - 05-rh/onboarding/onboarding-treinamento-produto-0050.md
+- [[Runbook Chaos engineering_5]] - document - 02-engenharia/runbooks/runbook-chaos-engineering-0098.md
+- [[Runbook DAIgnostico de lentidao]] - document - 02-engenharia/runbooks/runbook-diagnostico-de-lentidao-0010-en.md
+- [[Runbook DAIgnostico de lentidao_1]] - rationale - 02-engenharia/runbooks/runbook-diagnostico-de-lentidao-0010-en.md
+- [[Runbook Diagnostico de lentidao]] - rationale - 02-engenharia/runbooks/runbook-diagnostico-de-lentidao-0010.md
+- [[Runbook Solicitacao de reembolso_2]] - document - 03-suporte/runbooks-atendimento/runbook-solicitacao-de-reembolso-0010.md
+- [[Runbook Solicitacao de reembolso_1]] - rationale - 03-suporte/en/runbooks-atendimento/runbook-solicitacao-de-reembolso-0030.md
+- [[Script Testar Redis_2]] - document - 03-suporte/scripts-diagnostico/script-testar-redis-0010.md
+- [[Script Testar Redis_1]] - rationale - 03-suporte/en/scripts-diagnostico/script-testar-redis-0050.md
+- [[Script export-data.py]] - document - 10-scripts/automacao/script-export-data.py-0018.md
+- [[Script export-data.py_3]] - document - 10-scripts/automacao/script-export-data.py-0038.md
+- [[Script export-data.py_1]] - rationale - 10-scripts/automacao/script-export-data.py-0018.md
+- [[Sprint 26.01 - Review_22]] - document - 02-engenharia/sprints/sprint-26.01---review-0262.md
+- [[Sprint 26.01 - Review_24]] - document - 02-engenharia/sprints/sprint-26.01---review-0282.md
+- [[Sprint 26.01 - Review_32]] - document - 02-engenharia/sprints/sprint-26.01---review-0382.md
+- [[Sprint 26.04 - Planejamento_2]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0030-en.md
+- [[Sprint 26.04 - Planejamento_3]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0050-en.md
+- [[Sprint 26.04 - Planejamento_6]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0110.md
+- [[Sprint 26.04 - Planejamento_7]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0130.md
+- [[Sprint 26.04 - Planejamento_8]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0150.md
+- [[Sprint 26.04 - Planejamento_10]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0190-en.md
+- [[Sprint 26.04 - Planejamento_11]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0210-en.md
+- [[Sprint 26.04 - Planejamento_12]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0230.md
+- [[Sprint 26.04 - Planejamento_13]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0250-en.md
+- [[Sprint 26.04 - Planejamento_14]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0270-en.md
+- [[Sprint 26.04 - Planejamento_16]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0310-en.md
+- [[Sprint 26.04 - Planejamento_18]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0350.md
+- [[Sprint 26.04 - Planejamento_20]] - document - 02-engenharia/sprints/sprint-26.04---planejamento-0390.md
+- [[Sprint 26.04 - Planejamento_1]] - rationale - 02-engenharia/sprints/sprint-26.04---planejamento-0010-en.md
+- [[Sprint 26.06 - Retrospectiva]] - document - 02-engenharia/sprints/sprint-26.06---retrospectiva-0018.md
+- [[TKT-2026-0010 Integracao quebrou_2]] - document - 03-suporte/tickets/tkt-2026-0010-integracao-quebrou-0010.md
+- [[TKT-2026-0010 Integracao quebrou_1]] - rationale - 03-suporte/en/tickets/tkt-2026-0010-integracao-quebrou-0010.md
+- [[Data 2026-01-10]] - rationale - 02-engenharia/arquitetura/diagrama-de-componentes-0262.md
+- [[Data 2026-01-22]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0190.md
+- [[Data 2026-02-10]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0290.md
+- [[Data 2026-02-26]] - rationale - 02-engenharia/arquitetura/diagrama-de-componentes-0362.md
+- [[Data 2026-03-02]] - rationale - 02-engenharia/arquitetura/diagrama-de-componentes-0282.md
+- [[Data 2026-03-14]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0210.md
+- [[Data 2026-03-26]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0390.md
+- [[Data 2026-04-02]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0310.md
+- [[Data 2026-04-18]] - rationale - 02-engenharia/arquitetura/diagrama-de-componentes-0382.md
+- [[Data 2026-05-06]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0230.md
+- [[Data 2026-05-22]] - rationale - 02-engenharia/arquitetura/diagrama-de-componentes-0302.md
+- [[Data 2026-06-10]] - rationale - 02-engenharia/deploys/deploy-v1.5.0---analytics-0150.md
+- [[Data 2026-06-22]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0330.md
+- [[Data 2026-07-26]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0250.md
+- [[Data 2026-08-02]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0170.md
+- [[Data 2026-08-14]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0350.md
+- [[Data 2026-09-18]] - rationale - 02-engenharia/arquitetura/event-driven-architecture-0270.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_14
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 238 edges to [[_COMMUNITY_Community 0]]
+- 161 edges to [[_COMMUNITY_Community 1]]
+- 77 edges to [[_COMMUNITY_Ambiente de staging]]
+- 76 edges to [[_COMMUNITY_Contrato Seguro]]
+- 73 edges to [[_COMMUNITY_Acoes preventivas]]
+- 73 edges to [[_COMMUNITY_Alert manager]]
+- 69 edges to [[_COMMUNITY_Community 30]]
+- 57 edges to [[_COMMUNITY_Engenharia]]
+- 51 edges to [[_COMMUNITY_Suporte]]
+- 45 edges to [[_COMMUNITY_Infrastructure]]
+- 42 edges to [[_COMMUNITY_Community 11]]
+- 37 edges to [[_COMMUNITY_Ambiente de produção]]
+- 28 edges to [[_COMMUNITY_Community 25]]
+- 25 edges to [[_COMMUNITY_Juridico]]
+- 24 edges to [[_COMMUNITY_API security]]
+- 24 edges to [[_COMMUNITY_Vendas]]
+- 21 edges to [[_COMMUNITY_Architecture]]
+- 21 edges to [[_COMMUNITY_Financeiro]]
+- 21 edges to [[_COMMUNITY_Community 44]]
+- 20 edges to [[_COMMUNITY_RH]]
+- 15 edges to [[_COMMUNITY_Infraestrutura]]
+- 14 edges to [[_COMMUNITY_Marketing]]
+- 12 edges to [[_COMMUNITY_Deploy v2.0.1 - AI Assistant]]
+- 11 edges to [[_COMMUNITY_Scripts]]
+- 6 edges to [[_COMMUNITY_Playbook Reativacao]]
+- 5 edges to [[_COMMUNITY_Template SOW]]
+- 5 edges to [[_COMMUNITY_Marketing budget]]
+- 4 edges to [[_COMMUNITY_Onboarding Treinamento product]]
+- 4 edges to [[_COMMUNITY_Post Blog 010]]
+- 4 edges to [[_COMMUNITY_PLD]]
+- 4 edges to [[_COMMUNITY_Video Demo]]
+- 4 edges to [[_COMMUNITY_Metrics collection]]
+- 4 edges to [[_COMMUNITY_KB FAQ negocio]]
+- 3 edges to [[_COMMUNITY_AB testing de modelos]]
+- 3 edges to [[_COMMUNITY_Arquitetura mobile]]
+- 3 edges to [[_COMMUNITY_Politica Conflito de interesse]]
+- 3 edges to [[_COMMUNITY_Campanha Blog SEO]]
+- 3 edges to [[_COMMUNITY_Licoes aprendidas]]
+- 3 edges to [[_COMMUNITY_FAQ Como ver relatorios]]
+- 2 edges to [[_COMMUNITY_Batch processing]]
+- 2 edges to [[_COMMUNITY_Community 103]]
+- 2 edges to [[_COMMUNITY_Processo Treinamento]]
+- 2 edges to [[_COMMUNITY_Servidor CAChe-01]]
+- 2 edges to [[_COMMUNITY_Campanha Retargeting]]
+- 2 edges to [[_COMMUNITY_Analise de margem]]
+- 2 edges to [[_COMMUNITY_Servidor backup-01]]
+- 2 edges to [[_COMMUNITY_SLA proposto]]
+- 2 edges to [[_COMMUNITY_Reels Produto]]
+- 2 edges to [[_COMMUNITY_Community 41]]
+- 2 edges to [[_COMMUNITY_Deploy v5.1.0 - CRM]]
+- 2 edges to [[_COMMUNITY_FAQ Como fazer login]]
+- 1 edge to [[_COMMUNITY_Cloud S3 buckets]]
+- 1 edge to [[_COMMUNITY_Script setup-monitoring.sh]]
+- 1 edge to [[_COMMUNITY_Script cost-report.py]]
+- 1 edge to [[_COMMUNITY_Community 53]]
+- 1 edge to [[_COMMUNITY_Community 75]]
+- 1 edge to [[_COMMUNITY_Script revenue-report.py]]
+- 1 edge to [[_COMMUNITY_Community 102]]
+- 1 edge to [[_COMMUNITY_Reembolso transporte]]
+- 1 edge to [[_COMMUNITY_Script deploy-edu.sh]]
+- 1 edge to [[_COMMUNITY_Cliente Epsilon LLC]]
+- 1 edge to [[_COMMUNITY_Community 13]]
+- 1 edge to [[_COMMUNITY_Avaliacao Pares]]
+- 1 edge to [[_COMMUNITY_Avaliacao Ciclo 2026-2]]
+- 1 edge to [[_COMMUNITY_DRE Trimestre 4]]
+- 1 edge to [[_COMMUNITY_Blocker]]
+- 1 edge to [[_COMMUNITY_Playbook Sales engineer]]
+- 1 edge to [[_COMMUNITY_Avaliacao Bonus]]
+- 1 edge to [[_COMMUNITY_Onboarding Feedback 60d]]
+- 1 edge to [[_COMMUNITY_Script cert-renew.sh]]
+- 1 edge to [[_COMMUNITY_Community 59]]
+- 1 edge to [[_COMMUNITY_Dashboard API]]
+- 1 edge to [[_COMMUNITY_Script performance-report.py]]
+- 1 edge to [[_COMMUNITY_Qualificacao MEDDIC]]
+- 1 edge to [[_COMMUNITY_Rede SD-WAN]]
+- 1 edge to [[_COMMUNITY_Community 23]]
+- 1 edge to [[_COMMUNITY_Community 57]]
+- 1 edge to [[_COMMUNITY_Community 93]]
+- 1 edge to [[_COMMUNITY_Avaliacao Autoavaliacao]]
+- 1 edge to [[_COMMUNITY_Prazo de reembolso]]
+- 1 edge to [[_COMMUNITY_Contrato Fornecedor C]]
+- 1 edge to [[_COMMUNITY_Cloud AWS conta principal]]
+- 1 edge to [[_COMMUNITY_Community 46]]
+
+## Top bridge nodes
+- [[Data 2026-01-10]] - degree 48, connects to 21 communities
+- [[Data 2026-09-18]] - degree 49, connects to 20 communities
+- [[Data 2026-05-22]] - degree 48, connects to 20 communities
+- [[Data 2026-04-02]] - degree 40, connects to 20 communities
+- [[Data 2026-02-10]] - degree 44, connects to 19 communities
